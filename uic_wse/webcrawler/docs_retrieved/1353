@@ -1,0 +1,505 @@
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>BS in Computer Science and Linguistics &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/css/courseleaf.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<header id="header-new">
+	<div class="wrap">
+		<div class="logo-header">
+			<a href="//www.uic.edu">
+				<img src="/images/logo2021.png" alt="University of Illinois Chicago" />
+			</a>
+		</div>
+		<nav class="catalog-quicklinks" aria-label="catalog quicklink">
+			<button id="hamburger" aria-controls="mobile-menu" data-toggle="#mobile-menu" aria-expanded="false">
+				<span class="sr-only">Toggle menu</span>
+				<i class="fa fa-bars" aria-hidden="true"></i>
+			</button>
+			<div id="mobile-menu">
+			<ul id="quicklinks">
+				<li><a href="/ucat/">Undergraduate</a></li>
+				<li><a href="/gcat">Graduate</a></li>
+				<li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+			</ul>
+			<div id="search" role="search">
+				<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />				</form>
+			</div><!-- end #search -->
+		</div><!-- /#mobile-menu -->
+		</nav>
+	</div>
+</header>
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <a href="/">
+			<h1>Academic Catalog</h1>
+		</a>
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<section id="banner" aria-labbledby="banner-header"
+ class="ugrad"
+>
+    <div class="wrap">
+
+		<div class="banner-text">
+			<h2 id="banner-header">2021-2023 Undergraduate Catalog</h2>
+		</div>
+
+
+
+
+
+    </div><!--end .wrap -->
+</section><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <a id="cl-menu-control" href="#" class="togglenav">
+                <span class="cl-menu-text">Catalog Navigation</span>
+                <!-- <a class="cl-menu-btn" href="#">Catalog Navigation</a> -->
+				<svg aria-label="Down arrow icon" width="32" height="32" viewBox="0 0 32 32" role="presentation"><title>Down arrow icon</title><g fill="none" fill-rule="evenodd"><circle class="_circle" stroke-width="1" stroke="#007Da5" fill="#fff" cx="16" cy="16" r="15"></circle><path class="_arrow" stroke-width="2" stroke="#001E62" stroke-linecap="round" d="M12 17l4 4 4-4M16 20v-9"></path></g></svg>
+			</a><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/ling/">
+					<li class="active self"><a href="#" onclick="return false;">BS in Computer Science and Linguistics</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/minor-chin/">Minor in Chinese</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/minor-ling/">Minor in Linguistics</a></li>
+				</ul>
+				</li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a><span class="crumbsep">/</span></li><li><span class="active">BS in Computer Science and Linguistics</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">BS in Computer Science and Linguistics</h1>
+
+
+
+<div id="textcontainer" class="page_content">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<h2><strong>Admissions Requirements</strong></h2>
+<p><span>In order to be considered for admission to the BS in Computer Science and Linguistics, students must have: At least one </span><span>C and one B in <span class="sc_courseinline"><a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a></span> and <span class="sc_courseinline"><a href="/search/?P=CS%20111" title="CS 111" class="bubblelink code" onclick="return showCourse(this, 'CS 111');">CS 111</a></span> with an average math/science/engineering GPA of 2.50/4.00, and at least a B in <span class="sc_courseinline"><a href="/search/?P=LING%20150" title="LING 150" class="bubblelink code" onclick="return showCourse(this, 'LING 150');">LING 150</a></span>. Prior </span>
+<span>to completing these requirements, students may declare “pre-Computer Science and Linguistics” only. </span><span>Transfer students who are admitted to UIC with all academic requirements complete should speak with their </span><span>academic advisor at orientation about next steps. </span><span>The College of Liberal Arts and Sciences reserves the right to restrict the enrollment of students into its academic programs based on space availability</span></p>
+
+<h2>Degree Requirements</h2>
+<p>To earn a Bachelor of Science in Computer Science and Linguistics degree from UIC, students need to <span>complete university, college, and department degree requirements. The degree requirements for the BS in </span><span>Computer Science and Linguistics are outlined below. Students should consult the College of Liberal Arts </span><span>and Sciences section for additional degree requirements and college academic policies.</span></p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Summary of Requirements</span></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">Requirements for the Curriculum</span></td><td class="hourscol">120</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">120</td></tr></tbody>
+</table>
+
+<h3 class="p1">Requirements for the Curriculum</h3>
+<p class="p2">The requirements for the curriculum include the courses necessary to complete the General Education and <span>Writing-in-the-Discipline requirements described in the </span><span class="s1">College of Liberal Arts and Sciences </span><span>section of the catalog</span></p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td><td>Academic Writing I: Writing in Academic and Public Contexts</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td><td>Academic Writing II: Writing for Inquiry and Research</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Foreign Language (the equivalent of two years of a single language at the college level)</span></td><td class="hourscol">0-16</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Exploring World Cultures course</span> <sup>a</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding the Creative Arts course</span> <sup>a</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Understanding the Past course</span> <sup>a</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Two Analyzing the Natural Word courses (classes with labs ony)</span> <sup>a</sup></td><td class="hourscol">8-10</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a></td><td>Calculus I <sup>b,c</sup></td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=MATH%20181" title="MATH 181" class="bubblelink code" onclick="return showCourse(this, 'MATH 181');">MATH 181</a></td><td>Calculus II <sup>c</sup></td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=STAT%20381" title="STAT 381" class="bubblelink code" onclick="return showCourse(this, 'STAT 381');">STAT 381</a></td><td>Applied Statistical Methods I</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=CS%20111" title="CS 111" class="bubblelink code" onclick="return showCourse(this, 'CS 111');">CS 111</a></td><td>Program Design I <sup>d</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=CS%20141" title="CS 141" class="bubblelink code" onclick="return showCourse(this, 'CS 141');">CS 141</a></td><td>Program Design II</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=CS%20151" title="CS 151" class="bubblelink code" onclick="return showCourse(this, 'CS 151');">CS 151</a></td><td>Mathematical Foundations of Computing</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=CS%20211" title="CS 211" class="bubblelink code" onclick="return showCourse(this, 'CS 211');">CS 211</a></td><td>Programming Practicum</td><td class="hourscol">2</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=CS%20251" title="CS 251" class="bubblelink code" onclick="return showCourse(this, 'CS 251');">CS 251</a></td><td>Data Structures</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=CS%20421" title="CS 421" class="bubblelink code" onclick="return showCourse(this, 'CS 421');">CS 421</a></td><td>Natural Language Processing</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select one of the following:</span></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CS%20301" title="CS 301" class="bubblelink code" onclick="return showCourse(this, 'CS 301');">CS 301</a></div></td><td>Languages and Automata</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MCS%20441" title="MCS 441" class="bubblelink code" onclick="return showCourse(this, 'MCS 441');">MCS 441</a></div></td><td>Theory of Computation I <sup>e</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select two courses from the following: </span></td><td class="hourscol">6</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CS%20342" title="CS 342" class="bubblelink code" onclick="return showCourse(this, 'CS 342');">CS 342</a></div></td><td>Software Design</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CS%20401" title="CS/MCS 401" class="bubblelink code" onclick="return showCourse(this, 'CS 401');">CS/MCS 401</a></div></td><td>Computer Algorithms I</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CS%20411" title="CS 411" class="bubblelink code" onclick="return showCourse(this, 'CS 411');">CS 411</a></div></td><td>Artificial Intelligence I</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CS%20412" title="CS 412" class="bubblelink code" onclick="return showCourse(this, 'CS 412');">CS 412</a></div></td><td>Introduction to Machine Learning</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CS%20418" title="CS 418" class="bubblelink code" onclick="return showCourse(this, 'CS 418');">CS 418</a></div></td><td>Introduction to Data Science</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CS%20422" title="CS 422" class="bubblelink code" onclick="return showCourse(this, 'CS 422');">CS 422</a></div></td><td>User Interface Design and Programming</td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select one additional CS elective (or <a href="/search/?P=MCS%20421" title="MCS 421" class="bubblelink code" onclick="return showCourse(this, 'MCS 421');">MCS 421</a>, <a href="/search/?P=MCS%20423" title="MCS 423" class="bubblelink code" onclick="return showCourse(this, 'MCS 423');">MCS 423</a>, or <a href="/search/?P=MCS%20425" title="MCS 425" class="bubblelink code" onclick="return showCourse(this, 'MCS 425');">MCS 425</a>)</span></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=LING%20150" title="LING 150" class="bubblelink code" onclick="return showCourse(this, 'LING 150');">LING 150</a></td><td>Introduction to the Study of Language <sup>f</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=LING%20160" title="LING 160" class="bubblelink code" onclick="return showCourse(this, 'LING 160');">LING 160</a></td><td>Language and Society <sup>g</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=LING%20210" title="LING 210" class="bubblelink code" onclick="return showCourse(this, 'LING 210');">LING 210</a></td><td>Introduction to Natural Language Syntax</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=LING%20220" title="LING 220" class="bubblelink code" onclick="return showCourse(this, 'LING 220');">LING 220</a></td><td>Introduction to Phonetics and Phonology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=LING%20230" title="LING 230" class="bubblelink code" onclick="return showCourse(this, 'LING 230');">LING 230</a></td><td>Semantics, Pragmatics, and Discourse <sup>h</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select three courses from the following:</span> <sup>i</sup></td><td class="hourscol">9</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LING%20260" title="LING 260" class="bubblelink code" onclick="return showCourse(this, 'LING 260');">LING 260</a></div></td><td>Language Acquisition, Language Contact and Bilingualism</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LING%20300" title="LING 300" class="bubblelink code" onclick="return showCourse(this, 'LING 300');">LING 300</a></div></td><td>Seminar in Linguistic Analysis</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LING%20440" title="LING 440" class="bubblelink code" onclick="return showCourse(this, 'LING 440');">LING 440</a></div></td><td>Language and Gender</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LING%20459" title="LING 459" class="bubblelink code" onclick="return showCourse(this, 'LING 459');">LING 459</a></div></td><td>Topics in Linguistics</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LING%20483" title="LING 483" class="bubblelink code" onclick="return showCourse(this, 'LING 483');">LING 483</a></div></td><td>Methodology of Second Language Teaching</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LING%20487" title="LING 487" class="bubblelink code" onclick="return showCourse(this, 'LING 487');">LING 487</a></div></td><td>Computer Assisted Language Learning</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHIL%20206" title="PHIL 206" class="bubblelink code" onclick="return showCourse(this, 'PHIL 206');">PHIL 206</a></div></td><td>Introduction to the Philosophy of Language</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=SPAN%20361" title="SPAN 361" class="bubblelink code" onclick="return showCourse(this, 'SPAN 361');">SPAN 361</a></div></td><td>The Structure of Spanish <sup>j</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=SPAN%20362" title="SPAN 362" class="bubblelink code" onclick="return showCourse(this, 'SPAN 362');">SPAN 362</a></div></td><td>Sounds of Spanish <sup>j</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=SPAN%20363" title="SPAN 363" class="bubblelink code" onclick="return showCourse(this, 'SPAN 363');">SPAN 363</a></div></td><td>Spanish in Society <sup>j</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=SPAN%20365" title="SPAN 365" class="bubblelink code" onclick="return showCourse(this, 'SPAN 365');">SPAN 365</a></div></td><td>Meaning in Language <sup>j</sup></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">Electives</span></td><td class="hourscol">12-30</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">120</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Students should consult the General Education section of the catalog for a list of approved courses.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a></span> fulfills the LAS Quantitative Reasoning requirement.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>These courses are approved for the Analyzing the Natural World General Education category (without lab).</em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em>Credit for <span class="sc_courseinline"><a href="/search/?P=CS%20112" title="CS 112" class="bubblelink code" onclick="return showCourse(this, 'CS 112');">CS 112</a></span> or <span class="sc_courseinline"><a href="/search/?P=CS%20113" title="CS 113" class="bubblelink code" onclick="return showCourse(this, 'CS 113');">CS 113</a></span> may be substituted for this requirement.</em></p></td></tr><tr><td valign="top" class="symcol">e</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=MCS%20441" title="MCS 441" class="bubblelink code" onclick="return showCourse(this, 'MCS 441');">MCS 441</a></span> has a prerequisite of <span class="sc_courseinline"><a href="/search/?P=MATH%20215" title="MATH 215" class="bubblelink code" onclick="return showCourse(this, 'MATH 215');">MATH 215</a></span>.</em></p></td></tr><tr><td valign="top" class="symcol">f</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=LING%20150" title="LING 150" class="bubblelink code" onclick="return showCourse(this, 'LING 150');">LING 150</a></span> fulfills the Individual and Society general education requirement.</em></p></td></tr><tr><td valign="top" class="symcol">g</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=LING%20160" title="LING 160" class="bubblelink code" onclick="return showCourse(this, 'LING 160');">LING 160</a></span> fulfills the Understanding U.S. Society general education requirement.</em></p></td></tr><tr><td valign="top" class="symcol">h</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=LING%20230" title="LING 230" class="bubblelink code" onclick="return showCourse(this, 'LING 230');">LING 230</a></span> fulfills the LAS Writing-in-the-Discipline requirement.</em></p></td></tr><tr><td valign="top" class="symcol">i</td><td class="notecol"><p><em>Two of these three courses (6 hours) must be at the 300 level or above, and at least one course at the 300 level <span style="font-size:1em">(or above) must come from LING.</span></em></p></td></tr><tr><td valign="top" class="symcol">j</td><td class="notecol"><p><em>This course is taught in Spanish.</em></p></td></tr></table>
+<h2> Recommended Plan of Study</h2>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid1_0" class="year" colspan="3">First Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_0_0" colspan="2">Fall Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Academic Writing I: Writing in Academic and Public Contexts</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Calculus I</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=CS%20111" title="CS 111" class="bubblelink code" onclick="return showCourse(this, 'CS 111');">CS 111</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Program Design I</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=LING%20150" title="LING 150" class="bubblelink code" onclick="return showCourse(this, 'LING 150');">LING 150</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Introduction to the Study of Language</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">Understanding the Past course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_0_0" class="titlecol">Hours</td><td headers=" plangrid1_0_0 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridterm"><th id="plangrid1_0_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Academic Writing II: Writing for Inquiry and Research</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=MATH%20181" title="MATH 181" class="bubblelink code" onclick="return showCourse(this, 'MATH 181');">MATH 181</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Calculus II</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=CS%20141" title="CS 141" class="bubblelink code" onclick="return showCourse(this, 'CS 141');">CS 141</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Program Design II</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=LING%20160" title="LING 160" class="bubblelink code" onclick="return showCourse(this, 'LING 160');">LING 160</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Language and Society</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_0_1" class="titlecol">Hours</td><td headers=" plangrid1_0_1 hoursheader" class="hourscol">13</td></tr>
+<tr class="plangridyear"><th id="plangrid1_1" class="year" colspan="3">Second Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_1_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=STAT%20381" title="STAT 381" class="bubblelink code" onclick="return showCourse(this, 'STAT 381');">STAT 381</a></td>
+<td headers=" plangrid1_1_0" class="titlecol">Applied Statistical Methods I</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=CS%20151" title="CS 151" class="bubblelink code" onclick="return showCourse(this, 'CS 151');">CS 151</a></td>
+<td headers=" plangrid1_1_0" class="titlecol">Mathematical Foundations of Computing</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=CS%20211" title="CS 211" class="bubblelink code" onclick="return showCourse(this, 'CS 211');">CS 211</a></td>
+<td headers=" plangrid1_1_0" class="titlecol">Programming Practicum</td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Understanding the Creative Arts course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_1_0" class="titlecol">Hours</td><td headers=" plangrid1_1_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid1_1_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=CS%20251" title="CS 251" class="bubblelink code" onclick="return showCourse(this, 'CS 251');">CS 251</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">Data Structures</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=CS%20301" title="CS 301" class="bubblelink code" onclick="return showCourse(this, 'CS 301');">CS 301</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">Languages and Automata</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=LING%20210" title="LING 210" class="bubblelink code" onclick="return showCourse(this, 'LING 210');">LING 210</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">Introduction to Natural Language Syntax</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_1_1" class="titlecol">Hours</td><td headers=" plangrid1_1_1 hoursheader" class="hourscol">14</td></tr>
+<tr class="plangridyear"><th id="plangrid1_2" class="year" colspan="3">Third Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_2_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">CS Selective or <a href="/search/?P=CS%20421" title="CS 421" class="bubblelink code" onclick="return showCourse(this, 'CS 421');">CS 421</a></span> <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">LING Selective or <a href="/search/?P=LING%20230" title="LING 230" class="bubblelink code" onclick="return showCourse(this, 'LING 230');">LING 230</a></span> <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">Analyzing the Natural World course (with lab)</span></td>
+<td headers="hoursheader" class="hourscol">4-5</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_2_0" class="titlecol">Hours</td><td headers=" plangrid1_2_0 hoursheader" class="hourscol">14-15</td></tr>
+<tr class="plangridterm"><th id="plangrid1_2_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_2_1" class="codecol"><a href="/search/?P=LING%20210" title="LING 210" class="bubblelink code" onclick="return showCourse(this, 'LING 210');">LING 210</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=LING%20220" title="LING 220" class="bubblelink code" onclick="return showCourse(this, 'LING 220');">LING 220</a></div></td>
+<td headers=" plangrid1_2_1" class="titlecol">Introduction to Natural Language Syntax<br/><div style="margin-left:20px;" class="blockindent">or Introduction to Phonetics and Phonology</div></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">CS Selective or <a href="/search/?P=CS%20421" title="CS 421" class="bubblelink code" onclick="return showCourse(this, 'CS 421');">CS 421</a></span> <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Foreign Language </span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">5</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_2_1" class="titlecol">Hours</td><td headers=" plangrid1_2_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid1_3" class="year" colspan="3">Fourth Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_3_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">LING Selective or <a href="/search/?P=LING%20230" title="LING 230" class="bubblelink code" onclick="return showCourse(this, 'LING 230');">LING 230</a></span> <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">CS Selective </span> <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">LING Selective</span> <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">Analyzing the Natural World course (with lab)</span></td>
+<td headers="hoursheader" class="hourscol">4-5</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_3_0" class="titlecol">Hours</td><td headers=" plangrid1_3_0 hoursheader" class="hourscol">16-17</td></tr>
+<tr class="plangridterm"><th id="plangrid1_3_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">LING Selective</span> <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">CS Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">Exploring World Cultures course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">6</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_3_1" class="titlecol">Hours</td><td headers=" plangrid1_3_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridtotal lastrow odd"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">120</td></tr>
+</table>
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Must complete two of the following: <span class="sc_courseinline"><a href="/search/?P=CS%20342" title="CS 342" class="bubblelink code" onclick="return showCourse(this, 'CS 342');">CS 342</a></span>, <span class="sc_courseinline"><a href="/search/?P=CS%20411" title="CS 411" class="bubblelink code" onclick="return showCourse(this, 'CS 411');">CS 411</a></span>, <span class="sc_courseinline"><a href="/search/?P=CS%20412" title="CS 412" class="bubblelink code" onclick="return showCourse(this, 'CS 412');">CS 412</a></span>, <span class="sc_courseinline"><a href="/search/?P=CS%20418" title="CS 418" class="bubblelink code" onclick="return showCourse(this, 'CS 418');">CS 418</a></span>, <span class="sc_courseinline"><a href="/search/?P=CS%20422" title="CS 422" class="bubblelink code" onclick="return showCourse(this, 'CS 422');">CS 422</a></span>, or <span class="sc_courseinline"><a href="/search/?P=MCS%20401" title="MCS 401" class="bubblelink code" onclick="return showCourse(this, 'MCS 401');">MCS 401</a></span>/<span class="sc_courseinline"><a href="/search/?P=CS%20401" title="CS 401" class="bubblelink code" onclick="return showCourse(this, 'CS 401');">CS 401</a></span>.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Must complete three of the following: <span class="sc_courseinline"><a href="/search/?P=LING%20260" title="LING 260" class="bubblelink code" onclick="return showCourse(this, 'LING 260');">LING 260</a></span>, <span class="sc_courseinline"><a href="/search/?P=LING%20300" title="LING 300" class="bubblelink code" onclick="return showCourse(this, 'LING 300');">LING 300</a></span>, <span class="sc_courseinline"><a href="/search/?P=LING%20440" title="LING 440" class="bubblelink code" onclick="return showCourse(this, 'LING 440');">LING 440</a></span>, <span class="sc_courseinline"><a href="/search/?P=LING%20459" title="LING 459" class="bubblelink code" onclick="return showCourse(this, 'LING 459');">LING 459</a></span>, <span class="sc_courseinline"><a href="/search/?P=LING%20483" title="LING 483" class="bubblelink code" onclick="return showCourse(this, 'LING 483');">LING 483</a></span>, <span class="sc_courseinline"><a href="/search/?P=LING%20487" title="LING 487" class="bubblelink code" onclick="return showCourse(this, 'LING 487');">LING 487</a></span>, <span class="sc_courseinline"><a href="/search/?P=PHIL%20206" title="PHIL 206" class="bubblelink code" onclick="return showCourse(this, 'PHIL 206');">PHIL 206</a></span>, <span class="sc_courseinline"><a href="/search/?P=SPAN%20361" title="SPAN 361" class="bubblelink code" onclick="return showCourse(this, 'SPAN 361');">SPAN 361</a></span>, <span class="sc_courseinline"><a href="/search/?P=SPAN%20362" title="SPAN 362" class="bubblelink code" onclick="return showCourse(this, 'SPAN 362');">SPAN 362</a></span>, <span class="sc_courseinline"><a href="/search/?P=SPAN%20363" title="SPAN 363" class="bubblelink code" onclick="return showCourse(this, 'SPAN 363');">SPAN 363</a></span>, <span class="sc_courseinline"><a href="/search/?P=SPAN%20365" title="SPAN 365" class="bubblelink code" onclick="return showCourse(this, 'SPAN 365');">SPAN 365</a></span>.</em></p></td></tr></table></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2021-2023 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" aria-labeledby="dialog-title" class="screen" role="dialog">
+	<div class="print-header">
+		<h2 id="dialog-title">Print Options</h2>
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+<div class="print-option"><div class="option-head"><a class="option-name" href="/ucat/colleges-depts/liberal-arts-sciences/ling/cs-linguistics/cs-linguistics.pdf" role="button">Download Page (PDF)</a></div><p class="option-desc"><em>The PDF will include all information unique to this page.</em></p></div><div class="print-option"><div class="option-head"><a class="option-name" href="/pdf/2021-23-undergraduate.pdf" target="_blank">Download PDF of the entire Undergraduate Catalog</a></div><p class="option-desc"><em>All pages in the campus catalog.</em></p></div>    </div>
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

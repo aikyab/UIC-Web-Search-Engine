@@ -1,0 +1,598 @@
+<!DOCTYPE html><html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fw="http://technolutions.com/framework" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:xhtml="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><link rel="shortcut icon" href="//applygrad-uic-edu.cdn.technolutions.net/favicon.ico" /><link href="//fw.cdn.technolutions.net/framework/base.css?v=20210624" rel="stylesheet" /><link href="//applygrad-uic-edu.cdn.technolutions.net/shared/base.css" rel="stylesheet" /><link href="//applygrad-uic-edu.cdn.technolutions.net/shared/build-fonts.css?v=20170222142245" rel="stylesheet" /><link href="//applygrad-uic-edu.cdn.technolutions.net/shared/build-mobile-global.css" rel="stylesheet" /><link href="//applygrad-uic-edu.cdn.technolutions.net/shared/build.css?v=2" rel="stylesheet" /><link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,700,900,italic,regular&amp;subset=latin" media="all" class="cr" /><link href="//applygrad-uic-edu.cdn.technolutions.net/portal/render.css?v=20210624-637570405708900675" rel="stylesheet" /><link href="//applygrad-uic-edu.cdn.technolutions.net/portal/layout.css?v=20210624-637576619738710402" rel="stylesheet" /><script src="//fw.cdn.technolutions.net/framework/base.js?v=20210624"></script><script>/*<![CDATA[*/FW.Config['firstDay'] = 0; FW.Config['Citizenship.Default.Country'] = 'US'; FW.Config['Citizenship.PR'] = 'Permanent Resident'; FW.Config['CDN'] = '//applygrad-uic-edu.cdn.technolutions.net'; /*]]>*/</script><script src="//applygrad-uic-edu.cdn.technolutions.net/shared/build-mobile-global.js"></script><script src="//applygrad-uic-edu.cdn.technolutions.net/shared/build.js"></script><script async="async" src="/ping"></script><script async="async" id="session_expires" src="/shared/session.js?v=20210624-637659250675684816" data-now="1638423153" data-realm="" data-service-extend="/account/login?cmd=session_extend" data-service-login="/account/login?cmd=session_login" data-service-check="/account/login?cmd=session_check&amp;noauth=1" data-expires="0"></script><style>/*<![CDATA[*/html > body { line-height: normal; } ul.cr, li.cr { margin: 0; padding: 0; }/*]]>*/</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" class="cr" /><meta name="theme-color" content="#00A1B8" /><title>Graduate and Professional Programs</title><style>/*<![CDATA[*//* .c_html */ 
+/*adds hero image to hero area*/
+
+body {
+    overflow-x: hidden;
+}
+
+#c_hero_area {
+ background-image: url("/www/images/portal/GradProfHero_0.jpg");
+ position: absolute;
+ top: -0px;
+ width: 100% !important;
+ height: 365px;
+ border: 0px;
+ margin: 0px; 
+ background-position: 50%,50%;
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-attachment: scroll;    
+}
+
+/*hides login tab*/
+#global {
+  display: none;
+}
+
+#hero_area {
+  padding-top: 140px;
+  padding-bottom: 44px;
+  display: block;
+  position: absolute;
+ top: -0px;
+ height: 200px;
+ border: 0px;
+ margin-bottom: 10px; 
+}
+
+
+#hero_area .page-header {
+    text-align: left;
+}
+/*breadcrumb settings*/
+.breadcrumbs {
+    position: relative;   
+  padding-top: 10px;
+}
+
+.breadcrumbs li {
+    color: #fff;
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.breadcrumbs ul {
+  margin-left: 0px;
+}
+.breadcrumbs li.home-breadcrumb a:after {
+    font-family: Fontello;
+    content: 'H';    
+    left: 0;
+    width: 25px;
+    font-size: 28px;
+    text-indent: 0;
+    top: 6px;
+}
+.breadcrumbs li.home-breadcrumb a {
+    color: #00a1b8;
+    }
+.breadcrumbs li.home-breadcrumb a:hover {
+    color: #ddd82d !important;
+  	text-decoration: none;
+    }
+
+.breadcrumbs li.home-breadcrumb:after {
+    font-size: 8px;
+    padding-right: 5px;
+    padding-left: 5px;
+    font-family: Fontello;
+  content: 'r';
+}
+.breadcrumbs li.grad-breadcrumb:after {
+    font-size: 8px;
+    padding-right: 5px;
+    padding-left: 5px;
+    font-family: Fontello;
+  	content: 'r';
+}
+.grad-breadcrumb a, .here-breadcrumb a {
+  background-color: #00a1b8 !important;
+  color: #fff !important;
+  font-size: 13px;
+  padding: 7px 10px;
+}
+.grad-breadcrumb a:hover, .here-breadcrumb a:hover {
+    background-color: #ddd82d !important;
+    color: #000 !important;
+  text-decoration: none;
+}
+
+/* widening content area to cut down default margins 
+#c_main_content {
+    width: 100%;
+}
+.c_container.cr {
+  width: 100%;
+  max-width: 95%;
+  padding-left: 1px;
+  padding-right: 1px;
+} */
+
+.c_container.cr{
+  overflow-x: hidden;
+}
+
+
+
+@media screen and (max-width: 450px) {
+    .c_container.cr {
+    max-width: 99% !important;} 
+  .c_container.cr {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+}
+}
+
+main {
+    padding-top: 0px !important;
+    padding-bottom: 60px;
+}
+
+
+/* moves hero title to hero area */
+#hero_content {
+  display: block;
+  /*margin-top: 150px !important;*/
+  padding-top: 150px;
+  padding-left: 20px;
+  padding-right; 20px;
+  margin: auto;
+  /*width: 50%;*/
+  
+}
+
+h1 {
+  color: #00aec7;
+  font-size: 111px !important;
+  font-weight: 900 !important;
+  line-height: 1;
+  text-align: left;
+  text-transform: uppercase !important;
+   }
+  @media (min-width: 1086px) and (max-width: 2560px) {
+    h1 {
+      font-size: 111px !important; } }
+  @media (min-width: 768px) and (max-width: 1085px) {
+    h1 {
+      font-size: 90px !important; } }
+  @media screen and (max-width: 767px) {
+    h1 {
+      font-size: 60px !important; } }
+
+
+h2.body_h2 {
+    display: block;
+    font-size: 25px !important;
+    font-weight: 700; 
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-transform: uppercase;
+}
+
+h2.announcementtext {
+    text-transform: initial;
+    display: inline-block;
+    color: #fff;
+    font-size: 28px;
+    font-weight: 400;
+}
+ 
+media screen and (max-width: 767px){
+h2.announcementtext {
+    font-size: 1.5em !important;
+    margin-top: 4px;
+    margin-bottom: 2px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }}
+
+h3 {
+    color: #000;
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 26px;
+    padding-top: 10px;
+    padding-bottom: 2px;
+    text-transform: none;
+}
+
+/*program types listing*/
+h4.prog_types {
+  	font-size: 18px;
+    font-weight: 600;
+    line-height: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    text-transform: none;
+}
+
+/*program list has program name in body_h4*/
+h4.body_h4 {
+    color: #000;
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    text-transform: none;
+  margin-bottom: 5px;
+}
+
+h5 {
+  color: #000;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 18px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    text-transform: none;
+}
+
+li, p {
+    color: #666;
+    font-size: 17px !important;
+    font-weight: 400 !important;
+    line-height: 26px !important;
+}
+
+p {
+  padding-top: 5px;
+    padding-bottom: 9px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#app_availability {
+background-color: #F7F7F7;
+border: 1px #00AEC7 solid;
+padding: 10px;
+  display: none;
+}
+
+/*search box styling*/
+.form-control {
+    width: 305px;
+    height: 26px;
+    padding: 6px 6px;
+    font-size: 16px;
+    line-height: 1.42857143;
+    color: #555555;
+    background-color: #ffffff;
+    background-image: none;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    -moz-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    -webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+.form-control:focus {
+    border-color: #66afe9;
+    outline: 0;
+}
+@media (max-width: 736px) {.form-control {
+    width: 80%;
+  }}
+
+/*button styling for search box*/
+button.search-button {
+    background-color: #00aec7;
+    border-radius: 3px;
+    color: #fff;
+    display: inline-block;
+    padding: 7px 7px;
+    text-align: center;
+    text-decoration: none;
+}
+button.search-button:hover {
+    background-color: #00aec7 !important;
+    color: #000;
+    
+}
+
+
+/*folds outer table for program details in mobile so that they display vertically*/
+@media (max-width: 736px) { .program_details_full td:nth-child(1), .program_details_full td:nth-child(2) {display: block;} #program_details_full td:nth-child(2)>table td {display: table-cell !important;} }
+@media (max-width: 735px) { table.table_deadlines td {display: table-cell !important;}}
+
+@media only screen and (max-width: 736px){
+.program_list table td, .program_details_full table td, .program_details table td {
+        
+  padding: 2px 2px 2px 2px !important;}}
+
+@media only screen and (max-width: 735px){
+table.table_deadlines td {
+   display:table-cell !important;  
+    padding: 1px 1px 1px 1px !important;}}
+
+
+
+/*tightening up bullet padding*/
+.bullets {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 0em !important;
+    margin-block-end: 0em !important;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;    
+}
+
+/*grey bottom border for deadline table rows*/
+table.table_deadlines>*>tr>td {
+    border-bottom: 1px solid #f0f0f0;
+  padding-right: 15px;
+}
+
+/*set width for deadline table in mobile so it doesn't spill out of the section*/
+@media (max-width: 400px) {
+  table.table_deadlines{
+    width: 300px
+}}
+
+/*sets cursor to pointer for program name div*/
+.prog_title {
+  cursor: pointer;
+}
+
+/*accordion styling*/
+.field-name-field-accordion-title {
+    border-width: 0px;
+    border-style: solid;
+    border-color: inherit;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding: 5px;
+    cursor: pointer;
+    -webkit-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+} 
+/*shadow when hover over program name for wide views*/
+@media (min-width: 768px) {
+  .field-name-field-accordion-title:not(.open):hover {
+    background-color: #f2f5f7;
+  border-color: #DEDEDE !important;
+    box-shadow: rgba(0,0,0,0.20) 0px 10px 9px -6px;
+    -webkit-transform: translate(0px,-5px);
+    -ms-transform: translate(0px,-5px);
+    transform: translate(0px,-5px);
+  }}
+/*bottom borders between program names on narrower views*/
+@media (max-width: 767px) {
+  .field-name-field-accordion-title:not(.open) {
+  border-bottom: 1px solid #DEDEDE;
+  }}
+
+/*arrow down and up based on accordion open setting*/
+.field-name-field-accordion-title:not(.open) h4.body_h4:before  {
+  content: ' \2193 \2004 ' !important;
+  }
+.open h4.body_h4:before {
+  content: ' \2191 \2004 ' !important;
+  }
+/*styling for open accordion*/
+.open h4.body_h4 {
+  color: #fff !important;
+  font-size: 1.4em !important;
+}
+.open {
+  background-color: #00aec7;
+}
+
+/*styling for expanded details*/
+.program_details_target {
+  background-color: #f7f7f7;
+  padding: 5px;
+}
+
+/*styling for program notes section*/ 
+/*sets width for narrow views so the content doesn't spill past expanded section background*/
+.program_notes_part {
+    border-left: solid 2px #00aec7;
+  	margin-top: 5px;
+    margin-left: 10px;
+  padding-left: 5px;
+}
+@media (max-width: 400px) {
+  .program_notes_part{
+    width: 295px
+  }}
+
+div.extended-content-container {
+  width: 120%;
+  margin-left: -10%;
+}
+
+.status_check {
+  	background-color: #001970;
+  	color: #fff;
+  	text-align: center;
+  	padding: 35px;
+}
+
+.button-status {
+    background-color: #fff;
+    border-radius: 3px;
+    color: #fff;
+    display: inline-block;
+    padding: 9px 23px;
+    text-align: center;
+    text-decoration: none;
+}
+.arrowbutton {
+    background-color: #fff !important;
+  	background-position: 122% 52%;
+    background-repeat: no-repeat;
+    background-size: 22px;  
+  	color: #001970;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 21px;
+    max-width: 300px;
+    padding: 17px 41px;
+    position: relative;
+    text-transform: none;
+    -webkit-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+.arrowbutton:hover {
+    background-color: #2851a3 !important;
+    background-position: 87% 50%;
+    color: #fff;
+    padding-right: 64px;
+    padding-left: 18px;
+  	text-decoration: none;
+}
+.arrowbutton:hover:after {
+    content: '\2004 \2192' !important;
+  text-decoration: none;
+}
+
+.clery {
+  	margin-top: 49px;
+  	margin-left: auto;
+  	margin-right: auto;
+    border-top: 1px solid #d9d9d9;
+    border-bottom: 1px solid #d9d9d9;
+}
+
+@media (min-width: 992px){
+.clery {
+    width: 66.66666667%;
+  }}
+
+
+abbr[title] {
+    text-decoration: none !important;
+  border-bottom: 1px dotted !important;
+}
+
+#tooltip
+{
+    text-align: center;
+    color: #000;
+    background: #ccc;
+    position: absolute;
+    z-index: 100;
+    padding: 15px;
+}
+ 
+    #tooltip:after /* triangle decoration */
+    {
+        width: 0;
+        height: 0;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        border-top: 10px solid #ccc;
+        content: '';
+        position: absolute;
+        left: 50%;
+        bottom: -10px;
+        margin-left: -10px;
+    }
+ 
+        #tooltip.top:after
+        {
+            border-top-color: transparent;
+            border-bottom: 10px solid #ccc;
+            top: -20px;
+            bottom: auto;
+        }
+ 
+        #tooltip.left:after
+        {
+            left: 10px;
+            margin: 0;
+        }
+ 
+        #tooltip.right:after
+        {
+            right: 10px;
+            left: auto;
+            margin: 0;
+        }/*]]>*/</style></head><body><noscript><div style="background: #ffffcc; border-bottom: 2px solid #cccc99; padding: 5px 10px; margin-bottom: 0; text-align: center;">This website uses scripting to enhance your browsing experience. <a href="https://support.google.com/answer/23852">Enable JavaScript</a> in your browser and then reload this website.</div></noscript><div id="netblock" style="background: #ffffcc; border-bottom: 2px solid #cccc99; display: none; padding: 5px 10px; margin-bottom: 0; text-align: center;">This website uses resources that are being blocked by your network. Contact your network administrator for more information.</div><script>/*<![CDATA[*/if (window['FW'] == null) document.getElementById('netblock').style['display'] = 'block';/*]]>*/</script><div id="page"><div class="c_html c_node-type-basic-page c_site-section-11 cr" role="document"><header class="cr"><div id="c_hero_area" class="c_menu cr"><div class="c_nav c_primarynavigation-wrapper cr"><div class="c_primarynavigation c_clearfix c_desktop-search-show cr"><div class="c_logo cr"><a href="https://admissions.uic.edu/" title="UIC Admissions" class="cr"><img typeof="foaf:Image" src="//applygrad-uic-edu.cdn.technolutions.net/images/uic-graduate-admissions.png" alt="University of Illinois at Chicago Admissions" class="cr" /></a></div><nav class="c_nav-menu c_navbar cr" role="navigation"><div class="c_position-wrapper cr"><div class="c_nav-items cr"><ul class="c_menu c_nav c_navbar-nav cr"><li class="c_first c_leaf cr"><a href="https://grad.uic.edu/" class="cr">Graduate College</a></li><li class="c_leaf cr"><a href="https://admissions.uic.edu/graduate-professional/academic-programs" class="cr">Programs</a></li><li class="c_last c_leaf cr" id="c_apply-now-btn"><a href="https://admissions.uic.edu/graduate-professional/apply" class="cr">Apply</a></li></ul><div id="global"><ul></ul></div></div></div></nav></div></div></div></header><main class="cr"><div id="c_main_content" class="c_main-container c_container cr"><div class="c_container cr"><div id="content" style="padding: 15px;"><table class="fixed one_column" style="width: 100%;"><colgroup><col /></colgroup><tr style="vertical-align: top;"><td><div class="part_rows_container"><div class="part " id="part_cb507810-0f28-4fb1-a2bd-4e7bc11ea906"><script>/*<![CDATA[*/    function clear_search(){
+                
+        document.getElementById("prog-search-name").value = "";
+    }/*]]>*/</script></div><div class="part " id="part_fad9c703-549e-487e-8680-194b89f2cff7"><script>/*<![CDATA[*/    $( function()
+{
+    var targets = $( '[rel~=tooltip]' ),
+        target  = false,
+        tooltip = false,
+        title   = false;
+ 
+    targets.bind( 'mouseenter', function()
+    {
+        target  = $( this );
+        tip     = target.attr( 'title' );
+        tooltip = $( '<div id="tooltip"><\/div>' );
+ 
+        if( !tip || tip == '' )
+            return false;
+ 
+        target.removeAttr( 'title' );
+        tooltip.css( 'opacity', 0 )
+               .html( tip )
+               .appendTo( 'body' );
+ 
+        var init_tooltip = function()
+        {
+            if( $( window ).width() < tooltip.outerWidth() * 1.5 )
+                tooltip.css( 'max-width', $( window ).width() / 2 );
+            else
+                tooltip.css( 'max-width', 340 );
+ 
+            var pos_left = target.offset().left + ( target.outerWidth() / 2 ) - ( tooltip.outerWidth() / 2 ),
+                pos_top  = target.offset().top - tooltip.outerHeight() - 20;
+ 
+            if( pos_left < 0 )
+            {
+                pos_left = target.offset().left + target.outerWidth() / 2 - 20;
+                tooltip.addClass( 'left' );
+            }
+            else
+                tooltip.removeClass( 'left' );
+ 
+            if( pos_left + tooltip.outerWidth() > $( window ).width() )
+            {
+                pos_left = target.offset().left - tooltip.outerWidth() + target.outerWidth() / 2 + 20;
+                tooltip.addClass( 'right' );
+            }
+            else
+                tooltip.removeClass( 'right' );
+ 
+            if( pos_top < 0 )
+            {
+                var pos_top  = target.offset().top + target.outerHeight();
+                tooltip.addClass( 'top' );
+            }
+            else
+                tooltip.removeClass( 'top' );
+ 
+            tooltip.css( { left: pos_left, top: pos_top } )
+                   .animate( { top: '+=10', opacity: 1 }, 50 );
+        };
+ 
+        init_tooltip();
+        $( window ).resize( init_tooltip );
+ 
+        var remove_tooltip = function()
+        {
+            tooltip.animate( { top: '-=10', opacity: 0 }, 50, function()
+            {
+                $( this ).remove();
+            });
+ 
+            target.attr( 'title', tip );
+        };
+ 
+        target.bind( 'mouseleave', remove_tooltip );
+        tooltip.bind( 'click', remove_tooltip );
+    });
+    });/*]]>*/</script></div><div class="part " id="part_381b7b1e-0bb1-42c5-97d4-e6019676c461"><div role="banner"><!-- #hero_area --><div id="hero_area"><div class="hero-content"><div class="container"><h1 class="page-header" style="font-size: 94px;">Programs</h1></div></div><div class="breadcrumbs"><div class="row"><ul class="breadcrumbs-list"><li class="home-breadcrumb"><a href="https://admissions.uic.edu" id="home-link">&#xA0;</a></li><li class="grad-breadcrumb"><a href="https://admissions.uic.edu/graduate-professional" id="grad-link">Graduate &amp; Professional</a></li><li class="here-breadcrumb"><a href="https://applygrad.uic.edu/portal/programs" id="here-link">You are here</a></li></ul></div></div></div><!-- /#hero_area --></div></div><div class="part " id="part_7759c1a1-2023-4233-94f1-8d2c5849dd76"><div id="opening"><h2 class="body_h2">Programs, Applying and Deadlines</h2></div></div><div class="part " id="part_931bd0c0-0a44-4090-a1a9-fa8421fd1f9a"><div id="overview"><p>Here you can find the graduate and professional programs currently offered at UIC. Select a program to view relevant <strong>application deadlines</strong> and <strong>links</strong> to the application, the program's website and the catalog listing.</p><div id="app_availability"><p><strong>Looking to apply for Fall 2022, Spring 2023 or Summer 2023?</strong><br />
+Our Fall 2022+ applications are expected to open on August 1, 2021 (though some professional programs will open earlier during the summer). <strong><a href="https://applygrad.uic.edu/register/app-availability?utm_source=uicadmissions&amp;utm_medium=web&amp;utm_campaign=app_open_2022&amp;utm_content=programs_page" target="_blank">Sign up here</a></strong> to receive a message in August when the application opens!</p></div><h3>Applying</h3><p>To create a new application, please enter your program of interest into the search box below or choose one of the degree categories to select from the list. Click the program name, review the deadline information, and select the Apply link found within the informational section of the program when you're ready to start a New application.</p><ul class="bullets"><li><strong>If you've already started</strong> the application, <strong><a href="https://applygrad.uic.edu/apply/status">click here</a></strong> to log in to continue completing your application.</li></ul><h3>Deadlines</h3><p>For most programs, there are separate application submission deadlines for <strong><a href="https://admissions.uic.edu/graduate-professional/requirements-deadlines/domestic-requirements" target="_blank">Domestic</a></strong> and <strong><a href="https://admissions.uic.edu/graduate-professional/requirements-deadlines/international-requirements">International</a></strong> applicants. A dash "-" indicates that admission is not offered for the given term. Optional earlier Priority, Recommended, Fellowship or <abbr rel="tooltip" title="Inquire with the program directly with regard to funding opportunities.">Funding</abbr> dates may be noted for some programs, and would apply for both Domestic and International applicants.</p></div></div><div class="part " id="part_0c99a357-cde3-4bd3-aa8d-53ef550500a5"><em>Search our Degree &amp; Certificate Programs or Browse by Program Type</em><form novalidate="novalidate"><input class="form-control" id="prog-search-name" type="text" autocomplete="off" /><button class="search-button" id="lookup" onclick="return (FW.Lazy.Fetch('?cmd=search&amp;progname=' + $('#prog-search-name').val(), $('#results')));" type="submit">Search</button></form><h4 class="prog_types"><a class="prog_title" id="prog_title_master" name="prog_title_master" onclick="clear_search(); return (FW.Lazy.Fetch('?cmd=type&amp;prog_type=Master', $('#results')));" role="button">Masters</a> | <a class="prog_title" id="prog_title_doctorate" name="prog_title_doctorate" onclick="clear_search(); return (FW.Lazy.Fetch('?cmd=type&amp;prog_type=Doctorate', $('#results')));" role="button">Doctorates</a> | <a class="prog_title" id="prog_title_certificate" name="prog_title_certificate" onclick="clear_search(); return (FW.Lazy.Fetch('?cmd=type&amp;prog_type=Certificate', $('#results')));" role="button">Certificates</a> | <a class="prog_title" href="https://admissions.uic.edu/graduate-professional/requirements-deadlines/non-degree-study" id="prog_title_nondegree" name="prog_title_nondegree" target="_blank">Non-degree</a></h4><div id="results" style="margin-top: 1px">&#xA0;</div></div><div class="part " id="part_65cf3372-7331-45f6-9772-60b69498b58d"><p>Please <a href="https://admissions.uic.edu/graduate-professional/contact-graduate-and-professional-admissions">contact us</a> if the program you are looking for is not available or to report a broken link.</p></div><div class="part " id="part_395befaf-595e-49dd-9332-595ff17200da"><div class="extended-content-container"><div class="extended-content"><div class="status_check"><h2 class="announcementtext">Already applied?</h2><div class="buttons"><a class="button-status arrowbutton" href="https://admissions.uic.edu/graduate-professional/application-status">Check your Status</a></div></div></div></div></div><div class="part " id="part_d58ba8d5-4f3c-4866-a62c-fa39ac2e1e43"><div class="clery"><h2 class="body_h2"><strong><em>NOTICE OF AVAILABILITY OF THE UIC ANNUAL SECURITY AND FIRE SAFETY REPORT</em></strong></h2><p>The University of Illinois at Chicago is pleased to share the&#xA0;<a href="https://go.uic.edu/CleryReport" target="_blank" title="2017-2018 Annual Security and Fire Safety report">Annual Security &amp; Fire Safety Report</a>&#xA0;with all prospective students. The report contains information regarding campus security and personal safety including topics such as: crime prevention, public safety authority, crime reporting policies, fire safety, disciplinary procedures, and fire statistics in UIC residential facilities and crime statistics for the three previous calendar years. The full text of this report is available online at&#xA0;<a href="https://ready.uic.edu/" target="_blank" title="Clery Compliance Information Site">ready.uic.edu</a>. If you would like to receive a copy on paper, visit the Office of Preparedness &amp; Response, located at 1140 South Paulina Street, Suite 109, Chicago, IL 60612.</p></div></div></div></td></tr></table></div></div></div></main><footer role="contentinfo" class="cr"><div id="c_footer_footer" class="c_container cr"><div id="c_uic_footer" class="cr"><div class="c_uic_footer c_clearfix c_row cr"><div class="c_col-md-5 c_footersection cr"><div class="c_address cr"><h2 class="cr">Contact Graduate and Professional Admissions</h2><a href="https://admissions.uic.edu/graduate-professional/contact-graduate-and-professional-admissions" title="UIC Graduate and Professional Admissions Contact Page" target="_blank" class="cr">Send a Message</a><p class="cr">Phone: (312)&#xA0;996-4350</p></div></div><div class="c_col-md-5 c_footersection cr"><div class="c_menu_wrapper cr"><h2 class="cr">Quick Links</h2><ul class="c_menu c_clearfix c_quick_links cr"><li class="cr c_first"><a href="https://admissions.uic.edu/graduate-professional/faq" class="cr">Frequently Asked Questions</a></li><li class="cr"><a href="http://www.vpaa.uillinois.edu/policies/web_privacy.cfm" target="_blank" class="cr">Privacy Statement</a></li><li class="cr"><a href="http://disabilityresources.uic.edu/" target="_blank" class="cr">Accessibility</a></li><li class="cr c_last"><a href="http://uic.edu/" target="_blank" class="cr">UIC Home</a></li></ul></div></div><div class="c_col-md-2 c_footersection cr"><div class="c_logo cr"><a href="http://uic.edu/" class="c_uic_footer_logo cr"><img typeof="foaf:Image" src="//applygrad-uic-edu.cdn.technolutions.net/images/UIC-Campus-Logo-Red.png" alt="University of Illinois - Chicago Logo" class="cr" /></a></div></div></div><div class="c_uic_footer c_clearfix c_row cr"><div class="c_col-md-12 cr"><p class="c_disclaimer cr">Copyright &#xA9; 2017 The Board of Trustees of the University of Illinois</p></div></div><div class="c_uic_footer c_clearfix c_row cr"><div class="c_col-md-12 cr"><div class="c_menu_wrapper c_social_links cr"><ul class="c_menu c_clearfix cr"><li class="c_first cr"><a href="https://www.facebook.com/UICGradAdmissions" class="c_facebook cr" target="_blank">Facebook</a></li><li class="cr"><a href="https://twitter.com/UICGradAdm" class="c_twitter cr" target="_blank">Twitter</a></li><li class="c_last cr"><a href="http://disabilityresources.uic.edu/" class="c_accessibility cr" target="_blank">Accessibility</a></li></ul></div></div></div></div></div><div class="c_go-up-wrapper cr"><span class="c_arrow cr">T</span></div></footer></div></div></body></html>

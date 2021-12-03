@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="google-site-verification" content="bvaR5ifcZOirMpGxAUKXx3AL3dv_j_kroGSKUZBqRME" />
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <link rel="icon" href="imgs/InDeXLab.gif"/>
+    <title>InDeX Lab: Innovative Data Exploration Laboratory</title>
+    <link rel="stylesheet" type="text/css" href="ppl.css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <script type="text/javascript" src="js/myobjects.js"></script>
+    <script type="text/javascript" src="js/indexstart.js"></script>
+    <script type="text/javascript">
+        function init() {
+            header();
+        }
+    </script>
+</head>
+
+<body onload='init()'>
+<div id="headerDiv"></div>
+<div class="container">
+    <!-- Your code starts here -->
+    <div class="card mb-3 jumbotron" >
+      <div class="row no-gutters">
+        <div class="col-md-4 text-center">
+          <img src="imgs/InDeXLab2.gif" style="width: 100%;"/>
+        </div>
+        <div class="col-md-8">
+          <p class="lead" style="width: 90%; text-align: left;">
+            Innovative Data Exploration Laboratory (InDeX Lab)
+            is an academic research group directed by Dr. <a href="https://www.cs.uic.edu/~asudeh/">Abolfazl Asudeh</a>, at the Computer Science department of the University of Illinois at Chicago.
+            At InDeX Lab, we study different aspects of Big Data and Data Science, including data management, data analytics, and data mining, 
+            for which we aim to find efficient, accurate, and scalable algorithmic solutions.
+          </p>
+        </div>
+      </div>
+  </div>
+
+  <div class="card contentBoxNB">
+    <div class="card-header">Highlights</div>
+    <div class="card-body" style="height: 200pt; overflow-y: scroll;">
+        <ul style="line-height:1.7">
+            <li><span>2021:</span>
+              <br>- We published <b>Four full papers</b> (two in <b>SIGMOD'21</b>, one in <b>VLBD'21</b>, and one in <b>ICDE'21</b>), one invited paper in <b>Data Engineering Bulletin</b>, and one workshop paper (in SIGMOD-DEEM'21), in collaboration with the <a target="_blank" href="https://dbgroup.eecs.umich.edu/">DBGroup@UM</a>, <a target="_blank" href="https://chu-data-lab.cc.gatech.edu/">ChuDataLab@GaTech</a>, University of Rochester, Politecnico di Torino, and Google Research (Structured Data Group).
+              <br>- We received <b>Google's Research Scholar award</b> for our work on Cherry-picked Trendlines.
+              <br>- <b><a target="_blank" href="https://cacm.acm.org/">Communications of the ACM</a></b> featured our work on <a target="_blank" href="https://cacm.acm.org/magazines/2021/2/250087-scalable-signal-reconstruction-for-a-broad-range-of-applications/fulltext">"Signal Reconstruction at Scale"</a> as its <b>Research Highlight</b> in February 2021, 64.2: 106-115.
+              <br>- <b><a target="_blank" href="http://wp.sigmod.org/">ACM SIGMOD Blog</a></b> featured our article <a href="http://wp.sigmod.org/?p=3174" target="_blank">"Enabling Responsible Data Science in Practice"</a>, Jan. 2021.
+            </li>
+            <li><span>2020:</span>
+              <br>- We published <b>5 papers in VLBD 2020</b> (three full reseach papers, one tutorial, and one demo), 1 demo paper in SIGMOD 2020, and 1 invited paper in VLBDJ (Special Issue on <b>Best of VLDB'18</b>), in collaboration with the <a target="_blank" href="https://dbgroup.eecs.umich.edu/">DBGroup@UM</a> and <a target="_blank" href="http://dbxlab.uta.edu/">DBXLAB@UTA</a>.
+            </li>
+            <li><span>2019:</span>
+              <br>- We published <b>3 papers in SIGMOD 2019</b> (two full reseach papers and one demo), <b>2 papers in VLDB 2019</b> (one full research paper and one demo), 1 full research paper in ICDE 2019, 1 in PAKDD 2019, 1 demo paper in CIKM 2019, and 1 <b>invited paper in Data Engineering Bulletin</b>.
+              <br>- We received the <b>ACM SIGMOD Research Highlight Award</b> 2019.
+            </li>
+        </ul>   
+    </div>
+  </div>
+
+  <div>&nbsp;</div>
+  <div class="card contentBoxNB">
+    <div class="card-header">Announcements</div>
+    <div class="card-body">
+        <ul style="line-height:1.7">
+          <li>Congratulations to <i>Ian Swift</i> on his <i>ICDE 2022</i> paper, <i>“Fairness-Aware Range Queries for Selecting Unbiased Data”</i>.</li>
+          <li>A big Thank you to <i>Google</i> for supporting our work on Cherry-picked Trendlines with the <i>Research Scholar award!</i></li>
+          <li>Congratulations to <i>Nima Shahbazi</i> on his <i>SIGMOD 2021</i> paper, <i>“Identifying Insufficient Data Coverage for Ordinal Continuous-Valued Attributes”</i>.<a target="_blank" href="assets/cov21.pdf">[paper]</a><a target="_blank" href="assets/cov21-SIGMODPresentation-20.pdf">[slides]</a><a target="_blank" href="https://youtu.be/R-jXjsL0hxg">[video]</a></li>
+          <li>Congratulations to <i>Matteo Corain</i> on his <i>ICDE 2021</i> paper, <i>“DBSCOUT: A density-based method for scalable outlier detection in very large datasets”</i>. This paper is the outcome of his joint MS thesis with Politecnico di Torino (Italy), co-adviced by Dr. <a target="_blank" href="https://dl.acm.org/profile/81100349712">Paolo Garza</a>.</li>
+        </ul>   
+    </div>
+  </div>
+
+  <!--<div>&nbsp;</div>
+    <div class="card contentBoxNB">
+      <div class="card-header">Open Positions</div>
+      <div class="card-body">
+        We always look for passionate students to join the team.
+        If  you are interested, click <a href="opening.html" href="_blank">here</a> to see more details.
+      </div>
+    </div>-->
+    <div>&nbsp;</div>
+  <!-- Your code ends here -->
+</div>
+	<!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+</body>
+</html>

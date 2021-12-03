@@ -1,0 +1,592 @@
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Education (ED) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/css/courseleaf.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<header id="header-new">
+	<div class="wrap">
+		<div class="logo-header">
+			<a href="//www.uic.edu">
+				<img src="/images/logo2021.png" alt="University of Illinois Chicago" />
+			</a>
+		</div>
+		<nav class="catalog-quicklinks" aria-label="catalog quicklink">
+			<button id="hamburger" aria-controls="mobile-menu" data-toggle="#mobile-menu" aria-expanded="false">
+				<span class="sr-only">Toggle menu</span>
+				<i class="fa fa-bars" aria-hidden="true"></i>
+			</button>
+			<div id="mobile-menu">
+			<ul id="quicklinks">
+				<li><a href="/ucat/">Undergraduate</a></li>
+				<li><a href="/gcat">Graduate</a></li>
+				<li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+			</ul>
+			<div id="search" role="search">
+				<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />				</form>
+			</div><!-- end #search -->
+		</div><!-- /#mobile-menu -->
+		</nav>
+	</div>
+</header>
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <a href="/">
+			<h1>Academic Catalog</h1>
+		</a>
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<section id="banner" aria-labbledby="banner-header"
+ class="ugrad"
+>
+    <div class="wrap">
+
+		<div class="banner-text">
+			<h2 id="banner-header">2021-2023 Undergraduate Catalog</h2>
+		</div>
+
+
+
+
+
+    </div><!--end .wrap -->
+</section><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <a id="cl-menu-control" href="#" class="togglenav">
+                <span class="cl-menu-text">Catalog Navigation</span>
+                <!-- <a class="cl-menu-btn" href="#">Catalog Navigation</a> -->
+				<svg aria-label="Down arrow icon" width="32" height="32" viewBox="0 0 32 32" role="presentation"><title>Down arrow icon</title><g fill="none" fill-rule="evenodd"><circle class="_circle" stroke-width="1" stroke="#007Da5" fill="#fff" cx="16" cy="16" r="15"></circle><path class="_arrow" stroke-width="2" stroke="#001E62" stroke-linecap="round" d="M12 17l4 4 4-4M16 20v-9"></path></g></svg>
+			</a><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a></li>
+		<li class="active isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a>
+		<ul class="nav leveltwo" id="/ucat/course-descriptions/">
+			<li><a href="/ucat/course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+			<li><a href="/ucat/course-descriptions/actg/">Accounting (ACTG)</a></li>
+			<li><a href="/ucat/course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+			<li><a href="/ucat/course-descriptions/anth/">Anthropology (ANTH)</a></li>
+			<li><a href="/ucat/course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+			<li><a href="/ucat/course-descriptions/arab/">Arabic (ARAB)</a></li>
+			<li><a href="/ucat/course-descriptions/arch/">Architecture (ARCH)</a></li>
+			<li><a href="/ucat/course-descriptions/art/">Art (ART)</a></li>
+			<li><a href="/ucat/course-descriptions/ah/">Art History (AH)</a></li>
+			<li><a href="/ucat/course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+			<li><a href="/ucat/course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+			<li><a href="/ucat/course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+			<li><a href="/ucat/course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+			<li><a href="/ucat/course-descriptions/bme/">Biomedical Engineering (BME)</a></li>
+			<li><a href="/ucat/course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+			<li><a href="/ucat/course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+			<li><a href="/ucat/course-descriptions/blst/">Black Studies (BLST)</a></li>
+			<li><a href="/ucat/course-descriptions/ba/">Business Administration (BA)</a></li>
+			<li><a href="/ucat/course-descriptions/cc/">Campus Courses (CC)</a></li>
+			<li><a href="/ucat/course-descriptions/cst/">Catholic Studies (CST)</a></li>
+			<li><a href="/ucat/course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+			<li><a href="/ucat/course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+			<li><a href="/ucat/course-descriptions/chem/">Chemistry (CHEM)</a></li>
+			<li><a href="/ucat/course-descriptions/chin/">Chinese (CHIN)</a></li>
+			<li><a href="/ucat/course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+			<li><a href="/ucat/course-descriptions/cl/">Classics (CL)</a></li>
+			<li><a href="/ucat/course-descriptions/comm/">Communication (COMM)</a></li>
+			<li><a href="/ucat/course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+			<li><a href="/ucat/course-descriptions/cs/">Computer Science (CS)</a></li>
+			<li><a href="/ucat/course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+			<li><a href="/ucat/course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+			<li><a href="/ucat/course-descriptions/des/">Design (DES)</a></li>
+			<li><a href="/ucat/course-descriptions/dlg/">Dialogue (DLG)</a></li>
+			<li><a href="/ucat/course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+			<li><a href="/ucat/course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+			<li><a href="/ucat/course-descriptions/econ/">Economics (ECON)</a></li>
+			<li class="active self"><a href="#" onclick="return false;">Education (ED)</a></li>
+			<li><a href="/ucat/course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+			<li><a href="/ucat/course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+			<li><a href="/ucat/course-descriptions/ece/">Electrical and Computer Engr (ECE)</a></li>
+			<li><a href="/ucat/course-descriptions/engr/">Engineering (ENGR)</a></li>
+			<li><a href="/ucat/course-descriptions/engl/">English (ENGL)</a></li>
+			<li><a href="/ucat/course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+			<li><a href="/ucat/course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+			<li><a href="/ucat/course-descriptions/fin/">Finance (FIN)</a></li>
+			<li><a href="/ucat/course-descriptions/fr/">French (FR)</a></li>
+			<li><a href="/ucat/course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+			<li><a href="/ucat/course-descriptions/geog/">Geography (GEOG)</a></li>
+			<li><a href="/ucat/course-descriptions/ger/">Germanic Studies (GER)</a></li>
+			<li><a href="/ucat/course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+			<li><a href="/ucat/course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+			<li><a href="/ucat/course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+			<li><a href="/ucat/course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+			<li><a href="/ucat/course-descriptions/him/">Health Information Management (HIM)</a></li>
+			<li><a href="/ucat/course-descriptions/heb/">Hebrew (HEB)</a></li>
+			<li><a href="/ucat/course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+			<li><a href="/ucat/course-descriptions/hist/">History (HIST)</a></li>
+			<li><a href="/ucat/course-descriptions/hon/">Honors College Courses (HON)</a></li>
+			<li><a href="/ucat/course-descriptions/hn/">Human Nutrition (HN)</a></li>
+			<li><a href="/ucat/course-descriptions/hum/">Humanities (HUM)</a></li>
+			<li><a href="/ucat/course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+			<li><a href="/ucat/course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+			<li><a href="/ucat/course-descriptions/it/">Information Technology (IT)</a></li>
+			<li><a href="/ucat/course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+			<li><a href="/ucat/course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+			<li><a href="/ucat/course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+			<li><a href="/ucat/course-descriptions/inst/">International Studies (INST)</a></li>
+			<li><a href="/ucat/course-descriptions/ital/">Italian (ITAL)</a></li>
+			<li><a href="/ucat/course-descriptions/jpn/">Japanese (JPN)</a></li>
+			<li><a href="/ucat/course-descriptions/jst/">Jewish Studies (JST)</a></li>
+			<li><a href="/ucat/course-descriptions/kn/">Kinesiology (KN)</a></li>
+			<li><a href="/ucat/course-descriptions/kor/">Korean (KOR)</a></li>
+			<li><a href="/ucat/course-descriptions/lat/">Latin (LAT)</a></li>
+			<li><a href="/ucat/course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+			<li><a href="/ucat/course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+			<li><a href="/ucat/course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+			<li><a href="/ucat/course-descriptions/ling/">Linguistics (LING)</a></li>
+			<li><a href="/ucat/course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+			<li><a href="/ucat/course-descriptions/lith/">Lithuanian (LITH)</a></li>
+			<li><a href="/ucat/course-descriptions/mgmt/">Management (MGMT)</a></li>
+			<li><a href="/ucat/course-descriptions/mktg/">Marketing (MKTG)</a></li>
+			<li><a href="/ucat/course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+			<li><a href="/ucat/course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+			<li><a href="/ucat/course-descriptions/math/">Mathematics (MATH)</a></li>
+			<li><a href="/ucat/course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+			<li><a href="/ucat/course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+			<li><a href="/ucat/course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+			<li><a href="/ucat/course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+			<li><a href="/ucat/course-descriptions/mils/">Military Science (MILS)</a></li>
+			<li><a href="/ucat/course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+			<li><a href="/ucat/course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+			<li><a href="/ucat/course-descriptions/mus/">Music (MUS)</a></li>
+			<li><a href="/ucat/course-descriptions/nast/">Native American Studies (NAST)</a></li>
+			<li><a href="/ucat/course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+			<li><a href="/ucat/course-descriptions/ns/">Naval Science (NS)</a></li>
+			<li><a href="/ucat/course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+			<li><a href="/ucat/course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+			<li><a href="/ucat/course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+			<li><a href="/ucat/course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+			<li><a href="/ucat/course-descriptions/path/">Pathology (PATH)</a></li>
+			<li><a href="/ucat/course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+			<li><a href="/ucat/course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+			<li><a href="/ucat/course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+			<li><a href="/ucat/course-descriptions/psop/">Pharmacy Systems, Outcomes &amp;&#8203; Policy (PSOP)</a></li>
+			<li><a href="/ucat/course-descriptions/phil/">Philosophy (PHIL)</a></li>
+			<li><a href="/ucat/course-descriptions/pt/">Physical Therapy (PT)</a></li>
+			<li><a href="/ucat/course-descriptions/phys/">Physics (PHYS)</a></li>
+			<li><a href="/ucat/course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+			<li><a href="/ucat/course-descriptions/pol/">Polish (POL)</a></li>
+			<li><a href="/ucat/course-descriptions/pols/">Political Science (POLS)</a></li>
+			<li><a href="/ucat/course-descriptions/port/">Portuguese (PORT)</a></li>
+			<li><a href="/ucat/course-descriptions/psch/">Psychology (PSCH)</a></li>
+			<li><a href="/ucat/course-descriptions/pa/">Public Administration (PA)</a></li>
+			<li><a href="/ucat/course-descriptions/pubh/">Public Health (PUBH)</a></li>
+			<li><a href="/ucat/course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+			<li><a href="/ucat/course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+			<li><a href="/ucat/course-descriptions/res/">Real Estate (RES)</a></li>
+			<li><a href="/ucat/course-descriptions/rels/">Religious Studies (RELS)</a></li>
+			<li><a href="/ucat/course-descriptions/russ/">Russian (RUSS)</a></li>
+			<li><a href="/ucat/course-descriptions/slav/">Slavic &amp;&#8203; Baltic Languages &amp;&#8203;Lit (SLAV)</a></li>
+			<li><a href="/ucat/course-descriptions/sj/">Social Justice (SJ)</a></li>
+			<li><a href="/ucat/course-descriptions/soc/">Sociology (SOC)</a></li>
+			<li><a href="/ucat/course-descriptions/span/">Spanish (SPAN)</a></li>
+			<li><a href="/ucat/course-descriptions/sped/">Special Education (SPED)</a></li>
+			<li><a href="/ucat/course-descriptions/stat/">Statistics (STAT)</a></li>
+			<li><a href="/ucat/course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+			<li><a href="/ucat/course-descriptions/thtr/">Theatre (THTR)</a></li>
+			<li><a href="/ucat/course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+			<li><a href="/ucat/course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+			<li><a href="/ucat/course-descriptions/us/">Urban Studies (US)</a></li>
+		</ul>
+		</li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/course-descriptions/">Undergraduate&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Education (ED)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Education (ED)</h1>
+
+
+
+<div id="textcontainer" class="page_content">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="edcourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;100.  Introduction to Urban Education.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introductory and cross-disciplinary examination of issues related  to education in urban America, with particular attention paid to policies and practices impacting diversity and equity in public schools. Course Information: Students need College approval to concurrently enroll in <a href="/search/?P=ED%20100" title="ED&#160;100" class="bubblelink code" onclick="return showCourse(this, 'ED 100');">ED&#160;100</a> and <a href="/search/?P=ED%20205" title="ED&#160;205" class="bubblelink code" onclick="return showCourse(this, 'ED 205');">ED&#160;205</a>.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;101.  Critical Literacies in a Digital Democracy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Digital consumption, creation, and collaboration have significant impacts on participation in democratic processes. In this class we will learn about and engage in digital literacy practices including critical analysis and multimedia composing.<i>  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;135.  Child and Youth Policies in Urban America.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines policies and practices for children and youth in urban America using historical, sociological, psychological and economic frameworks.  Integrates disciplinary knowledge of educational policies and practices.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;151.  College Connection I.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Strategies to facilitate the transition from high school to college by helping students develop skills and utilize resources that will lead to success in college. Course Information: No graduation credit. Should be taken in the first semester of the freshman year. Prerequisite(s): Open only to first year students in the College of Education.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;152.  College Connection II.  1 hour.</strong></p>
+<p class="courseblockdesc">
+A continuation of <a href="/search/?P=ED%20151" title="ED&#160;151" class="bubblelink code" onclick="return showCourse(this, 'ED 151');">ED&#160;151</a> College Connection I which facilitates the transition from high school to college by helping students develop specific skills and utilize resources that will help lead to success in college. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit. Should be taken in the second semester of the freshman year. Prerequisite(s): Open only to freshmen. College approval required.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;160.  Games, Learning, and Society.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Explores the development and design of games for teaching and learning. Critical analysis of games and how they shape interactions among players, their learning, and their connection to society. Course Information: Same as <a href="/search/?P=EPSY%20160" title="EPSY&#160;160" class="bubblelink code" onclick="return showCourse(this, 'EPSY 160');">EPSY&#160;160</a>.<i>  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;194.  Special Topics in Education.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Introductory exploration of a topic not covered in existing course offerings. Course Information: May be repeated if topics vary. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;200.  Education Policy Foundations.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Social, cultural, political, and intellectual forces that influence and shape educational policy in the learning process. Course Information: Prerequisite(s): Sophomore standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;201.  Childrenâ€™s Literature and Disabilities.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of childrenâ€™s and young adult literature focused on how disabilities are portrayed and how literature encapsulates societal attitudes, beliefs, and stereotypes contributing to access and equity of children with disabilities in schools. Course Information: Same as <a href="/search/?P=SPED%20201" title="SPED&#160;201" class="bubblelink code" onclick="return showCourse(this, 'SPED 201');">SPED&#160;201</a>. This is a blended course.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;205.  Introduction to Race, Ethnicity, and Education.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introductory and cross-disciplinary examination of issues related to race, ethnicity, and cultural diversity in education. Course Information: Students need College approval to concurrently enroll in <a href="/search/?P=ED%20100" title="ED&#160;100" class="bubblelink code" onclick="return showCourse(this, 'ED 100');">ED&#160;100</a> and <a href="/search/?P=ED%20205" title="ED&#160;205" class="bubblelink code" onclick="return showCourse(this, 'ED 205');">ED&#160;205</a>.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;210.  Principles of Learning and Instruction Across the Lifespan.  3 hours.</strong></p>
+<p class="courseblockdesc">
+How people learn and the design of instruction and assessment across a broad set of formal and informal instructional environments and populations. Course Information: Same as <a href="/search/?P=EPSY%20210" title="EPSY&#160;210" class="bubblelink code" onclick="return showCourse(this, 'EPSY 210');">EPSY&#160;210</a>. Prerequisite(s): Sophomore standing or above; or consent of the instructor. Secondary Teacher Education students should enroll in the <a href="/search/?P=ED%20210" title="ED&#160;210" class="bubblelink code" onclick="return showCourse(this, 'ED 210');">ED&#160;210</a> section. All other students should enroll in the <a href="/search/?P=EPSY%20210" title="EPSY&#160;210" class="bubblelink code" onclick="return showCourse(this, 'EPSY 210');">EPSY&#160;210</a> section.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;211.  Special Topics in Education.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Topics vary. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated to a maximum of 4 hours with approval. Approval to repeat course granted by the college. Prerequisite(s): Membership in the Honors College or approval of the College of Education.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;217.  STEM, Education, and Society: Exploring Identity, Community, Ethics, Politics, and Ideology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A focus on political, economic, social, and environmental implications of STEM education. Cross-disciplinary examination of math, sciences, engineering, and related disciplines, with attention to identity, experience, and social disparities.<i>  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;222.  Introduction to Gender, Sexuality, and Education.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introductory and cross-disciplinary examination of issues related  to gender and sexuality in education.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;252.  Contemporary Controversies in U.S. Schools.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introductory and cross-disciplinary examination of contemporary controversies related to public education in the United States.<i>  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;258.  Language Development and Learning in a Diverse Society.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Provides an overview of the key issues and concepts related to the study of language development, learning, and multilingualism in a diverse society. Course Information: Prerequisite(s): Completion of the English composition requirement. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;264.  Sport, Education, and Society.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students will explore how sport has shaped society and effects social change; paying particular attention to issues of access and equity, focusing on how sport influences human, social, and community development, as well as societal values and priorities. Course Information: Recommended background:: <a href="/search/?P=EPSY%20100" title="EPSY&#160;100" class="bubblelink code" onclick="return showCourse(this, 'EPSY 100');">EPSY&#160;100</a> or <a href="/search/?P=PSCH%20100" title="PSCH&#160;100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH&#160;100</a> or <a href="/search/?P=SOC%20100" title="SOC&#160;100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC&#160;100</a>.<i>  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;294.  Special Topics in Education.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Introductory exploration of a topic not covered in existing course offerings. Course Information: May be repeated if topics vary. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;299.  Education, Globalization, and the Child.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the experiences of childhood and how educational experiences are often contextualized by region, country, and culture. Students will have an embedded study abroad experience in order to do a comparative analysis. Course Information: Expectation to go abroad. Prerequisite(s): Approval of the Department and GPA of 2.7 or above and good standing; and completion of application from the Study Abroad Office; and completion of interview.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;307.  Nature and Practices of Natural Sciences.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Learning crosscutting concepts and practices across science and engineering, applying practices in designing, conducting, and presenting a scientific research project, and considering teaching implications for elementary and middle grades students. Course Information: Prerequisite(s): Consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;350.  Introduction to Urban Communities and Schools: Fieldwork I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students will discuss field experiences in schools and communities as opportunities are provided to develop a philosophy and vision of becoming an urban teacher. Extensive fieldwork in schools is required. Course Information: Field work required. Prerequisite(s): Junior standing or above and admission to the Bachelor of Arts in Urban Education, Concentration in the Elementary Education Program. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;351.  Becoming a Culturally Responsive Educator in the Urban Classroom: Fieldwork II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Provides students with information and experiences that support culturally responsive teaching and learning in diverse settings. Extensive fieldwork in schools is required. Course Information: Field work required. Prerequisite(s): Junior standing or above and admission to the Bachelor of Arts in Urban Education Program, Elementary Education concentration. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;360.  Education and Community Transformation.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Enables students to understand how community activism contributes to change in the sociopolitical landscape in the United States and abroad with particular attention to education policies and social justice issues. Course Information: 4 hrs. Field work required. Recommended background: <a href="/search/?P=ED%20100" title="ED&#160;100" class="bubblelink code" onclick="return showCourse(this, 'ED 100');">ED&#160;100</a>, <a href="/search/?P=ED%20135" title="ED&#160;135" class="bubblelink code" onclick="return showCourse(this, 'ED 135');">ED&#160;135</a> or <a href="/search/?P=ED%20205" title="ED&#160;205" class="bubblelink code" onclick="return showCourse(this, 'ED 205');">ED&#160;205</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;373.  Introduction to the School-Prison Nexus.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Using contemporary social theory, this course investigates the disciplining, punishing, and criminalization of youth in urban schools, paying particular attention to the racialized, classed, gendered, and ableist contours of these social processes.  Course Information: Same as <a href="/search/?P=CLJ%20373" title="CLJ&#160;373" class="bubblelink code" onclick="return showCourse(this, 'CLJ 373');">CLJ&#160;373</a>. Recommended Background: <a href="/search/?P=ED%20100" title="ED&#160;100" class="bubblelink code" onclick="return showCourse(this, 'ED 100');">ED&#160;100</a> and <a href="/search/?P=ED%20200" title="ED&#160;200" class="bubblelink code" onclick="return showCourse(this, 'ED 200');">ED&#160;200</a> and <a href="/search/?P=ED%20205" title="ED&#160;205" class="bubblelink code" onclick="return showCourse(this, 'ED 205');">ED&#160;205</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;374.  Dismantling the School and Prison Nexus.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Political relationship between historically dis-invested K to 12 schools and prisons. Parallels in disciplinary practices and rationales in both. Engagement with affected communities that challenge carceral logics in education. Course Information: Same as <a href="/search/?P=CLJ%20374" title="CLJ&#160;374" class="bubblelink code" onclick="return showCourse(this, 'CLJ 374');">CLJ&#160;374</a>. Prerequisite(s): <a href="/search/?P=CLJ%20101" title="CLJ&#160;101" class="bubblelink code" onclick="return showCourse(this, 'CLJ 101');">CLJ&#160;101</a> and two 200-level CLJ courses; or consent of the instructor. Recommended Background: <a href="/search/?P=CLJ%20373" title="CLJ&#160;373" class="bubblelink code" onclick="return showCourse(this, 'CLJ 373');">CLJ&#160;373</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;375.  Perspectives on Health Disparities/Pathways to Careers in the Health Professions.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Addresses health inequities, cultural competence, and opportunities/pathways to traditional and paraprofessional careers in health care. Implications of health inequities for educational outcomes are also covered. Course Information: Extensive computer use required. Field work required. Participation in an interdisciplinary case study project. Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL&#160;161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL&#160;161</a> or the equivalent and consent of the instructor. Recommended background: Sophomore or Junior standing; and participation in the Urban Health Program Learning Community.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;394.  Special Topics in Education.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of a topic not covered in existing course offerings. Course Information: May be repeated if topics vary. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;396.  Independent Study.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+For students who wish to do independent study on specific educational processes or independently to carry on projects related to education or extensive reading assignments. Course Information: May be repeated to a maximum of 8 hours. Prerequisite(s): A written proposal for faculty approval and junior standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;398.  Directed Research in Education.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Students carry out directed research under the mentorship of a College of Education faculty member. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated to a maximum of 16 hours. Prerequisite(s): Sophomore standing and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;402.  Philosophy of Education and Urban School Policy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected social and education philosophies and their impact on urban school curriculum design, school organization and control.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;403.  Policy Issues in the History of American Education.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Political, economic, and cultural influences shaping the development of American education policy; emphasis on issues of education theory and practice in their historical settings.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;410.  Capstone Inquiry on Critical Issues in Education.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students design and complete projects connected to an educational issue, challenge, or theme.  Includes discussion of critical educational issues from cross-disciplinary perspectives. Designed to be a culminating experience. Course Information: Extensive computer use required. Prerequisite(s): Prior College of Education coursework and consent of instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;416.  Practical Inquiry I: Teacher Competencies and Performance-Based Assessment.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to examining teaching through practitioner inquiry, including teacher performance assessment, as a way of learning to teach and beginning a lifelong process of professional development.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;417.  Practical Inquiry II: Teacher Competencies and Performance-Based Assessment.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A developing examination of teaching through practitioner inquiry, including teacher performance teacher assessment, as a way of learning to teach and fostering a lifelong process of professional development.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;421.  Advanced Educational Psychology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines current theory and research on the teaching-learning process with particular attention to general learning and curriculum-relevant problem solving skills. Course Information: Prerequisite(s): <a href="/search/?P=EPSY%20210" title="EPSY&#160;210" class="bubblelink code" onclick="return showCourse(this, 'EPSY 210');">EPSY&#160;210</a>; or graduate standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;422.  Advanced Developmental Psychology and Educational Processes.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on cognitive and social development from birth to early adolescence. Examines relations between development, learning, and educational processes. Course Information: Same as <a href="/search/?P=PSCH%20422" title="PSCH&#160;422" class="bubblelink code" onclick="return showCourse(this, 'PSCH 422');">PSCH&#160;422</a>. Prerequisite(s): <a href="/search/?P=PSCH%20100" title="PSCH&#160;100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH&#160;100</a> and any one from <a href="/search/?P=EPSY%20210" title="EPSY&#160;210" class="bubblelink code" onclick="return showCourse(this, 'EPSY 210');">EPSY&#160;210</a>, PSCH 259, <a href="/search/?P=PSCH%20320" title="PSCH&#160;320" class="bubblelink code" onclick="return showCourse(this, 'PSCH 320');">PSCH&#160;320</a> and consent of the instructor; or graduate standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;424.  Social and Emotional Learning: Research, Practice, and Policy.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Research, theory, educational practices, and federal/state policies that promote the social, emotional, and academic competence of students who are in preschool, middle school, or high school. Course Information: Same as <a href="/search/?P=PSCH%20424" title="PSCH&#160;424" class="bubblelink code" onclick="return showCourse(this, 'PSCH 424');">PSCH&#160;424</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=PSCH%20343" title="PSCH&#160;343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH&#160;343</a> or equivalent; or consent of the instructor. Recommended background: Experience working with children or adolescents.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;425.  Curriculum, Instruction, and Assessment in the Urban Secondary Classroom.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Developing professional practice that meets the diverse learning needs of students from different backgrounds and experiences. Course Information: Previously listed as ED 330. Field experience in urban schools is required. Prerequisite(s): Admission to an approved teacher licensure program in secondary education, and <a href="/search/?P=ED%20200" title="ED&#160;200" class="bubblelink code" onclick="return showCourse(this, 'ED 200');">ED&#160;200</a>, <a href="/search/?P=ED%20210" title="ED&#160;210" class="bubblelink code" onclick="return showCourse(this, 'ED 210');">ED&#160;210</a> and <a href="/search/?P=SPED%20410" title="SPED&#160;410" class="bubblelink code" onclick="return showCourse(this, 'SPED 410');">SPED&#160;410</a> , and consent of the instructor and Council of Teacher Education. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;430.  Curriculum and Teaching.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to curriculum and teaching as areas of inquiry; implications of these areas of inquiry for educational practice; related contemporary problems and issues. Course Information: Credit is not given for <a href="/search/?P=ED%20430" title="ED&#160;430" class="bubblelink code" onclick="return showCourse(this, 'ED 430');">ED&#160;430</a> if the student has credit for <a href="/search/?P=CI%20428" title="CI&#160;428" class="bubblelink code" onclick="return showCourse(this, 'CI 428');">CI&#160;428</a>. Prerequisite(s): Admission to graduate study in Education, or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;431.  Improving Learning Environments.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of structural, normative, and social dimensions of learning environments and their relationships to student learning. Exploration of change processes to improve those environments. Course Information: Prerequisite(s): Graduate standing or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;432.  Instruction and Assessment in the Urban Secondary Classroom.  5 hours.</strong></p>
+<p class="courseblockdesc">
+Learning to teach, how to plan for diverse learners, design differentiated instruction, assess student learning and develop classroom discipline. Course Information: Field experience in urban schools is required. Prerequisite(s): Completion of education core courses in Graduate Teacher Certification Program: <a href="/search/?P=ED%20402" title="ED&#160;402" class="bubblelink code" onclick="return showCourse(this, 'ED 402');">ED&#160;402</a> or <a href="/search/?P=ED%20403" title="ED&#160;403" class="bubblelink code" onclick="return showCourse(this, 'ED 403');">ED&#160;403</a> and <a href="/search/?P=ED%20445" title="ED&#160;445" class="bubblelink code" onclick="return showCourse(this, 'ED 445');">ED&#160;445</a>. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;445.  Adolescence and the Schools.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Physiological, intellectual, and social development of adolescence. Relations between aspects of adolescent development and the academic and social demands of secondary schools. Course Information: Prerequisite(s): <a href="/search/?P=EPSY%20210" title="EPSY&#160;210" class="bubblelink code" onclick="return showCourse(this, 'EPSY 210');">EPSY&#160;210</a>, or the equivalent, or graduate standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;450.  Pre-Student Teaching in the Urban Elementary Classroom, Fieldwork III: Arts, Health, and Physical Ed.  1-12 hours.</strong></p>
+<p class="courseblockdesc">
+This pre-student teaching experience immerses teacher candidates in classrooms in a supervised experience of learning to teach; and develop effective practices with an emphasis in arts, health and physical education. Course Information: May be repeated. Field work required. Field work: total of 180 hours, coordinated by the program director and in collaboration with field instructors. Prerequisite(s): Senior standing or above and admission to the Bachelor of Arts in Urban Education, Concentration in Elementary Education.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;451.  Student Teaching in the Urban Elementary Classroom: Fieldwork IV.  0-12 hours.</strong></p>
+<p class="courseblockdesc">
+Student teaching is a full-time experience of learning to teach in a classroom with university mentoring and supervision. Course Information: May be repeated. Field work required. Prerequisite(s): <a href="/search/?P=ED%20450" title="ED&#160;450" class="bubblelink code" onclick="return showCourse(this, 'ED 450');">ED&#160;450</a> and admission to the Bachelor of Arts in Urban Education, Concentration in Elementary Education and senior standing. Class Schedule Information: To be properly registered, students must enroll in one Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;461.  Political and Socio-Cultural Perspectives on Special Education.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students will examine issues of access and equity through legislation, litigation, and socio-cultural perspectives and be introduced to major theoretical frameworks that influence special education programs. Course Information: Same as <a href="/search/?P=SPED%20461" title="SPED&#160;461" class="bubblelink code" onclick="return showCourse(this, 'SPED 461');">SPED&#160;461</a>. Field work required. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;470.  Educational Practice with Seminar I.  0-12 hours.</strong></p>
+<p class="courseblockdesc">
+The first half of a two-segment sequence of practice teaching, including seminar, to meet certification requirements for teaching in grades six through twelve. Course Information: Graduate credit only with approval of the college. 1 to 12 hours. Prerequisite(s): Good academic standing in a teacher education program, completion of 100 clock hours of pre-student-teaching field experiences, and approval of the college or department of specialization. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;471.  Educational Practice with Seminar II.  0-12 hours.</strong></p>
+<p class="courseblockdesc">
+The second half of a two-segment sequence of practice teaching, including seminar, to meet certification requirements for teaching in grades six through twelve. Course Information: Graduate credit only with approval of the college. 1 to 12 hours. Prerequisite(s): Good academic standing in a teacher education program, completion of 100 clock hours of pre-student-teaching field experiences, credit or concurrent registration in <a href="/search/?P=ED%20470" title="ED&#160;470" class="bubblelink code" onclick="return showCourse(this, 'ED 470');">ED&#160;470</a>, and approval of the college or department of specialization. Class Schedule Information:  To be properly registered, students must enroll in one Conference and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;472.  Promoting Academic and Prosocial Behavior I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The importance of school-wide and classroom structure and climate in the educational process. Strategies to promote academic success and desired social behavior. Course Information: Same as <a href="/search/?P=SPED%20472" title="SPED&#160;472" class="bubblelink code" onclick="return showCourse(this, 'SPED 472');">SPED&#160;472</a>. Field work required. Prerequisite(s): <a href="/search/?P=SPED%20461" title="SPED&#160;461" class="bubblelink code" onclick="return showCourse(this, 'SPED 461');">SPED&#160;461</a> or <a href="/search/?P=ED%20461" title="ED&#160;461" class="bubblelink code" onclick="return showCourse(this, 'ED 461');">ED&#160;461</a> or the equivalent or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED&#160;473.  Teaching Math and Science with Adaptations.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Provides prospective teachers with assessment strategies and a range of adaptations, modifications, and interventions in math and science for students with disabilities. Course Information: Same as <a href="/search/?P=SPED%20473" title="SPED&#160;473" class="bubblelink code" onclick="return showCourse(this, 'SPED 473');">SPED&#160;473</a>. Field work required. Prerequisite(s): <a href="/search/?P=SPED%20461" title="SPED&#160;461" class="bubblelink code" onclick="return showCourse(this, 'SPED 461');">SPED&#160;461</a>. Course Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2021-2023 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" aria-labeledby="dialog-title" class="screen" role="dialog">
+	<div class="print-header">
+		<h2 id="dialog-title">Print Options</h2>
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+<div class="print-option"><div class="option-head"><a class="option-name" href="/ucat/course-descriptions/ed/ed.pdf" role="button">Download Page (PDF)</a></div><p class="option-desc"><em>The PDF will include all information unique to this page.</em></p></div><div class="print-option"><div class="option-head"><a class="option-name" href="/pdf/2021-23-undergraduate.pdf" target="_blank">Download PDF of the entire Undergraduate Catalog</a></div><p class="option-desc"><em>All pages in the campus catalog.</em></p></div>    </div>
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

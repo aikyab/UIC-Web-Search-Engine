@@ -1,0 +1,718 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="cms">
+<head>
+	<!-- Loaded: Monday, October 25, 2021 at 2:41 PM; Instance: HT-APP-Moe: cfusion; Revision: REL_21.08.00; Enterprise: 63; Reloaded: false --> <!--Request Timeout: 180-->
+	<title>Chicago</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<meta property="og:title" content="Chicago"/>
+	<meta property="og:url" content="https://jobs.uic.edu//chicago/default.cfm?" />
+	<meta property="og:description" content=""/>
+	
+	<link type="text/css" rel="stylesheet" href="https://jobs.uic.edu/assets/css/package_cms.css?v=rel_21_08_00" media="all" /> <link type="text/css" rel="stylesheet" href="https://jobs.uic.edu/css/cms/UIC%5FUpdated.css?v=030217192010" media="all" /> <script type="text/javascript">
+				var Site = {
+					assetRoot: '/'
+				}
+			</script>
+			<script type="text/javascript" src="https://jobs.uic.edu/assets/js/package_cms.js?v=rel_21_08_00"></script> <script type="text/javascript">
+jQuery(document).ready(function() {
+if (jQuery('#form').length > 0) {
+var validateForm = function() {
+}
+Validation.addFunction('form', 'validateForm', validateForm, false);
+Validation.interceptForm('form');
+if(jQuery('span.required').length){
+Validation.addInstructions('form');
+}
+}
+});
+</script> <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34779331-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> 
+	<!--API Token: -->
+	<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "https://analytics.click2apply.net/ats/hiretouch/v1.0.js"; js.setAttribute("data-applicant-info", "false"); fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'jobtarget-jssdk'));</script>
+</head>
+<body>
+	<div>
+		<div class="layout" id="layout_header_content_footer">
+  <div id="layout_header">
+    <div>
+<div class="wysiwyg" elementID="2C42A204-14FA-4F90-B2C0-085931FA40F4">
+	<div class="inner">
+<h1 class="logo"><img alt="UIC Human Resources" height="68" src="https://jobs.uic.edu/uploads/63/image/CAMP_SYSTEM_NOTL_SM_WHT.PNG" width="250" /></h1>
+
+<h1 class="logo_health"><img align="right" alt="UIC Human Resources" class="center" height="37" src="https://jobs.uic.edu/uploads/63/image/UI_Logo_wtag_IL_white.png" width="230" /></h1>
+</div>
+
+<div class="mp-slider"><span style="vertical-align: 10px"><img alt="" height="202" src="https://jobs.uic.edu/uploads/63/image/MainBanner.jpg" vspace="0" width="785" /></span></div>
+
+<nav>&nbsp;</nav>
+</div>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+  //Hide the label for the User Disability form element
+
+  if (jQuery('#container_disabled_person > td > label').length > 0) {
+
+    jQuery('#container_disabled_person > td > label').hide()
+    
+    }
+});
+</script>
+</div>
+<div class="dynamic_menu">
+<ul>
+					
+						<li class="first menu_1 menu_1_login">
+							<a href="https://jobs.uic.edu/" title="Login"><span>Login</span></a>
+							
+						</li>
+					
+						<li class="menu_1 menu_1_civil_service_positions">
+							<a href="/civil-service-positions/civil-service-positions-details?jobID=240" title="Civil Service Positions"><span>Civil Service Positions</span></a>
+							
+						</li>
+					
+						<li class="last menu_1 menu_1_help">
+							<a href="https://jobs.uic.edu/help" title="Help"><span>Help</span></a>
+							
+						</li>
+					
+				</ul>
+<script type="text/javascript">
+//Hide the label for the User Disability form element
+
+    if (jQuery('#container_disabled_person > td > label').length > 0) {
+
+    jQuery('#container_disabled_person > td > label').hide()
+    
+    }
+</script>
+</div>
+<div id="container">
+<div class="wysiwyg" elementID="971BF292-5F3C-40A5-ADA1-7D11EF1BE798">
+	<div id="primary-menu">
+<div class="inner_bottom">
+<ul class="sf-menu">
+	<li><span style="text-decoration:none;
+text-transform:uppercase;
+  color:#FFFFFF;
+  font-family:'Open Sans', sans-serif;
+  font-size:14px;
+  line-height:18px;">FIND JOBS</span>
+	<ul>
+		<li><a href="http://jobs.uic.edu/job-board/default.cfm?&amp;start=1&amp;per=5000">All Jobs</a></li>
+		<li><a href="https://jobs.uic.edu/Chicago/default.cfm?&amp;start=1&amp;per=5000">Chicago Campus</a></li>
+		<li><a href="https://jobs.uic.edu/DSCC/default.cfm?&amp;start=1&amp;per=5000">DSCC</a></li>
+		<li><a href="https://jobs.uic.edu/JMLS/default.cfm?&amp;start=1&amp;per=5000">UIC School of Law</a></li>
+		<li><a href="https://jobs.uic.edu/Peoria/default.cfm?&amp;start=1&amp;per=5000">Peoria</a></li>
+		<li><a href="https://jobs.uic.edu/Rockford/default.cfm?&amp;start=1&amp;per=5000">Rockford</a></li>
+		<li><a href="https://jobs.uic.edu/UI_Health/default.cfm?&amp;start=1&amp;per=5000">UI Health</a></li>
+		<li><a href="https://jobs.uic.edu/nursing/default.cfm?&amp;start=1&amp;per=5000">UI Health Nursing</a></li>
+		<li><a href="https://jobs.uic.edu/job-search/default.cfm?&amp;start=1&amp;per=5000">Search Jobs</a></li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+jQuery(jQuery('.e-menu-main a')[1]).attr('href','http://jobs.uic.edu/job-board/?start=1&per=5000');
+jQuery(jQuery('.e-menu-main a')[2]).attr('href','http://jobs.illinois.edu/academic-job-board?start=1&per=5000');
+
+  if(window.location.href == 'http://jobs.uic.edu/job-board/' || window.location.href == 'https://jobs.uic.edu/job-board/')
+{ 
+  window.location.href = 'https://jobs.uic.edu/job-board/?start=1&per=5000';
+}
+   if(window.location.href == 'http://jobs.uic.edu/job-board' || window.location.href == 'https://jobs.uic.edu/job-board')
+{ 
+  window.location.href = 'https://jobs.uic.edu/job-board/?start=1&per=5000';
+}
+ 
+  //Hide the label for the User Disability form element
+
+    if (jQuery('#container_disabled_person > td > label').length > 0) {
+
+    jQuery('#container_disabled_person > td > label').hide()
+    
+    }
+    
+});
+</script>
+</div>
+  </div>
+  <div id="layout_content">
+    <div class="page_header">
+<div class="wysiwyg" elementID="9299B01C-7703-46FC-8ADC-CEF45C9098D5">
+	<h1>Jobs by Location</h1>
+</div>
+</div>
+<div>
+<div class="wysiwyg" elementID="AFEE74DE-2FB2-45CE-BB0F-D33F9D1A9909">
+	<ul class="wysiwyg_content">
+    <li class="title_subheader">
+    <h2>Civil Service Positions</h2>
+    </li>
+    <li><span class="title"><a href="https://jobs.uic.edu/civil-service-positions/civil-service-positions-details?jobID=240">General Information on Civil Service Positions</a><br />
+    <br />
+    <em>Additional postings can be found under the Civil Service heading below.</em></span></li>
+</ul>
+</div>
+<style type="text/css">
+ul.wysiwyg_content {
+    list-style: none outside none !important;
+}
+</style>
+</div>
+<div>
+
+<div class="pagination">
+
+			<div class="send-right">
+				<ul class="pagination">
+					<li class="pagination_count first form-inline">
+						Records 1-25 of 168
+					</li>
+					
+								<li class="pagination_first"><a class="not_active" href="#" onclick="return false;">First</a></li>
+							
+								<li class="pagination_previous"><a class="not_active" href="#" onclick="return false">Previous</a></li>
+							
+								<li class="pagination_next"><a href="/chicago/default.cfm?&per=25&start=26">Next</a></li>
+							
+								<li class="pagination_last"><a href="/chicago/default.cfm?&per=25&start=144">Last</a></li>
+							
+						<li class="pagination_jump form-inline">
+							Page
+							<select name="pagination_jump" class="form-control input-sm" onchange="window.location='/chicago/default.cfm?&per=25&start='+this.value;">
+								
+									<option value="1" selected>1</option>
+								
+									<option value="26" >2</option>
+								
+									<option value="51" >3</option>
+								
+									<option value="76" >4</option>
+								
+									<option value="101" >5</option>
+								
+									<option value="126" >6</option>
+								
+									<option value="151" >7</option>
+								
+							</select>
+						</li>
+					
+						<li class="pagination_per form-inline">
+							Per Page
+							<select name="pagination_per" class="form-control input-sm" onchange="window.location='/chicago/default.cfm?&start=1&per='+this.value;">
+								
+									<option value="25" selected>25</option>
+								
+									<option value="50" >50</option>
+								
+									<option value="100" >100</option>
+								
+							</select>
+						</li>
+					
+				</ul>
+			</div>
+		
+</div>
+<fieldset>
+			<div class="section">
+				
+
+					<div class="header ui-widget-header ui-corner-tl ui-corner-tr container container">
+						Jobs 
+					</div>
+
+				
+				<div class="section_container"> 
+		<ul class="title_header">
+			
+				<li class="title_subheader">
+						<h2>Chicago</h2>		
+					<ul class="jobs">
+						
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=155847&job=academic-advisor-department-of-microbiology-and-immunology" title="Academic Advisor- Department of Microbiology and Immunology">Academic Advisor- Department of Microbiology and Immunology</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Academic Professional</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=143582&job=academic-hourly-research-specialist-department-of-neurology" title="Academic Hourly - Research Specialist - Department of Neurology">Academic Hourly - Research Specialist - Department of Neurology</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Hourly</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=157229&job=assistant-coach-sports-performance-athletics" title="Assistant Coach, Sports Performance - Athletics">Assistant Coach, Sports Performance - Athletics</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Academic Professional</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=155453&job=assistant-director-faculty-research-activities-las-administration" title="Assistant Director Faculty Research Activities--LAS Administration">Assistant Director Faculty Research Activities--LAS Administration</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Academic Professional</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=155574&job=assistant-director-of-recruitment-retention-college-of-education" title="Assistant Director of Recruitment &amp; Retention-College of Education">Assistant Director of Recruitment &amp; Retention-College of Education</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Academic Professional</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=156533&job=assistant-director-marketing-and-communications-marketing-associate" title="Assistant Director, Marketing and Communications - Marketing Associate">Assistant Director, Marketing and Communications - Marketing Associate</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Civil Service</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=153595&job=assistant-director-residential-education" title="Assistant Director, Residential Education">Assistant Director, Residential Education</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Academic Professional</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=156632&job=assistant-director-degree-certification-las-student-academic-affairs" title="Assistant Director--Degree Certification, LAS Student Academic Affairs">Assistant Director--Degree Certification, LAS Student Academic Affairs</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Academic Professional</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=151250&job=assistant-professor-ct-division-of-glaucoma-ophthalmology-visual-sciences" title="Assistant Professor (CT): Division of Glaucoma - Ophthalmology &amp; Visual Sciences">Assistant Professor (CT): Division of Glaucoma - Ophthalmology &amp; Visual Sciences</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Faculty</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=145411&job=assistant-professor-rt-research-tenure-track-oral-biology" title="Assistant Professor (RT) Research Tenure Track-Oral Biology">Assistant Professor (RT) Research Tenure Track-Oral Biology</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Faculty</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=150223&job=assistant-professor-statistics-mathematics-statistics-and-computer-science" title="Assistant Professor (Statistics) - Mathematics, Statistics, and Computer Science">Assistant Professor (Statistics) - Mathematics, Statistics, and Computer Science</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Faculty</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=149754&job=assistant-professor-economics-faculty" title="Assistant Professor - Economics; Faculty">Assistant Professor - Economics; Faculty</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Faculty</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=150222&job=assistant-professor-mathematics-statistics-and-computer-science" title="Assistant Professor - Mathematics, Statistics, and Computer Science">Assistant Professor - Mathematics, Statistics, and Computer Science</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Faculty</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=155309&job=assistant-associate-full-professor-department-of-microbiology-and-immunology" title="Assistant/Associate/Full Professor- Department of Microbiology and Immunology">Assistant/Associate/Full Professor- Department of Microbiology and Immunology</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Faculty</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=148721&job=assistant-associate-professor-mechanical-and-industrial-engineering" title="Assistant/Associate/Professor Mechanical and Industrial Engineering">Assistant/Associate/Professor Mechanical and Industrial Engineering</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Faculty</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=156112&job=associate-director-of-accounting-and-finance-business-administrative-associate" title="Associate Director of Accounting and Finance - Business/ Administrative Associate">Associate Director of Accounting and Finance - Business/ Administrative Associate</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Civil Service</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=154730&job=associate-head" title="Associate Head">Associate Head</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Faculty</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=156698&job=associate-or-full-professor-health-policy-and-administration" title="Associate or Full Professor - Health Policy and Administration">Associate or Full Professor - Health Policy and Administration</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Faculty</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=154087&job=associate-or-full-professor-endowed-chair-chemical-biology-and-drug-discovery" title="Associate or Full Professor/Endowed Chair - Chemical Biology and Drug Discovery">Associate or Full Professor/Endowed Chair - Chemical Biology and Drug Discovery</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Faculty</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=155984&job=biomedical-informatics-research-specialist" title="Biomedical Informatics Research Specialist">Biomedical Informatics Research Specialist</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Academic Professional</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=155208&job=bridge-to-faculty-research-scholar-pharmacy-practice" title="Bridge to Faculty Research Scholar - Pharmacy Practice">Bridge to Faculty Research Scholar - Pharmacy Practice</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Postdoc Res Assoc</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=88422&job=building-service-worker-hospital" title="Building Service Worker Hospital">Building Service Worker Hospital</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Civil Service</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=153907&job=business-administrative-associate-college-of-medicine-department-of-otolaryngology" title="Business Administrative Associate - College of Medicine, Department of Otolaryngology">Business Administrative Associate - College of Medicine, Department of Otolaryngology</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Civil Service</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=154804&job=business-administrative-associate-college-of-medicine-office-of-the-dean" title="Business Administrative Associate - College of Medicine, Office of the Dean">Business Administrative Associate - College of Medicine, Office of the Dean</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Civil Service</span>
+						</div>
+					
+								
+							</li>
+						
+							<li class="job">
+								
+									
+		<h4><a href="https://jobs.uic.edu/job-board/job-details?jobID=151384&job=campus-recreation-coordinator-member-services-coordinator-campus-recreation" title="Campus Recreation Coordinator (Member Services Coordinator) - Campus Recreation">Campus Recreation Coordinator (Member Services Coordinator) - Campus Recreation</a></h4>
+		
+						<div class="category">
+							<span id="label_for_category">Job Category: </span>
+							<span id="field_for_category">Civil Service</span>
+						</div>
+					
+								
+							</li>
+						
+					</ul>
+				</li>
+			
+		</ul>
+	</div></div></fieldset>
+<div class="pagination">
+
+			<div class="send-right">
+				<ul class="pagination">
+					<li class="pagination_count first form-inline">
+						Records 1-25 of 168
+					</li>
+					
+								<li class="pagination_first"><a class="not_active" href="#" onclick="return false;">First</a></li>
+							
+								<li class="pagination_previous"><a class="not_active" href="#" onclick="return false">Previous</a></li>
+							
+								<li class="pagination_next"><a href="/chicago/default.cfm?&per=25&start=26">Next</a></li>
+							
+								<li class="pagination_last"><a href="/chicago/default.cfm?&per=25&start=144">Last</a></li>
+							
+						<li class="pagination_jump form-inline">
+							Page
+							<select name="pagination_jump" class="form-control input-sm" onchange="window.location='/chicago/default.cfm?&per=25&start='+this.value;">
+								
+									<option value="1" selected>1</option>
+								
+									<option value="26" >2</option>
+								
+									<option value="51" >3</option>
+								
+									<option value="76" >4</option>
+								
+									<option value="101" >5</option>
+								
+									<option value="126" >6</option>
+								
+									<option value="151" >7</option>
+								
+							</select>
+						</li>
+					
+						<li class="pagination_per form-inline">
+							Per Page
+							<select name="pagination_per" class="form-control input-sm" onchange="window.location='/chicago/default.cfm?&start=1&per='+this.value;">
+								
+									<option value="25" selected>25</option>
+								
+									<option value="50" >50</option>
+								
+									<option value="100" >100</option>
+								
+							</select>
+						</li>
+					
+				</ul>
+			</div>
+		
+</div>
+</div>
+<div>
+<div class="wysiwyg" elementID="BF02D4AF-1AF4-4DDB-AD86-41760BAAFEED">
+	<p>&nbsp;</p>
+
+<div class="disclaimerText"><em>Offers of employment by the University of Illinois may be subject to approval by the University’s Board of Trustees and are made contingent upon the candidate’s successful completion of any criminal background checks and other pre-employment assessments that may be required for the position being offered. Additional information regarding such pre-employment checks and assessments may be provided as applicable during the hiring process.<br />
+<br />
+As a qualifying federal contractor, the University of Illinois System uses <a href="https://e-verify.uscis.gov/web/media/resourcesContents/E-Verify_Participation_Poster_ES.pdf" target="_blank">E-Verify</a> to verify <a href="https://www.e-verify.gov/sites/default/files/everify/posters/IER_RightToWorkPoster%20Eng_Es.pdf" target="_blank">employment eligibility</a>.<br />
+<br />
+The University of Illinois System requires candidates selected for hire to disclose any documented finding of sexual misconduct or sexual harassment and to authorize inquiries to current and former employers regarding findings of sexual misconduct or sexual harassment. For more information, visit <a href="https://www.hr.uillinois.edu/cms/One.aspx?portalId=4292&amp;amp;pageId=1411899" target="_blank">https://www.hr.uillinois.edu/cms/One.aspx?portalId=4292&amp;pageId=1411899</a><br />
+<br />
+University of Illinois faculty, staff and students are required to be fully vaccinated against COVID-19. If you are not able to receive the vaccine for medical or religious reasons, you may seek approval for an exemption in accordance with applicable University processes.</em></div>
+
+<p>&nbsp;</p>
+</div>
+</div>
+  </div>
+  <div id="layout_footer">
+    <div>
+<div class="wysiwyg" elementID="CFAB4B1D-C38D-440A-AA95-4A1BAF0D13DB">
+	<div id="foot">
+<div class="logos">
+<div class="col1">&nbsp;
+<h1 class="logo"><img alt="UIC Human Resources" height="21" src="https://jobs.uic.edu/uploads/63/Image/CAMP_SIDE_NOTL_LG_WHT.png" width="150" /></h1>
+</div>
+
+<div class="col2">&nbsp;
+<h1 class="logo"><img alt="UIC Human Resources" height="24" src="https://jobs.uic.edu/uploads/63/Image/UI_Logo_wtag_Black_Transparent.png" width="150" /></h1>
+</div>
+
+<div class="col3">&nbsp;
+<ul>
+	<li><a href="https://jobs.uic.edu/help">Support</a></li>
+	<li><a href="https://hrnet.uihr.uillinois.edu/panda-cf/index.cfm?Item_ID=3394">Employment Notices </a>- view Federal and State notices related to employment at the University of Illinois.</li>
+	<li><a href="https://clery.uic.edu/">Notice of Availability of the UIC Annual Security and Fire Safety Report</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="copyright">
+<p align="center" font-color="black">Copyright 2016 The Board of Trustees of the University of Illinois | Web Privacy Statement</p>
+</div>
+</div>
+</div>
+  </div>
+</div>
+	</div>
+</body>
+</html> <script type="text/javascript">
+					jQuery(document).ready(function() {
+						checkIECompatibilityMode();
+					})
+					function checkIECompatibilityMode(){
+						if(System.getBrowser()== 'IE'){
+							var agentStr = navigator.userAgent;
+					        var mode;
+					        if (agentStr.indexOf("Trident/5.0") > -1) {
+					            if (agentStr.indexOf("MSIE 7.0") > -1)
+					                mode = "IE9 Compatibility View";
+					            else
+					                mode = "IE9";
+					        }
+					        else if (agentStr.indexOf("Trident/4.0") > -1) {
+					            if (agentStr.indexOf("MSIE 7.0") > -1)
+					                mode = "IE8 Compatibility View";
+					            else
+					                mode = "IE8";
+					        }
+					        else if(agentStr.indexOf("Trident/6.0")){
+					        	mode = "IE10";
+					        }
+					        else
+					            mode = "IE7";					
+
+							var url='https://jobs.uic.edu/IECompatibility.cfm?mode='+mode;
+							if(mode=='IE9 Compatibility View' || mode=='IE8 Compatibility View' || mode=='IE7'){
+								Modal.displayModal(url);
+							}
+						}
+					}
+						
+				</script> 

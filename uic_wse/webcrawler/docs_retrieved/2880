@@ -1,0 +1,166 @@
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>
+	CampusCare
+</title><link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" /><script src="/Scripts/modernizr-2.6.2.js"></script>
+<link href="/Content/bootstrap.css" rel="stylesheet"/>
+<link href="/Content/Site.css" rel="stylesheet"/>
+
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" /><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous" />
+           <script language="JavaScript">
+            <!-- begin hide
+        
+                function gotoHttps()
+                {
+                    if(window.location.href.indexOf("http://") > -1 )
+                    {
+                        var oldURL = window.location.hostname + window.location.pathname;
+                        newURL = "https://" + oldURL;
+                        window.location = newURL;
+                    }
+                }
+                gotoHttps();
+        
+            // end hide -->
+    </script>
+        <!-- OneTrust Cookies Consent Notice start, uic.edu -->
+        <script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="c2f2262d-b694-4eba-8f4b-142c102b685a"></script>
+        <script type="text/javascript">
+            function OptanonWrapper() { }
+        </script>
+    <!-- OneTrust Cookies Consent Notice end, uic.edu -->
+</head>
+<body onload="hideLoadBar()">
+    <form method="post" action="./selectLogin" id="ctl01">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="2JY84+ayU+oj0A45wk8QZ24/1+Bzx+UUTW76J+RHDIqizMWZb4/Y1wgXuyQxnyjN3cEvut+pPpt0VEylrCxdQ5mPbq3zR7dG+cjzlTmxF0FxxsRg7aWHn89ej4Ih3FnFvjffCLFwe2xfR9mZVPUcrldUWRatayVFiBe7M+GJW/o=" />
+
+
+<script src="/bundles/MsAjaxJs?v=c42ygB2U07n37m_Sfa8ZbLGVu4Rr2gsBo7MvUEnJeZ81" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="Scripts/bootstrap.js" type="text/javascript"></script>
+<script src="Scripts/respond.js" type="text/javascript"></script>
+<script src="/bundles/WebFormsJs?v=AAyiAYwMfvmwjNSBfIMrBAqfU5exDukMVhrRuZ-PDU01" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="DA45823D" />
+        
+
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="default" class="navbar-brand">CampusCare </a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                                                
+                        
+                        
+                        
+                    </ul>
+                    
+                            <ul class="nav navbar-nav navbar-right">
+                                <li><a href="default">Log In</a></li>
+                            </ul>
+                        
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+
+            
+
+    <div class="row">
+        <div class="col-md-6" >
+            <h1>Login to CampusCare</h1>
+
+            <p>Please select the Login method that applies to you:</p>
+            <a href="/login/" class="btn btn-primary">Login for UIC Students and Staff</a>
+            <a href="/EligibilityCheck/login.aspx" class="btn btn-primary">Login for External Eligibility Checker</a>
+        </div>
+    </div>
+
+
+            <hr />
+            <footer>
+                <p>&copy; 2021 - CampusCare &nbsp; (312) 996-4915 &nbsp; <a href="mailto:cchealth@uic.edu">cchealth@uic.edu</a> | <a target="_blank" href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Policy</a>
+                       | <a style="color:#428bca;border:0;margin:0px;padding:2px;font-size:100%;" id="ot-sdk-btn" class="ot-sdk-show-settings CookieButton">About Cookies</a></p>
+            </footer>
+        </div>
+        <div id="coverScreen" class="LockOn">Loading...</div>
+
+            <script>
+                $(document).ready(function() {
+                    $( ".datepicker" ).datepicker();
+                });
+            </script>
+            <script type="text/javascript">
+                $(document).ready(function () {
+                    $('#MainContent_txtQualifyingEventDate').keyup(function () {
+                        if($("#MainContent_ddlQualifyingEvent").val() == "1")
+                            $("#MainContent_txtDOB").val($('#MainContent_txtQualifyingEventDate').val());
+                        else if($("#MainContent_ddlQualifyingEvent").val() == "2")
+                            $("#MainContent_txtDOM").val($('#MainContent_txtQualifyingEventDate').val());           
+                    });
+                });
+            </script>
+        <script>
+
+            function showLoadBar() {
+                document.getElementById('coverScreen').style.visibility = "visible";
+            }
+            function hideLoadBar() {
+                document.getElementById('coverScreen').style.visibility = "hidden";
+            }
+            function deleteCookie() {
+                var cook = getCookie('ExcelDownloadFlag');
+                if (cook != "") {
+                    document.cookie = "ExcelDownloadFlag=;Path=/; expires=Thu, 01 Jan 1970 00:00:00 UTC";
+                }
+            }
+
+            function IsCookieValid() {
+                var cook = getCookie('ExcelDownloadFlag');
+                return cook != '';
+            }
+
+            function getCookie(cname) {
+                var name = cname + "=";
+                var ca = document.cookie.split(';');
+                for (var i = 0; i < ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charAt(0) == ' ') {
+                        c = c.substring(1);
+                    }
+                    if (c.indexOf(name) == 0) {
+                        return c.substring(name.length, c.length);
+                    }
+                }
+                return "";
+            }
+            function showLoadBarDownload() {
+                showLoadBar();
+                deleteCookie();
+
+                var loop = setInterval(function () {
+                    if (IsCookieValid())
+                    { hideLoadBar(); clearInterval(loop) }
+                }, 500);
+            }
+        </script>
+        
+    </form>
+</body>
+</html>

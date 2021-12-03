@@ -1,0 +1,442 @@
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Applied Health Sciences (AHS) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/css/courseleaf.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<header id="header-new">
+	<div class="wrap">
+		<div class="logo-header">
+			<a href="//www.uic.edu">
+				<img src="/images/logo2021.png" alt="University of Illinois Chicago" />
+			</a>
+		</div>
+		<nav class="catalog-quicklinks" aria-label="catalog quicklink">
+			<button id="hamburger" aria-controls="mobile-menu" data-toggle="#mobile-menu" aria-expanded="false">
+				<span class="sr-only">Toggle menu</span>
+				<i class="fa fa-bars" aria-hidden="true"></i>
+			</button>
+			<div id="mobile-menu">
+			<ul id="quicklinks">
+				<li><a href="/ucat/">Undergraduate</a></li>
+				<li><a href="/gcat">Graduate</a></li>
+				<li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+			</ul>
+			<div id="search" role="search">
+				<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />				</form>
+			</div><!-- end #search -->
+		</div><!-- /#mobile-menu -->
+		</nav>
+	</div>
+</header>
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <a href="/">
+			<h1>Academic Catalog</h1>
+		</a>
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<section id="banner" aria-labbledby="banner-header"
+ class="ugrad"
+>
+    <div class="wrap">
+
+		<div class="banner-text">
+			<h2 id="banner-header">2021-2023 Undergraduate Catalog</h2>
+		</div>
+
+
+
+
+
+    </div><!--end .wrap -->
+</section><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <a id="cl-menu-control" href="#" class="togglenav">
+                <span class="cl-menu-text">Catalog Navigation</span>
+                <!-- <a class="cl-menu-btn" href="#">Catalog Navigation</a> -->
+				<svg aria-label="Down arrow icon" width="32" height="32" viewBox="0 0 32 32" role="presentation"><title>Down arrow icon</title><g fill="none" fill-rule="evenodd"><circle class="_circle" stroke-width="1" stroke="#007Da5" fill="#fff" cx="16" cy="16" r="15"></circle><path class="_arrow" stroke-width="2" stroke="#001E62" stroke-linecap="round" d="M12 17l4 4 4-4M16 20v-9"></path></g></svg>
+			</a><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a></li>
+		<li class="active isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a>
+		<ul class="nav leveltwo" id="/ucat/course-descriptions/">
+			<li><a href="/ucat/course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+			<li><a href="/ucat/course-descriptions/actg/">Accounting (ACTG)</a></li>
+			<li><a href="/ucat/course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+			<li><a href="/ucat/course-descriptions/anth/">Anthropology (ANTH)</a></li>
+			<li class="active self"><a href="#" onclick="return false;">Applied Health Sciences (AHS)</a></li>
+			<li><a href="/ucat/course-descriptions/arab/">Arabic (ARAB)</a></li>
+			<li><a href="/ucat/course-descriptions/arch/">Architecture (ARCH)</a></li>
+			<li><a href="/ucat/course-descriptions/art/">Art (ART)</a></li>
+			<li><a href="/ucat/course-descriptions/ah/">Art History (AH)</a></li>
+			<li><a href="/ucat/course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+			<li><a href="/ucat/course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+			<li><a href="/ucat/course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+			<li><a href="/ucat/course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+			<li><a href="/ucat/course-descriptions/bme/">Biomedical Engineering (BME)</a></li>
+			<li><a href="/ucat/course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+			<li><a href="/ucat/course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+			<li><a href="/ucat/course-descriptions/blst/">Black Studies (BLST)</a></li>
+			<li><a href="/ucat/course-descriptions/ba/">Business Administration (BA)</a></li>
+			<li><a href="/ucat/course-descriptions/cc/">Campus Courses (CC)</a></li>
+			<li><a href="/ucat/course-descriptions/cst/">Catholic Studies (CST)</a></li>
+			<li><a href="/ucat/course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+			<li><a href="/ucat/course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+			<li><a href="/ucat/course-descriptions/chem/">Chemistry (CHEM)</a></li>
+			<li><a href="/ucat/course-descriptions/chin/">Chinese (CHIN)</a></li>
+			<li><a href="/ucat/course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+			<li><a href="/ucat/course-descriptions/cl/">Classics (CL)</a></li>
+			<li><a href="/ucat/course-descriptions/comm/">Communication (COMM)</a></li>
+			<li><a href="/ucat/course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+			<li><a href="/ucat/course-descriptions/cs/">Computer Science (CS)</a></li>
+			<li><a href="/ucat/course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+			<li><a href="/ucat/course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+			<li><a href="/ucat/course-descriptions/des/">Design (DES)</a></li>
+			<li><a href="/ucat/course-descriptions/dlg/">Dialogue (DLG)</a></li>
+			<li><a href="/ucat/course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+			<li><a href="/ucat/course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+			<li><a href="/ucat/course-descriptions/econ/">Economics (ECON)</a></li>
+			<li><a href="/ucat/course-descriptions/ed/">Education (ED)</a></li>
+			<li><a href="/ucat/course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+			<li><a href="/ucat/course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+			<li><a href="/ucat/course-descriptions/ece/">Electrical and Computer Engr (ECE)</a></li>
+			<li><a href="/ucat/course-descriptions/engr/">Engineering (ENGR)</a></li>
+			<li><a href="/ucat/course-descriptions/engl/">English (ENGL)</a></li>
+			<li><a href="/ucat/course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+			<li><a href="/ucat/course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+			<li><a href="/ucat/course-descriptions/fin/">Finance (FIN)</a></li>
+			<li><a href="/ucat/course-descriptions/fr/">French (FR)</a></li>
+			<li><a href="/ucat/course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+			<li><a href="/ucat/course-descriptions/geog/">Geography (GEOG)</a></li>
+			<li><a href="/ucat/course-descriptions/ger/">Germanic Studies (GER)</a></li>
+			<li><a href="/ucat/course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+			<li><a href="/ucat/course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+			<li><a href="/ucat/course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+			<li><a href="/ucat/course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+			<li><a href="/ucat/course-descriptions/him/">Health Information Management (HIM)</a></li>
+			<li><a href="/ucat/course-descriptions/heb/">Hebrew (HEB)</a></li>
+			<li><a href="/ucat/course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+			<li><a href="/ucat/course-descriptions/hist/">History (HIST)</a></li>
+			<li><a href="/ucat/course-descriptions/hon/">Honors College Courses (HON)</a></li>
+			<li><a href="/ucat/course-descriptions/hn/">Human Nutrition (HN)</a></li>
+			<li><a href="/ucat/course-descriptions/hum/">Humanities (HUM)</a></li>
+			<li><a href="/ucat/course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+			<li><a href="/ucat/course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+			<li><a href="/ucat/course-descriptions/it/">Information Technology (IT)</a></li>
+			<li><a href="/ucat/course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+			<li><a href="/ucat/course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+			<li><a href="/ucat/course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+			<li><a href="/ucat/course-descriptions/inst/">International Studies (INST)</a></li>
+			<li><a href="/ucat/course-descriptions/ital/">Italian (ITAL)</a></li>
+			<li><a href="/ucat/course-descriptions/jpn/">Japanese (JPN)</a></li>
+			<li><a href="/ucat/course-descriptions/jst/">Jewish Studies (JST)</a></li>
+			<li><a href="/ucat/course-descriptions/kn/">Kinesiology (KN)</a></li>
+			<li><a href="/ucat/course-descriptions/kor/">Korean (KOR)</a></li>
+			<li><a href="/ucat/course-descriptions/lat/">Latin (LAT)</a></li>
+			<li><a href="/ucat/course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+			<li><a href="/ucat/course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+			<li><a href="/ucat/course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+			<li><a href="/ucat/course-descriptions/ling/">Linguistics (LING)</a></li>
+			<li><a href="/ucat/course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+			<li><a href="/ucat/course-descriptions/lith/">Lithuanian (LITH)</a></li>
+			<li><a href="/ucat/course-descriptions/mgmt/">Management (MGMT)</a></li>
+			<li><a href="/ucat/course-descriptions/mktg/">Marketing (MKTG)</a></li>
+			<li><a href="/ucat/course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+			<li><a href="/ucat/course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+			<li><a href="/ucat/course-descriptions/math/">Mathematics (MATH)</a></li>
+			<li><a href="/ucat/course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+			<li><a href="/ucat/course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+			<li><a href="/ucat/course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+			<li><a href="/ucat/course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+			<li><a href="/ucat/course-descriptions/mils/">Military Science (MILS)</a></li>
+			<li><a href="/ucat/course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+			<li><a href="/ucat/course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+			<li><a href="/ucat/course-descriptions/mus/">Music (MUS)</a></li>
+			<li><a href="/ucat/course-descriptions/nast/">Native American Studies (NAST)</a></li>
+			<li><a href="/ucat/course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+			<li><a href="/ucat/course-descriptions/ns/">Naval Science (NS)</a></li>
+			<li><a href="/ucat/course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+			<li><a href="/ucat/course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+			<li><a href="/ucat/course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+			<li><a href="/ucat/course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+			<li><a href="/ucat/course-descriptions/path/">Pathology (PATH)</a></li>
+			<li><a href="/ucat/course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+			<li><a href="/ucat/course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+			<li><a href="/ucat/course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+			<li><a href="/ucat/course-descriptions/psop/">Pharmacy Systems, Outcomes &amp;&#8203; Policy (PSOP)</a></li>
+			<li><a href="/ucat/course-descriptions/phil/">Philosophy (PHIL)</a></li>
+			<li><a href="/ucat/course-descriptions/pt/">Physical Therapy (PT)</a></li>
+			<li><a href="/ucat/course-descriptions/phys/">Physics (PHYS)</a></li>
+			<li><a href="/ucat/course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+			<li><a href="/ucat/course-descriptions/pol/">Polish (POL)</a></li>
+			<li><a href="/ucat/course-descriptions/pols/">Political Science (POLS)</a></li>
+			<li><a href="/ucat/course-descriptions/port/">Portuguese (PORT)</a></li>
+			<li><a href="/ucat/course-descriptions/psch/">Psychology (PSCH)</a></li>
+			<li><a href="/ucat/course-descriptions/pa/">Public Administration (PA)</a></li>
+			<li><a href="/ucat/course-descriptions/pubh/">Public Health (PUBH)</a></li>
+			<li><a href="/ucat/course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+			<li><a href="/ucat/course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+			<li><a href="/ucat/course-descriptions/res/">Real Estate (RES)</a></li>
+			<li><a href="/ucat/course-descriptions/rels/">Religious Studies (RELS)</a></li>
+			<li><a href="/ucat/course-descriptions/russ/">Russian (RUSS)</a></li>
+			<li><a href="/ucat/course-descriptions/slav/">Slavic &amp;&#8203; Baltic Languages &amp;&#8203;Lit (SLAV)</a></li>
+			<li><a href="/ucat/course-descriptions/sj/">Social Justice (SJ)</a></li>
+			<li><a href="/ucat/course-descriptions/soc/">Sociology (SOC)</a></li>
+			<li><a href="/ucat/course-descriptions/span/">Spanish (SPAN)</a></li>
+			<li><a href="/ucat/course-descriptions/sped/">Special Education (SPED)</a></li>
+			<li><a href="/ucat/course-descriptions/stat/">Statistics (STAT)</a></li>
+			<li><a href="/ucat/course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+			<li><a href="/ucat/course-descriptions/thtr/">Theatre (THTR)</a></li>
+			<li><a href="/ucat/course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+			<li><a href="/ucat/course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+			<li><a href="/ucat/course-descriptions/us/">Urban Studies (US)</a></li>
+		</ul>
+		</li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/course-descriptions/">Undergraduate&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Applied Health Sciences (AHS)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Applied Health Sciences (AHS)</h1>
+
+
+
+<div id="textcontainer" class="page_content">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="ahscourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>AHS&#160;100.  Applied Health Sciences Seminar I.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Introduces students to resources at UIC.  Emphasizes academic skill building, professional development, major/career exploration, health and wellness, social justice, diversity and inclusion and community engagement. Course Information: Satisfactory/Unsatisfactory grading only. Meets eight weeks out of the semester.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AHS&#160;101.  Rehabilitation Sciences Student Success Seminar.  1 hour.</strong></p>
+<p class="courseblockdesc">
+This introductory seminar is designed to provide participants the opportunity to explore, practice, and reflect on the overall building blocks for success as a college student in the Rehabilitation Sciences program at UIC. Course Information: Satisfactory/Unsatisfactory grading only. Priority will be given to students in the BS in Rehabilitation Sciences.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AHS&#160;102.  Introduction to Clinical Research in Rehabilitation Sciences.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Continued introduction from <a href="/search/?P=AHS%20101" title="AHS&#160;101" class="bubblelink code" onclick="return showCourse(this, 'AHS 101');">AHS&#160;101</a> to evidence based practice and research. Students will conduct a literature review the health sciences, interpret data and create a report with proper referencing. Course Information: Prerequisite(s): <a href="/search/?P=AHS%20101" title="AHS&#160;101" class="bubblelink code" onclick="return showCourse(this, 'AHS 101');">AHS&#160;101</a>. Priority will be given to students in the BS in Rehabilitation Sciences.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AHS&#160;111.  Career Planning in the Health Sciences.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Provides the skills to develop personal career planning and development for health and other sectors. Promotes self-discovery, explores career choices, and aids the  articulation of academic goals and career plans upon completion of this course. Course Information: Extensive computer use required. Meets eight weeks of the semester.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AHS&#160;112.  Career Readiness in the Health Sciences.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Explores skills needed: to create a self-brand; to navigate a job search; to develop life skills for the world of work. Emphasis on health-related vocations and on personal and professional development throughout the career-span. Course Information:.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AHS&#160;200.  Introduction to Integrated Health Sciences.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Overview of the biological, behavioral, economical, and socio-cultural determinants of health from the level of the gene to society. Contextualizes health into current behavioral and social theories and paradigms. Course Information: Taught as a blended course with both online content and face to face discussion sessions.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AHS&#160;210.  Introduction to Rehabilitation Sciences.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Aspects of rehabilitation social sciences as they relate to the maximization of functional capacity in persons seeking rehabilitation services, and the interaction of persons with the surrounding environment. Course Information: Prerequisite(s): <a href="/search/?P=AHS%20100" title="AHS&#160;100" class="bubblelink code" onclick="return showCourse(this, 'AHS 100');">AHS&#160;100</a> or credit or concurrent registration in <a href="/search/?P=AHS%20101" title="AHS&#160;101" class="bubblelink code" onclick="return showCourse(this, 'AHS 101');">AHS&#160;101</a>. Priority registration for students in the BS in Rehabilitation major.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AHS&#160;294.  Special Topics in the Health Sciences.  1-5 hours.</strong></p>
+<p class="courseblockdesc">
+Covers special topics relevant to the health sciences. Course Information: May be repeated.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AHS&#160;299.  Applied Health Scienes Study Abroad.  0-18 hours.</strong></p>
+<p class="courseblockdesc">
+Provides credit for study abroad. Student's proposal must have prior approval of the student's major program or department. Final determination of credit is made on the student's completion of the work. Course Information: May be repeated for a maximum of 36 hours per academic year or for a total of 48 hours, all of which must be earned within one calendar year.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AHS&#160;304.  Human Sexuality and Health Science.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to sexuality and sexual functioning across the lifespan with particular emphasis on the intersection of sexuality and health. Course Information: Taught as a blended course with both online content and face to face discussion sessions.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AHS&#160;325.  Approaches to Rehabilitation Case Management.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Case management of clients in rehabilitation settings through continuum of care from acute care to home/community. Introduction to collaborative process of assessment, planning, care coordination, evaluation, and advocacy to meet an individualâ€™s and family needs. Course Information: Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=AHS%20210" title="AHS&#160;210" class="bubblelink code" onclick="return showCourse(this, 'AHS 210');">AHS&#160;210</a>. Priority will be given to students in the BS in Rehabilitation Sciences, but the course will be open to all UIC students who meet the prerequisite requirement.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AHS&#160;330.  Physical and Mental Health Issues in Rehabilitation.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces students to common diagnostic conditions seen in rehabilitation, the physical and mental health impact of each condition, and implications for independent living and community participation. Course Information: Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=AHS%20210" title="AHS&#160;210" class="bubblelink code" onclick="return showCourse(this, 'AHS 210');">AHS&#160;210</a>. Priority will be given to students in the BS in Rehabilitation Sciences, but will be open to other students with approval.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AHS&#160;365.  Measurement and Assessment in Rehabilitation.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Designed to introduce students to measures and assessments used in rehabilitation sciences. The course will cover examples of measures used in clinical practice as well as in rehabilitation research. Course Information: Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=AHS%20210" title="AHS&#160;210" class="bubblelink code" onclick="return showCourse(this, 'AHS 210');">AHS&#160;210</a>; and <a href="/search/?P=STAT%20101" title="STAT&#160;101" class="bubblelink code" onclick="return showCourse(this, 'STAT 101');">STAT&#160;101</a> or <a href="/search/?P=STAT%20130" title="STAT&#160;130" class="bubblelink code" onclick="return showCourse(this, 'STAT 130');">STAT&#160;130</a>; or consent of the instructor. Priority will be given to students in the BS in Rehabilitation Sciences, but open to all UIC students who meet the prerequisites requirements.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AHS&#160;375.  Ethics, Law and Professionalism in Health Sciences.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of the ethical, legal, and professional theories, issues, and decision-making process involved in health sciences and health care environments. Course Information: Priority to senior level students in BS in Rehabilitation Sciences and BS in Liberal Arts and Sciences, majors in Integrated Health Studies, but open to all UIC students.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AHS&#160;393.  Synthesis in Health/Rehabilitation Sciences.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Designed to allow students to synthesize major course work and practical knowledge they have gained in pursuit of their career goal(s) and to revise or further develop their career plan. Course Information: Satisfactory/Unsatisfactory grading only. Field work required. Prerequisite(s): Junior standing or above.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AHS&#160;396.  Independent Study in Applied Health Sciences.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in applied health sciences for individual student study, with faculty approval and supervision. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated to a maximum of 8 hours. Prerequisite(s): Junior standing or above.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AHS&#160;402.  Health Inter-professional Seminar.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Exposure to a variety of healthcare providers in an effort to educate students to better provide patient care and consumer services  and to deliver patient-centered care and consumer services as an interdisciplinary team. Course Information: Priority will be given to students in the BS in Rehabilitation Sciences.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AHS&#160;425.  Rehabilitation Services and Resources for Children with Developmental Disabilities and Families.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to general concepts related to rehabilitation services and settings for children with or at risk for developmental delays/disabilities and their family.  Emphasis is placed on understanding evidence-based therapies,supports,and resources. Course Information: Prerequisite(s): <a href="/search/?P=AHS%20210" title="AHS&#160;210" class="bubblelink code" onclick="return showCourse(this, 'AHS 210');">AHS&#160;210</a> and <a href="/search/?P=AHS%20330" title="AHS&#160;330" class="bubblelink code" onclick="return showCourse(this, 'AHS 330');">AHS&#160;330</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AHS&#160;495.  Urban Health Multicultural Seminar.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Students attend multicultural and urban health-related seminars,  participate in faculty-student discussion, academic presentations, and directed reading groups to integrate issues of cultural difference into students' professional development.  Course Information:  Satisfactory/Unsatisfactory grading only.  May be repeated.  All Academy seminars are pre-approved: other approved events will be announced to students.  Any off-campus events must have prior approval. One academic year is allotted for completion of seminar. Students should register the semester they begin attending lectures; grades will be deferred until course is completed.  Prerequisite(s):  Sophomore standing or above.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2021-2023 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" aria-labeledby="dialog-title" class="screen" role="dialog">
+	<div class="print-header">
+		<h2 id="dialog-title">Print Options</h2>
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+<div class="print-option"><div class="option-head"><a class="option-name" href="/ucat/course-descriptions/ahs/ahs.pdf" role="button">Download Page (PDF)</a></div><p class="option-desc"><em>The PDF will include all information unique to this page.</em></p></div><div class="print-option"><div class="option-head"><a class="option-name" href="/pdf/2021-23-undergraduate.pdf" target="_blank">Download PDF of the entire Undergraduate Catalog</a></div><p class="option-desc"><em>All pages in the campus catalog.</em></p></div>    </div>
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

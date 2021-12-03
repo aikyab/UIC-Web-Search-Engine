@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<!-- OneTrust Cookies Consent Notice start, uic.edu -->
+<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="c2f2262d-b694-4eba-8f4b-142c102b685a"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end, uic.edu -->
+
+
+<!-- Google Analytics Code -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-20665772-1', 'auto');
+    ga('create', 'UA-4402713-9', 'auto', 'todayTracker');
+    ga('send', 'pageview');
+    ga('todayTracker.send', 'pageview');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-57G9C3Q');</script>
+<!-- End Google Tag Manager -->
+  
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>UIC Today</title>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://today.uic.edu/wp-content/themes/uictoday/style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://today.uic.edu/wp-content/themes/uictoday/css/style.min.css" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://today.uic.edu/feed" />
+<link rel="shortcut icon" href="https://today.uic.edu/wp-content/themes/uictoday/favicon.ico" />
+
+<!-- Favicons -->
+<!-- generated at https://favicon.io/favicon-converter/ -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/today.uic.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://today.uic.edu/wp-includes/css/dist/block-library/style.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ugb-style-css-v2-css'  href='https://today.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/deprecated/frontend_blocks_deprecated_v2.css?ver=3.0.2' type='text/css' media='all' />
+<style id='ugb-style-css-v2-inline-css' type='text/css'>
+:root {
+			--content-width: 900px;
+		}
+</style>
+<link rel='stylesheet' id='ugb-style-css-premium-v2-css'  href='https://today.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/deprecated/frontend_blocks_deprecated_v2__premium_only.css?ver=3.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-components-css'  href='https://today.uic.edu/wp-includes/css/dist/components/style.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css'  href='https://today.uic.edu/wp-includes/css/dist/block-editor/style.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-nux-css'  href='https://today.uic.edu/wp-includes/css/dist/nux/style.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-css'  href='https://today.uic.edu/wp-includes/css/dist/editor/style.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='sld_block-cgb-style-css-css'  href='https://today.uic.edu/wp-content/plugins/simple-link-directory/gutenberg/sld-block/dist/blocks.style.build.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='events-manager-css'  href='https://today.uic.edu/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.99912' type='text/css' media='all' />
+<link rel='stylesheet' id='ssp-recent-episodes-css'  href='https://today.uic.edu/wp-content/plugins/seriously-simple-podcasting/assets/css/recent-episodes.css?ver=2.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wow-icons-fa-css'  href='https://today.uic.edu/wp-content/plugins/wow-icons//assets/fontawesome/font-awesome.min.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='upw_theme_standard-css'  href='https://today.uic.edu/wp-content/plugins/ultimate-posts-widget/css/upw-theme-standard.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://today.uic.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.14' type='text/css' media='all' />
+<style id='tablepress-default-inline-css' type='text/css'>
+.tablepress-id-1 .column-1{vertical-align:middle}.tablepress-id-1 tbody td{font-size:15px}.tablepress-id-1{width:auto important!}.tablepress-id-1 img{margin:0!important}.tablepress-id-6 .column-1{vertical-align:middle}.tablepress-id-6 tbody td{font-size:15px}.tablepress-id-6{width:auto important!}.tablepress-id-6 img{margin:0!important}.tablepress-id-3 thead th{font-weight:400;font-size:1.9em;margin-top:.83em;margin-bottom:.83em;background-color:#006;color:#FFF}.tablepress-id-3 .row-2 td{background-color:#C00;color:#FFF}.tablepress-id-3 .odd td{background-color:#e6e6e6}.tablepress-id-3 td{padding:6px 15px;border:#999 1px solid}.tablepress-id-3 .column-1{width:50%}.tablepress-id-4 thead th{font-weight:400;font-size:1.9em;margin-top:.83em;margin-bottom:.83em;background-color:#006;color:#FFF}.tablepress-id-4 .row-2 td{background-color:#C00;color:#FFF}.tablepress-id-4 .odd td{background-color:#e6e6e6}.tablepress-id-4 td{padding:6px 15px;border:#999 1px solid}.tablepress-id-4 .column-1{width:50%}.tablepress-id-5 thead th{font-weight:400;font-size:1.9em;margin-top:.83em;margin-bottom:.83em;background-color:#006;color:#FFF}.tablepress-id-5 .row-2 td{background-color:#C00;color:#FFF}.tablepress-id-5 .odd td{background-color:#e6e6e6}.tablepress-id-5 td{padding:6px 15px;border:#999 1px solid}.tablepress-id-5 .column-1{width:50%}
+</style>
+<link rel='stylesheet' id='ari-fancybox-css'  href='https://today.uic.edu/wp-content/plugins/ari-fancy-lightbox/assets/fancybox/jquery.fancybox.min.css?ver=1.3.8' type='text/css' media='all' />
+<script type='text/javascript' id='ugb-block-frontend-js-v2-js-extra'>
+/* <![CDATA[ */
+var stackable = {"restUrl":"https:\/\/today.uic.edu\/wp-json\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/deprecated/frontend_blocks_deprecated_v2.js?ver=3.0.2' id='ugb-block-frontend-js-v2-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/deprecated/frontend_blocks_deprecated_v2__premium_only.js?ver=3.0.2' id='ugb-block-frontend-js-premium-v2-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/mouse.min.js?ver=1.12.1' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/sortable.min.js?ver=1.12.1' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.12.1' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/menu.min.js?ver=1.12.1' id='jquery-ui-menu-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/dist/dom-ready.min.js?ver=eb19f7980f0268577acb5c2da5457de3' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/dist/hooks.min.js?ver=50e23bed88bcb9e6e14023e9961698c1' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/dist/i18n.min.js?ver=db9a9a37da262883343e941c3731bc67' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' id='wp-a11y-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/dist/a11y.min.js?ver=5e00de7a43b31bbb9eaf685f089a3903' id='wp-a11y-js'></script>
+<script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.12.1' id='jquery-ui-autocomplete-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/resizable.min.js?ver=1.12.1' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/draggable.min.js?ver=1.12.1' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.12.1' id='jquery-ui-controlgroup-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.12.1' id='jquery-ui-checkboxradio-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/button.min.js?ver=1.12.1' id='jquery-ui-button-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/dialog.min.js?ver=1.12.1' id='jquery-ui-dialog-js'></script>
+<script type='text/javascript' id='events-manager-js-extra'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"https:\/\/today.uic.edu\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/today.uic.edu\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"mm\/dd\/yy","ui_css":"https:\/\/today.uic.edu\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui.min.css","show24hours":"0","is_ssl":"1","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading...","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.99912' id='events-manager-js'></script>
+<script type='text/javascript' id='ari-fancybox-js-extra'>
+/* <![CDATA[ */
+var ARI_FANCYBOX = {"lightbox":{"touch":{"vertical":true,"momentum":true},"buttons":["slideShow","fullScreen","thumbs","close"],"lang":"custom","i18n":{"custom":{"PREV":"Previous","NEXT":"Next","PLAY_START":"Start slideshow (P)","PLAY_STOP":"Stop slideshow (P)","FULL_SCREEN":"Full screen (F)","THUMBS":"Thumbnails (G)","CLOSE":"Close (Esc)","ERROR":"The requested content cannot be loaded. <br\/> Please try again later."}}},"convert":{},"viewers":{"pdfjs":{"url":"https:\/\/today.uic.edu\/wp-content\/plugins\/ari-fancy-lightbox\/assets\/pdfjs\/web\/viewer.html"}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/ari-fancy-lightbox/assets/fancybox/jquery.fancybox.min.js?ver=1.3.8' id='ari-fancybox-js'></script>
+<link rel="https://api.w.org/" href="https://today.uic.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://today.uic.edu/wp-json/wp/v2/pages/119339" /><link rel="canonical" href="https://today.uic.edu/research-impact" />
+<link rel='shortlink' href='https://today.uic.edu/?p=119339' />
+<link rel="alternate" type="application/json+oembed" href="https://today.uic.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftoday.uic.edu%2Fresearch-impact" />
+<link rel="alternate" type="text/xml+oembed" href="https://today.uic.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftoday.uic.edu%2Fresearch-impact&#038;format=xml" />
+
+<link rel="alternate" type="application/rss+xml" title="Podcast RSS feed" href="https://today.uic.edu/feed/podcast" />
+
+<script type="text/javascript">
+           var ajaxurl = "https://today.uic.edu/wp-admin/admin-ajax.php";
+         </script><style type="text/css">BODY .fancybox-container{z-index:200000}BODY .fancybox-is-open .fancybox-bg{opacity:0.87}BODY .fancybox-bg {background-color:#0f0f11}BODY .fancybox-thumbs {background-color:#ffffff}</style>
+<!-- Put the following javascript before the closing </head> tag. -->
+
+<script>
+  (function() {
+    var cx = '009511351313755808885:xdz07yl93pe';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+</head>
+
+<body role="document" class="page-template page-template-page-blank page-template-page-blank-php page page-id-119339 wp-embed-responsive">
+  
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57G9C3Q"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<div id="skip" role="complementary">
+<a href="#the_content">Skip to main content</a></div>
+
+
+
+
+
+
+
+
+<div id="container-blank" role="main" aria-label="Main content" class="clearfix">
+
+
+<a name="the_content" id="the_content" tabindex="-1" aria-label="Main content area"></a>
+
+
+
+
+
+
+	<div id="content-blank">
+		<h1></h1>
+		<p>
+<figure class="wp-block-image size-large"><a href="https://today.uic.edu/camp-hrz_-sm_-rgb_"><img loading="lazy" width="361" height="71" src="https://today.uic.edu/files/2021/11/CAMP.HRZ_.SM_.RGB_.png" alt="University of Illinois Chicago Logo" class="wp-image-120244"/></a></figure>
+
+
+
+<div class="alignfull wp-block-ugb-header ugb-header ugb-9127e5e ugb-header ugb-header--v3 ugb-header--design-half-overlay ugb-main-block ugb--has-custom-content-width ugb--has-custom-content-width-mobile ugb-main-block--inner-full ugb--has-block-background ugb--has-background-overlay"><style>.ugb-9127e5e .ugb-header__item{background-color:rgba(0,0,0,0) !important}.ugb-9127e5e .ugb-header__item:before{background-color:#000000 !important}.ugb-9127e5e .ugb-content-wrapper,.ugb-9127e5e .ugb-content-wrapper:after{background:rgba(0,0,0,0.2) !important}.ugb-9127e5e .ugb-header__title{font-family:"Poppins",Sans-serif !important;font-size:80px !important;font-weight:600 !important;letter-spacing:-1.5px !important;line-height:1em !important;color:#ffffff;text-align:center !important}.ugb-9127e5e .ugb-header__subtitle{font-size:20px !important;font-weight:bold !important;color:#ffffff;text-align:center}.ugb-9127e5e .ugb-header__buttons{justify-content:center !important}.ugb-9127e5e .ugb-button1 .ugb-button--inner{font-family:"Rubik",Sans-serif !important;font-size:18px !important}.ugb-9127e5e .ugb-button1{background-color:#d50032;padding-right:50px;padding-left:50px;border-radius:4px !important}.ugb-9127e5e .ugb-button1 .ugb-button--inner,.ugb-9127e5e .ugb-button1 svg:not(.ugb-custom-icon){color:#ffffff !important}.ugb-9127e5e .ugb-button1:hover .ugb-button--inner,.ugb-9127e5e .ugb-button1:hover svg:not(.ugb-custom-icon){color:#ffffff !important}.ugb-9127e5e .ugb-button1:hover{background-color:#ed5f47;opacity:0.9}.ugb-9127e5e .ugb-button1:before{border-radius:4px !important}.ugb-9127e5e .ugb-inner-block{text-align:center}.ugb-9127e5e.ugb-header{min-height:90vh;background-color:#ffffff;background-image:url(https://today.uic.edu/files/2021/10/micro-1b.png)}.ugb-9127e5e.ugb-header > .ugb-inner-block{max-width:80% !important}.ugb-9127e5e.ugb-header:before{background-image:linear-gradient(150deg,#ffffff 27%,#e4dcdc 100%);opacity:0.9;mix-blend-mode:multiply}@media screen and (min-width:768px){.ugb-9127e5e > .ugb-inner-block > .ugb-block-content > *{justify-content:center !important}}@media screen and (max-width:1025px){.ugb-9127e5e .ugb-header__title{font-size:50px !important}}@media screen and (max-width:768px){.ugb-9127e5e .ugb-header__title{font-size:60px !important}.ugb-9127e5e.ugb-header{padding-top:1% !important;padding-right:1% !important;padding-bottom:1% !important;padding-left:1% !important;justify-content:center}.ugb-9127e5e.ugb-header > .ugb-inner-block{max-width:100% !important}}@media screen and (-ms-high-contrast:active),screen and (-ms-high-contrast:none){.ugb-9127e5e.ugb-header{height:90vh}}</style><div class="ugb-inner-block ugb-inner-block--full"><div class="ugb-block-content"><div class="ugb-header__item ugb--shadow-0"><div class="ugb-content-wrapper"><h1 class="ugb-header__title">$446 Million<br>Annual Sponsored Research</h1><p class="ugb-header__subtitle">University of Illinois Chicago</p><div class="ugb-header__buttons"><div class="ugb-button-container"><a class="ugb-button1 ugb-button ugb-button--size-normal ugb--hover-effect-scale-more" href="https://today.uic.edu/with-awards-totaling-446m-uic-sets-record-for-annual-research-funding" rel="" title=""><span class="ugb-button--inner">UIC&#8217;s Record Year in Research</span></a></div></div></div></div></div></div></div>
+
+
+
+<div class="alignwide wp-block-ugb-number-box ugb-number-box ugb-d912c17 ugb-number-box--v3 ugb-number-box--columns-3 ugb-number-box--design-plain ugb-number-box--number-style-none ugb-main-block ugb--has-top-separator"><style>.ugb-d912c17 .ugb-number-box__number{font-family:"Poppins",Sans-serif !important;font-size:55px !important;font-weight:600 !important;letter-spacing:-0.2px !important;line-height:1.1em !important;color:#d50032 !important;text-indent:-0.2px;margin-bottom:3px !important}.ugb-d912c17 .ugb-number-box__title{font-family:"Poppins",Sans-serif !important;font-size:20px !important;font-weight:600 !important;text-transform:uppercase !important;line-height:1.2em !important;color:#001e62;margin-bottom:10px !important}.ugb-d912c17 .ugb-number-box__description{margin-bottom:30px !important}.ugb-d912c17 .ugb-inner-block{text-align:center}.ugb-d912c17.ugb-number-box{min-height:0px;align-items:flex-start}.ugb-d912c17 .ugb-block-content{column-gap:0px !important}.ugb-d912c17 .ugb-top-separator svg{fill:#d50032}.ugb-d912c17 .ugb-top-separator .ugb-separator-wrapper{transform:scaleX(1)}.ugb-d912c17 .ugb-number-box__item1{background-color:false !important}.ugb-d912c17 .ugb-number-box__item1:before{background:false !important}.ugb-d912c17 .ugb-number-box__item2{background-color:false !important}.ugb-d912c17 .ugb-number-box__item2:before{background:false !important}.ugb-d912c17 .ugb-number-box__item3{background-color:false !important}.ugb-d912c17 .ugb-number-box__item3:before{background:false !important}@media screen and (min-width:768px){.ugb-d912c17 .ugb-number-box__number{line-height:1.1em !important;margin-left:auto !important;margin-right:auto !important;text-align:center !important}.ugb-d912c17.ugb-number-box{margin-top:-13px !important;margin-right:250px !important;margin-left:250px !important;padding-top:42px !important;padding-right:0px !important}.ugb-d912c17 .ugb-top-separator .ugb-separator-wrapper{height:30px}}@media screen and (max-width:1025px){.ugb-d912c17 .ugb-block-content{column-gap:0px !important}}@media screen and (min-width:768px) and (max-width:1025px){.ugb-d912c17 .ugb-number-box__number{font-size:50px !important}.ugb-d912c17.ugb-number-box{margin-right:0px !important;margin-left:0px !important;margin-top:0px !important;margin-bottom:0px !important;padding-top:50px !important;padding-right:50px !important;padding-bottom:50px !important;padding-left:50px !important}}@media screen and (max-width:768px){.ugb-d912c17 .ugb-number-box__number{margin-bottom:0px !important}.ugb-d912c17 .ugb-number-box__title{margin-bottom:0px !important}.ugb-d912c17.ugb-number-box{margin-top:0px !important;padding-top:25px !important}.ugb-d912c17 .ugb-top-separator .ugb-separator-wrapper{height:30px}}@media screen and (-ms-high-contrast:active),screen and (-ms-high-contrast:none){.ugb-d912c17.ugb-number-box{height:0px}}@media screen and (max-width:768px){.ugb-d912c17 > .ugb-inner-block > .ugb-block-content > *{padding-top:14px !important;padding-right:14px !important;padding-bottom:14px !important;padding-left:14px !important}}</style><div class="ugb-top-separator"><div class="ugb-separator-wrapper"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 1600 200" class="ugb-separator__layer-1" preserveaspectratio="none" aria-hidden="true"><path d="M-10 210h1620V105.2H-10z"></path></svg></div></div><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-number-box__item ugb-number-box__item1"><span class="ugb-number-box__number">$34M</span><div class="ugb-number-box__content"><h3 class="ugb-number-box__title">licensing income<br></h3></div></div><div class="ugb-number-box__item ugb-number-box__item2"><span class="ugb-number-box__number">322</span><div class="ugb-number-box__content"><h3 class="ugb-number-box__title">active licenses of its intellectual property</h3></div></div><div class="ugb-number-box__item ugb-number-box__item3"><span class="ugb-number-box__number">3500</span><div class="ugb-number-box__content"><h3 class="ugb-number-box__title">research projects<br></h3></div></div></div></div></div>
+
+
+
+<div class="alignwide wp-block-ugb-card ugb-card ugb-dc0b08e ugb-card--v2 ugb-card--design-horizontal ugb-card--columns-1 ugb-main-block ugb--has-custom-content-width ugb--has-custom-content-width-mobile"><style>.ugb-dc0b08e .ugb-card__item{border-radius:0px !important;background-color:#e3e3e3 !important}.ugb-dc0b08e .ugb-card__item:before{background-color:#e3e3e3 !important}.ugb-dc0b08e .ugb-card__item1 .ugb-card__image{background-image:url(https://today.uic.edu/files/2021/10/plant2.png)}.ugb-dc0b08e .ugb-card__image{background-position:top center !important;background-repeat:no-repeat !important;background-size:cover !important;width:50% !important}.ugb-dc0b08e .ugb-card__title{font-family:"Poppins",Sans-serif !important;font-size:31px !important;text-transform:uppercase !important;letter-spacing:1.5px !important;color:#393f59 !important}.ugb-dc0b08e .ugb-card__description{font-family:"Poppins",Sans-serif !important;font-size:18px !important;font-weight:normal !important;line-height:2em !important;color:#222222 !important}.ugb-dc0b08e.ugb-card > .ugb-inner-block{max-width:100% !important}@media screen and (min-width:768px){.ugb-dc0b08e .ugb-card__content{justify-content:center}.ugb-dc0b08e.ugb-card{margin-bottom:50px !important;margin-right:250px !important;margin-left:250px !important}.ugb-dc0b08e > .ugb-inner-block > .ugb-block-content > *{min-height:530px}}@media screen and (min-width:768px) and (max-width:1025px){.ugb-dc0b08e.ugb-card{margin-right:0px !important;margin-left:0px !important;margin-top:0px !important;margin-bottom:0px !important}}@media screen and (max-width:768px){.ugb-dc0b08e .ugb-card__content{padding-top:10% !important;padding-right:10% !important;padding-bottom:10% !important;padding-left:10% !important}.ugb-dc0b08e .ugb-card__image{width:500px !important}.ugb-dc0b08e .ugb-card__title{font-size:40px !important}.ugb-dc0b08e .ugb-card__description{line-height:2em !important;font-size:14px !important}.ugb-dc0b08e.ugb-card{margin-right:0px !important;margin-left:0px !important;margin-top:0px !important;margin-bottom:0px !important;padding-top:0px !important;padding-right:0px !important;padding-bottom:0px !important;padding-left:0px !important}.ugb-dc0b08e.ugb-card > .ugb-inner-block{max-width:100% !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-card__item ugb-card__item1 ugb--shadow-0"><div class="ugb-card__image"></div><div class="ugb-card__content"><h2 class="ugb-card__title">Pursuing answers</h2><p class="ugb-card__description">UIC is among the nation&#8217;s top-tier research universities and is Chicago&#8217;s only public research institution. Driven by curiosity and a desire to make a positive impact on society, our faculty, staff and students are on a mission to solve real-world problems through innovation and discovery.</p></div></div></div></div></div>
+
+
+
+<div class="aligncenter wp-block-ugb-feature ugb-feature ugb-b6deba5 ugb-feature--v2 ugb-feature--design-basic ugb-main-block ugb--has-custom-content-width ugb--has-custom-content-width-tablet"><style>.ugb-b6deba5 .ugb-feature__item{border-radius:0px !important;background-color:#e3e3e3 !important}.ugb-b6deba5 .ugb-feature__item:before{background-color:#e3e3e3 !important}.ugb-b6deba5 .ugb-feature__title{font-family:"Poppins",Sans-serif !important;font-weight:normal !important;text-transform:uppercase !important;color:#001e62}.ugb-b6deba5 .ugb-feature__description{font-family:"Poppins",Sans-serif !important;font-size:18px !important;line-height:2em !important}.ugb-b6deba5 .ugb-button .ugb-button--inner{font-family:"Poppins",Sans-serif !important;text-transform:uppercase !important}.ugb-b6deba5 .ugb-button{background-color:#001e62}.ugb-b6deba5 .ugb-button .ugb-button--inner,.ugb-b6deba5 .ugb-button svg:not(.ugb-custom-icon){color:#ffffff !important}.ugb-b6deba5 .ugb-button:hover .ugb-button--inner,.ugb-b6deba5 .ugb-button:hover svg:not(.ugb-custom-icon){color:#ffffff !important}.ugb-b6deba5 .ugb-button:hover{background-color:#d50032;opacity:1}.ugb-b6deba5.ugb-feature{min-height:700px}.ugb-b6deba5.ugb-feature > .ugb-inner-block{max-width:100% !important}@media screen and (min-width:768px){.ugb-b6deba5 .ugb-feature__item{grid-template-columns:1.00fr 1.00fr !important}.ugb-b6deba5 .ugb-img{width:590px;height:auto !important}.ugb-b6deba5.ugb-feature{margin-right:250px !important;margin-left:250px !important;padding-right:0px !important;padding-bottom:200px !important;padding-left:0px !important}}@media screen and (max-width:1025px){.ugb-b6deba5.ugb-feature{justify-content:flex-start}.ugb-b6deba5.ugb-feature > .ugb-inner-block{max-width:100% !important}}@media screen and (min-width:768px) and (max-width:1025px){.ugb-b6deba5.ugb-feature{margin-right:0px !important;margin-left:0px !important;margin-top:50px !important;margin-bottom:-400px !important;padding-top:0% !important;padding-right:0% !important;padding-bottom:0% !important;padding-left:0% !important}}@media screen and (max-width:768px){.ugb-b6deba5 .ugb-feature__description{font-size:14px !important}.ugb-b6deba5.ugb-feature{margin-right:0px !important;margin-left:0px !important;margin-top:50px !important;margin-bottom:0px !important}}@media screen and (-ms-high-contrast:active),screen and (-ms-high-contrast:none){.ugb-b6deba5.ugb-feature{height:700px}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item ugb--shadow-0"><div class="ugb-feature__content"><h2 class="ugb-feature__title">Shaping the future</h2><p class="ugb-feature__description">UIC research improves the lives, health and well-being of communities both urban and rural, local and global. Whether it’s determining why Latinos carry a higher burden of certain ailments such as cardiovascular disease and diabetes, or using artificial intelligence to aid the state’s highway infrastructure, researchers are impacting how we live and learn.<br></p><div class="ugb-button-container"><a class="ugb-button ugb-button--size-normal ugb-button--has-icon ugb-button--icon-position-right" href="https://uic.edu/research" rel="" title=""><div class="ugb-icon-inner-svg"><svg data-prefix="fas" data-icon="arrow-right" class="svg-inline--fa fa-arrow-right fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path></svg></div><span class="ugb-button--inner">A Leader in Research</span></a></div></div><div class="ugb-feature__image-side"><img class="ugb-feature__image ugb-img wp-image-120139 ugb-image--shape-stretch" src="https://today.uic.edu/files/2021/10/091120_Novak-Lab_JC0028-edited-590x393.png" alt="Researcher in a lab with vials" title="" height="393" srcset="https://today.uic.edu/files/2021/10/091120_Novak-Lab_JC0028-edited-590x393.png 590w, https://today.uic.edu/files/2021/10/091120_Novak-Lab_JC0028-edited-387x258.png 387w, https://today.uic.edu/files/2021/10/091120_Novak-Lab_JC0028-edited-768x512.png 768w, https://today.uic.edu/files/2021/10/091120_Novak-Lab_JC0028-edited.png 1200w, https://today.uic.edu/files/2021/10/091120_Novak-Lab_JC0028-edited-1000x667.png 1000w, https://today.uic.edu/files/2021/10/091120_Novak-Lab_JC0028-edited-500x333.png 500w, https://today.uic.edu/files/2021/10/091120_Novak-Lab_JC0028-edited-300x200.png 300w" sizes="(max-width: 590px) 100vw, 590px" /></div></div></div></div></div>
+
+
+
+<div class="alignwide wp-block-ugb-feature ugb-feature ugb-1ad18ac ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block ugb--has-custom-content-width-tablet"><style>.ugb-1ad18ac .ugb-img{-webkit-mask-image:url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCI+PC9jaXJjbGU+PC9zdmc+');mask-image:url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCI+PC9jaXJjbGU+PC9zdmc+')}.ugb-1ad18ac .ugb-feature__title{font-family:"poppins",Sans-serif !important}.ugb-1ad18ac .ugb-feature__description{font-family:"Poppins",Sans-serif !important;font-size:18px !important;line-height:2em !important}.ugb-1ad18ac .ugb-button .ugb-button--inner{font-family:"poppins",Sans-serif !important;font-size:18px !important;font-weight:bold !important;letter-spacing:0.5px !important}.ugb-1ad18ac .ugb-button{background-color:#001e62;border-radius:100px !important}.ugb-1ad18ac .ugb-button .ugb-button--inner,.ugb-1ad18ac .ugb-button svg:not(.ugb-custom-icon){color:#ffffff !important}.ugb-1ad18ac .ugb-button:hover .ugb-button--inner,.ugb-1ad18ac .ugb-button:hover svg:not(.ugb-custom-icon){color:#ffffff !important}.ugb-1ad18ac .ugb-button:hover{background-color:#d50032;opacity:1}.ugb-1ad18ac .ugb-button:before{border-radius:100px !important}.ugb-1ad18ac .ugb-button.ugb-button--has-icon.ugb-button--has-icon svg{margin-left:8px}.ugb-1ad18ac .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-1ad18ac .ugb-feature__item{grid-template-columns:1.00fr 1.00fr !important}.ugb-1ad18ac .ugb-img{width:590px;height:auto !important}.ugb-1ad18ac.ugb-feature{margin-top:-100px !important;margin-right:250px !important;margin-left:250px !important}}@media screen and (max-width:1025px){.ugb-1ad18ac .ugb-inner-block{text-align:center}.ugb-1ad18ac.ugb-feature > .ugb-inner-block{max-width:100% !important}}@media screen and (min-width:768px) and (max-width:1025px){.ugb-1ad18ac .ugb-feature__item{grid-template-columns:0.88fr 1.12fr !important}.ugb-1ad18ac.ugb-feature{margin-right:100px !important;margin-left:100px !important;margin-top:100px !important;margin-bottom:100px !important;padding-top:0% !important;padding-right:0% !important;padding-bottom:0% !important;padding-left:0% !important}}@media screen and (max-width:768px){.ugb-1ad18ac .ugb-feature__description{font-size:14px !important}.ugb-1ad18ac.ugb-feature{margin-right:25px !important;margin-left:25px !important;margin-top:-50px !important;margin-bottom:0px !important;padding-top:0px !important;padding-right:0px !important;padding-bottom:0px !important;padding-left:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content"><h2 class="ugb-feature__title">RUSSELL HEMLEY<br><code style="font-family:poppins;">Professor, College of Liberal Arts and Sciences</code></h2><p class="ugb-feature__description">Hemley&#8217;s research cuts across physics, chemistry and planetary science through an exploration of the nature of materials under extreme pressure and temperature environments. The National Academy of Sciences member and fellow of the American Academy of Arts and Sciences has played a key role in bringing grants to UIC that support the next generation of scientists and underrepresented students.</p><div class="ugb-button-container"><a class="ugb-button ugb-button--size-normal ugb-button--has-icon ugb-button--icon-position-right" href="https://today.uic.edu/?p=119637" rel="" title=""><div class="ugb-icon-inner-svg"><svg data-prefix="fas" data-icon="arrow-alt-circle-right" class="svg-inline--fa fa-arrow-alt-circle-right fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zM140 300h116v70.9c0 10.7 13 16.1 20.5 8.5l114.3-114.9c4.7-4.7 4.7-12.2 0-16.9l-114.3-115c-7.6-7.6-20.5-2.2-20.5 8.5V212H140c-6.6 0-12 5.4-12 12v64c0 6.6 5.4 12 12 12z"></path></svg></div><span class="ugb-button--inner">Taking research to the extreme</span></a></div></div><div class="ugb-feature__image-side"><img class="ugb-feature__image ugb-feature__image-has-shape ugb-img wp-image-120251 ugb-img--shape" src="https://today.uic.edu/files/2021/11/102921_Hemley-Lab_JC0053-590x393.jpg" alt="" title="" height="393" srcset="https://today.uic.edu/files/2021/11/102921_Hemley-Lab_JC0053-590x393.jpg 590w, https://today.uic.edu/files/2021/11/102921_Hemley-Lab_JC0053-387x258.jpg 387w, https://today.uic.edu/files/2021/11/102921_Hemley-Lab_JC0053-768x512.jpg 768w, https://today.uic.edu/files/2021/11/102921_Hemley-Lab_JC0053.jpg 1300w, https://today.uic.edu/files/2021/11/102921_Hemley-Lab_JC0053-1000x667.jpg 1000w, https://today.uic.edu/files/2021/11/102921_Hemley-Lab_JC0053-500x333.jpg 500w, https://today.uic.edu/files/2021/11/102921_Hemley-Lab_JC0053-300x200.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></div></div></div></div></div>
+
+
+
+<div class="alignwide wp-block-ugb-blog-posts ugb-blog-posts ugb-8a57c50 ugb-blog-posts--v2 ugb-blog-posts--design-vertical-card ugb-blog-posts--columns-3 ugb-main-block"><style>.ugb-8a57c50 .ugb-blog-posts__title{order:1 !important;font-family:"Poppins",Sans-serif !important;font-size:18px !important;font-weight:600 !important;text-align:left !important}.ugb-8a57c50 .ugb-blog-posts__meta{order:4 !important}.ugb-8a57c50 .ugb-blog-posts__excerpt{order:5 !important}.ugb-8a57c50 .ugb-blog-posts__category{order:10 !important}.ugb-8a57c50 .ugb-blog-posts__featured-image img{height:220px !important}.ugb-8a57c50 .ugb-blog-posts__title a{color:#001e62 !important}.ugb-8a57c50 .ugb-blog-posts__title a:hover{opacity:0.8}.ugb-8a57c50 .ugb-blog-posts__excerpt,.ugb-8a57c50 .ugb-blog-posts__excerpt p{font-family:"Poppins",Sans-serif !important;font-size:14px !important;font-weight:normal !important;line-height:2em !important}.ugb-8a57c50.ugb-blog-posts{min-height:0px}.ugb-8a57c50 .ugb-block-title{font-family:"Poppins",Sans-serif !important;font-weight:600 !important;color:#001e62;text-align:left;margin-bottom:25px !important}.ugb-8a57c50 .ugb-blog-posts__item{border-radius:0px !important}@media screen and (min-width:768px){.ugb-8a57c50.ugb-blog-posts{margin-top:10% !important;margin-right:15% !important;margin-left:15% !important}}@media screen and (max-width:1025px){.ugb-8a57c50 .ugb-block-title{font-size:35px !important}}@media screen and (min-width:768px) and (max-width:1025px){.ugb-8a57c50.ugb-blog-posts{margin-right:25px !important;margin-left:25px !important;margin-top:0px !important;margin-bottom:0px !important}}@media screen and (max-width:768px){.ugb-8a57c50 .ugb-blog-posts__title{font-size:24px !important}.ugb-8a57c50 .ugb-blog-posts__excerpt,.ugb-8a57c50 .ugb-blog-posts__excerpt p{font-size:14px !important}.ugb-8a57c50.ugb-blog-posts{margin-right:25px !important;margin-left:25px !important;margin-top:50px !important;margin-bottom:0px !important;padding-top:0px !important;padding-right:0px !important;padding-bottom:0px !important;padding-left:0px !important}.ugb-8a57c50 .ugb-block-title{font-size:24px !important}}@media screen and (-ms-high-contrast:active),screen and (-ms-high-contrast:none){.ugb-8a57c50.ugb-blog-posts{height:0px}}</style><div class="ugb-inner-block"><h2 class="ugb-block-title">Research Changing Lives</h2><div class="ugb-block-content"><article class="ugb-blog-posts__item"><figure class="ugb-blog-posts__featured-image"><a href="https://today.uic.edu/a-light-at-the-end-of-the-tunnel"><img width="590" height="393" src="https://today.uic.edu/files/2021/01/121120_COVID-Testing-Lab_JC0075-590x393.jpg" class="attachment-large size-large wp-post-image" alt="UIC research lab" loading="lazy" width="590" height="393" srcset="https://today.uic.edu/files/2021/01/121120_COVID-Testing-Lab_JC0075-590x393.jpg 590w, https://today.uic.edu/files/2021/01/121120_COVID-Testing-Lab_JC0075-387x258.jpg 387w, https://today.uic.edu/files/2021/01/121120_COVID-Testing-Lab_JC0075-768x512.jpg 768w, https://today.uic.edu/files/2021/01/121120_COVID-Testing-Lab_JC0075-1000x667.jpg 1000w, https://today.uic.edu/files/2021/01/121120_COVID-Testing-Lab_JC0075-500x333.jpg 500w, https://today.uic.edu/files/2021/01/121120_COVID-Testing-Lab_JC0075-300x200.jpg 300w, https://today.uic.edu/files/2021/01/121120_COVID-Testing-Lab_JC0075.jpg 1200w" sizes="(max-width: 590px) 100vw, 590px" /></a></figure><div class="ugb-blog-posts__content"><h3 class="ugb-blog-posts__title"><a href="https://today.uic.edu/a-light-at-the-end-of-the-tunnel">&#8216;A light at the end of the tunnel&#8217;</a></h3><div class="ugb-blog-posts__excerpt"><p>UIC research improves access to COVID-19 vaccinations, testing and treatment, particularly in underserved communities</p>
+</div></div></article><article class="ugb-blog-posts__item"><figure class="ugb-blog-posts__featured-image"><a href="https://today.uic.edu/unique-uic-program-provides-covid-19-outreach-and-jobs"><img width="590" height="394" src="https://today.uic.edu/files/2021/10/042121_COVID-Survey_JC0211-590x394.jpeg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" width="590" height="394" srcset="https://today.uic.edu/files/2021/10/042121_COVID-Survey_JC0211-590x394.jpeg 590w, https://today.uic.edu/files/2021/10/042121_COVID-Survey_JC0211-386x258.jpeg 386w, https://today.uic.edu/files/2021/10/042121_COVID-Survey_JC0211-768x513.jpeg 768w, https://today.uic.edu/files/2021/10/042121_COVID-Survey_JC0211.jpeg 1200w, https://today.uic.edu/files/2021/10/042121_COVID-Survey_JC0211-1000x668.jpeg 1000w, https://today.uic.edu/files/2021/10/042121_COVID-Survey_JC0211-500x334.jpeg 500w, https://today.uic.edu/files/2021/10/042121_COVID-Survey_JC0211-300x200.jpeg 300w" sizes="(max-width: 590px) 100vw, 590px" /></a></figure><div class="ugb-blog-posts__content"><h3 class="ugb-blog-posts__title"><a href="https://today.uic.edu/unique-uic-program-provides-covid-19-outreach-and-jobs">Project pairs COVID-19 outreach with job creation</a></h3><div class="ugb-blog-posts__excerpt"><p>UIC assembles a hyper-impact team focused on COVID-19 testing and vaccinating high-risk communities and creates job opportunities in the process</p>
+</div></div></article><article class="ugb-blog-posts__item"><figure class="ugb-blog-posts__featured-image"><a href="https://today.uic.edu/investing-in-teachers-who-shape-young-lives"><img width="590" height="393" src="https://today.uic.edu/files/2021/10/102721_Danielle-Jordan_JC0070-590x393.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" width="590" height="393" srcset="https://today.uic.edu/files/2021/10/102721_Danielle-Jordan_JC0070-590x393.jpg 590w, https://today.uic.edu/files/2021/10/102721_Danielle-Jordan_JC0070-387x258.jpg 387w, https://today.uic.edu/files/2021/10/102721_Danielle-Jordan_JC0070-768x512.jpg 768w, https://today.uic.edu/files/2021/10/102721_Danielle-Jordan_JC0070.jpg 1300w, https://today.uic.edu/files/2021/10/102721_Danielle-Jordan_JC0070-1000x667.jpg 1000w, https://today.uic.edu/files/2021/10/102721_Danielle-Jordan_JC0070-500x333.jpg 500w, https://today.uic.edu/files/2021/10/102721_Danielle-Jordan_JC0070-300x200.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></a></figure><div class="ugb-blog-posts__content"><h3 class="ugb-blog-posts__title"><a href="https://today.uic.edu/investing-in-teachers-who-shape-young-lives">Investing in teachers who shape young minds</a></h3><div class="ugb-blog-posts__excerpt"><p>The College of Education has received $14 million in research money from donors, foundation awards, and state and federal funding </p>
+</div></div></article></div></div></div>
+
+
+
+<div class="alignfull wp-block-ugb-notification ugb-notification ugb-54e0d4f ugb-notification--v2 ugb-notification--design-basic ugb-notification--type-success ugb-main-block ugb-main-block--inner-center ugb--has-block-background"><style>.ugb-54e0d4f .ugb-notification__item{border-radius:0px !important;background-color:#d50032 !important}.ugb-54e0d4f .ugb-notification__item:before{background-color:#d50032 !important}.ugb-54e0d4f .ugb-notification__title{font-family:"poppins",Sans-serif !important;font-size:1.85em !important;font-weight:600 !important;line-height:2em !important;color:#ffffff !important;text-align:left !important}.ugb-54e0d4f .ugb-button .ugb-button--inner{font-family:"Poppins",Sans-serif !important;font-size:1em !important;font-weight:normal !important;color:#ffffff !important}.ugb-54e0d4f .ugb-button{border-color:#ffffff !important;border-radius:0px !important}.ugb-54e0d4f .ugb-button:hover .ugb-button--inner{color:#ffffff !important}.ugb-54e0d4f .ugb-button:before{border-radius:0px !important}.ugb-54e0d4f .ugb-button-container{text-align:left !important}.ugb-54e0d4f.ugb-notification{background-color:#d50032}.ugb-54e0d4f.ugb-notification:before{background-color:#d50032}@media screen and (max-width:1025px){.ugb-54e0d4f .ugb-notification__title{text-align:center !important}.ugb-54e0d4f .ugb-button-container{text-align:center !important}}@media screen and (max-width:768px){.ugb-54e0d4f .ugb-notification__title{text-align:center !important}.ugb-54e0d4f .ugb-button-container{text-align:center !important}}</style><div class="ugb-inner-block ugb-inner-block--center"><div class="ugb-block-content"><div class="ugb-notification__item ugb-notification--new-icon ugb--shadow-0"><h3 class="ugb-notification__title">UIC is among the nation&#8217;s 131 top research universities, according to the Carnegie Classification.</h3><div class="ugb-button-container"><a class="ugb-button ugb-button--size-large ugb-button--design-ghost" href="http://research.uic.edu" target="_blank" rel="noopener noreferrer" title=""><span class="ugb-button--inner">Visit the Office of the Vice Chancellor for Research.</span></a></div></div></div></div></div>
+
+
+
+
+</p>
+	</div>
+
+
+
+
+
+
+    
+
+
+
+
+
+
+</div>
+
+
+<script>requestAnimationFrame(() => document.body.classList.add( "stk--anim-init" ))</script><script type="text/javascript">
+  document.write(unescape("%3Cscript src='//www.uic.edu/inc/emergency/alert.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<link rel='stylesheet' id='stackable-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRubik%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7Cpoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=5.7' type='text/css' media='all' />
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/wp-embed.min.js?ver=5.7' id='wp-embed-js'></script>
+
+</body>
+</html><!-- WP Fastest Cache file was created in 0.092283964157104 seconds, on 01-12-21 16:08:49 -->

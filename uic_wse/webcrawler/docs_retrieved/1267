@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />	<title>
+		JMLS Giving:
+		Donations	</title>
+	<meta name="viewport" content="width=device-width">
+	<meta name="_globalsign-domain-verification" content="vMswULW0vuU595i2xChKKsb8tUZuy72AJ0ZwczCEIt" />
+	<link href="/img/favicon.ico" type="image/x-icon" rel="icon"/><link href="/img/favicon.ico" type="image/x-icon" rel="shortcut icon"/><link rel="stylesheet" type="text/css" href="/css/styles.css"/><link rel="stylesheet" type="text/css" href="/css/media.css"/><link rel="stylesheet" type="text/css" href="/css/jquery-ui.min.css"/>
+	<script type="text/javascript" src="/js/jquery-1.12.4.min.js"></script>
+	<script type="text/javascript" src="/js/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="/libs/bootstrap/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="/js/givingDesign.js"></script>
+	<script type="text/javascript" src="/js/jquery.creditCardValidator.js"></script>
+	<script type="text/javascript" src="/js/jquery.form.js"></script>
+	<script type="text/javascript" src="/js/jquery.simplePopup.js"></script>
+
+</head>
+<body>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70417284-1', 'auto');
+  ga('send', 'pageview');
+
+</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70525865-1', 'auto');
+  ga('send', 'pageview');
+
+</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70558901-1', 'auto');
+  ga('send', 'pageview');
+
+</script>		<div>
+
+			
+			
+<a href="https://alumni.jmls.uic.edu/">
+	<div style="width:100%; border-bottom:16px solid #D50032; background: #D50032;">
+		<div class="wrapper-top">
+			<img src="/img/uiclaw-white.png" style="max-width:35%; height:auto;" alt=""/>		</div>
+	</div>
+</a>
+<div style="display:none">
+	<a id="refresh">refresh</a>
+</div>
+<div id="block-content">
+
+<p></p>
+
+<div style="margin: 0px auto; max-width: 700px;">
+	<h1 style="margin-bottom:3px;">Give a Gift</h1>
+
+	<div style="overflow:hidden; float:left;">
+		<a href="https://uif.uillinois.edu/matching-gifts" class="show1" target="_blank">Did you know you can double the value of your gift?</a>
+
+	</div>
+</div>
+
+<div class="wrapper" style="margin-top:30px;">
+	<section id="content">
+
+		<section id="module-search" >
+			<div class="searchWidget">
+				<input type="text" name="search" id="search-input" placeholder="Option 1: Search for Funds and Programs by Proper Name" />
+            </div>
+			<div class="divider"></div>
+        </section>
+
+		<section id="list_fund" style='display:none;'>
+			 <article style="display: block;" class="widget" id="priorities-results">
+				<header class="title">
+					<img src="/img/magnify.png" class="titleIcon" alt=""/>					<h3>Fund/Program List</h3>
+					<div class="num">
+						<a class="Num"><span id="list_fund-count"></span></a>
+					</div>
+				</header>
+				<div class="content" id="resultsFund" style="overflow:scroll; max-height:250px;">
+				</div>
+				<footer class="action">
+				   <div class="num">
+					   <a class="redNum" id="closeFund" title="Close List">Close List</a>
+					</div>
+				</footer>
+			 </article>
+			 <div class="divider"></div>
+		</section>
+
+		<section id="module-priorities" role="priorities" >
+             <div class="priorityWidget">
+                <div action="/" class="priorities">
+                   <fieldset>
+                      <select id="priorities-input" name="priorities-input" >
+                         <option value="" style="color:gray !important;">Option 2: Select Fund or Program</option>
+                         <option style='color:black !important;' value='3'>Annual Fund</option><option style='color:black !important;' value='1'>Centers for Excellence</option><option style='color:black !important;' value='5'>Community Legal Clinics</option><option style='color:black !important;' value='4'>Honors Programs</option><option style='color:black !important;' value='7'>International Programs</option><option style='color:black !important;' value='9'>Other Funds</option><option style='color:black !important;' value='2'>Scholarships & Awards</option><option style='color:black !important;' value='6'>Student Organizations</option>                      </select>
+                   </fieldset>
+                </div>
+             </div>
+          </section>
+
+		  <!-- /#module-priorities -->
+          <section id="list_category" style='display:none;'>
+             <article style="display: block;" class="widget" id="priorities-results">
+                <header class="title">
+                   	<img src="/img/magnify.png" class="titleIcon" alt=""/>                   	<h3>Fund/Program List</h3>
+                   	<div class="num">
+					   <a class="Num"><span id="list_category-count"></span></a>
+					</div>
+                </header>
+                <div class="content" id="resultsCategory" style="overflow:scroll; max-height:250px;">
+                </div>
+                <footer class="action">
+                   <div class="num"><a class="redNum" id="closeCategory" title="Close List">Close List</a></div>
+                </footer>
+             </article>
+          </section>
+
+          <!-- /#module-priorities -->
+          <div class="divider"></div>
+          <form action="https://www.uif.uillinois.edu/gifts/PaymentPageTransfer.aspx" name="Form1" id="Form1IndexForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"/></div>		  <input type="hidden" name="TRACKING_CODE" value="21051">
+          <input type="hidden" name="SKIN_ID" value="chicagoannualgiving"/ >
+
+          <h2>Your Gift Cart</h2>
+          <article id="list_gifting" class="widget">
+             	<header class="title">
+                	<img src="/img/donation-list.png" class="titleIcon" alt=""/>                	<h3>Donation List</h3>
+                	<div class="num">
+						<a class="redNum" id="" style="cursor:default !important;"><input id='listCartCount' style="border: none; background: transparent; width: 10px; color: #fff; font-size: 11px" class="form-text donation-amount" value="0" type="text">Funds</a>
+					</div>
+             	</header>
+             	<div id="cart-list" class="content">
+                	<div class="gift-fund-name" style="padding: 15px;">Your gift cart is empty. Please add funds.</div>
+             	</div>
+             	<footer class="action footer clearfix">
+                	<h4 class="float-left">Total:</h4>
+                	<h4 class="float-right">$<span id="TotalAmount"><input id='listCartTotal' style="border: none; background: transparent; text-align: left; width: 65px; font-size: 14px" class="form-text donation-amount" value="0" type="text" readonly></span></h4>
+             	</footer>
+          </article>
+          <div style="display: block;" id="CheckoutButton" >
+             <a id="proceedCheckout" title="Proceed to Checkout" class="wContentButton">Proceed to Checkout</a>
+          </div>
+          <div style="display:none"><div class="submit"><input type="submit" value="Add"/></div></form></div>
+       </section>
+    </div>
+</div>
+
+<script>
+var fundsUrl = '/donation_funds/fund.json';
+var fundByCategoryUrl = '/donation_funds/fund_category.json';
+$(function() {
+  $("#cart-list").html('<div class="gift-fund-name" style="padding: 15px;">Your gift cart is empty. Please add funds.</div>');
+    $("#listCartCount").val('0');
+    $("#listCartTotal").val(0);
+    $('#priorities-input').css('color','gray');
+   $('#priorities-input').change(function() {
+      var current = $('#priorities-input').val();
+      if (current != '') {
+          $('#priorities-input').css('color','black');
+      } else {
+          $('#priorities-input').css('color','gray');
+      }
+   });
+ });
+</script>
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+    $('.show1').click(function(){
+	$('#pop1').simplePopup();
+    });
+
+    $('.show2').click(function(){
+	$('#pop2').simplePopup();
+    });
+
+});
+
+</script>
+
+<div class="refund" style="width:100%;!important; background-color:#eee;">
+	<div style="width:100%; margin:0 auto; max-width:700px;">
+
+		<div style="width:100%; float:right;">
+			<h4>Questions or concerns?</h4>
+			Contact us at:<br />
+			<strong>University of Illinois Chicago School of Law<br />
+			Office of Alumni Relations &amp; Development</strong><br />
+			300 S. State Street<br />
+			Chicago, Illinois 60604<br />
+			<strong><a href="mailto:law-alumni@uic.edu">law-alumni@uic.edu</a></strong><br />
+			<strong style="float:right;"><a href="//www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a></strong>
+			(312) 427-2737
+		</div>
+
+</div>
+		</div>
+</body>
+</html>

@@ -1,0 +1,491 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="description" content="Interlibrary Loan FAQs at University of Illinois Chicago School of Law in Chicago, Illinois." />
+<meta name="keywords" content="business, law, clinic" />
+
+<META name="author" content="UIC John Marshall Law School" />
+<META name="revisit-after" content="7 days" />
+<META name="robots" content="all" />
+<META name="google-site-verification" content="QqNq_hSWms7EizIXgm0iIr6hE60IQ-X-uVAJJLg_oP8" />
+<title>Interlibrary Loan FAQs | University of Illinois Chicago School of Law</title>
+<link rel="alternate" type="application/rss+xml" title="John Marshall News and Publications" href="http://news.jmls.edu/feed"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><link rel="apple-touch-icon" href="/_images/icon-jmls-idevices.png"/><!--<link rel="stylesheet" href="/_css/reset.css" /><link rel="stylesheet" href="/_css/text.css" />--><link rel="stylesheet" href="/_css/960.css" /><link rel="stylesheet" href="/_css/jmls.css?ver=1.3.5" /><link rel="stylesheet" href="/_css/megamenu/jquery.megamenu.css" type="text/css" media="screen" /><link rel="stylesheet" href="/_css/jmls_ui/jquery-ui-1.8.2.custom.css" /><!--<link rel="stylesheet" href="/_css/colorbox.css" />-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><!-- additional stylesheets links go here -->
+<script
+  src="https://code.jquery.com/jquery-1.7.2.min.js"
+  integrity="sha256-R7aNzoy2gFrVs+pNJ6+SokH04ppcEqJ0yFLkNGoFALQ="
+  crossorigin="anonymous"></script>
+<script src="/_js/jquery-ui-1.8.4.custom.min.js" type="text/javascript"></script>
+<script src="/_js/jquery.megamenu.js" type="text/javascript"></script>
+<script src="/_js/easySlider1.8.js" type="text/javascript"></script>
+<script src="/_js/jquery.colorbox-min.js" type="text/javascript"></script>
+<script src="/_js/jquery.jtwitter.min.js" type="text/javascript"></script>
+<script src="/_js/jquery.popupWindow.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+		$(document).ready(function()
+		{
+
+			// MegaMenu
+			var SelfLocation = window.location.href.split('?');
+			switch (SelfLocation[1]) {
+				case "justify_right":
+					jQuery(".megamenu").megamenu({ 'justify':'right' });
+				break;
+				case "justify_left":
+				default:
+					jQuery(".megamenu").megamenu();
+			}
+		
+			// TABS
+			$('#tabs').tabs();
+			
+			$("#slider").easySlider({
+				auto: true,
+				pause: 5500,
+				continuous: true,
+				numeric: true,
+				prevNext: false
+			});
+			
+			// Table Striping
+			$(".stripeTable tr:even").addClass("alt");
+			
+			// Colorbox Lightboxing for content
+			$('a.colorbox').colorbox();
+						
+		});	
+		
+	</script>
+	
+<script type="text/javascript" src="//use.typekit.com/fcl5avv.js"></script>	
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script><!-- additional javascript src goes here -->
+</head>
+<body id="page" />
+<!-- OneTrust Cookies Consent Notice (Production CDN, uic.edu, en-GB) start -->
+<script src="https://cdn.cookielaw.org/consent/f5cc0259-ebf9-460e-b628-c1d661e5d3b6.js" type="text/javascript" charset="UTF-8"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice (Production CDN, uic.edu, en-GB) end -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-400422-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-400422-1');
+</script>
+  	
+<script type="text/javascript">
+		try {
+			var pageTracker = _gat._getTracker("UA-400422-1");
+			pageTracker._trackPageview();
+} catch(err) {}</script>
+  	
+		<script>
+		  (function() {
+			var cx = '008902623546163794413:wrcxe3ucpfu';
+			var gcse = document.createElement('script');
+			gcse.type = 'text/javascript';
+			gcse.async = true;
+			gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(gcse, s);
+		  })();
+		</script>
+		
+<!-- Tracker 2 Starts Here -->
+		
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-20665772-1"></script>
+	   <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-20665772-1');
+</script>
+	   
+	   		 <script type="text/javascript">
+		try {
+			var pageTracker = _gat._getTracker("UA-20665772-1");
+			pageTracker._trackPageview();
+} catch(err) {}</script>		 
+		   
+  <!-- Global site tag (gtag.js) - Google Analytics Ends Here --> 
+
+   	<div id="header"  class="container_16">
+    	<a href="//law.uic.edu">
+			<div id="logo" class="grid_10" style="margin-bottom: 12px;">
+				<h1>University of Illinois Chicago School of Law</h1>
+			</div>
+		</a>
+        <div class="grid_6" id="topControls">
+        	<ul>
+            	<li><a href="//alumni.law.uic.edu/" target="_blank">Alumni</a></li>
+				<li><a href="//library.law.uic.edu/" target="_blank">Law Library</a></li>
+                <li><a href="//webapps.law.uic.edu/ecommons" target="_blank">eCommons</a></li>
+                <li><a href="//give.law.uic.edu" target="_blank">Donate</a></li>
+            </ul>
+
+            <form action="https://law.uic.edu/search/" method="get">
+            	<input aria-label="Search Field" type="text" class="searchField" name="q" value="Enter Search Term(s)" onfocus="this.value==this.defaultValue?this.value='':null" /> <input class="searchSubmit" type="submit" value="GO" alt="Click to Search"/>
+            </form>
+		</div>
+	</div>
+
+    <div class="clear"></div>
+
+	<div class="bgcolor_gray">
+		<div class="container_16">
+		<!--MegaMenu Starts-->
+			<ul class="megamenu">
+			  <li><a href="//jmls.uic.edu/about/" target="_blank">About <img class="arrow" src="/_images/icon_nav_expandable.png" alt="Click to Expand" /></a>
+				<div>
+					<div class="grid_16">
+						<ul>
+							<li><a href="//law.uic.edu/about/message-from-the-dean/" target="_blank">Message from the Dean</a></li>
+							<li><a href="//law.uic.edu/about/accreditation/" target="_blank">Accreditation</a></li>
+							<li><a href="//law.uic.edu/about/directory/" target="_blank">Directory</a></li>
+							<li><a href="//law.uic.edu/about/faculty/" target="_blank">Faculty</a></li>
+						</ul>
+					</div>
+					<p class="mmclear">&nbsp;</p>
+				</div>
+			  </li>
+			  <li>
+				  <a href="//law.uic.edu/admission/" target="_blank">Admissions <img class="arrow" src="/_images/icon_nav_expandable.png" alt="Click to Expand" /></a>
+				<div>
+					<div class="grid_4 alpha omega">
+						<ul>
+							<li><a href="//law.uic.edu/admission/jd/" target="_blank">JD &amp; Transfer Admission</a></li>
+							<li><a href="//law.uic.edu/admission/graduate/" target="_blank">Graduate Law Admission</a></li>
+							<li><a href="//law.uic.edu/admission/international/" target="_blank">International Student Admission</a></li>
+							<li><a href="//law.uic.edu/admission/veterans/" target="_blank">Veteran Admission</a></li>
+						</ul>
+					</div>
+					<div class="grid_4 alpha omega">
+						<ul>
+							<li><a href="//law.uic.edu/admission/tuition/" target="_blank">Tuition &amp; Cost of Attendance</a></li>
+							<li><a href="//law.uic.edu/admission/scholarships/" target="_blank">Scholarships</a></li>
+							<li><a href="//law.uic.edu/admission/financial-aid/" target="_blank">Financial Aid</a></li>
+							<li><a href="//law.uic.edu/admission/visiting/" target="_blank">Visit UIC Law</a></li>
+							<li><a href="//law.uic.edu/admission/faqs/" target="_blank">Frequently Asked Questions</a></li>
+							<li><a href="//law.uic.edu/admission/staff/" target="_blank">Admission Staff</a></li>
+						</ul>
+					</div>
+					<p class="mmclear">&nbsp;</p>
+				</div>
+			  </li>
+			  <li><a href="//law.uic.edu/academics/" target="_blank">Academics <img class="arrow" src="/_images/icon_nav_expandable.png" alt="Click to Expand" /></a>
+				<div>
+					<div class="grid_4">
+						<ul>
+							<li><a href="//law.uic.edu/academics/jd/" target="_blank">JD Program</a></li>
+							<li><a href="//law.uic.edu/academics/joint-degrees/" target="_blank">Joint Degree Programs</a></li>
+							<li><a href="//law.uic.edu/academics/llmdegrees/" target="_blank">LLM Degree Programs</a></li>
+							<li><a href="//law.uic.edu/academics/centers/">Centers for Excellence</a></li>
+						</ul>
+					</div>
+					<p class="mmclear">&nbsp;</p>
+				</div>
+			  </li>
+			  <li><a href="https://jmls-dev.red.uic.edu/experiential-learning/" target="_blank">Experiential Learning <img class="arrow" src="/_images/icon_nav_expandable.png" alt="Click to Expand" /></a>
+				<div>
+					<div class="grid_4">
+						<ul>
+							<li><a href="//law.uic.edu/experiential-learning/clinics/" target="_blank">Community Legal Clinics</a></li>
+							<li><a href="//law.uic.edu/experiential-learning/externships/" target="_blank">Externships</a></li>
+						</ul>
+					</div>
+					<p class="mmclear">&nbsp;</p>
+				</div>
+			  </li>
+			  <li><a href="//law.uic.edu/student-support/" target="_blank">Student Support <img class="arrow" src="/_images/icon_nav_expandable.png" alt="Click to Expand" /></a>
+				<div>
+					<div class="grid_4">
+						<ul>
+							<li><a href="//law.uic.edu/student-support/academic-achievement/" target="_blank">Academic Achievement &amp; Bar Preparation </a></li>
+							<li><a href="//law.uic.edu/student-support/career-services/" target="_blank">Career Services</a></li>
+							<li><a href="//law.uic.edu/student-support/diversity/" target="_blank">Diversity, Equity &amp; Inclusion</a></li>
+							<li><a href="//law.uic.edu/student-support/office-professionalism/" target="_blank">Professionalism &amp; Career Strategy</a></li>
+							<li><a href="//law.uic.edu/student-support/registrar/" target="_blank">Registrar</a></li>
+							<li><a href="//law.uic.edu/student-support/students/" target="_blank">Student Life &amp; Leadership</a></li>
+							<li><a href="//law.uic.edu/student-support/organizations/" target="_blank">Student Organizations</a></li>
+							<li><a href="//law.uic.edu/student-support/writing-resource-center/" target="_blank">Writing Resource Center</a></li>
+						</ul>
+					</div>
+					<p class="mmclear">&nbsp;</p>
+				</div>
+			  </li>
+			</ul>
+		<!--MegaMenu Ends-->
+	</div>
+</div>
+<!-- End of Header-->
+
+    <div id="content" class="container_16">
+
+		<div class="grid_16 pageTitle">
+			<h2 class="title">Louis L. Biro Law Library</h2>
+		</div>
+		<div class="clear"></div>
+
+		<div class="grid_12" id="faqs">
+			<a name="top"></a>
+			<h3>FAQs Regarding Interlibrary Loans</h3>
+			<br>
+			<p><a class="applyBtn" href="http://ezproxy.jmls.edu:2048/login?url=http://www.worldcat.org">Submit an ILL Request</a></p>
+			<br>
+			<p>Click a question below to show the answer.
+			<div class="right-text"><a id="showOrHide" onClick="showOrHide()" href="javascript:void(0)">Show All Answers</a></div></p>
+
+			<dl>
+				<dt>
+					<a onClick="func_toggle('faq1_1');">1. What is interlibrary loan?</a>
+					<a onClick="func_toggle('faq1_1');" class="plus_or_minus"><i class="fa fa-plus" aria-hidden="true"></i></a>
+				</dt>
+				<dd id="faq1_1" class="hidden">
+					<p>The interlibrary loan program (ILL) allows eligible patrons to borrow materials from libraries around the world. The prompt return of books ensures that we remain in good standing with our fellow libraries.</p>
+					<p class="backtoTop"><a onClick="func_toggle('faq1_1');" href="javascript:void(0)">Close</a></p>
+				</dd>
+
+				<dt>
+					<a onClick="func_toggle('faq1_2');">2. Who may request an ILL?</a>
+					<a onClick="func_toggle('faq1_2');" class="plus_or_minus"><i class="fa fa-plus" aria-hidden="true"></i></a>
+				</dt>
+				<dd id="faq1_2" class="hidden">
+					<p>ILL services are available to UIC Law students, faculty and staff.<br><br>Requests for Law Review and RIPL must be submitted via the journal's respective ILL requestor. Please consult your journal editor to determine this contact. <a>Note:</a> All journal requests MUST go through <a href="mailto:philipj@uic.edu">Philip Johnson</a> by email or at (312) 427-2737 ext. 551.</p>
+					<p class="backtoTop"><a onClick="func_toggle('faq1_2');" href="javascript:void(0)">Close</a></p>
+				</dd>
+
+				<dt>
+					<a onClick="func_toggle('faq1_3');">3. What if I have questions about ILL as a UIC Law journal editor?</a>
+					<a onClick="func_toggle('faq1_3');" class="plus_or_minus"><i class="fa fa-plus" aria-hidden="true"></i></a>
+				</dt>
+				<dd id="faq1_3" class="hidden">
+					<p>If you have questions as a journal editor, contact Instructional &amp; Student Services Librarian <a href="mailto:philipj@uic.edu">Philip Johnson</a> by email or at (312) 427-2737 ext. 551.</p></p>
+					<p class="backtoTop"><a onClick="func_toggle('faq1_3');" href="javascript:void(0)">Close</a></p>
+				</dd>
+
+				<dt>
+					<a onClick="func_toggle('faq1_4');">4. What types of materials are loaned?</a>
+					<a onClick="func_toggle('faq1_4');" class="plus_or_minus"><i class="fa fa-plus" aria-hidden="true"></i></a>
+				</dt>
+				<dd id="faq1_4" class="hidden">
+					<p>UIC Law patrons may request books deemed circulating by the respective lending library, as well as photocopies of journal and newspaper articles. Reference/reserve books, rare books, loose-leaf volumes, multivolume sets, textbooks, study guides, CD-ROMs, and DVDs are typically noncirculating items.</p>
+					<p class="backtoTop"><a onClick="func_toggle('faq1_4');" href="javascript:void(0)">Close</a></p>
+				</dd>
+
+				<dt>
+					<a onClick="func_toggle('faq1_5');">5. How long will it take?</a>
+					<a onClick="func_toggle('faq1_5');" class="plus_or_minus"><i class="fa fa-plus" aria-hidden="true"></i></a>
+				</dt>
+				<dd id="faq1_5" class="hidden">
+					<p>The average turnaround time for a given request is two weeks, but this will vary, so please be sure to request items well in advance of deadlines.</p>
+					<p class="backtoTop"><a onClick="func_toggle('faq1_5');" href="javascript:void(0)">Close</a></p>
+				</dd>
+
+				<dt>
+					<a onClick="func_toggle('faq1_6');">6. How will I know when the item has arrived?</a>
+					<a onClick="func_toggle('faq1_6');" class="plus_or_minus"><i class="fa fa-plus" aria-hidden="true"></i></a>
+				</dt>
+				<dd id="faq1_6" class="hidden">
+					<p>When your ILL item has arrived, you will receive an email indicating that is available for pick-up at the UIC Law library circulation desk. Photocopies of articles are yours to keep. Some articles will be emailed to you directly.</p>
+					<p class="backtoTop"><a onClick="func_toggle('faq1_6');" href="javascript:void(0)">Close</a></p>
+				</dd>
+
+				<dt>
+					<a onClick="func_toggle('faq1_7');">7. How long may I keep an item? May I renew?</a>
+					<a onClick="func_toggle('faq1_7');" class="plus_or_minus"><i class="fa fa-plus" aria-hidden="true"></i></a>
+				</dt>
+				<dd id="faq1_7" class="hidden">
+					<p>Due dates will be clearly indicated on each ILL item. Renewals are determined by the respective lending library. Be sure to request renewals well in advance of the due date. Any late fees or replacement charges are the responsibility of the individual borrower.</p>
+					<p class="backtoTop"><a onClick="func_toggle('faq1_7');" href="javascript:void(0)">Close</a></p>
+				</dd>
+
+				<dt>
+					<a onClick="func_toggle('faq1_8');">8. Can I submit an&nbsp;ILL request electronically?</a>
+					<a onClick="func_toggle('faq1_8');" class="plus_or_minus"><i class="fa fa-plus" aria-hidden="true"></i></a>
+				</dt>
+				<dd id="faq1_8" class="hidden">
+					<p>Eligible patrons may request an item directly from <a href="http://ezproxy.jmls.edu:2048/login?url=http://www.worldcat.org">WorldCat</a>. Upon locating the appropriate record, simply click the "Borrow this item from another library" link and complete all relevant fields. <a>Note:</a> UIC Law journal editors must still follow the guidelines as explained under question 2 above.</p>
+					<p class="backtoTop"><a onClick="func_toggle('faq1_8');" href="javascript:void(0)">Close</a></p>
+				</dd>
+
+				<dt>
+					<a onClick="func_toggle('faq1_9');">9. What if I want to go over to another library to borrow the item in person?</a>
+					<a onClick="func_toggle('faq1_9');" class="plus_or_minus"><i class="fa fa-plus" aria-hidden="true"></i></a>
+				</dt>
+				<dd id="faq1_9" class="hidden">
+					<p>Materials available at CLAS libraries (Chicago-Kent, DePaul, Loyola, Northwestern, and University of Chicago law libraries) may be viewed by eligible patrons on the library&rsquo;s premises. If you want to borrow a given item, you must request it via the ILL process.</p>
+					<p class="backtoTop"><a onClick="func_toggle('faq1_9');" href="javascript:void(0)">Close</a></p>
+				</dd>
+			</dl>
+
+<p>Still have questions?</p>
+			<div class="grid_6 alpha"><em>Journal editors, please contact:</em><br />
+				<strong>Philip Johnson</strong><br><a href="mailto:philipj@uic.edu">philipj@uic.edu</a><br>(312) 427-2737 ext. 551
+			</div>
+			<div class="grid_6 omega"><em>All others, please contact:</em><br />
+        <strong>Catrina Williams</strong><br><a href="mailto:catrinaw@uic.edu">catrinaw@uic.edu</a><br>(312) 427-2737 ext. 715</p>			</div>
+
+
+			<div class="clear"></div>
+
+		</div>
+		<div class="grid_4">
+			<!-- Start Sidebar -->
+			<div class="cbox_header">
+	<div class="cbh_link"></div>
+	<h3>Library Links</h3>
+</div> 
+<div class="cbox_body"> 
+	<ul class="resourceLinks">
+		<li><a href="https://library.law.uic.edu/">Library Home</a></li>
+		<li><a href="https://library.law.uic.edu/access-policy.php">Access Policy</a></li> 
+		<li><a href="https://library.law.uic.edu/hours.php">Library Hours</a></li>
+		<!--
+        <li><a href="/at/index.php">Media Services</a></li> 
+        -->
+		<li><a href="https://library.law.uic.edu/staff.php">Staff Directory</a></li> 
+		<li><a href="https://library.law.uic.edu/reference-services.php">Reference Services</a></li> 
+		<li><a href="https://library.law.uic.edu/ill-policy.php">Interlibrary Loan Policy</a></li> 
+		<li class="last"><a href="https://library.law.uic.edu/circulation-services.php">Circulation Services</a></li>
+	</ul>
+</div>
+
+<div class="cbox_separator"></div>
+
+<div class="cbox_header">
+	<div class="cbh_link"></div>
+	<h3>Resources &amp; Tools</h3>
+</div>
+<div class="cbox_body"> 
+	<ul class="resourceLinks">
+		<li><a href="http://libraryguides.law.uic.edu">Research Guides</a></li>
+       	<li><a href="https://webapps.law.uic.edu/ecommons/channel/view/?p=302" title="Exams on Reserve Login instructions">Exam Database</a></li>
+				<li><a href="http://ezproxy.jmls.edu:2048/login?url=http://heinonline.org/HOL/Welcome">HeinOnline</a></li>
+		 <li><a href="http://vf9lb7rb8v.search.serialssolutions.com/">A-Z Journal List</a></li>
+		<li class="last"><a href="http://www2.cali.org/index.php?fuseaction=lessons.home">CALI Lessons</a></li>
+      </ul>
+</div>		</div>
+
+		<div class="clear"></div>
+	</div>
+	<div id="footer">
+	<div class="container_16">
+		<div class="grid_4 footerCol" id="footerSocial">
+			<h4>Stay Connected</h4>
+			<div class="footerSocialMediaIcons">
+				<a class="footerfacebook" href="https://www.facebook.com/UICLaw"><img src="/_images/icon_color_facebook.png" alt="Facebook"></a>
+				<a class="footertwitter" href="https://twitter.com/uiclaw"><img src="/_images/icon_color_twitter.png" alt="Twitter"></a>
+				<a class="footerflickr" href="//www.flickr.com/photos/39866729@N03/"><img src="/_images/icon_color_flickr.png" alt="Flickr"></a>
+				<a class="footerrss" href="//news.law.uic.edu/feed/"><img src="/_images/icon_color_rss.png" alt="RSS Feeds"></a>
+			</div>
+
+			<div class="footerbtn">
+				<a href="https://give.law.uic.edu/">Give to the Law School</a>
+			</div>
+
+		</div>
+
+		<div class="grid_4 footerCol" id="footerCopy">
+			
+			<ul class="footerLinks">
+				<li class="last"><a href="https://law.uic.edu/">Home</a></li><br>
+				<li class="last"><a href="https://law.uic.edu/security/">Campus Safety &amp; Security</a></li><br>
+				<li class="last"><a href="https://law.uic.edu/student-support/its/">Information Technology Services</a></li><br>
+				<!--<li class="last"><a href="//complaints.ibhe.org/">Online Course Complaints (IBHE)</a></li><br>-->
+			</ul><br />
+			<br />
+
+		</div>
+
+		<div class="grid_4 footerCol" id="footerCopy">
+			
+			<ul class="footerLinks">
+				<li class="last"><a href="https://law.uic.edu/hours/">Hours of Operation</a></li><br>
+				<li class="last"><a href="https://law.uic.edu/policy/">Institutional Policies</a></li><br>
+				<li class="last"><a href="https://law.uic.edu/policy/privacy/">Privacy Policy</a></li><br>
+				<li class="last"><a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a></li><br>
+				<li class="last"><a href="https://law.uic.edu/student-support/students/student-complaint-policy/">Student Complaint Policy</a></li><br>
+			</ul><br />
+
+
+		</div>
+		
+
+
+
+		<div class="grid_4 footerCol" id="footerLocal">
+			<h5><a class="fn org url"></a><a href="//law.uic.edu"><img src="/_images/jmls_logo_small.png" alt="UIC Law" border="0" /></a></h5>
+			<span class="adr">
+				<!--<a target="_blank" class="googleMap" title="Map of Chicago" href="https://goo.gl/maps/iabVdADUtfZgG8Gb7"><span style="visibility: hidden">Chicago Map</span></a>-->
+				<p>
+					<span class="street-address">300 S. State Street</span><br>
+					<span class="locality">Chicago</span>,
+					<span class="region">Illinois</span>
+					<span class="postal-code">60604</span><br>
+					<span class="tel">(312) 427-2737</span><br>
+					<a href="/welcome/directions.php">View Map</a>
+				</p>
+							
+
+			<div class="cookie-banner">
+
+				<a class="optanon-show-settings">Cookie Settings</a>
+
+			</div>
+			</span>
+		</div>
+		
+
+	</div>
+
+
+</div>
+
+
+
+
+
+
+<div id="footer-2">
+	<div class="container_16">
+		
+		<div class="container_16">
+	
+		<div class="grid_16 questions" id="footerLocal">
+		
+			<span class="adr">
+				<!--<a target="_blank" class="googleMap" title="Map of Chicago" href="https://goo.gl/maps/iabVdADUtfZgG8Gb7"><span style="visibility: hidden">Chicago Map</span></a>-->
+				<p style="text-align:center;">
+									
+			Questions or suggestions for this website?<br />
+			<a href="mailto:law-communications@uic.edu" style="color:white; text-decoration: none;" >Please contact UIC Law website manager.</a>
+				
+				</p><br>
+				
+								<p style="text-align:center;">
+									
+			
+			@2021 University of Illinois Chicago School of Law
+				
+				</p><br>
+
+			</span>
+		</div>
+		
+
+	</div>
+	</div>
+</div>	<script src="/_js/jquery-faqs.js" type="text/javascript">
+
+	</script>
+
+</body>
+</html>

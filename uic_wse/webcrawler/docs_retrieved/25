@@ -1,0 +1,1594 @@
+  
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js ie ie6 lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]><html class="no-js ie ie7 lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]><html class="no-js ie ie8 lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en-US"> <!--<![endif]-->
+    <head>
+
+    
+
+    <!-- OneTrust Cookies Consent Notice start, uic.edu -->
+<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="c2f2262d-b694-4eba-8f4b-142c102b685a"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end, uic.edu -->
+
+<!-- Google Analytics script (RED and this site) -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    
+        ga('create', 'UA-20665772-1', 'auto');
+    
+        ga('create', 'UA-145176773-1', 'auto', 'uihealthTracker');
+    
+        ga('send', 'pageview');
+    
+        ga('uihealthTracker.send', 'pageview');
+      </script>
+<!-- End Google Analytics script (RED and this site) -->
+
+
+
+<!-- Google Tag Manager script for RED multisite -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+              j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})
+              (window,document,'script','dataLayer','GTM-W2Q8D2K');
+  </script>
+<!-- End Google Tag Manager script for RED multisite -->
+
+
+
+
+
+
+        <title>
+                            UI Health | University of Illinois Chicago
+                    </title>
+
+
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://uihealth.uic.edu/xmlrpc.php" />
+
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="&nbsp;"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+
+    <link rel="stylesheet" href="https://uihealth.uic.edu/wp-content/themes/uic-red/main.css?v=1638281954" type="text/css" media="all" />
+    <link rel="stylesheet" href="https://uihealth.uic.edu/wp-content/themes/uic-red/theinhardt.css?v=1638281954" type="text/css" media="all">
+
+    <link rel='dns-prefetch' href='//www.uic.edu' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/uihealth.uic.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=797ab4b087a327bd009281ec75f90d4f"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://uihealth.uic.edu/wp-includes/css/dist/block-library/style.min.css?ver=797ab4b087a327bd009281ec75f90d4f' type='text/css' media='all' />
+<link rel='stylesheet' id='quick-escape-css'  href='https://uihealth.uic.edu/wp-content/plugins/uic-red-quick-escape/css/main.css?ver=797ab4b087a327bd009281ec75f90d4f' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://uihealth.uic.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.9.2' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js?ver=797ab4b087a327bd009281ec75f90d4f' id='jquery-js'></script>
+<script type='text/javascript' src='https://uihealth.uic.edu/wp-content/plugins/uic-red-quick-escape/js/quick-escape.js?ver=797ab4b087a327bd009281ec75f90d4f' id='quick-escape-js'></script>
+<link rel="https://api.w.org/" href="https://uihealth.uic.edu/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://uihealth.uic.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://uihealth.uic.edu/wp-includes/wlwmanifest.xml" /> 
+
+
+</head>
+      
+  <body>
+
+<!-- Google Tag Manager for RED multisite (noscript) -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W2Q8D2K" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager for RED multisite (noscript) -->
+
+
+
+
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  <div class="l-page home blog post-type-- is-homepage site-type-a theme--ui-health-1 no-sidebar  ">
+
+
+    <!--[if lte IE 9]>
+<div class="browser-stripe u-dark-region">
+  <div class="l-full">
+      <h2>Your browser is unsupported</h2>
+      <p>We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.</p>
+  </div>
+</div>
+<![endif]-->
+<div class="browser-stripe u-dark-region ie10">
+  <div class="l-full">
+      <h2>Your browser is unsupported</h2>
+      <p>We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.</p>
+  </div>
+</div>
+    
+<header class="l-header" role="banner">
+
+  
+  <div class="header-navigation ">
+
+      <!--
+skipto accessibility feature
+
+How to update:
+1. Pull most recent version from https://github.com/a11y-tools/skipto
+2. Copy entire contents of this file: compiled/js/skipto.min.js
+3. Paste between the script tags below, replacing the old script.
+4. Search for displayOption and change its value to "popup"
+5. Save and compile with Gulp
+6. Verify it loads on front end by pressing tab key on load.
+ -->
+
+
+
+<script>
+
+
+/*! skipto - v4.1.2 - 2021-09-17
+* https://github.com/paypal/skipto
+* Copyright (c) 2021 PayPal Accessibility Team and University of Illinois; Licensed BSD */
+ /*@cc_on @*/
+/*@if (@_jscript_version >= 5.8) @*/
+
+!function(){"use strict";var SkipTo={skipToId:"id-skip-to-js-4",skipToMenuId:"id-skip-to-menu-4",domNode:null,buttonNode:null,menuNode:null,tooltipNode:null,menuitemNodes:[],firstMenuitem:!1,lastMenuitem:!1,firstChars:[],headingLevels:[],skipToIdIndex:1,showAllLandmarksSelector:"main, [role=main], [role=search], nav, [role=navigation], section[aria-label], section[aria-labelledby], section[title], [role=region][aria-label], [role=region][aria-labelledby], [role=region][title], form[aria-label], form[aria-labelledby], aside, [role=complementary], body > header, [role=banner], body > footer, [role=contentinfo]",showAllHeadingsSelector:"h1, h2, h3, h4, h5, h6",showTooltipFocus:!1,showTooltipHover:!1,tooltipTimerDelay:500,config:{enableActions:!1,enableMofN:!0,enableHeadingLevelShortcuts:!0,enableHelp:!0,enableTooltip:!0,accesskey:"0",attachElement:"header",displayOption:"popup",containerElement:"div",containerRole:"",customClass:"",buttonTitle:"",buttonTitleWithAccesskey:"",buttonTooltip:"",buttonTooltipAccesskey:"Shortcut Key: $key",buttonLabel:"Skip To Content",menuLabel:"Landmarks and Headings",landmarkGroupLabel:"Landmarks",headingGroupLabel:"Headings",mofnGroupLabel:" ($m of $n)",headingLevelLabel:"Heading level",mainLabel:"main",searchLabel:"search",navLabel:"navigation",regionLabel:"region",asideLabel:"aside",footerLabel:"footer",headerLabel:"header",formLabel:"form",msgNoLandmarksFound:"No landmarks found",msgNoHeadingsFound:"No headings found",actionGroupLabel:"Actions",actionShowHeadingsHelp:'Toggles between showing "All" and "Selected" Headings.',actionShowSelectedHeadingsLabel:"Show Selected Headings ($num)",actionShowAllHeadingsLabel:"Show All Headings ($num)",actionShowLandmarksHelp:'Toggles between showing "All" and "Selected" Landmarks.',actionShowSelectedLandmarksLabel:"Show Selected Landmarks ($num)",actionShowAllLandmarksLabel:"Show All Landmarks ($num)",actionShowSelectedHeadingsAriaLabel:"Show $num selected headings",actionShowAllHeadingsAriaLabel:"Show all $num headings",actionShowSelectedLandmarksAriaLabel:"Show $num selected landmarks",actionShowAllLandmarksAriaLabel:"Show all $num landmarks",landmarks:'main, [role="main"], [role="search"], nav, [role="navigation"], aside, [role="complementary"]',headings:'main h1, [role="main"] h1, main h2, [role="main"] h2',colorTheme:"",fontFamily:"",fontSize:"",positionLeft:"",menuTextColor:"",menuBackgroundColor:"",menuitemFocusTextColor:"",menuitemFocusBackgroundColor:"",focusBorderColor:"",buttonTextColor:"",buttonBackgroundColor:""},colorThemes:{default:{fontFamily:"inherit",fontSize:"inherit",positionLeft:"46%",menuTextColor:"#1a1a1a",menuBackgroundColor:"#dcdcdc",menuitemFocusTextColor:"#eeeeee",menuitemFocusBackgroundColor:"#1a1a1a",focusBorderColor:"#1a1a1a",buttonTextColor:"#1a1a1a",buttonBackgroundColor:"#eeeeee"},illinois:{fontFamily:"inherit",fontSize:"inherit",positionLeft:"46%",menuTextColor:"#00132c",menuBackgroundColor:"#cad9ef",menuitemFocusTextColor:"#eeeeee",menuitemFocusBackgroundColor:"#00132c",focusBorderColor:"#ff552e",buttonTextColor:"#444444",buttonBackgroundColor:"#dddede"},aria:{fontFamily:"sans-serif",fontSize:"10pt",positionLeft:"7%",menuTextColor:"#000",menuBackgroundColor:"#def",menuitemFocusTextColor:"#fff",menuitemFocusBackgroundColor:"#005a9c",focusBorderColor:"#005a9c",buttonTextColor:"#005a9c",buttonBackgroundColor:"#ddd"}},defaultCSS:".skip-to.popup{position:absolute;top:-30em;left:0}.skip-to,.skip-to.popup.focus{position:absolute;top:0;left:$positionLeft;font-family:$fontFamily;font-size:$fontSize}.skip-to.fixed{position:fixed}.skip-to button{position:relative;margin:0;padding:6px 8px 6px 8px;border-width:0 1px 1px 1px;border-style:solid;border-radius:0 0 6px 6px;border-color:$buttonBackgroundColor;color:$menuTextColor;background-color:$buttonBackgroundColor;z-index:200;font-family:$fontFamily;font-size:$fontSize}.skip-to .skip-to-tooltip{position:absolute;top:2.25em;left:8em;margin:1px;padding:4px;border:1px solid #ccc;box-shadow:2px 3px 5px #ddd;background-color:#eee;color:#000;font-family:Helvetica,Arial,Sans-Serif;font-variant-numeric:slash-zero;font-size:9pt;width:auto;display:none;white-space:nowrap;z-index:201}.skip-to .skip-to-tooltip.skip-to-show-tooltip{display:block}.skip-to [aria-expanded=true]+.skip-to-tooltip.skip-to-show-tooltip{display:none}.skip-to [role=menu]{position:absolute;min-width:17em;display:none;margin:0;padding:.25rem;background-color:$menuBackgroundColor;border-width:2px;border-style:solid;border-color:$focusBorderColor;border-radius:5px;z-index:1000}.skip-to [role=group]{display:grid;grid-auto-rows:min-content;grid-row-gap:1px}.skip-to [role=separator]:first-child{border-radius:5px 5px 0 0}.skip-to [role=menuitem]{padding:3px;width:auto;border-width:0;border-style:solid;color:$menuTextColor;background-color:$menuBackgroundColor;z-index:1000;display:grid;overflow-y:auto;grid-template-columns:repeat(6,1.2rem) 1fr;grid-column-gap:2px;font-size:1em}.skip-to [role=menuitem] .label,.skip-to [role=menuitem] .level{font-size:100%;font-weight:400;color:$menuTextColor;display:inline-block;background-color:$menuBackgroundColor;line-height:inherit;display:inline-block}.skip-to [role=menuitem] .level{text-align:right;padding-right:4px}.skip-to [role=menuitem] .label{text-align:left;margin:0;padding:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.skip-to [role=menuitem] .label:first-letter,.skip-to [role=menuitem] .level:first-letter{text-decoration:underline;text-transform:uppercase}.skip-to [role=menuitem].skip-to-h1 .level{grid-column:1}.skip-to [role=menuitem].skip-to-h2 .level{grid-column:2}.skip-to [role=menuitem].skip-to-h3 .level{grid-column:3}.skip-to [role=menuitem].skip-to-h4 .level{grid-column:4}.skip-to [role=menuitem].skip-to-h5 .level{grid-column:5}.skip-to [role=menuitem].skip-to-h6 .level{grid-column:8}.skip-to [role=menuitem].skip-to-h1 .label{grid-column:2/8}.skip-to [role=menuitem].skip-to-h2 .label{grid-column:3/8}.skip-to [role=menuitem].skip-to-h3 .label{grid-column:4/8}.skip-to [role=menuitem].skip-to-h4 .label{grid-column:5/8}.skip-to [role=menuitem].skip-to-h5 .label{grid-column:6/8}.skip-to [role=menuitem].skip-to-h6 .label{grid-column:7/8}.skip-to [role=menuitem].skip-to-h1.no-level .label{grid-column:1/8}.skip-to [role=menuitem].skip-to-h2.no-level .label{grid-column:2/8}.skip-to [role=menuitem].skip-to-h3.no-level .label{grid-column:3/8}.skip-to [role=menuitem].skip-to-h4.no-level .label{grid-column:4/8}.skip-to [role=menuitem].skip-to-h5.no-level .label{grid-column:5/8}.skip-to [role=menuitem].skip-to-h6.no-level .label{grid-column:6/8}.skip-to [role=menuitem].skip-to-nesting-level-1 .nesting{grid-column:1}.skip-to [role=menuitem].skip-to-nesting-level-2 .nesting{grid-column:2}.skip-to [role=menuitem].skip-to-nesting-level-3 .nesting{grid-column:3}.skip-to [role=menuitem].skip-to-nesting-level-0 .label{grid-column:1/8}.skip-to [role=menuitem].skip-to-nesting-level-1 .label{grid-column:2/8}.skip-to [role=menuitem].skip-to-nesting-level-2 .label{grid-column:3/8}.skip-to [role=menuitem].skip-to-nesting-level-3 .label{grid-column:4/8}.skip-to [role=menuitem].action .label,.skip-to [role=menuitem].no-items .label{grid-column:1/8}.skip-to [role=separator]{margin:1px 0 1px 0;padding:3px;display:block;width:auto;font-weight:700;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:$menuTextColor;background-color:$menuBackgroundColor;color:$menuTextColor;z-index:1000}.skip-to [role=separator] .mofn{font-weight:400;font-size:85%}.skip-to [role=separator]:first-child{border-radius:5px 5px 0 0}.skip-to [role=menuitem].last{border-radius:0 0 5px 5px}.skip-to.focus{display:block}.skip-to button:focus,.skip-to button:hover{background-color:$menuBackgroundColor;color:$menuTextColor;outline:0}.skip-to button:focus{padding:6px 7px 5px 7px;border-width:0 2px 2px 2px;border-color:$focusBorderColor}.skip-to [role=menuitem]:focus{padding:1px;border-width:2px;border-style:solid;border-color:$focusBorderColor;background-color:$menuitemFocusBackgroundColor;color:$menuitemFocusTextColor;outline:0}.skip-to [role=menuitem]:focus .label,.skip-to [role=menuitem]:focus .level{background-color:$menuitemFocusBackgroundColor;color:$menuitemFocusTextColor}",isNotEmptyString:function(str){return"string"==typeof str&&str.length},isEmptyString:function(str){return"string"!=typeof str||0===str.length},init:function(config){if(!document.querySelector("style#"+this.skipToId)){var attachElement=document.body;config&&this.setUpConfig(config),"string"==typeof this.config.attachElement&&(displayOption=document.querySelector(this.config.attachElement))&&displayOption.nodeType===Node.ELEMENT_NODE&&(attachElement=displayOption),this.addCSSColors(),this.renderStyleElement(this.defaultCSS);var displayOption=this.config.containerElement.toLowerCase().trim();this.isNotEmptyString(displayOption)||(displayOption="div"),this.domNode=document.createElement(displayOption),this.domNode.classList.add("skip-to"),this.isNotEmptyString(this.config.customClass)&&this.domNode.classList.add(this.config.customClass),this.isNotEmptyString(this.config.containerRole)&&this.domNode.setAttribute("role",this.config.containerRole);displayOption=this.config.displayOption;if("string"==typeof displayOption&&(displayOption=displayOption.trim().toLowerCase()).length)switch(this.config.displayOption){case"fixed":this.domNode.classList.add("fixed");break;case"onfocus":case"popup":this.domNode.classList.add("popup")}attachElement.firstElementChild?attachElement.insertBefore(this.domNode,attachElement.firstElementChild):attachElement.appendChild(this.domNode),this.buttonNode=document.createElement("button"),this.buttonNode.textContent=this.config.buttonLabel,this.buttonNode.setAttribute("aria-haspopup","true"),this.buttonNode.setAttribute("aria-expanded","false"),this.buttonNode.setAttribute("aria-controls",this.skipToMenuId),this.buttonNode.setAttribute("accesskey",this.config.accesskey),this.domNode.appendChild(this.buttonNode),this.renderTooltip(this.domNode,this.buttonNode),this.menuNode=document.createElement("div"),this.menuNode.setAttribute("role","menu"),this.menuNode.setAttribute("aria-busy","true"),this.menuNode.setAttribute("id",this.skipToMenuId),this.domNode.appendChild(this.menuNode),this.buttonNode.addEventListener("keydown",this.handleButtonKeydown.bind(this)),this.buttonNode.addEventListener("click",this.handleButtonClick.bind(this)),this.buttonNode.addEventListener("focus",this.handleButtonFocus.bind(this)),this.buttonNode.addEventListener("blur",this.handleButtonBlur.bind(this)),this.buttonNode.addEventListener("pointerenter",this.handleButtonPointerenter.bind(this)),this.buttonNode.addEventListener("pointerout",this.handleButtonPointerout.bind(this)),this.domNode.addEventListener("focusin",this.handleFocusin.bind(this)),this.domNode.addEventListener("focusout",this.handleFocusout.bind(this)),window.addEventListener("pointerdown",this.handleBackgroundPointerdown.bind(this),!0)}},renderTooltip:function(attachNode,buttonNode){var accesskey=this.getBrowserSpecificAccesskey(this.config.accesskey),tooltip=this.config.buttonTooltip;this.isNotEmptyString(this.config.buttonTitle)&&(tooltip=this.config.buttonTitle),this.tooltipLeft=buttonNode.getBoundingClientRect().width,this.tooltipTop=buttonNode.getBoundingClientRect().height,this.tooltipNode=document.createElement("div"),this.tooltipNode.setAttribute("role","tooltip"),this.tooltipNode.id="id-skip-to-tooltip",this.tooltipNode.classList.add("skip-to-tooltip"),this.isNotEmptyString(accesskey)&&(tooltip=this.config.buttonTooltipAccesskey.replace("$key",accesskey),this.isNotEmptyString(this.config.buttonTitleWithAccesskey)&&(tooltip=this.config.buttonTitleWithAccesskey.replace("$key",accesskey))),this.isEmptyString(tooltip)?this.config.enableTooltip=!1:this.tooltipNode.textContent=tooltip,attachNode.appendChild(this.tooltipNode),this.tooltipNode.style.left=this.tooltipLeft+"px",this.tooltipNode.style.top=this.tooltipTop+"px",this.tooltipNode.classList.add("skip-to-show-tooltip"),this.tooltipHeight=this.tooltipNode.getBoundingClientRect().height,this.tooltipNode.classList.remove("skip-to-show-tooltip")},updateStyle:function(stylePlaceholder,value,defaultValue){"string"==typeof value&&0!==value.length||(value=defaultValue);for(var index1=this.defaultCSS.indexOf(stylePlaceholder),index2=index1+stylePlaceholder.length;0<=index1&&index2<this.defaultCSS.length;)this.defaultCSS=this.defaultCSS.substring(0,index1)+value+this.defaultCSS.substring(index2),index2=(index1=this.defaultCSS.indexOf(stylePlaceholder,index2))+stylePlaceholder.length},addCSSColors:function(){var theme=this.colorThemes.default;"object"==typeof this.colorThemes[this.config.colorTheme]&&(theme=this.colorThemes[this.config.colorTheme]),this.updateStyle("$fontFamily",this.config.fontFamily,theme.fontFamily),this.updateStyle("$fontSize",this.config.fontSize,theme.fontSize),this.updateStyle("$positionLeft",this.config.positionLeft,theme.positionLeft),this.updateStyle("$menuTextColor",this.config.menuTextColor,theme.menuTextColor),this.updateStyle("$menuBackgroundColor",this.config.menuBackgroundColor,theme.menuBackgroundColor),this.updateStyle("$menuitemFocusTextColor",this.config.menuitemFocusTextColor,theme.menuitemFocusTextColor),this.updateStyle("$menuitemFocusBackgroundColor",this.config.menuitemFocusBackgroundColor,theme.menuitemFocusBackgroundColor),this.updateStyle("$focusBorderColor",this.config.focusBorderColor,theme.focusBorderColor),this.updateStyle("$buttonTextColor",this.config.buttonTextColor,theme.buttonTextColor),this.updateStyle("$buttonBackgroundColor",this.config.buttonBackgroundColor,theme.buttonBackgroundColor)},getBrowserSpecificAccesskey:function(accesskey){var hasOpera=navigator.userAgent.toLowerCase(),hasChrome=navigator.platform.toLowerCase(),hasWin=0<=hasChrome.indexOf("win"),hasMac=0<=hasChrome.indexOf("mac"),hasLinux=0<=hasChrome.indexOf("linux")||0<=hasChrome.indexOf("bsd"),hasAndroid=0<=hasOpera.indexOf("android"),hasFirefox=0<=hasOpera.indexOf("firefox"),hasChrome=0<=hasOpera.indexOf("chrome"),hasOpera=0<=hasOpera.indexOf("opr");if("string"!=typeof accesskey||0===accesskey.length)return"";if(hasWin||hasLinux&&!hasAndroid){if(hasFirefox)return"Shift + Alt + "+accesskey;if(hasChrome||hasOpera)return"Alt + "+accesskey}return hasMac?"Ctrl + Option + "+accesskey:""},setUpConfig:function(appConfig){var name,localConfig=this.config,appConfigSettings=void 0!==appConfig.settings?appConfig.settings.skipTo:{};for(name in appConfigSettings){if(void 0===localConfig[name]||!("string"==typeof appConfigSettings[name]&&0<appConfigSettings[name].length||"boolean"==typeof appConfigSettings[name]))throw new Error('** SkipTo Problem with user configuration option "'+name+'".');localConfig[name]=appConfigSettings[name]}},renderStyleElement:function(css){var styleNode=document.createElement("style"),headNode=document.getElementsByTagName("head")[0],css=document.createTextNode(css);styleNode.setAttribute("type","text/css"),styleNode.id=this.skipToId,styleNode.appendChild(css),headNode.appendChild(styleNode)},getFirstChar:function(label){var c="",label=label.querySelector(".label");return c=label&&this.isNotEmptyString(label.textContent)?label.textContent.trim()[0].toLowerCase():c},getHeadingLevelFromAttribute:function(menuitem){var level="";return level=menuitem.hasAttribute("data-level")?menuitem.getAttribute("data-level"):level},updateKeyboardShortCuts:function(){var mi;this.firstChars=[],this.headingLevels=[];for(var i=0;i<this.menuitemNodes.length;i+=1)mi=this.menuitemNodes[i],this.firstChars.push(this.getFirstChar(mi)),this.headingLevels.push(this.getHeadingLevelFromAttribute(mi))},updateMenuitems:function(){var menuitemNodes=this.menuNode.querySelectorAll("[role=menuitem");this.menuitemNodes=[];for(var i=0;i<menuitemNodes.length;i+=1)this.menuitemNodes.push(menuitemNodes[i]);this.firstMenuitem=this.menuitemNodes[0],this.lastMenuitem=this.menuitemNodes[this.menuitemNodes.length-1],this.lastMenuitem.classList.add("last"),this.updateKeyboardShortCuts()},renderMenuitemToGroup:function(tagNodeChild,mi){var tagNode,labelNode,menuitemNode=document.createElement("div");return menuitemNode.setAttribute("role","menuitem"),menuitemNode.classList.add(mi.class),this.isNotEmptyString(mi.tagName)&&menuitemNode.classList.add("skip-to-"+mi.tagName.toLowerCase()),menuitemNode.setAttribute("data-id",mi.dataId),menuitemNode.tabIndex=-1,this.isNotEmptyString(mi.ariaLabel)&&menuitemNode.setAttribute("aria-label",mi.ariaLabel),menuitemNode.addEventListener("keydown",this.handleMenuitemKeydown.bind(this)),menuitemNode.addEventListener("click",this.handleMenuitemClick.bind(this)),menuitemNode.addEventListener("pointerenter",this.handleMenuitemPointerenter.bind(this)),tagNodeChild.appendChild(menuitemNode),mi.class.includes("heading")&&(this.config.enableHeadingLevelShortcuts?(tagNode=document.createElement("span"),(tagNodeChild=document.createElement("span")).appendChild(document.createTextNode(mi.level)),tagNode.append(tagNodeChild),tagNode.appendChild(document.createTextNode(")")),tagNode.classList.add("level"),menuitemNode.append(tagNode)):menuitemNode.classList.add("no-level"),menuitemNode.setAttribute("data-level",mi.level),this.isNotEmptyString(mi.tagName)&&menuitemNode.classList.add("skip-to-"+mi.tagName)),mi.class.includes("landmark")&&(menuitemNode.setAttribute("data-nesting",mi.nestingLevel),menuitemNode.classList.add("skip-to-nesting-level-"+mi.nestingLevel),0<mi.nestingLevel&&mi.nestingLevel>this.lastNestingLevel&&((labelNode=document.createElement("span")).classList.add("nesting"),menuitemNode.append(labelNode)),this.lastNestingLevel=mi.nestingLevel),(labelNode=document.createElement("span")).appendChild(document.createTextNode(mi.name)),labelNode.classList.add("label"),menuitemNode.append(labelNode),menuitemNode},renderGroupLabel:function(titleNode,s,m,n){var mofnNode=document.getElementById(titleNode),titleNode=mofnNode.querySelector(".title"),mofnNode=mofnNode.querySelector(".mofn");titleNode.textContent=s,this.config.enableActions&&this.config.enableMofN&&"number"==typeof m&&"number"==typeof n&&(s=(s=(s=this.config.mofnGroupLabel).replace("$m",m)).replace("$n",n),mofnNode.textContent=s)},renderMenuitemGroup:function(groupId,title){var labelNode,groupNode,menuNode=this.menuNode;return this.isNotEmptyString(title)&&((labelNode=document.createElement("div")).id=groupId+"-label",labelNode.setAttribute("role","separator"),menuNode.appendChild(labelNode),(groupNode=document.createElement("span")).classList.add("title"),groupNode.textContent=title,labelNode.append(groupNode),(groupNode=document.createElement("span")).classList.add("mofn"),labelNode.append(groupNode),(groupNode=document.createElement("div")).setAttribute("role","group"),groupNode.setAttribute("aria-labelledby",labelNode.id),groupNode.id=groupId,menuNode.appendChild(groupNode),menuNode=groupNode),groupNode},removeMenuitemGroup:function(groupId){var node=document.getElementById(groupId);this.menuNode.removeChild(node),node=document.getElementById(groupId+"-label"),this.menuNode.removeChild(node)},renderMenuitemsToGroup:function(groupNode,menuitems,msgNoItemsFound){if(groupNode.innerHTML="",(this.lastNestingLevel=0)===menuitems.length){var item={};item.name=msgNoItemsFound,item.tagName="",item.class="no-items",item.dataId="",this.renderMenuitemToGroup(groupNode,item)}else for(var i=0;i<menuitems.length;i+=1)this.renderMenuitemToGroup(groupNode,menuitems[i])},getShowMoreHeadingsSelector:function(option){return"all"===option?this.showAllHeadingsSelector:this.config.headings},getShowMoreHeadingsLabel:function(option,n){var label=this.config.actionShowSelectedHeadingsLabel;return(label="all"===option?this.config.actionShowAllHeadingsLabel:label).replace("$num",n)},getShowMoreHeadingsAriaLabel:function(option,n){var label=this.config.actionShowSelectedHeadingsAriaLabel;return(label="all"===option?this.config.actionShowAllHeadingsAriaLabel:label).replace("$num",n)},renderActionMoreHeadings:function(groupNode){var headingsLen=this.getHeadings(this.getShowMoreHeadingsSelector("selected")).length,menuitemNode=this.getHeadings(this.getShowMoreHeadingsSelector("all")).length,noAction=headingsLen===menuitemNode,headingsLen=menuitemNode;return noAction||((menuitemNode={tagName:"",role:"menuitem",class:"action",dataId:"skip-to-more-headings"}).name=this.getShowMoreHeadingsLabel("all",headingsLen),menuitemNode.ariaLabel=this.getShowMoreHeadingsAriaLabel("all",headingsLen),(menuitemNode=this.renderMenuitemToGroup(groupNode,menuitemNode)).setAttribute("data-show-heading-option","all"),menuitemNode.title=this.config.actionShowHeadingsHelp),noAction},updateHeadingGroupMenuitems:function(option){var headings=this.getHeadings(this.getShowMoreHeadingsSelector("selected")),headingsLen=headings.length,groupNode=this.getHeadings(this.getShowMoreHeadingsSelector("all")),menuitemNode=groupNode.length,headings="all"===option?groupNode:headings;this.renderGroupLabel("id-skip-to-group-headings-label",this.config.headingGroupLabel,headings.length,groupNode.length),groupNode=document.getElementById("id-skip-to-group-headings"),this.renderMenuitemsToGroup(groupNode,headings,this.config.msgNoHeadingsFound),this.updateMenuitems(),groupNode.firstElementChild&&groupNode.firstElementChild.focus();headingsLen="all"===option?(option="selected",headingsLen):(option="all",menuitemNode),menuitemNode=this.menuNode.querySelector("[data-id=skip-to-more-headings]");menuitemNode.setAttribute("data-show-heading-option",option),menuitemNode.setAttribute("aria-label",this.getShowMoreHeadingsAriaLabel(option,headingsLen)),menuitemNode.querySelector("span.label").textContent=this.getShowMoreHeadingsLabel(option,headingsLen)},getShowMoreLandmarksSelector:function(option){return"all"===option?this.showAllLandmarksSelector:this.config.landmarks},getShowMoreLandmarksLabel:function(option,n){var label=this.config.actionShowSelectedLandmarksLabel;return(label="all"===option?this.config.actionShowAllLandmarksLabel:label).replace("$num",n)},getShowMoreLandmarksAriaLabel:function(option,n){var label=this.config.actionShowSelectedLandmarksAriaLabel;return(label="all"===option?this.config.actionShowAllLandmarksAriaLabel:label).replace("$num",n)},renderActionMoreLandmarks:function(groupNode){var landmarksLen=this.getLandmarks(this.getShowMoreLandmarksSelector("selected")).length,menuitemNode=this.getLandmarks(this.getShowMoreLandmarksSelector("all")).length,noAction=landmarksLen===menuitemNode,landmarksLen=menuitemNode;return noAction||((menuitemNode={tagName:"",role:"menuitem",class:"action",dataId:"skip-to-more-landmarks"}).name=this.getShowMoreLandmarksLabel("all",landmarksLen),menuitemNode.ariaLabel=this.getShowMoreLandmarksAriaLabel("all",landmarksLen),(menuitemNode=this.renderMenuitemToGroup(groupNode,menuitemNode)).setAttribute("data-show-landmark-option","all"),menuitemNode.title=this.config.actionShowLandmarksHelp),noAction},updateLandmarksGroupMenuitems:function(option){var landmarks=this.getLandmarks(this.getShowMoreLandmarksSelector("selected")),landmarksLen=landmarks.length,groupNode=this.getLandmarks(this.getShowMoreLandmarksSelector("all"),!0),menuitemNode=groupNode.length,landmarks="all"===option?groupNode:landmarks;this.renderGroupLabel("id-skip-to-group-landmarks-label",this.config.landmarkGroupLabel,landmarks.length,groupNode.length),groupNode=document.getElementById("id-skip-to-group-landmarks"),this.renderMenuitemsToGroup(groupNode,landmarks,this.config.msgNoLandmarksFound),this.updateMenuitems(),groupNode.firstElementChild&&groupNode.firstElementChild.focus();landmarksLen="all"===option?(option="selected",landmarksLen):(option="all",menuitemNode),menuitemNode=this.menuNode.querySelector("[data-id=skip-to-more-landmarks]");menuitemNode.setAttribute("data-show-landmark-option",option),menuitemNode.setAttribute("aria-label",this.getShowMoreLandmarksAriaLabel(option,landmarksLen)),menuitemNode.querySelector("span.label").textContent=this.getShowMoreLandmarksLabel(option,landmarksLen)},renderMenu:function(){for(var landmarkElements,headingElements,hasNoAction1,hasNoAction2;this.menuNode.lastElementChild;)this.menuNode.removeChild(this.menuNode.lastElementChild);headingElements=this.getShowMoreLandmarksSelector("all"),hasNoAction1=this.getLandmarks(headingElements,!0),headingElements=this.getShowMoreLandmarksSelector("selected"),landmarkElements=this.getLandmarks(headingElements),hasNoAction2=this.renderMenuitemGroup("id-skip-to-group-landmarks",this.config.landmarkGroupLabel),this.renderMenuitemsToGroup(hasNoAction2,landmarkElements,this.config.msgNoLandmarksFound),this.renderGroupLabel("id-skip-to-group-landmarks-label",this.config.landmarkGroupLabel,landmarkElements.length,hasNoAction1.length),headingElements=this.getShowMoreHeadingsSelector("all"),hasNoAction1=this.getHeadings(headingElements),headingElements=this.getShowMoreHeadingsSelector("selected"),headingElements=this.getHeadings(headingElements),hasNoAction2=this.renderMenuitemGroup("id-skip-to-group-headings",this.config.headingGroupLabel),this.renderMenuitemsToGroup(hasNoAction2,headingElements,this.config.msgNoHeadingsFound),this.renderGroupLabel("id-skip-to-group-headings-label",this.config.headingGroupLabel,headingElements.length,hasNoAction1.length),this.config.enableActions&&(hasNoAction2=this.renderMenuitemGroup("id-skip-to-group-actions",this.config.actionGroupLabel),hasNoAction1=this.renderActionMoreLandmarks(hasNoAction2),hasNoAction2=this.renderActionMoreHeadings(hasNoAction2),hasNoAction1&&hasNoAction2&&this.removeMenuitemGroup("id-skip-to-group-actions")),this.updateMenuitems()},setFocusToMenuitem:function(menuitem){menuitem&&menuitem.focus()},setFocusToFirstMenuitem:function(){this.setFocusToMenuitem(this.firstMenuitem)},setFocusToLastMenuitem:function(){this.setFocusToMenuitem(this.lastMenuitem)},setFocusToPreviousMenuitem:function(menuitem){var newMenuitem=menuitem===this.firstMenuitem?this.lastMenuitem:(newMenuitem=this.menuitemNodes.indexOf(menuitem),this.menuitemNodes[newMenuitem-1]);return this.setFocusToMenuitem(newMenuitem),newMenuitem},setFocusToNextMenuitem:function(menuitem){var newMenuitem=menuitem===this.lastMenuitem?this.firstMenuitem:(newMenuitem=this.menuitemNodes.indexOf(menuitem),this.menuitemNodes[newMenuitem+1]);return this.setFocusToMenuitem(newMenuitem),newMenuitem},setFocusByFirstCharacter:function(index,char){var start;1<char.length||(char=char.toLowerCase(),(start=this.menuitemNodes.indexOf(index)+1)>=this.menuitemNodes.length&&(start=0),-1<(index=-1===(index=-1===(index=-1===(index=this.firstChars.indexOf(char,start))?this.headingLevels.indexOf(char,start):index)?this.firstChars.indexOf(char,0):index)?this.headingLevels.indexOf(char,0):index)&&this.setFocusToMenuitem(this.menuitemNodes[index]))},getIndexFirstChars:function(startIndex,char){for(var i=startIndex;i<this.firstChars.length;i+=1)if(char===this.firstChars[i])return i;return-1},openPopup:function(){this.menuNode.setAttribute("aria-busy","true"),this.renderMenu(),this.menuNode.style.display="block",this.menuNode.removeAttribute("aria-busy"),this.buttonNode.setAttribute("aria-expanded","true")},closePopup:function(){this.isOpen()&&(this.buttonNode.setAttribute("aria-expanded","false"),this.menuNode.style.display="none")},isOpen:function(){return"true"===this.buttonNode.getAttribute("aria-expanded")},handleFocusin:function(){this.domNode.classList.add("focus")},handleFocusout:function(){this.domNode.classList.remove("focus")},handleButtonKeydown:function(event){var flag=!1;switch(event.key){case" ":case"Enter":case"ArrowDown":case"Down":this.openPopup(),this.setFocusToFirstMenuitem(),flag=!0;break;case"Esc":case"Escape":this.closePopup(),this.buttonNode.focus(),this.hideTooltip(),flag=!0;break;case"Up":case"ArrowUp":this.openPopup(),this.setFocusToLastMenuitem(),flag=!0}flag&&(event.stopPropagation(),event.preventDefault())},handleButtonClick:function(event){this.isOpen()?(this.closePopup(),this.buttonNode.focus()):(this.openPopup(),this.setFocusToFirstMenuitem()),event.stopPropagation(),event.preventDefault()},isTooltipHidden:function(){return this.tooltipNode.className.indexOf("skip-to-show-tooltip")<0},displayTooltip:function(){(this.showTooltipFocus||this.showTooltipHover)&&this.tooltipNode.classList.add("skip-to-show-tooltip")},showTooltip:function(){this.showTooltipFocus=!0,this.config.enableTooltip&&this.isTooltipHidden()&&(this.tooltipNode.style.left=this.tooltipLeft+"px",this.tooltipNode.style.top=this.tooltipTop+"px",setTimeout(this.displayTooltip.bind(this),this.tooltipTimerDelay))},hideTooltip:function(){this.showTooltipFocus=!1,this.config.enableTooltip&&this.tooltipNode.classList.remove("skip-to-show-tooltip")},handleButtonFocus:function(){this.showTooltip()},handleButtonBlur:function(){this.hideTooltip()},handleButtonPointerenter:function(event){var left,top;this.showTooltipHover=!0,this.config.enableTooltip&&this.isTooltipHidden()&&(top=this.buttonNode.getBoundingClientRect(),left=Math.min(this.tooltipLeft,event.pageX-top.left+this.tooltipHeight),this.tooltipNode.style.left=left+"px",top=event.pageY-top.top,this.tooltipNode.style.top=top+"px",setTimeout(this.showTooltip.bind(this),this.tooltipTimerDelay))},handleButtonPointerout:function(){this.showTooltipHover=!1,this.config.enableTooltip&&this.tooltipNode.classList.remove("skip-to-show-tooltip")},skipToElement:function(elem){var scrollNode,isVisible=this.isVisible,focusNode=!1;function findVisibleElement(e,selectors){if(e)for(var j=0;j<selectors.length;j+=1)for(var elems=e.querySelectorAll(selectors[j]),i=0;i<elems.length;i+=1)if(isVisible(elems[i]))return elems[i];return e}var isLandmark=elem.classList.contains("landmark"),isSearch=elem.classList.contains("skip-to-search"),isNav=elem.classList.contains("skip-to-nav");(elem=document.querySelector('[data-skip-to-id="'+elem.getAttribute("data-id")+'"]'))&&(isSearch&&(focusNode=findVisibleElement(elem,["input","button","input[type=button]","input[type=submit]","a"])),(focusNode=isNav?findVisibleElement(elem,["a","input","button","input[type=button]","input[type=submit]"]):focusNode)&&this.isVisible(focusNode)?(focusNode.focus(),focusNode.scrollIntoView({block:"nearest"})):((elem=isLandmark&&(scrollNode=findVisibleElement(elem,["h1","h2","h3","h4","h5","h6","section","article","p","li","a"]))?scrollNode:elem).tabIndex=-1,elem.focus(),elem.scrollIntoView({block:"center"})))},handleMenuitemAction:function(tgt){var option;switch(tgt.getAttribute("data-id")){case"":break;case"skip-to-more-headings":option=tgt.getAttribute("data-show-heading-option"),this.updateHeadingGroupMenuitems(option);break;case"skip-to-more-landmarks":option=tgt.getAttribute("data-show-landmark-option"),this.updateLandmarksGroupMenuitems(option);break;default:this.closePopup(),this.skipToElement(tgt)}},handleMenuitemKeydown:function(event){var tgt=event.currentTarget,key=event.key,flag=!1;function isPrintableCharacter(str){return 1===str.length&&str.match(/\S/)}if(!(event.ctrlKey||event.altKey||event.metaKey)){if(event.shiftKey)isPrintableCharacter(key)&&(this.setFocusByFirstCharacter(tgt,key),flag=!0),"Tab"===event.key&&(this.buttonNode.focus(),this.closePopup(),flag=!0);else switch(key){case"Enter":case" ":this.handleMenuitemAction(tgt),flag=!0;break;case"Esc":case"Escape":this.closePopup(),this.buttonNode.focus(),flag=!0;break;case"Up":case"ArrowUp":this.setFocusToPreviousMenuitem(tgt),flag=!0;break;case"ArrowDown":case"Down":this.setFocusToNextMenuitem(tgt),flag=!0;break;case"Home":case"PageUp":this.setFocusToFirstMenuitem(),flag=!0;break;case"End":case"PageDown":this.setFocusToLastMenuitem(),flag=!0;break;case"Tab":this.closePopup();break;default:isPrintableCharacter(key)&&(this.setFocusByFirstCharacter(tgt,key),flag=!0)}flag&&(event.stopPropagation(),event.preventDefault())}},handleMenuitemClick:function(event){this.handleMenuitemAction(event.currentTarget),event.stopPropagation(),event.preventDefault()},handleMenuitemPointerenter:function(event){event.currentTarget.focus()},handleBackgroundPointerdown:function(event){this.domNode.contains(event.target)||this.isOpen()&&(this.closePopup(),this.buttonNode.focus())},normalizeName:function(name){return"string"==typeof name?name.replace(/\w\S*/g,function(txt){return txt.charAt(0).toUpperCase()+txt.substr(1).toLowerCase()}):""},getTextContent:function(elem){var str="Test",strings=[];return function getText(e,strings){if(e.nodeType===Node.TEXT_NODE)strings.push(e.data);else if(e.nodeType===Node.ELEMENT_NODE){var tagName=e.tagName.toLowerCase();if("img"===tagName||"area"===tagName)e.alt&&strings.push(e.alt);else for(var c=e.firstChild;c;)getText(c,strings),c=c.nextSibling}}(elem,strings),str=strings.length?strings.join(" "):str},getAccessibleName:function(name){var labelledbyIds=name.getAttribute("aria-labelledby"),label=name.getAttribute("aria-label"),title=name.getAttribute("title"),name="";if(labelledbyIds&&labelledbyIds.length){for(var str,strings=[],ids=labelledbyIds.split(" "),i=0,l=(ids=!ids.length?[labelledbyIds]:ids).length;i<l;i+=1){var e=document.getElementById(ids[i]);(str=e?this.getTextContent(e):str)&&str.length&&strings.push(str)}name=strings.join(" ")}else this.isNotEmptyString(label)?name=label:this.isNotEmptyString(title)&&(name=title);return name},isVisible:function(element){return function isVisibleRec(el){if(9===el.nodeType)return!0;var hidden=window.getComputedStyle(el),display=hidden.getPropertyValue("display"),visibility=hidden.getPropertyValue("visibility"),hidden=el.getAttribute("hidden");return"none"!==display&&"hidden"!==visibility&&null===hidden&&isVisibleRec(el.parentNode)}(element)},getHeadings:function(targets){var headingElementsArr=[];if("string"==typeof(targets="string"!=typeof targets?this.config.headings:targets)&&0!==targets.length){for(var headings=document.querySelectorAll(targets),i=0,len=headings.length;i<len;i+=1){var dataId,level,heading=headings[i],headingItem=heading.getAttribute("role");"string"==typeof headingItem&&"presentation"===headingItem||this.isVisible(heading)&&(dataId=heading.hasAttribute("data-skip-to-id")?heading.getAttribute("data-skip-to-id"):(heading.setAttribute("data-skip-to-id",this.skipToIdIndex),this.skipToIdIndex),level=heading.tagName.substring(1),(headingItem={}).dataId=dataId.toString(),headingItem.class="heading",headingItem.name=this.getTextContent(heading),headingItem.ariaLabel=headingItem.name+", ",headingItem.ariaLabel+=this.config.headingLevelLabel+" "+level,headingItem.tagName=heading.tagName.toLowerCase(),headingItem.role="heading",headingItem.level=level,headingElementsArr.push(headingItem),this.skipToIdIndex+=1)}return headingElementsArr}},getLocalizedLandmarkName:function(tagName,name){var n;switch(tagName){case"aside":n=this.config.asideLabel;break;case"footer":n=this.config.footerLabel;break;case"form":n=this.config.formLabel;break;case"header":n=this.config.headerLabel;break;case"main":n=this.config.mainLabel;break;case"nav":n=this.config.navLabel;break;case"region":n=this.config.regionLabel;break;case"search":n=this.config.searchLabel;break;default:n=tagName}return this.isNotEmptyString(name)&&(n+=": "+name),n},getNestingLevel:function(landmark,landmarks){for(var nestingLevel=0,parentNode=landmark.parentNode;parentNode;){for(var i=0;i<landmarks.length;i+=1)if(landmarks[i]===parentNode&&3===(nestingLevel+=1))return 3;parentNode=parentNode.parentNode}return nestingLevel},getLandmarks:function(targets,allFlag){"boolean"!=typeof allFlag&&(allFlag=!1),"string"!=typeof targets&&(targets=this.config.landmarks);for(var landmarks=document.querySelectorAll(targets),mainElements=[],searchElements=[],navElements=[],asideElements=[],footerElements=[],regionElements=[],otherElements=[],allLandmarks=[],dataId="",i=0,len=landmarks.length;i<len;i+=1){var landmark=landmarks[i];if(landmark!==this.domNode){var role=landmark.getAttribute("role"),tagName=landmark.tagName.toLowerCase();if(("string"!=typeof role||"presentation"!==role)&&this.isVisible(landmark)){var role=role||tagName,name=this.getAccessibleName(landmark);switch("string"!=typeof name&&(name=""),role){case"banner":tagName="header";break;case"complementary":tagName="aside";break;case"contentinfo":tagName="footer";break;case"form":tagName="form";break;case"main":tagName="main";break;case"navigation":tagName="nav";break;case"section":tagName="region";break;case"search":tagName="search"}["aside","footer","form","header","main","nav","region","search"].indexOf(tagName)<0&&(tagName="main"),landmark.hasAttribute("aria-roledescription")&&(tagName=landmark.getAttribute("aria-roledescription").trim().replace(" ","-"));var dataId=landmark.hasAttribute("data-skip-to-id")?landmark.getAttribute("data-skip-to-id"):(landmark.setAttribute("data-skip-to-id",this.skipToIdIndex),this.skipToIdIndex),landmarkItem={};switch(landmarkItem.dataId=dataId.toString(),landmarkItem.class="landmark",landmarkItem.name=this.getLocalizedLandmarkName(tagName,name),landmarkItem.tagName=tagName,landmarkItem.nestingLevel=0,allFlag&&(landmarkItem.nestingLevel=this.getNestingLevel(landmark,landmarks)),this.skipToIdIndex+=1,allLandmarks.push(landmarkItem),tagName){case"main":mainElements.push(landmarkItem);break;case"search":searchElements.push(landmarkItem);break;case"nav":navElements.push(landmarkItem);break;case"aside":asideElements.push(landmarkItem);break;case"footer":footerElements.push(landmarkItem);break;case"region":regionElements.push(landmarkItem);break;default:otherElements.push(landmarkItem)}}}}return allFlag?allLandmarks:[].concat(mainElements,regionElements,searchElements,navElements,asideElements,footerElements,otherElements)}};window.addEventListener("load",function(){SkipTo.init(window.SkipToConfig||window.Wordpress||("object"==typeof window.Joomla&&"function"==typeof window.Joomla.getOptions?window.Joomla.getOptions("skipto-settings",{}):{}))})}();
+//# sourceMappingURL=skipto.min.js.map/*@end @*/
+
+
+
+
+
+</script>
+      <div class="eyebrow-mobile-wrapper js-eyebrow-mobile">
+<div class="eyebrow-mobile">
+          <a href="http://uihealth.uic.edu" class="ui-health-logo-icon header-navigation__ui-health-logo-link"><span class="link-text-hide">UI Health</span>
+
+  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="0 0 252 36" style="enable-background:new 0 0 252 36;" xml:space="preserve">
+
+  <rect x="0" y="14.8" class="st0" style="fill:#AFD248;" width="13.1" height="2.6"/>
+  <polygon class="st1" style="fill:#CADD69;" points="10.5,4.5 10.5,10.9 0,10.9 0,13.6 13.1,13.6 13.1,4.5 "/>
+  <rect x="10.3" y="18.5" class="st2" style="fill:#79C364;" width="2.6" height="13.1"/>
+  <polygon class="st3" style="fill:#9BCB4E;" points="0,18.5 0,21.1 6.4,21.1 6.4,31.5 9.1,31.5 9.1,18.5 "/>
+  <rect x="14.1" y="4.4" class="st4" style="fill:#006E8D;" width="2.6" height="13.1"/>
+  <polygon class="st4" style="fill:#006E8D;" points="20.6,14.9 20.6,4.4 17.9,4.4 17.9,17.5 27,17.5 27,14.9 "/>
+  <rect x="13.9" y="18.5" class="st5" style="fill:#3FB981;" width="13.1" height="2.6"/>
+  <polygon class="st6" style="fill:#5EBD75;" points="27,22.4 13.9,22.4 13.9,31.5 16.5,31.5 16.5,25 27,25 "/>
+  <g>
+    <defs>
+      <rect id="SVGID_1_" x="-54.1" y="-111.4" width="360" height="288"/>
+    </defs>
+    <clippath id="SVGID_2_">
+      <use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+    </clippath>
+    <path class="st7" style="fill:#FFFFFF;"
+  d="M252,18c0-7.5-6.1-13.6-13.6-13.6s-13.6,6.1-13.6,13.6c0,7.5,6.1,13.6,13.6,13.6S252,25.5,252,18"/>
+    <path class="st8" style="fill:#006E8D;" d="M252,18c0-7.5-6.1-13.6-13.6-13.6c-7.5,0-13.6,6.1-13.6,13.6c0,7.5,6.1,13.6,13.6,13.6
+      C245.9,31.6,252,25.5,252,18 M235.8,19.2c0,1.2-0.1,1.8-0.5,2.4c-0.6,1-2.1,1.4-3.5,1.4c-1.4,0-2.9-0.4-3.5-1.4
+      c-0.4-0.6-0.5-1.2-0.5-2.4V14h2.7v5.3c0,0.6,0.1,1,0.3,1.2c0.2,0.2,0.5,0.4,1,0.4c0.5,0,0.8-0.1,1-0.4c0.2-0.3,0.3-0.7,0.3-1.2V14
+      h2.7V19.2z M240,22.8h-2.7V14h2.7V22.8z M249.6,16.2l-2.3,1.1c-0.2-0.9-0.7-1.4-1.5-1.4c-1.1,0-1.7,0.9-1.7,2.5
+      c0,1.5,0.6,2.4,1.7,2.4c0.8,0,1.2-0.4,1.5-1.1l2.4,0.9c-0.6,1.4-1.9,2.4-3.9,2.4c-2.8,0-4.4-1.9-4.4-4.6c0-2.7,1.7-4.6,4.4-4.6
+      C247.9,13.8,249.1,15,249.6,16.2"/>
+    <rect x="207.8" class="st9" style="fill:#939598;" width="0.8" height="36"/>
+    <path class="st10" style="fill:#636466;" d="M36.8,20.2V5h1.9V20c0,6.1,3.3,9.6,8.8,9.6c5.2,0,8.6-3.2,8.6-9.4V5H58v14.9c0,7.4-4.3,11.4-10.6,11.4
+      C41.2,31.3,36.8,27.4,36.8,20.2"/>
+    <rect x="64.8" y="5" class="st10" style="fill:#636466;" width="1.9" height="25.8"/>
+    <polygon class="st10" style="fill:#636466;" points="85.8,5 87.7,5 87.7,17 104.2,17 104.2,5 106.1,5 106.1,30.9 104.2,30.9 104.2,18.8 87.7,18.8
+      87.7,30.9 85.8,30.9   "/>
+    <path class="st10" style="fill:#636466;" d="M110.7,21.5L110.7,21.5c0-5.5,3.8-9.9,8.9-9.9c5.3,0,8.6,4.3,8.6,9.9c0,0.3,0,0.4,0,0.7h-15.6
+      c0.3,4.7,3.7,7.4,7.4,7.4c2.9,0,4.9-1.3,6.5-3l1.3,1.1c-1.9,2.1-4.2,3.5-7.8,3.5C114.9,31.3,110.7,27.4,110.7,21.5 M126.3,20.6
+      c-0.3-3.8-2.4-7.3-6.8-7.3c-3.7,0-6.6,3.1-6.9,7.3H126.3z"/>
+    <path class="st10" style="fill:#636466;" d="M131.2,25.4L131.2,25.4c0-4,3.4-6.2,8.2-6.2c2.6,0,4.4,0.3,6.2,0.8v-0.8c0-3.8-2.3-5.8-6.2-5.8
+      c-2.3,0-4.2,0.6-5.9,1.5l-0.7-1.6c2.1-1,4.1-1.6,6.7-1.6c2.5,0,4.6,0.7,5.9,2.1c1.3,1.3,1.9,3,1.9,5.3v11.7h-1.8v-3.1
+      c-1.3,1.8-3.6,3.6-7.2,3.6C135,31.3,131.2,29.3,131.2,25.4 M145.7,23.8v-2.1c-1.6-0.4-3.7-0.8-6.4-0.8c-4,0-6.2,1.8-6.2,4.4v0.1
+      c0,2.7,2.6,4.3,5.5,4.3C142.5,29.6,145.7,27.3,145.7,23.8"/>
+    <rect x="153.5" y="3.9" class="st10" style="fill:#636466;" width="1.8" height="27"/>
+    <path class="st10" style="fill:#636466;" d="M162.7,26.1V13.7H160v-1.7h2.7V6h1.8v6h6.6v1.7h-6.6v12.1c0,2.7,1.6,3.7,3.8,3.7c0.9,0,1.7-0.2,2.8-0.7v1.7
+      c-1,0.4-1.9,0.7-3.1,0.7C165.1,31.2,162.7,29.6,162.7,26.1"/>
+    <path class="st10" style="fill:#636466;" d="M175.7,3.9h1.8v11.6c1.3-2.2,3.4-3.9,6.8-3.9c4.8,0,7.5,3.2,7.5,7.8v11.5h-1.8V19.7c0-3.9-2.2-6.4-6-6.4
+      c-3.7,0-6.5,2.8-6.5,6.7v10.9h-1.8V3.9z"/>
+  </g>
+  </svg>
+
+</a>
+      <a href="http://uihealth.uic.edu" class="ui-health-condensed-logo-icon header-navigation__ui-health-logo-mark-link">
+
+  <svg version="1.2" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     x="0px" y="0px" viewBox="0 0 313.81 161.18" xml:space="preserve">
+  <g>
+    <circle fill="#FFFFFF" cx="250.89" cy="77.6" r="61.25"/>
+    <g>
+      <path fill="#006E8D" d="M313.81,77.62c0-34.54-28.01-62.55-62.55-62.55c-34.55,0-62.55,28-62.55,62.55
+        c0,34.55,28.01,62.55,62.55,62.55C285.81,140.16,313.81,112.16,313.81,77.62 M239.12,83.23c0,5.7-0.6,8.46-2.23,11.22
+        c-2.7,4.5-9.9,6.24-16.19,6.24c-6.3,0-13.5-1.74-16.2-6.24c-1.62-2.76-2.23-5.52-2.23-11.22V59.11h12.24v24.36
+        c0,2.76,0.36,4.57,1.38,5.76c0.96,1.14,2.52,1.68,4.8,1.68c2.28,0,3.83-0.54,4.8-1.68c1.02-1.2,1.38-3,1.38-5.76V59.11h12.24
+        V83.23z M258.79,99.91h-12.24v-40.8h12.24V99.91z M302.76,69.31l-10.61,5.1c-1.02-3.96-3.24-6.29-7.08-6.29
+        c-5.22,0-7.86,4.32-7.86,11.39c0,7.02,2.64,11.22,7.86,11.22c3.6,0,5.7-1.92,6.84-5.1l11.1,3.96c-2.88,6.54-8.7,11.04-18,11.04
+        c-12.9,0-20.28-8.64-20.28-21.13c0-12.53,7.8-21.11,20.52-21.11C294.97,58.39,300.73,63.97,302.76,69.31"/>
+    </g>
+  </g>
+  <rect x="155.95" fill="#939598" width="1.8" height="161.18"/>
+  <rect x="0" y="63.38" fill="#AFD248" width="60.36" height="12.19"/>
+  <polygon fill="#CADD69" points="48.45,15.78 48.45,45.53 0,45.53 0,57.71 60.35,57.71 60.35,15.78 "/>
+  <rect x="47.6" y="80.37" fill="#79C364" width="12.19" height="60.36"/>
+  <polygon fill="#9BCB4E" points="0,80.37 0,92.27 29.74,92.27 29.74,140.73 41.93,140.73 41.93,80.37 "/>
+  <rect x="64.88" y="15.5" fill="#006E8D" width="12.18" height="60.36"/>
+  <polygon fill="#006E8D" points="94.92,63.95 94.92,15.5 82.73,15.5 82.73,75.85 124.66,75.85 124.66,63.95 "/>
+  <rect x="64.3" y="80.65" fill="#3FB981" width="60.36" height="12.19"/>
+  <polygon fill="#5EBD75" points="124.66,98.51 64.3,98.51 64.3,140.44 76.2,140.44 76.2,110.69 124.66,110.69 "/>
+  </svg>
+
+</a>
+        
+    <button aria-label="Search the site" class="search-toggle-mobile js-search-toggle-mobile">
+  <span class="icon-search ">
+        <span class="assistive-text">Search the site</span>
+      </span>
+    </button>
+    <button class="nav-header-toggle js-nav-header-toggle">
+      <span class="icon-menu">
+      Toggle Menu
+      </span>
+    </button>
+  </div>
+  <div class="search-input-container-mobile">
+    <div class="search-input-container-mobile__content">
+      <div class="search-title">
+        Search
+        <a class="search-close search-toggle-mobile">
+          <svg aria-label="Close search box" width="100%" height="100%" viewBox="0 0 22 22">
+            <use xlink:href="https://uihealth.uic.edu/wp-content/themes/uic-red/images/svgs/svgs.svg#icon-close"></use>
+          </svg>
+        </a>
+      </div>
+      <form method="get" action="/search" role="search" aria-label="Search this site on your mobile device">
+        <input type="text" name="q" class="search-input-mobile" placeholder="Search..." tabindex="-1" aria-label="Search this site on your mobile device" disabled="">
+        <input type="submit" class="submit-button" name="search" value="Submit">
+      </form>
+    </div>
+  </div>
+</div>
+
+    <div class="header-navigation__eyebrow">
+
+        <div class="header-navigation__eyebrow-menus">
+
+            <div class="header-navigation__logo-and-site-title">
+
+                                <a href="http://uihealth.uic.edu" class="ui-health-logo-icon header-navigation__ui-health-logo-link"><span class="link-text-hide">UI Health</span>
+
+  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="0 0 252 36" style="enable-background:new 0 0 252 36;" xml:space="preserve">
+
+  <rect x="0" y="14.8" class="st0" style="fill:#AFD248;" width="13.1" height="2.6"/>
+  <polygon class="st1" style="fill:#CADD69;" points="10.5,4.5 10.5,10.9 0,10.9 0,13.6 13.1,13.6 13.1,4.5 "/>
+  <rect x="10.3" y="18.5" class="st2" style="fill:#79C364;" width="2.6" height="13.1"/>
+  <polygon class="st3" style="fill:#9BCB4E;" points="0,18.5 0,21.1 6.4,21.1 6.4,31.5 9.1,31.5 9.1,18.5 "/>
+  <rect x="14.1" y="4.4" class="st4" style="fill:#006E8D;" width="2.6" height="13.1"/>
+  <polygon class="st4" style="fill:#006E8D;" points="20.6,14.9 20.6,4.4 17.9,4.4 17.9,17.5 27,17.5 27,14.9 "/>
+  <rect x="13.9" y="18.5" class="st5" style="fill:#3FB981;" width="13.1" height="2.6"/>
+  <polygon class="st6" style="fill:#5EBD75;" points="27,22.4 13.9,22.4 13.9,31.5 16.5,31.5 16.5,25 27,25 "/>
+  <g>
+    <defs>
+      <rect id="SVGID_1_" x="-54.1" y="-111.4" width="360" height="288"/>
+    </defs>
+    <clippath id="SVGID_2_">
+      <use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+    </clippath>
+    <path class="st7" style="fill:#FFFFFF;"
+  d="M252,18c0-7.5-6.1-13.6-13.6-13.6s-13.6,6.1-13.6,13.6c0,7.5,6.1,13.6,13.6,13.6S252,25.5,252,18"/>
+    <path class="st8" style="fill:#006E8D;" d="M252,18c0-7.5-6.1-13.6-13.6-13.6c-7.5,0-13.6,6.1-13.6,13.6c0,7.5,6.1,13.6,13.6,13.6
+      C245.9,31.6,252,25.5,252,18 M235.8,19.2c0,1.2-0.1,1.8-0.5,2.4c-0.6,1-2.1,1.4-3.5,1.4c-1.4,0-2.9-0.4-3.5-1.4
+      c-0.4-0.6-0.5-1.2-0.5-2.4V14h2.7v5.3c0,0.6,0.1,1,0.3,1.2c0.2,0.2,0.5,0.4,1,0.4c0.5,0,0.8-0.1,1-0.4c0.2-0.3,0.3-0.7,0.3-1.2V14
+      h2.7V19.2z M240,22.8h-2.7V14h2.7V22.8z M249.6,16.2l-2.3,1.1c-0.2-0.9-0.7-1.4-1.5-1.4c-1.1,0-1.7,0.9-1.7,2.5
+      c0,1.5,0.6,2.4,1.7,2.4c0.8,0,1.2-0.4,1.5-1.1l2.4,0.9c-0.6,1.4-1.9,2.4-3.9,2.4c-2.8,0-4.4-1.9-4.4-4.6c0-2.7,1.7-4.6,4.4-4.6
+      C247.9,13.8,249.1,15,249.6,16.2"/>
+    <rect x="207.8" class="st9" style="fill:#939598;" width="0.8" height="36"/>
+    <path class="st10" style="fill:#636466;" d="M36.8,20.2V5h1.9V20c0,6.1,3.3,9.6,8.8,9.6c5.2,0,8.6-3.2,8.6-9.4V5H58v14.9c0,7.4-4.3,11.4-10.6,11.4
+      C41.2,31.3,36.8,27.4,36.8,20.2"/>
+    <rect x="64.8" y="5" class="st10" style="fill:#636466;" width="1.9" height="25.8"/>
+    <polygon class="st10" style="fill:#636466;" points="85.8,5 87.7,5 87.7,17 104.2,17 104.2,5 106.1,5 106.1,30.9 104.2,30.9 104.2,18.8 87.7,18.8
+      87.7,30.9 85.8,30.9   "/>
+    <path class="st10" style="fill:#636466;" d="M110.7,21.5L110.7,21.5c0-5.5,3.8-9.9,8.9-9.9c5.3,0,8.6,4.3,8.6,9.9c0,0.3,0,0.4,0,0.7h-15.6
+      c0.3,4.7,3.7,7.4,7.4,7.4c2.9,0,4.9-1.3,6.5-3l1.3,1.1c-1.9,2.1-4.2,3.5-7.8,3.5C114.9,31.3,110.7,27.4,110.7,21.5 M126.3,20.6
+      c-0.3-3.8-2.4-7.3-6.8-7.3c-3.7,0-6.6,3.1-6.9,7.3H126.3z"/>
+    <path class="st10" style="fill:#636466;" d="M131.2,25.4L131.2,25.4c0-4,3.4-6.2,8.2-6.2c2.6,0,4.4,0.3,6.2,0.8v-0.8c0-3.8-2.3-5.8-6.2-5.8
+      c-2.3,0-4.2,0.6-5.9,1.5l-0.7-1.6c2.1-1,4.1-1.6,6.7-1.6c2.5,0,4.6,0.7,5.9,2.1c1.3,1.3,1.9,3,1.9,5.3v11.7h-1.8v-3.1
+      c-1.3,1.8-3.6,3.6-7.2,3.6C135,31.3,131.2,29.3,131.2,25.4 M145.7,23.8v-2.1c-1.6-0.4-3.7-0.8-6.4-0.8c-4,0-6.2,1.8-6.2,4.4v0.1
+      c0,2.7,2.6,4.3,5.5,4.3C142.5,29.6,145.7,27.3,145.7,23.8"/>
+    <rect x="153.5" y="3.9" class="st10" style="fill:#636466;" width="1.8" height="27"/>
+    <path class="st10" style="fill:#636466;" d="M162.7,26.1V13.7H160v-1.7h2.7V6h1.8v6h6.6v1.7h-6.6v12.1c0,2.7,1.6,3.7,3.8,3.7c0.9,0,1.7-0.2,2.8-0.7v1.7
+      c-1,0.4-1.9,0.7-3.1,0.7C165.1,31.2,162.7,29.6,162.7,26.1"/>
+    <path class="st10" style="fill:#636466;" d="M175.7,3.9h1.8v11.6c1.3-2.2,3.4-3.9,6.8-3.9c4.8,0,7.5,3.2,7.5,7.8v11.5h-1.8V19.7c0-3.9-2.2-6.4-6-6.4
+      c-3.7,0-6.5,2.8-6.5,6.7v10.9h-1.8V3.9z"/>
+  </g>
+  </svg>
+
+</a>
+                  <a href="http://uihealth.uic.edu" class="ui-health-condensed-logo-icon header-navigation__ui-health-logo-mark-link">
+
+  <svg version="1.2" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     x="0px" y="0px" viewBox="0 0 313.81 161.18" xml:space="preserve">
+  <g>
+    <circle fill="#FFFFFF" cx="250.89" cy="77.6" r="61.25"/>
+    <g>
+      <path fill="#006E8D" d="M313.81,77.62c0-34.54-28.01-62.55-62.55-62.55c-34.55,0-62.55,28-62.55,62.55
+        c0,34.55,28.01,62.55,62.55,62.55C285.81,140.16,313.81,112.16,313.81,77.62 M239.12,83.23c0,5.7-0.6,8.46-2.23,11.22
+        c-2.7,4.5-9.9,6.24-16.19,6.24c-6.3,0-13.5-1.74-16.2-6.24c-1.62-2.76-2.23-5.52-2.23-11.22V59.11h12.24v24.36
+        c0,2.76,0.36,4.57,1.38,5.76c0.96,1.14,2.52,1.68,4.8,1.68c2.28,0,3.83-0.54,4.8-1.68c1.02-1.2,1.38-3,1.38-5.76V59.11h12.24
+        V83.23z M258.79,99.91h-12.24v-40.8h12.24V99.91z M302.76,69.31l-10.61,5.1c-1.02-3.96-3.24-6.29-7.08-6.29
+        c-5.22,0-7.86,4.32-7.86,11.39c0,7.02,2.64,11.22,7.86,11.22c3.6,0,5.7-1.92,6.84-5.1l11.1,3.96c-2.88,6.54-8.7,11.04-18,11.04
+        c-12.9,0-20.28-8.64-20.28-21.13c0-12.53,7.8-21.11,20.52-21.11C294.97,58.39,300.73,63.97,302.76,69.31"/>
+    </g>
+  </g>
+  <rect x="155.95" fill="#939598" width="1.8" height="161.18"/>
+  <rect x="0" y="63.38" fill="#AFD248" width="60.36" height="12.19"/>
+  <polygon fill="#CADD69" points="48.45,15.78 48.45,45.53 0,45.53 0,57.71 60.35,57.71 60.35,15.78 "/>
+  <rect x="47.6" y="80.37" fill="#79C364" width="12.19" height="60.36"/>
+  <polygon fill="#9BCB4E" points="0,80.37 0,92.27 29.74,92.27 29.74,140.73 41.93,140.73 41.93,80.37 "/>
+  <rect x="64.88" y="15.5" fill="#006E8D" width="12.18" height="60.36"/>
+  <polygon fill="#006E8D" points="94.92,63.95 94.92,15.5 82.73,15.5 82.73,75.85 124.66,75.85 124.66,63.95 "/>
+  <rect x="64.3" y="80.65" fill="#3FB981" width="60.36" height="12.19"/>
+  <polygon fill="#5EBD75" points="124.66,98.51 64.3,98.51 64.3,140.44 76.2,140.44 76.2,110.69 124.66,110.69 "/>
+  </svg>
+
+</a>
+              
+            </div>
+          <nav class="header-menus js-header-menus " aria-label="Primary" role="navigation">
+
+  <div class="site-title-mobile-menu">
+    <a href="https://uihealth.uic.edu">UI Health</a>
+  </div>
+
+
+  <h2 class="assistive-text">Main Menu</h2>
+  <ul id="menu-main" class="menu menu-main" aria-label="Main Menu">
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-56 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/about-us/"
+        target="_self">
+
+        About Us
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand About Us menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand About Us menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#001E62" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-113">
+                <a 
+                  class="menu-main__second-link"
+                  href="/about-us/"
+                  target="_self">
+
+                  We are UI Health
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-53">
+      <a 
+        class="menu-main__first-link"
+        href="/health-sciences/"
+        target="_self">
+
+        Health Colleges
+      </a>
+
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-156">
+      <a 
+        class="menu-main__first-link"
+        href="/healthcare/"
+        target="_self">
+
+        Healthcare
+      </a>
+
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-62 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/research-2/"
+        target="_self">
+
+        Research &amp; Clinical Trials
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand Research &amp; Clinical Trials menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand Research &amp; Clinical Trials menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#001E62" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1098 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/research-2/create-wisdom/"
+                  target="_self">
+
+                  CREATE WISDOM
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-59">
+      <a 
+        class="menu-main__first-link"
+        href="/community/"
+        target="_self">
+
+        Community
+      </a>
+
+          </li>
+  </ul>
+
+  <div class="l-eyebrow">
+
+    <h2 class="assistive-text">Eyebrow menu</h2>
+    <ul id="menu-eyebrow" class="menu menu-eyebrow" aria-label="Eyebrow menu" role="navigation">
+            <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-188">
+            <a  href="https://give.uic.edu/" target="_blank">MAKE A GIFT</a>
+        </li>
+    </ul>
+
+    <h2 class="assistive-text">UIC menu</h2>
+    <ul class="menu-uic" aria-label="Global UIC menu" role="navigation">
+          <li class="_item">
+        <a href="http://uihealth.uic.edu">UI Health</a>
+      </li>
+      <li class="_item">
+    <a href="http://uic.edu">UIC.edu</a>
+  </li>
+  <li class="_item">
+    <a href="http://maps.uic.edu/">Campus Map</a>
+  </li>
+</ul>
+
+
+
+    <div aria-label="Primary" role="search" class="search-wrapper">
+
+      <button id="search" class="search-toggle">
+        <span class="icon-search">
+          <span class="assistive-text">Search</span>
+        </span>
+      </button>
+
+      <div class="search-input-container">
+        <div class="search-input-container__form">
+          <form method="get" action="/search" >
+            <input type="text" name="q" class="search-input" placeholder="Search..." tabindex="-1" aria-label="Search" disabled="">
+            <input type="submit" class="submit-button" name="search" value="Submit">
+          </form>
+        </div>
+      </div>
+
+    </div>
+
+
+  </div>
+
+
+</nav>
+        </div>
+    </div>
+
+    
+  </div>
+
+                             <div
+  class="header-carousel
+  ">
+  <div class="header-carousel__images">
+    <div class="header-carousel-images">
+              <div
+          class="header-carousel-images__item"
+          data-item-index="0"
+          data-item-position="current"
+          style="
+            background-image:url('https://uihealth.uic.edu/wp-content/uploads/sites/370/2021/10/OSC-Top-Out-ProgressPhoto_photos_v2_x2-1-1440x700.jpg')"
+        >
+        </div>
+              <div
+          class="header-carousel-images__item"
+          data-item-index="1"
+          data-item-position="next"
+          style="
+            background-image:url('https://uihealth.uic.edu/wp-content/uploads/sites/370/2020/06/Revised-Landing-Page-01-1440x700.jpg')"
+        >
+        </div>
+              <div
+          class="header-carousel-images__item"
+          data-item-index="2"
+          data-item-position="next"
+          style="
+            background-image:url('https://uihealth.uic.edu/wp-content/uploads/sites/370/2021/10/Lighthouse-Partnership2web-rev-1024x425_photos_v2_x2-1440x700.jpg')"
+        >
+        </div>
+              <div
+          class="header-carousel-images__item"
+          data-item-index="3"
+          data-item-position="next"
+          style="
+            background-image:url('https://uihealth.uic.edu/wp-content/uploads/sites/370/2020/08/1-2-1440x600.png')"
+        >
+        </div>
+              <div
+          class="header-carousel-images__item"
+          data-item-index="4"
+          data-item-position="next"
+          style="
+            background-image:url('https://uihealth.uic.edu/wp-content/uploads/sites/370/2019/03/UHP_HealthCareCareers_Jly2018_119_WEB-1440x700.jpg')"
+        >
+        </div>
+          </div>
+  </div>
+  <div class="header-carousel__content">
+    <div class="header-carousel-content">
+      <div class="header-carousel-content__text">
+            <ul class="header-carousel-text js-carousel-text">
+                            <li
+                id="header-slide-1"
+                class="header-carousel-text__item"
+                data-item-index="0"
+                data-item-position="current"
+              >
+                <a href="https://hospital.uillinois.edu/about-ui-health/capital-projects/outpatient-surgery-center" class="header-carousel-text__link" data-item-index="0">
+                  <span class="header-carousel-text__link-text">
+                    Marking the midway point of the Outpatient Surgery Center &amp; Specialty Clinics
+                  </span>
+                  <span class="header-carousel-text__link-icon" aria-hidden="true">
+                    <svg class="svg-chevron-right" width="9px" height="14px" viewBox="0 0 9 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Icons" transform="translate(-664.000000, -832.000000)" stroke-width="2" stroke="currentColor">
+            <g id="Pages" transform="translate(454.000000, 824.000000)">
+                <polyline id="icon-chevron-right" points="211 9 217 15 211 21"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
+                  </span>
+                </a>
+              </li>
+                            <li
+                id="header-slide-2"
+                class="header-carousel-text__item"
+                data-item-index="1"
+                data-item-position=""
+              >
+                <a href="https://uihealth.uic.edu/community/covid-19-updates/" class="header-carousel-text__link" data-item-index="1">
+                  <span class="header-carousel-text__link-text">
+                    UI Health COVID-19 Community Response
+                  </span>
+                  <span class="header-carousel-text__link-icon" aria-hidden="true">
+                    <svg class="svg-chevron-right" width="9px" height="14px" viewBox="0 0 9 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Icons" transform="translate(-664.000000, -832.000000)" stroke-width="2" stroke="currentColor">
+            <g id="Pages" transform="translate(454.000000, 824.000000)">
+                <polyline id="icon-chevron-right" points="211 9 217 15 211 21"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
+                  </span>
+                </a>
+              </li>
+                            <li
+                id="header-slide-3"
+                class="header-carousel-text__item"
+                data-item-index="2"
+                data-item-position=""
+              >
+                <a href="https://www.youtube.com/watch?v=NfNu6otHhhc" class="header-carousel-text__link" data-item-index="2">
+                  <span class="header-carousel-text__link-text">
+                    Partnership with the Chicago Lighthouse Empowers Workers
+                  </span>
+                  <span class="header-carousel-text__link-icon" aria-hidden="true">
+                    <svg class="svg-chevron-right" width="9px" height="14px" viewBox="0 0 9 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Icons" transform="translate(-664.000000, -832.000000)" stroke-width="2" stroke="currentColor">
+            <g id="Pages" transform="translate(454.000000, 824.000000)">
+                <polyline id="icon-chevron-right" points="211 9 217 15 211 21"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
+                  </span>
+                </a>
+              </li>
+                            <li
+                id="header-slide-4"
+                class="header-carousel-text__item"
+                data-item-index="3"
+                data-item-position=""
+              >
+                <a href="https://www.youtube.com/watch?v=eeRWmste5RU&amp;feature=youtu.be&amp;ab_channel=UIHealth" class="header-carousel-text__link" data-item-index="3">
+                  <span class="header-carousel-text__link-text">
+                    UI Health - Keeping You Healthy &amp; Safe
+                  </span>
+                  <span class="header-carousel-text__link-icon" aria-hidden="true">
+                    <svg class="svg-chevron-right" width="9px" height="14px" viewBox="0 0 9 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Icons" transform="translate(-664.000000, -832.000000)" stroke-width="2" stroke="currentColor">
+            <g id="Pages" transform="translate(454.000000, 824.000000)">
+                <polyline id="icon-chevron-right" points="211 9 217 15 211 21"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
+                  </span>
+                </a>
+              </li>
+                            <li
+                id="header-slide-5"
+                class="header-carousel-text__item"
+                data-item-index="4"
+                data-item-position=""
+              >
+                <a href="https://vimeo.com/313418713" class="header-carousel-text__link" data-item-index="4">
+                  <span class="header-carousel-text__link-text">
+                    Urban Health Program Celebrates 40 Years
+                  </span>
+                  <span class="header-carousel-text__link-icon" aria-hidden="true">
+                    <svg class="svg-chevron-right" width="9px" height="14px" viewBox="0 0 9 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Icons" transform="translate(-664.000000, -832.000000)" stroke-width="2" stroke="currentColor">
+            <g id="Pages" transform="translate(454.000000, 824.000000)">
+                <polyline id="icon-chevron-right" points="211 9 217 15 211 21"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
+                  </span>
+                </a>
+              </li>
+                          </ul>
+            <div class="header-carousel-navigation">
+              <button class="header-carousel-navigation__pause" data-play-state="play">
+                <span class="header-carousel-navigation__pause-text">
+                  Pause or play the slideshow
+                </span>
+                <span class="header-carousel-navigation__pause-icon">
+
+                </span>
+              </button>
+              <button class="header-carousel-navigation__next js-header-carousel-next">
+                <span class="header-carousel-navigation__next-text">
+                  Show the next item
+                </span>
+                <span class="header-carousel-navigation__next-icon">
+                  <svg class="svg-chevron-right" width="9px" height="14px" viewBox="0 0 9 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Icons" transform="translate(-664.000000, -832.000000)" stroke-width="2" stroke="currentColor">
+            <g id="Pages" transform="translate(454.000000, 824.000000)">
+                <polyline id="icon-chevron-right" points="211 9 217 15 211 21"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
+                </span>
+              </button>
+              <button class="header-carousel-navigation__previous js-header-carousel-previous">
+                <span class="header-carousel-navigation__previous-text">
+                  Show the next item
+                </span>
+                <span class="header-carousel-navigation__previous-icon">
+                  <svg class="svg-chevron-right" width="9px" height="14px" viewBox="0 0 9 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Icons" transform="translate(-664.000000, -832.000000)" stroke-width="2" stroke="currentColor">
+            <g id="Pages" transform="translate(454.000000, 824.000000)">
+                <polyline id="icon-chevron-right" points="211 9 217 15 211 21"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
+                </span>
+              </button>
+              <ul class="header-carousel-navigation-pager">
+                              <button
+                  class="header-carousel-navigation-pager__item"
+                  data-item-index="0"
+                  data-item-position="current"
+                >
+                  <span class="header-carousel-navigation-pager__item-text">
+                    Show slide number 1
+                  </span>
+                  <span class="header-carousel-navigation-pager__item-icon">
+                  </span>
+                </button>
+                              <button
+                  class="header-carousel-navigation-pager__item"
+                  data-item-index="1"
+                  data-item-position=""
+                >
+                  <span class="header-carousel-navigation-pager__item-text">
+                    Show slide number 2
+                  </span>
+                  <span class="header-carousel-navigation-pager__item-icon">
+                  </span>
+                </button>
+                              <button
+                  class="header-carousel-navigation-pager__item"
+                  data-item-index="2"
+                  data-item-position=""
+                >
+                  <span class="header-carousel-navigation-pager__item-text">
+                    Show slide number 3
+                  </span>
+                  <span class="header-carousel-navigation-pager__item-icon">
+                  </span>
+                </button>
+                              <button
+                  class="header-carousel-navigation-pager__item"
+                  data-item-index="3"
+                  data-item-position=""
+                >
+                  <span class="header-carousel-navigation-pager__item-text">
+                    Show slide number 4
+                  </span>
+                  <span class="header-carousel-navigation-pager__item-icon">
+                  </span>
+                </button>
+                              <button
+                  class="header-carousel-navigation-pager__item"
+                  data-item-index="4"
+                  data-item-position=""
+                >
+                  <span class="header-carousel-navigation-pager__item-text">
+                    Show slide number 5
+                  </span>
+                  <span class="header-carousel-navigation-pager__item-icon">
+                  </span>
+                </button>
+                            </ul>
+            </div>
+      </div>
+    </div>
+  </div>
+</div>
+                  
+                <div class="
+    component-call-to-action
+    component-call-to-action--dark
+    component-call-to-action--header-strip
+    ">
+
+    
+    <ul class="_items call-to-action-links">
+              <li>
+                      <a  href="https://hospital.uillinois.edu/find-a-doctor"
+            target="_blank">
+                            <span class="call-to-action-links__icon call-to-action-links__icon--dark people-icon" aria-hidden="true">
+                  <svg viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+    <title>People Icon</title>
+    <ellipse class="_circle" fill="#001E62" cx="18" cy="18" rx="18" ry="18"/>
+    <path class="_mark" d="M20.39,12.05a4.33,4.33,0,0,1,2,3.19,3.2,3.2,0,0,0,1.45.3,3.42,3.42,0,1,0-3.42-3.49Zm-2.2,7a3.42,3.42,0,1,0-3.42-3.41A3.4,3.4,0,0,0,18.19,19Zm1.44.23H16.75a4.4,4.4,0,0,0-4.4,4.4V27.3l.22.08a19.27,19.27,0,0,0,6,1,12,12,0,0,0,5.24-1l.22-.15h0V23.66A4.45,4.45,0,0,0,19.63,19.26Zm5.69-3.49H22.44a4.25,4.25,0,0,1-1.29,3,5.24,5.24,0,0,1,3.72,5V24.8a10.9,10.9,0,0,0,4.63-1l.23-.15h0V20.09A4.39,4.39,0,0,0,25.32,15.77Zm-13.2-.23A3.69,3.69,0,0,0,13.94,15a4.42,4.42,0,0,1,1.59-2.73v-.23a3.42,3.42,0,1,0-6.83,0A3.47,3.47,0,0,0,12.12,15.54Zm3.11,3.19a4.25,4.25,0,0,1-1.29-3H10.68a4.41,4.41,0,0,0-4.41,4.4v3.64l.23.08a18.52,18.52,0,0,0,4.93.91V23.74A5.33,5.33,0,0,1,15.23,18.73Z" fill="#FFF"/>
+</svg>                </span>
+                <span class="_text">Find a Doctor</span>
+              
+            </a>
+                  </li>
+              <li>
+                      <a  href="https://hospital.uillinois.edu/patients-and-visitors/patient-information/mychart"
+            target="_blank">
+                            <span class="call-to-action-links__icon call-to-action-links__icon--dark ui-health-logo-icon" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+    <title>UI Health Logo</title>
+    <ellipse class="_circle" fill="#001E62" cx="18" cy="18" rx="18" ry="18"/>
+    <g class="_mark" fill="#FFF">
+        <path d="M7.1 15.4h10.6v2.1H7.1z"/>
+        <path d="M15.6 7.1v5.2H7.1v2.1h10.6V7.1z"/>
+        <path d="M15.4 18.4h2.1V29h-2.1z"/>
+        <path d="M7.1 18.4v2.1h5.2V29h2.1V18.4z"/>
+        <path d="M18.4 7h2.1v10.6h-2.1z"/>
+        <path d="M23.7 15.5V7h-2.1v10.6h7.3v-2.1z"/>
+        <path d="M18.3 18.4h10.6v2.1H18.3zM28.9 21.6H18.3v7.3h2.1v-5.2h8.5z"/>
+    </g>
+</svg>                </span>
+                <span class="_text">MyChart Login</span>
+              
+            </a>
+                  </li>
+              <li>
+                      <a  href="https://today.uic.edu/coronavirus"
+            target="_blank">
+                            <span class="call-to-action-links__icon call-to-action-links__icon--dark matrix-icon" aria-hidden="true">
+                  <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <title>Matrix icon</title>
+  <g fill="none" fill-rule="evenodd">
+    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
+    <circle class="_mark" fill="#FFF" cx="12" cy="24" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="18" cy="24" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="24" cy="24" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="12" cy="18" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="18" cy="18" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="24" cy="18" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="12" cy="12" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="18" cy="12" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="24" cy="12" r="2"/>
+  </g>
+</svg>
+                </span>
+                <span class="_text">COVID-19 Information &amp; Resources</span>
+              
+            </a>
+                  </li>
+          </ul>
+  </div>
+    
+</header>
+
+    <main id="main" class="l-content-wrapper" role="main">
+
+      
+      
+      <div class="">
+
+        <div class="l-content ">
+
+                    
+	          
+          
+          <article class="post-type-" id="article">
+                <div class="l-full">
+                  <div class="intro-text">
+
+                      
+        
+        
+    
+    
+        
+  </div>
+    </div>
+    <div class="components">
+
+  
+    
+      
+
+<section class="component  ">
+
+      <div class="l-full">
+  
+    <div class="pride-points">
+    
+    <div class="component-description">
+                    <h2 id="ui-health-points-of-pride" class="__title invisible">UI Health Points of Pride</h2>
+        
+            </div>
+
+    <ul class="pride-points__list js-pride-points-items-container">
+              <li class="pride-points__item">
+          <div class="pride-points__border">
+            <p class="pride-points__point">
+                            <span class="pride-points__number-wrapper">
+                <span class="pride-points__number-container"><span class="pride-points__pre">$</span><span class="pride-points__number">
+                                              243                                           </span><span class="pride-points__post">M</span></span>              </span>
+                            <span class="pride-points__description">in total annual health sciences research funding</span>
+            </p>
+          </div>
+        </li>
+              <li class="pride-points__item">
+          <div class="pride-points__border">
+            <p class="pride-points__point">
+                            <span class="pride-points__number-wrapper">
+                <span class="pride-points__number-container"><span class="pride-points__pre">#</span><span class="pride-points__number">
+                                              6                                           </span></span>              </span>
+                            <span class="pride-points__description">Nationally ranked College of Pharmacy by U.S. News &amp; World Report</span>
+            </p>
+          </div>
+        </li>
+              <li class="pride-points__item">
+          <div class="pride-points__border">
+            <p class="pride-points__point">
+                            <span class="pride-points__number-wrapper">
+                <span class="pride-points__number-container"><span class="pride-points__pride-word">1 in 3</span></span>              </span>
+                            <span class="pride-points__description">IL Physicians trained at UIC</span>
+            </p>
+          </div>
+        </li>
+              <li class="pride-points__item">
+          <div class="pride-points__border">
+            <p class="pride-points__point">
+                            <span class="pride-points__number-wrapper">
+                <span class="pride-points__number-container"><span class="pride-points__pride-word">Over 8,000</span></span>              </span>
+                            <span class="pride-points__description">IL Nurses trained at UIC</span>
+            </p>
+          </div>
+        </li>
+              <li class="pride-points__item">
+          <div class="pride-points__border">
+            <p class="pride-points__point">
+                            <span class="pride-points__number-wrapper">
+                <span class="pride-points__number-container"><span class="pride-points__pride-word">Only</span></span>              </span>
+                            <span class="pride-points__description">Public, Research 1 University in Chicago</span>
+            </p>
+          </div>
+        </li>
+              <li class="pride-points__item">
+          <div class="pride-points__border">
+            <p class="pride-points__point">
+                            <span class="pride-points__number-wrapper">
+                <span class="pride-points__number-container"><span class="pride-points__number">
+                                              40                                           </span><span class="pride-points__post">%</span></span>              </span>
+                            <span class="pride-points__description">IL Dentists trained at UIC</span>
+            </p>
+          </div>
+        </li>
+              <li class="pride-points__item">
+          <div class="pride-points__border">
+            <p class="pride-points__point">
+                            <span class="pride-points__number-wrapper">
+                <span class="pride-points__number-container"><span class="pride-points__pre">#</span><span class="pride-points__number">
+                                              7                                           </span></span>              </span>
+                            <span class="pride-points__description">Nationally Ranked Doctor of Nursing Practice Program</span>
+            </p>
+          </div>
+        </li>
+              <li class="pride-points__item">
+          <div class="pride-points__border">
+            <p class="pride-points__point">
+                            <span class="pride-points__number-wrapper">
+                <span class="pride-points__number-container"><span class="pride-points__pre">#</span><span class="pride-points__number">
+                                              19                                           </span></span>              </span>
+                            <span class="pride-points__description">Nationally Ranked Accredited School of Public Health</span>
+            </p>
+          </div>
+        </li>
+              <li class="pride-points__item">
+          <div class="pride-points__border">
+            <p class="pride-points__point">
+                            <span class="pride-points__number-wrapper">
+                <span class="pride-points__number-container"><span class="pride-points__pride-word">1 in 4</span></span>              </span>
+                            <span class="pride-points__description">IL Social Workers Trained at UIC</span>
+            </p>
+          </div>
+        </li>
+              <li class="pride-points__item">
+          <div class="pride-points__border">
+            <p class="pride-points__point">
+                            <span class="pride-points__number-wrapper">
+                <span class="pride-points__number-container"><span class="pride-points__pre">#</span><span class="pride-points__number">
+                                              2                                           </span></span>              </span>
+                            <span class="pride-points__description">U.S. News &amp; World Report Ranked Applied Health Sciences BS in health information management</span>
+            </p>
+          </div>
+        </li>
+              <li class="pride-points__item">
+          <div class="pride-points__border">
+            <p class="pride-points__point">
+                            <span class="pride-points__number-wrapper">
+                <span class="pride-points__number-container"><span class="pride-points__number">
+                                              7                                           </span></span>              </span>
+                            <span class="pride-points__description">Health Sciences Colleges at UIC</span>
+            </p>
+          </div>
+        </li>
+              <li class="pride-points__item">
+          <div class="pride-points__border">
+            <p class="pride-points__point">
+                            <span class="pride-points__number-wrapper">
+                <span class="pride-points__number-container"><span class="pride-points__pride-word">First</span></span>              </span>
+                            <span class="pride-points__description">PhD of Biomedical &amp; Health Informatics in Illinois</span>
+            </p>
+          </div>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+  
+</section>
+
+    
+
+    
+      
+
+<section class="component  ">
+
+      <div class="l-full">
+  
+    <div class="component-highlight-news-events">
+
+    
+    <div class="component-description">
+                    <h2 id="news" class="__title invisible">NEWS</h2>
+        
+            </div>
+
+
+    
+    <div class="component-highlight-news-events__container">
+      <div class="component-highlight-news-events__column">
+                  <article class="tease tease-news" id="tease-">
+	
+    
+  
+  
+  <div class="teaser-content">
+    <h3 class="_title"><a id="" href="https://today.uic.edu/research-reveals-new-evidence-that-sugary-beverage-tax-impacts-are-sustainable-effective" target="_blank">Research reveals new evidence that sugary beverage tax impacts are sustainable, effective</a></h3>
+
+              <div class="post-meta">
+    <div class="post-date-line">
+
+      
+      <span class="post-date">Posted on <strong>December 01, 2021</strong></span>
+    </div>
+
+    </div>
+        
+    
+  </div>
+
+</article>
+                  <article class="tease tease-news" id="tease-">
+	
+    
+  
+  
+  <div class="teaser-content">
+    <h3 class="_title"><a id="" href="https://today.uic.edu/getting-the-most-therapeutic-potential-out-of-cells" target="_blank">Getting the most therapeutic potential out of cells</a></h3>
+
+              <div class="post-meta">
+    <div class="post-date-line">
+
+      
+      <span class="post-date">Posted on <strong>November 29, 2021</strong></span>
+    </div>
+
+    </div>
+        
+    
+  </div>
+
+</article>
+                  <article class="tease tease-news" id="tease-">
+	
+    
+  
+  
+  <div class="teaser-content">
+    <h3 class="_title"><a id="" href="https://today.uic.edu/pediatric-thanksgiving-fest-celebrates-20-years" target="_blank">Pediatric Thanksgiving fest celebrates 20 years</a></h3>
+
+              <div class="post-meta">
+    <div class="post-date-line">
+
+      
+      <span class="post-date">Posted on <strong>November 24, 2021</strong></span>
+    </div>
+
+    </div>
+        
+    
+  </div>
+
+</article>
+                  <article class="tease tease-news" id="tease-">
+	
+    
+  
+  
+  <div class="teaser-content">
+    <h3 class="_title"><a id="" href="https://today.uic.edu/researchers-investigate-ways-to-reduce-covid-19-risks-in-dental-offices" target="_blank">Researchers investigate ways to reduce COVID-19 risks in dental offices </a></h3>
+
+              <div class="post-meta">
+    <div class="post-date-line">
+
+      
+      <span class="post-date">Posted on <strong>November 23, 2021</strong></span>
+    </div>
+
+    </div>
+        
+    
+  </div>
+
+</article>
+                  <article class="tease tease-news" id="tease-">
+	
+    
+  
+  
+  <div class="teaser-content">
+    <h3 class="_title"><a id="" href="https://today.uic.edu/ui-health-and-cook-county-health-announce-collaboration-of-specialty-pediatric-services-under-the-partnership-for-pediatric-care" target="_blank">UI Health and Cook County Health announce collaboration of specialty pediatric services under the Partnership for Pediatric Care</a></h3>
+
+              <div class="post-meta">
+    <div class="post-date-line">
+
+      
+      <span class="post-date">Posted on <strong>November 02, 2021</strong></span>
+    </div>
+
+    </div>
+        
+    
+  </div>
+
+</article>
+                      </div>
+      <div class="component-highlight-news-events__column">
+                  <article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Nov</span>
+    <span class="_day">29</span>
+    <span class="_year">2021</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h3 class="_name">
+      <a href="https://today.uic.edu/events/diabetes-series-for-community-health-workers" target="_blank">Diabetes Series for Community Health Workers</a>
+    </h3>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        <!-- event with same start and end day -->
+                          November 29, 2021      </div>
+          </div>
+
+      </div>
+
+</article>
+                  <article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Jan</span>
+    <span class="_day">25</span>
+    <span class="_year">2022</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h3 class="_name">
+      <a href="https://today.uic.edu/events/uic-alumni-exchange-keep-moving-how-to-find-and-keep-an-exercise-routine" target="_blank">UIC Alumni Exchange: Keep Moving: How To Find and Keep an Exercise Routine</a>
+    </h3>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        <!-- event with same start and end day -->
+                          January 25, 2022      </div>
+          </div>
+
+      </div>
+
+</article>
+                  <article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Feb</span>
+    <span class="_day">23</span>
+    <span class="_year">2022</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h3 class="_name">
+      <a href="https://today.uic.edu/events/the-psychology-departments-black-scholar-speaker-series-mrs-angeline-dukes" target="_blank">The Psychology Department's Black Scholar Speaker Series: Mrs. Angeline Dukes</a>
+    </h3>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        <!-- event with same start and end day -->
+                          February 23, 2022      </div>
+          </div>
+
+      </div>
+
+</article>
+        
+          </div>
+  </div>
+  </div>
+
+      </div>
+  
+</section>
+
+    
+
+    
+      
+
+<section class="component  ">
+
+      <div class="l-full">
+  
+    <div class="component-highlight-events">
+
+  
+    <div class="component-description">
+                    <h2 id="events-at-ui-health" class="__title invisible">Events at UI Health</h2>
+        
+            </div>
+
+
+    
+                                            <div class="component-highlight-events__list-2col">
+          <div class="component-highlight-events__column">
+                      </div>
+          <div class="component-highlight-events__column">
+                      </div>
+        </div>
+          </div>
+
+      </div>
+  
+</section>
+
+    
+
+    
+
+</div>
+          </article>
+        </div>
+
+          
+                          </div>
+    </main>
+
+    
+        <footer id="footer" class="footer" role="contentinfo">
+
+  <div class="footer-contact">
+    <div class="l-full">
+
+          <div class="mega-footer-contact">
+
+<div class="mega-footer-contact__innerwrapper">
+
+    <div class="mega-footer-contact__brand">
+        <div class="footer-logo">
+                <a href="http://uihealth.uic.edu" class="ui-health-logo-icon footer-logo__ui-health-logo"><span class="link-text-hide">UI Health</span>
+
+  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="0 0 252 36" style="enable-background:new 0 0 252 36;" xml:space="preserve">
+
+  <rect x="0" y="14.8" class="st0" style="fill:#AFD248;" width="13.1" height="2.6"/>
+  <polygon class="st1" style="fill:#CADD69;" points="10.5,4.5 10.5,10.9 0,10.9 0,13.6 13.1,13.6 13.1,4.5 "/>
+  <rect x="10.3" y="18.5" class="st2" style="fill:#79C364;" width="2.6" height="13.1"/>
+  <polygon class="st3" style="fill:#9BCB4E;" points="0,18.5 0,21.1 6.4,21.1 6.4,31.5 9.1,31.5 9.1,18.5 "/>
+  <rect x="14.1" y="4.4" class="st4" style="fill:#006E8D;" width="2.6" height="13.1"/>
+  <polygon class="st4" style="fill:#006E8D;" points="20.6,14.9 20.6,4.4 17.9,4.4 17.9,17.5 27,17.5 27,14.9 "/>
+  <rect x="13.9" y="18.5" class="st5" style="fill:#3FB981;" width="13.1" height="2.6"/>
+  <polygon class="st6" style="fill:#5EBD75;" points="27,22.4 13.9,22.4 13.9,31.5 16.5,31.5 16.5,25 27,25 "/>
+  <g>
+    <defs>
+      <rect id="SVGID_1_" x="-54.1" y="-111.4" width="360" height="288"/>
+    </defs>
+    <clippath id="SVGID_2_">
+      <use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+    </clippath>
+    <path class="st7" style="fill:#FFFFFF;"
+  d="M252,18c0-7.5-6.1-13.6-13.6-13.6s-13.6,6.1-13.6,13.6c0,7.5,6.1,13.6,13.6,13.6S252,25.5,252,18"/>
+    <path class="st8" style="fill:#006E8D;" d="M252,18c0-7.5-6.1-13.6-13.6-13.6c-7.5,0-13.6,6.1-13.6,13.6c0,7.5,6.1,13.6,13.6,13.6
+      C245.9,31.6,252,25.5,252,18 M235.8,19.2c0,1.2-0.1,1.8-0.5,2.4c-0.6,1-2.1,1.4-3.5,1.4c-1.4,0-2.9-0.4-3.5-1.4
+      c-0.4-0.6-0.5-1.2-0.5-2.4V14h2.7v5.3c0,0.6,0.1,1,0.3,1.2c0.2,0.2,0.5,0.4,1,0.4c0.5,0,0.8-0.1,1-0.4c0.2-0.3,0.3-0.7,0.3-1.2V14
+      h2.7V19.2z M240,22.8h-2.7V14h2.7V22.8z M249.6,16.2l-2.3,1.1c-0.2-0.9-0.7-1.4-1.5-1.4c-1.1,0-1.7,0.9-1.7,2.5
+      c0,1.5,0.6,2.4,1.7,2.4c0.8,0,1.2-0.4,1.5-1.1l2.4,0.9c-0.6,1.4-1.9,2.4-3.9,2.4c-2.8,0-4.4-1.9-4.4-4.6c0-2.7,1.7-4.6,4.4-4.6
+      C247.9,13.8,249.1,15,249.6,16.2"/>
+    <rect x="207.8" class="st9" style="fill:#939598;" width="0.8" height="36"/>
+    <path class="st10" style="fill:#636466;" d="M36.8,20.2V5h1.9V20c0,6.1,3.3,9.6,8.8,9.6c5.2,0,8.6-3.2,8.6-9.4V5H58v14.9c0,7.4-4.3,11.4-10.6,11.4
+      C41.2,31.3,36.8,27.4,36.8,20.2"/>
+    <rect x="64.8" y="5" class="st10" style="fill:#636466;" width="1.9" height="25.8"/>
+    <polygon class="st10" style="fill:#636466;" points="85.8,5 87.7,5 87.7,17 104.2,17 104.2,5 106.1,5 106.1,30.9 104.2,30.9 104.2,18.8 87.7,18.8
+      87.7,30.9 85.8,30.9   "/>
+    <path class="st10" style="fill:#636466;" d="M110.7,21.5L110.7,21.5c0-5.5,3.8-9.9,8.9-9.9c5.3,0,8.6,4.3,8.6,9.9c0,0.3,0,0.4,0,0.7h-15.6
+      c0.3,4.7,3.7,7.4,7.4,7.4c2.9,0,4.9-1.3,6.5-3l1.3,1.1c-1.9,2.1-4.2,3.5-7.8,3.5C114.9,31.3,110.7,27.4,110.7,21.5 M126.3,20.6
+      c-0.3-3.8-2.4-7.3-6.8-7.3c-3.7,0-6.6,3.1-6.9,7.3H126.3z"/>
+    <path class="st10" style="fill:#636466;" d="M131.2,25.4L131.2,25.4c0-4,3.4-6.2,8.2-6.2c2.6,0,4.4,0.3,6.2,0.8v-0.8c0-3.8-2.3-5.8-6.2-5.8
+      c-2.3,0-4.2,0.6-5.9,1.5l-0.7-1.6c2.1-1,4.1-1.6,6.7-1.6c2.5,0,4.6,0.7,5.9,2.1c1.3,1.3,1.9,3,1.9,5.3v11.7h-1.8v-3.1
+      c-1.3,1.8-3.6,3.6-7.2,3.6C135,31.3,131.2,29.3,131.2,25.4 M145.7,23.8v-2.1c-1.6-0.4-3.7-0.8-6.4-0.8c-4,0-6.2,1.8-6.2,4.4v0.1
+      c0,2.7,2.6,4.3,5.5,4.3C142.5,29.6,145.7,27.3,145.7,23.8"/>
+    <rect x="153.5" y="3.9" class="st10" style="fill:#636466;" width="1.8" height="27"/>
+    <path class="st10" style="fill:#636466;" d="M162.7,26.1V13.7H160v-1.7h2.7V6h1.8v6h6.6v1.7h-6.6v12.1c0,2.7,1.6,3.7,3.8,3.7c0.9,0,1.7-0.2,2.8-0.7v1.7
+      c-1,0.4-1.9,0.7-3.1,0.7C165.1,31.2,162.7,29.6,162.7,26.1"/>
+    <path class="st10" style="fill:#636466;" d="M175.7,3.9h1.8v11.6c1.3-2.2,3.4-3.9,6.8-3.9c4.8,0,7.5,3.2,7.5,7.8v11.5h-1.8V19.7c0-3.9-2.2-6.4-6-6.4
+      c-3.7,0-6.5,2.8-6.5,6.7v10.9h-1.8V3.9z"/>
+  </g>
+  </svg>
+
+</a>
+        <div class="footer-logo__tagline">
+            UIC's seven health sciences colleges and health care delivery enterprise.
+        </div>
+    </div>
+
+        <div class="mega-footer-contact__quick-menus _quick-menus">
+
+            <nav class="mega-footer-contact__quick-menu" id="menu1" aria-label="Quick Links">
+        <h2>Quick Links</h2>
+        <ul id="menu-quick-1" class="menu menu-quick-1" aria-label="Quick Links">
+      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-167">
+      <a href="/about-us/" target="_self">About Us</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-171">
+      <a href="/community/" target="_self">Community</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-168">
+      <a href="/health-sciences/" target="_self">Health Sciences Colleges</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-169">
+      <a href="/healthcare/" target="_self">Healthcare</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-170">
+      <a href="/research-2/" target="_self">Research &amp; Clinical Trials</a>
+    </li>
+  </ul>
+      </nav>
+      
+            <nav class="mega-footer-contact__quick-menu" id="menu2" aria-label="Healthcare Resources">
+        <h2>Healthcare Resources</h2>
+        <ul id="menu-quick-2" class="menu menu-quick-2" aria-label="Healthcare Resources">
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-172">
+      <a href="https://hospital.uillinois.edu/patients-and-visitors/patient-information/my-ui-health" target="_blank">Patient Portal</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-176">
+      <a href="https://hospital.uillinois.edu/find-a-doctor" target="_blank">Find a Doctor</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-173">
+      <a href="https://hospital.uillinois.edu/patients-and-visitors" target="_blank">For Patients</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-174">
+      <a href="https://hospital.uillinois.edu/referring-physicians" target="_blank">For Clinicians</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-175">
+      <a href="https://hospital.uillinois.edu/patients-and-visitors/locations-and-directions" target="_blank">Locations &amp; Directions</a>
+    </li>
+  </ul>
+      </nav>
+      
+            <nav class="mega-footer-contact__quick-menu" id="menu3" aria-label="Health Sciences Colleges">
+        <h2>Health Sciences Colleges</h2>
+        <ul id="menu-quick-3" class="menu menu-quick-3" aria-label="Health Sciences Colleges">
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-177">
+      <a href="http://ahs.uic.edu/" target="_blank">Applied Health Sciences</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-178">
+      <a href="https://dentistry.uic.edu/" target="_blank">Dentistry</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-179">
+      <a href="https://medicine.uic.edu/" target="_blank">Medicine</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-180">
+      <a href="https://nursing.uic.edu/" target="_blank">Nursing</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-181">
+      <a href="https://pharmacy.uic.edu/" target="_blank">Pharmacy</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-182">
+      <a href="http://publichealth.uic.edu/" target="_blank">Public Health</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-183">
+      <a href="https://socialwork.uic.edu/" target="_blank">Social Work</a>
+    </li>
+  </ul>
+      </nav>
+      
+    </div>
+    
+
+    </div>
+
+  <div class="mega-footer-contact__menus">
+
+
+        <div class="mega-footer-contact__button-menus">
+      <nav class="mega-footer-contact__button-menu" id="menu4" aria-label="Footer 4">
+        <h2 class="assistive-text">Footer 4</h2>
+
+        <ul id="button-menu" class="menu button-menu" aria-label="Footer 4">
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-185">
+      <a href="https://give.uic.edu/" target="_blank">Give Now</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-186">
+      <a href="/health-sciences/sample-page/" target="_self">Health Professions Admissions</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-187">
+      <a href="https://hospital.uillinois.edu/contact-us" target="_blank">Contact UI Health</a>
+    </li>
+  </ul>
+
+      </nav>
+    </div>
+    
+    <div class="mega-footer-contact__site-social-links">
+       <div aria-label="Social Media Accounts" class="site-social-links">
+  <h2 class="site-social-links__header assistive-text">Social Media Accounts</h2>
+  <ul class="site-social-links__list">
+                          </ul>
+</div>
+    </div>
+
+
+  </div>
+
+
+</div>
+
+
+  <div class="mega-footer-contact__contact">
+
+    <div class="_contact">
+      <h2>Contact</h2>
+      <div class="site-contact-container">    <div class="site-address">914 South Wood Street (MCA 973)</div>
+      <div class="site-phone">Phone: <a  href="tel:(312) 355-6465">(312) 355-6465</a></div>
+        <div class="site-email"><a  href="mailto:vcha@uic.edu">vcha@uic.edu</a></div>
+</div>
+      <div class="site-contact-container">        </div>
+    </div>
+  </div>
+</div>
+    
+    </div>
+  </div>
+
+  
+  <div class="footer-uic-menu">
+    <div class="l-full flexer">
+
+      <div aria-label="UIC.edu Links">
+  <h2 class="assistive-text">UIC.edu links</h2>
+  <ul class="uic-footer-menu">
+    <li><strong><a href="https://uic.edu/">UIC.edu</a></strong></li>
+    <li><a href="https://catalog.uic.edu/ucat/academic-calendar/">Academic Calendar</a></li>
+    <li><a href="https://uicflames.com/">Athletics</a></li>
+    <li><a href="https://www.uic.edu/apps/departments-az/search">Campus Directory</a></li>
+    <li><a href="https://disabilityresources.uic.edu/">Disability Resources</a></li>
+    <li><a href="https://emergency.uic.edu/">Emergency Information</a></li>
+    <li><a href="https://today.uic.edu/events">Event Calendar</a></li>
+    <li><a href="https://uic.edu/about/job-opportunities">Job Openings</a></li>
+    <li><a href="https://library.uic.edu/">Library</a></li>
+    <li><a href="https://maps.uic.edu/">Maps</a></li>
+    <li><a href="https://ready.uic.edu/digital-materials/uic-safe-mobile-app/">UIC Safe Mobile App</a></li>
+    <li><a href="https://today.uic.edu/">UIC Today</a></li>
+    <li><a href="https://uihealth.uic.edu/">UI Health</a></li>
+    <li><a href="https://dos.uic.edu/student-veterans-affairs/">Veterans Affairs</a></li>
+  </ul>
+</div>
+
+  
+    </div>
+  </div>
+
+  <div class="footer-legal">
+    <div class="l-full">
+
+      <div class="red-version">Powered by Red 3.0.33</div>
+
+<div class="site-copyright">
+  &copy; 2021 The Board of Trustees of the University of Illinois <span class="pipe-separator">|</span>
+  <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a>
+</div>
+
+<div class="campuses" aria-label="Campuses">
+  <h2 class="assistive-text">Campuses</h2>
+  <ul class="campuses-list">
+    <li><a href="https://www.uillinois.edu/">University of Illinois System</a></li>
+    <li><a href="https://illinois.edu/">Urbana-Champaign</a></li>
+    <li><a href="https://www.uis.edu/">Springfield</a></li>
+  </ul>
+</div>
+    </div>
+  </div>
+
+  
+      <div class="google-translate">
+  <h2 class="assistive-text">Google Translate</h2>
+  <div id="google_translate_element">
+  </div>
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
+      }
+  </script>
+  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</div>
+  
+
+</footer>
+
+	    </div>
+
+
+  <script type='text/javascript' src='https://uihealth.uic.edu/wp-content/plugins/uic-red/js-admin/uic-publish-post-settings.js?ver=1.0.0' id='uic-publish-settings-js'></script>
+<script type='text/javascript' src='https://uihealth.uic.edu/wp-content/plugins/uic-red/js-admin/acf-field-group-toggle.js?ver=1.0.0' id='acf-field-group-toggle-js'></script>
+<script type='text/javascript' src='//www.uic.edu/apps/web-alert/alert.js?ver=3' id='web-alert-js-js'></script>
+<script type='text/javascript' src='https://uihealth.uic.edu/wp-content/themes/uic-red/js/main.js?ver=1' id='main-js'></script>
+<script type='text/javascript' src='https://uihealth.uic.edu/wp-includes/js/wp-embed.min.js?ver=797ab4b087a327bd009281ec75f90d4f' id='wp-embed-js'></script>
+
+
+  
+
+  
+  
+  </body>
+</html>

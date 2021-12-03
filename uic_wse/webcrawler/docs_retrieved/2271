@@ -1,0 +1,2144 @@
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>LatinX Heritage Month - New Books at Daley - Subject and Course Guides at University of Illinois at Chicago</title><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="robots" content="noarchive" /><!-- favicon.twig -->
+<link rel="apple-touch-icon" sizes="180x180" href="//libapps.s3.amazonaws.com/apps/common/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//libapps.s3.amazonaws.com/apps/common/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="//libapps.s3.amazonaws.com/apps/common/favicon/favicon-16x16.png">
+<link rel="manifest" href="//libapps.s3.amazonaws.com/apps/common/favicon/site.webmanifest">
+<link rel="mask-icon" href="//libapps.s3.amazonaws.com/apps/common/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="//libapps.s3.amazonaws.com/apps/common/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#ffc40d">
+<meta name="msapplication-config" content="//libapps.s3.amazonaws.com/apps/common/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<!-- !favicon.twig -->
+<!-- public_metadata.twig -->
+
+    <!-- auto generated dublin core metadata -->
+    <meta name="DC.Title" content="Subject and Course Guides: New Books at Daley: LatinX Heritage Month"/>
+    <meta name="DC.Creator" content="Catherine Lantz"/>
+    <meta name="DC.Subject" content=""/>
+    <meta name="DC.Description" content=""/>
+    <meta name="DC.Publishers" content="University of Illinois at Chicago"/>
+    <meta name="DC.Rights" content="Copyright University of Illinois at Chicago 2021"/>
+    <meta name="DC.Language" content="en"/>
+    <meta name="DC.Identifier" content="https://researchguides.uic.edu/newbooks/latinxheritage"/>
+    <meta name="DC.Date.Created" content="Jan 11, 2019"/>
+    <meta name="DC.Date.Modified" content="Nov 8, 2021"/>
+    
+		<meta property="og:title" content="Subject and Course Guides: New Books at Daley: LatinX Heritage Month">
+		<meta property="og:description" content="Subject and Course Guides: New Books at Daley: LatinX Heritage Month">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://researchguides.uic.edu/newbooks/latinxheritage">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@springshare"><link rel="stylesheet" href="/web/jquery/css/jquery-ui.min.css?2695" /><link rel="stylesheet" href="/web/font-awesome/4.7.0/css/font-awesome.min.css" /><link rel="stylesheet" type="text/css" href="/web/slick-1.8.1/slick/slick.css"><link rel="stylesheet" type="text/css" href="/web/slick-1.8.1/slick/slick-theme.css"><link rel="stylesheet" href="/web/css2.13.1/lg-public.min.css" /><script type="text/javascript" src="/web/jquery/js/1.12.4_jquery.min.js"></script><!-- js_include_fallback.twig -->
+    <script src="//code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <script>
+        jQuery.ui ||
+        document.write('<script src="/web/jquery/js/jquery-ui.min.js?2695">\x3C/script>');
+    </script>
+<!-- !js_include_fallback.twig --><script type="text/javascript" src="/web/js2.13.1/lg-public.min.js"></script><style>/** bootstrap_tab_css.twig **/
+#s-lg-tabs-container .nav-tabs > li > a,
+#s-lg-tabs-container .nav-tabs > li > button,
+#s-lg-tabs-container .nav-pills > li > a,
+#s-lg-tabs-container .nav-pills > li > button {
+    border: 1px solid transparent; -webkit-border-radius: 0; -moz-border-radius: 0; border-radius: 0;
+    background-color: #ffffff;
+    color: #001e62;
+    font-weight: bold;
+    padding: 4px 15px;
+}
+
+#s-lg-tabs-container .nav-tabs {
+    border-bottom: 0;
+}
+
+#s-lg-tabs-container .nav-tabs > li#s-lg-admin-tab-add > a {
+    -webkit-border-radius: 4px 4px 0 0;
+    -moz-border-radius: 4px 4px 0 0;
+    border-radius: 4px 4px 0 0;
+}
+
+#s-lg-tabs-container .nav-tabs > li > a:hover,
+#s-lg-tabs-container .nav-tabs > li > button:hover,
+#s-lg-tabs-container .nav-pills > li > a:hover,
+#s-lg-tabs-container .nav-pills > li > button:hover {
+    border: 1px solid transparent; -webkit-border-radius: 0; -moz-border-radius: 0; border-radius: 0;
+    background-color: #001e62;
+    color: #ffffff;
+}
+
+#s-lg-tabs-container .nav-tabs > .active > a,
+#s-lg-tabs-container .nav-tabs > .active > button,
+#s-lg-tabs-container .nav-pills > .active > a,
+#s-lg-tabs-container .nav-pills > .active > button {
+    color: #ffffff;
+    cursor: default;
+    background-color: #001e62;
+    border: 1px solid transparent; -webkit-border-radius: 0; -moz-border-radius: 0; border-radius: 0;
+    border-bottom-color: transparent;
+    font-weight: bold;
+}
+
+#s-lg-tabs-container .nav-tabs > .active > .s-lg-subtab-ul > .active > a,
+#s-lg-tabs-container .nav-tabs > .active > .s-lg-subtab-ul > .active > button {
+    color: #ffffff;
+    cursor: default;
+    background-color: #001e62;
+    border-bottom-color: transparent;
+}
+
+#s-lg-tabs-container .nav-tabs > .active > a:hover,
+#s-lg-tabs-container .nav-pills > .active > a:hover,
+#s-lg-tabs-container .nav-tabs > .active > button:hover,
+#s-lg-tabs-container .nav-pills > .active > button:hover {
+    color: #ffffff;
+    cursor: pointer;
+    background-color: #001e62;
+    border: 1px solid transparent; -webkit-border-radius: 0; -moz-border-radius: 0; border-radius: 0;
+    border-bottom-color: transparent;
+    font-weight: bold;
+}
+
+#s-lg-tabs-container .nav .dropdown-toggle .caret {
+    border-top-color: #e1e1e1;
+}
+
+#s-lg-tabs-container .nav-tabs button.dropdown-toggle .caret {
+    margin-left: 2px;
+    margin-top: -3px;
+}
+
+#s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-drop {
+    border-radius: 0;
+    padding: 4px 6px 4px 3px;
+    border-left: 1px solid transparent;
+}
+
+#s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-drop {
+    border-radius: 0;
+    padding: 4px 6px 0px 3px;
+    border-left: 1px solid transparent;
+    margin-right: 2px;
+}
+
+#s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-drop:hover {
+    border-radius: 0;
+    border-left: 1px solid #bbb;
+    padding: 4px 6px 4px 3px;
+}
+
+#s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-drop:hover {
+    border-radius: 0;
+    border-left: 1px solid #bbb;
+    padding: 4px 6px 0px 3px;
+}
+
+#s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-top-link,
+#s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-top-link:hover,
+#s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-top-link,
+#s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-top-link:hover {
+    border-radius: 0;
+    font-weight: bold;
+    padding: 4px 5px 4px 10px;
+}
+
+.nav-tabs > li > a.s-lg-tab-top-link,
+.nav-tabs > li > button.s-lg-tab-top-link {
+    margin-right: 0px;
+}
+
+#s-lg-tabs-container .nav-pills > li > a.s-lg-tab-drop,
+#s-lg-tabs-container .nav-pills > li > button.s-lg-tab-drop {
+    border-radius: 0;
+    padding: 4px 8px 4px 8px;
+    border-left: 1px solid transparent;
+    position: absolute;
+    right: 0;
+}
+
+#s-lg-tabs-container .nav-pills > li > a.s-lg-tab-drop:hover,
+#s-lg-tabs-container .nav-pills > li > button.s-lg-tab-drop:hover {
+    border-radius: 0;
+    border-left: 1px solid #bbb;
+    padding: 4px 8px 4px 8px;
+}
+
+#s-lg-tabs-container .nav-pills > li > a.s-lg-tab-top-link,
+#s-lg-tabs-container .nav-pills > li > a.s-lg-tab-top-link:hover,
+#s-lg-tabs-container .nav-pills > li > button.s-lg-tab-top-link,
+#s-lg-tabs-container .nav-pills > li > button.s-lg-tab-top-link:hover {
+    width: 100%;
+    float: left;
+    border-radius: 0;
+    font-weight: bold;
+    padding: 4px 15px 4px 15px;
+}
+
+    #s-lg-guide-tabs-title-bar {
+        border-top: 1px solid #001e62;
+    }
+/** !bootstrap_tab_css.twig **/
+ .s-lib-box {border-color: #cccccc;
+                border-width: 1px;
+                box-shadow: 0 8px 6px -6px #AAAAAA;
+                border-radius: 0;
+                background-color: #fff;
+            }
+            .s-lib-box-std .s-lib-box-title {background-color: #002b5c; background-image: none;color: #ffffff;
+                border-bottom: 1px solid #cccccc;
+            }
+            .s-lib-box .s-lib-box-title {background-color: #002b5c; background-image: none;color: #ffffff;
+                border-bottom: 1px solid #cccccc;
+                border-radius: 0;
+            }
+            .s-lib-box .s-lg-box-footer {
+                border-radius: 0;
+            }</style><link
+  rel="stylesheet"
+  type="text/css"
+  href="https://uiclib.netlify.app/springshare/libguides_main.css"
+/>
+<style type="text/css">
+  /* Pixo styles from main website */
+
+  /* Overrides General */
+  body,
+  #s-lib-footer-public {
+    background-color: #f8f8f8;
+    font-size: 16px;
+  }
+
+  @media (max-width: 800px) {
+    #s-lib-public-header-title,
+    #s-lib-public-header-desc,
+    #s-lib-public-main {
+      margin-left: 1rem;
+      margin-right: 1rem;
+    }
+  }
+
+  [class*=" col-"],
+  [class*=" grid-"],
+  [class^="col-"],
+  [class^="grid-"] {
+    margin: 0;
+    display: inherit;
+    flex-flow: inherit;
+  }
+
+  #s-lg-guide-list-controls > div.pull-right {
+    margin: -0.5rem 0 0.5rem 1rem;
+  }
+
+  #s-lg-guide-main div[class^="col-md-"] {
+    margin: 0;
+  }
+
+  /* Typography Main */
+  #s-lc-public-header,
+  #s-lg-guide-nav,
+  #s-lg-guide-main,
+  #s-lib-footer-public,
+  #s-lib-public-header,
+  #s-lib-public-nav,
+  #s-lib-public-main,
+  #s-lg-tabs-container,
+  #s-lg-guide-name,
+  #s-lg-guide-desc-container,
+  .popover-title {
+    color: #363636;
+  }
+
+  /* Title */
+  #s-lg-guide-header h1,
+  #s-lib-public-header h1 {
+    font-size: 2.5em;
+    line-height: 1.125em;
+    font-weight: 500;
+    padding-bottom: 0.75rem;
+  }
+
+  #s-lg-guide-main h2,
+  #s-lib-public-header h2,
+  #s-lg-guide-tabs h2 {
+    font-size: 1.5em;
+    line-height: 1.125em;
+    font-weight: 600;
+    padding-bottom: 0.5rem;
+  }
+  #s-lg-guide-main h3,
+  #s-lib-public-header h3,
+  .s-lg-col-boxes h3 {
+    line-height: 1.25em;
+    font-size: 1.25em;
+    font-weight: 700;
+  }
+  #s-lg-guide-main h4,
+  #s-lib-public-header h4,
+  .s-lg-col-boxes h4 {
+    line-height: 1.25em;
+    font-size: 1em;
+    font-weight: 700;
+  }
+  #s-lg-guide-main h5,
+  #s-lib-public-header h5,
+  .s-lg-col-boxes h5 {
+    color: #d50032;
+    font-style: italic;
+    line-height: 1.25em;
+    font-size: 1em;
+    font-weight: 500;
+  }
+  #s-lg-guide-main h6,
+  #s-lib-public-header h6,
+  .s-lg-col-boxes h6 {
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    line-height: 1.25em;
+    font-size: 1em;
+    font-weight: 400;
+  }
+  #s-lg-guide-main strong,
+  #s-lg-guide-main b {
+    font-weight: bold;
+  }
+
+  #s-lg-guide-main em {
+    font-style: italic;
+  }
+
+  /* Links */
+  #s-lg-guide-main a,
+  #s-lib-footer-public a,
+  #s-lg-tabs-container a {
+    color: #007f85;
+  }
+
+  #s-lg-guide-main a.btn,
+  #s-lib-footer-public a.btn,
+  #s-lg-tabs-container a.btn {
+    color: white;
+  }
+
+  #s-lg-guide-main a.button,
+  #s-lg-guide-main a.button:hover,
+  #s-lib-footer-public a.button,
+  #s-lib-footer-public a.button:hover,
+  #s-lg-tabs-container a.button,
+  #s-lg-tabs-container a.button:hover {
+    color: white;
+  }
+
+  #s-lg-guide-main a.button {
+    color: white;
+  }
+
+  #s-lg-guide-main a:hover,
+  #s-lib-footer-public a:hover,
+  #s-lg-tabs-container a:hover {
+    border-bottom: 1px solid rgba(213, 0, 50, 0.5);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(213, 0, 50, 0.498039);
+    color: #d50032;
+    transition: all 0.4s;
+  }
+
+  #s-lg-guide-main a.btn:hover,
+  #s-lib-footer-public a.btn:hover,
+  #s-lg-tabs-container a.btn:hover {
+    color: #eee;
+  }
+
+  /* Lists */
+  #s-lg-guide-main ul {
+    padding-left: 20px;
+    list-style-type: disc;
+  }
+
+  #s-lg-guide-main ol {
+    padding-left: 20px;
+    list-style-type: georgian;
+  }
+
+  #s-lg-guide-main li {
+    list-style-type: disc;
+    /*margin: 0;*/
+  }
+
+  /*Image Wrapping*/
+  .s-lib-box img {
+    float: left;
+    padding: 0 10px;
+  }
+  .s-lib-box img.left {
+    float: left;
+    width: 50%;
+  }
+  .s-lib-box img.right {
+    float: right;
+    width: 50%;
+  }
+  .s-lib-profile-image img {
+    float: none;
+    padding: 0;
+    background-color: inherit;
+    border: none;
+    box-shadow: none;
+  }
+
+  /* Overrides Header */
+
+  /* breadcrumb */
+
+  #s-lib-bc #s-lib-bc-customer > a {
+    display: block;
+    font-size: 14px;
+    line-height: 28px;
+    background-color: #d50032;
+    border-radius: 50%;
+    height: 14px;
+    overflow: hidden;
+    padding: 0;
+    text-indent: 50px;
+    white-space: nowrap;
+    width: 14px;
+    border: none;
+    position: relative;
+    top: 2px;
+  }
+
+  .breadcrumb > li + li:before {
+    padding: 0 0.8rem;
+    font-size: 0.75em;
+    vertical-align: middle;
+    color: #888;
+    content: "/\00a0";
+    content: "➤";
+  }
+
+  @media (min-width: 801px) {
+    #s-lib-bc {
+      margin-top: 2.5rem;
+    }
+
+    /* temp fix to header styles, 2018-09-07 */
+    #menu-eyebrow {
+      flex: 1 0 31em;
+      text-align: right;
+    }
+
+    /* body > header > div.l-header > div.l-full > nav > div.l-eyebrow > ul.menu-uic */
+    ul.menu-uic {
+      flex: 1 0 20em !important;
+    }
+    #search {
+      flex: 0 0 2rem;
+      margin-top: 0;
+    }
+  }
+
+  #s-lib-bc a,
+  #s-lib-bc-page,
+  .dropdown-menu > li > a {
+    font-size: 1.25em;
+    font-weight: normal;
+    color: rgb(0, 30, 98);
+  }
+
+  #s-lib-bc #s-lib-bc-page {
+    color: #d50032;
+  }
+
+  #s-lib-bc a:hover {
+    color: #d50032;
+    transition: all 0.4s;
+  }
+
+  #s-lg-guide-tabs
+    > ul
+    > li:nth-child(4)
+    > a.s-lg-tab-drop.dropdown-toggle
+    > span.caret {
+  }
+
+  /* Line under tabs */
+  #s-lg-guide-tabs-title-bar {
+    border: 1px solid rgb(225, 225, 225);
+    border-bottom: none;
+  }
+
+  /* Page Subtitle */
+  span#s-lg-guide-description {
+    font-size: 0.9em;
+  }
+  /*Home page navigation */
+  .highlight-btn {
+    border: 1px solid #141b4d;
+  }
+  #s-lg-hp-nav .rightnav-links {
+    display: block;
+  }
+  #s-lg-hp-nav .rightnav-links li {
+    float: right;
+  }
+
+  .nav-pills > li.active > button,
+  .nav-pills > li.active > button:focus,
+  .nav-pills > li.active > button:hover {
+    background-color: #001e62;
+  }
+  .nav .s-lg-index-nav-btn > button {
+    color: #001e62;
+    font-weight: 700;
+  }
+  .nav .s-lg-index-nav-btn > button:hover {
+    text-decoration: underline;
+  }
+
+  @media (max-width: 960px) {
+    #s-lg-hp-nav .rightnav-links {
+      float: left;
+      clear: left;
+      padding-top: 3px;
+    }
+  }
+
+  /* Tabs */
+  /* Reset */
+  #s-lg-tabs-container ul.nav-tabs > li > a,
+  #s-lg-tabs-container ul.nav-tabs > li > a:hover,
+  #s-lg-tabs-container ul.nav-tabs > li > a.active,
+  #s-lg-tabs-container ul.nav-tabs > li > a.active:hover,
+  #s-lg-tabs-container ul.nav-tabs > li > a.s-lg-tab-drop,
+  #s-lg-tabs-container ul.nav-tabs > li > a.s-lg-tab-drop:hover,
+  #s-lg-tabs-container ul.nav-tabs > li > a.s-lg-tab-top-link,
+  #s-lg-tabs-container ul.nav-tabs > li > a.s-lg-tab-top-link:hover {
+    color: rgb(0, 30, 98);
+    background-color: white;
+    border-radius: 0;
+    font-weight: 500;
+    padding: 5px 10px; /**/
+    margin: 0 0.5rem 0.5rem 0;
+    border: 1px solid rgb(225, 225, 225);
+    outline: none;
+  }
+
+  /* Hover */
+  #s-lg-tabs-container ul.nav-tabs > li > a:hover,
+  #s-lg-tabs-container ul.nav-tabs > li > a.active:hover,
+  #s-lg-tabs-container ul.nav-tabs > li > a.s-lg-tab-top-link:hover {
+    z-index: 1;
+    border: 2px solid rgb(0, 30, 98);
+    padding: 4px 9px;
+    transition: border-color 0.4s;
+  }
+
+  /* Dropdown Tab */
+  #s-lg-tabs-container ul.nav-tabs > li > a.s-lg-tab-top-link,
+  #s-lg-tabs-container ul.nav-tabs > li > a.s-lg-tab-top-link:hover {
+    margin-right: 0;
+  }
+
+  /* Dropdown button */
+  #s-lg-tabs-container ul.nav-tabs > li > a.s-lg-tab-drop {
+    border-left: none;
+    padding: 5px 9px 5px 6px;
+  }
+
+  /* carat */
+  #s-lg-tabs-container
+    ul.nav-tabs
+    > li
+    > a.s-lg-tab-drop.dropdown-toggle
+    > span.caret,
+  #s-lg-tabs-container
+    ul.nav-pills
+    > li
+    > a.s-lg-tab-drop.dropdown-toggle
+    > span.caret {
+    color: rgb(0, 30, 98);
+  }
+
+  #s-lg-tabs-container ul.nav-tabs > li > a.s-lg-tab-drop:hover,
+  #s-lg-tabs-container ul.nav-pills > li > a.s-lg-tab-drop:hover {
+    border: 2px solid rgb(0, 30, 98);
+    padding: 4px 8px 4px 6px;
+    margin-left: -2px;
+  }
+
+  /* Active tab */
+  #s-lg-tabs-container ul.nav-tabs > li > a.active,
+  #s-lg-tabs-container ul.nav-tabs > li > a.active:hover {
+    background-color: rgb(0, 30, 98);
+    color: white;
+    z-index: 1;
+    transition: border-color 0.4s;
+  }
+
+  #s-lg-tabs-container ul.nav-tabs > li > a.active:hover {
+    color: white;
+    transition: border-color 0.4s;
+  }
+
+  /* Dropdown menu itself */
+  #s-lg-guide-tabs > ul.nav-tabs > li.dropdown.clearfix > ul {
+    top: 35px;
+  }
+  #s-lg-guide-tabs > ul.nav-pills > li.dropdown.clearfix > ul {
+    width: 85%;
+    margin-left: 15% !important;
+  }
+  #s-lg-guide-tabs > ul.nav-tabs > li.dropdown.clearfix > ul,
+  #s-lg-guide-tabs > ul.nav > li.dropdown.clearfix > ul {
+    border: 2px solid rgb(0, 30, 98);
+    border-top-width: 6px;
+    border-radius: 0;
+    transition: border-color 0.4s;
+  }
+
+  /* Dropdown items */
+  #s-lg-tabs-container ul > li.dropdown.clearfix > ul > li > a,
+  .dropdown-menu > li > a {
+    color: #363636;
+  }
+  #s-lg-tabs-container ul > li.dropdown.clearfix > ul > li > a:hover,
+  .dropdown-menu > li > a:hover {
+    color: white;
+    background-color: rgb(0, 30, 98);
+    transition: all 0.4s;
+  }
+
+  #s-lg-guide-search-box {
+    margin-bottom: 0;
+  }
+
+  #s-lg-guide-header-info {
+    padding-top: 2.5em;
+    margin-bottom: 2em;
+  }
+
+  /* header mobile margins, width to match set in Pixo header */
+  @media (max-width: 800px) {
+    #s-lib-bc,
+    #s-lg-guide-header-info {
+      margin-left: 1rem;
+      margin-right: 1rem;
+    }
+
+    #s-lg-guide-search-form > div.input-group {
+      margin-right: 1rem;
+    }
+  }
+
+  /* Overrides body */
+
+  /* reset */
+  #s-lg-guide-main .row.s-lg-row,
+  #s-lg-guide-main .col-md-6,
+  #s-lg-guide-main .col-md-12,
+  #s-lg-guide-main .pad-left-med,
+  #s-lg-guide-main .pad-top-sm,
+  #s-lg-guide-main .pad-right-med,
+  #s-lg-guide-main .row.s-lg-row .s-lib-box-title,
+  #s-lg-guide-main .row.s-lg-row .s-lib-box-content,
+  #s-lg-guide-main .s-lib-box,
+  #s-lg-guide-main .s-lib-box-std,
+  .s-lib-box,
+  .s-lib-box .s-lib-box-title {
+    padding: 0;
+    margin: 0;
+    border: none;
+    background-color: transparent;
+    box-shadow: none;
+    color: #363636;
+  }
+
+  #s-lg-tabs-container,
+  #s-lg-guide-main .col-md-6,
+  #s-lg-guide-main .col-md-12 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  @media (min-width: 801px) {
+    #s-lg-guide-main .col-md-6:first-of-type,
+    #s-lg-guide-main .col-md-12:first-of-type {
+      padding-left: 0;
+    }
+
+    #s-lg-guide-main .col-md-6:first-of-type,
+    #s-lg-guide-main .col-md-12:first-of-type {
+      padding-right: 0;
+    }
+  }
+
+  @media (min-width: 801px) {
+    #s-lg-tabs-container,
+    #s-lg-guide-main {
+      padding-left: 0;
+    }
+  }
+
+  #s-lg-guide-main ul.s-lg-link-list > li {
+    padding-bottom: 0.5em;
+    padding-top: 1em;
+  }
+
+  #s-lg-guide-main .s-lib-box-content ul > li {
+    padding-bottom: 0.5em;
+  }
+
+  /* Forms */
+  #s-lg-guide-main input {
+    border: 1px solid rgb(225, 225, 225);
+    padding: 0.125em 0.25em 0.125em 0.25em;
+    background-color: white;
+  }
+
+  .input-group .form-control {
+    height: 34px;
+  }
+
+  /* Inputs */
+  .checkbox input[type="checkbox"],
+  .checkbox-inline input[type="checkbox"],
+  .radio input[type="radio"],
+  .radio-inline input[type="radio"] {
+    margin-left: -20px !important;
+  }
+
+  .s-lg-poll-title {
+    margin-top: 3rem;
+  }
+
+  #s-lg-guide-search {
+    width: 400px;
+    float: right;
+  }
+
+  /* Tables */
+  #s-lg-guide-main td {
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+  }
+
+  /* Override box title */
+  #s-lg-guide-main .row.s-lg-row .s-lib-box-title {
+    font-size: 1.5em;
+    font-weight: 500;
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+    line-height: 1.25em;
+  }
+
+  /* Bold links in link list*/
+  #s-lg-guide-main
+    ul.s-lg-link-list
+    > li
+    > div[id^="s-lg-content-"]
+    > a:first-of-type,
+  #s-lg-guide-main
+    ul.s-lg-link-list
+    > li
+    > div[id^="s-lg-content-"]
+    > span:first-of-type
+    a {
+    font-size: 1.125em;
+    font-weight: 500;
+    margin-bottom: 0.5em;
+  }
+
+  #s-lg-guide-main .s-lg-label-more {
+    border-bottom: 1px solid transparent;
+  }
+
+  #s-lg-page-prevnext {
+    display: none;
+  }
+
+  /*Styles for tabbed boxes*/
+  /*Reset*/
+  #s-lg-guide-main .ui-tabs .ui-tabs-nav li {
+    list-style: none;
+    height: 2em;
+  }
+  #s-lg-guide-main.ui-widget-header,
+  #s-lg-guide-main .ui-state-default,
+  #s-lg-guide-main .ui-widget-content .ui-state-default,
+  #s-lg-guide-main .ui-widget-header .ui-state-default,
+  #s-lg-guide-main .ui-widget-header {
+    background: none;
+    border: none;
+  }
+  #s-lg-guide-main .ui-widget-header {
+    border-bottom: 1px solid #e2e2e2;
+    padding-bottom: 1em;
+  }
+  #s-lg-guide-main .ui-state-default,
+  #s-lg-guide-main .ui-widget-content .ui-state-default,
+  #s-lg-guide-main .ui-widget-header .ui-state-default,
+  #s-lg-guide-main .ui-state-active,
+  #s-lg-guide-main .ui-widget-content .ui-state-active,
+  #s-lg-guide-main .ui-widget-header .ui-state-active,
+  #s-lg-guide-main .ui-state-hover,
+  #s-lg-guide-main .ui-widget-content .ui-state-hover,
+  #s-lg-guide-main .ui-widget-header .ui-state-hover,
+  #s-lg-guide-main .ui-state-focus,
+  #s-lg-guide-main .ui-widget-content .ui-state-focus,
+  #s-lg-guide-main .ui-widget-header .ui-state-focus {
+    border-radius: 0;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 5px;
+    margin: 0 0.5rem 0.5rem 0;
+    border: none;
+  }
+  #s-lg-guide-main .ui-state-active a,
+  #s-lg-guide-main .ui-widget-content .ui-state-active a,
+  #s-lg-guide-main .ui-widget-header .ui-state-active a,
+  #s-lg-guide-main .ui-state-hover a,
+  #s-lg-guide-main .ui-widget-content .ui-state-hover a,
+  #s-lg-guide-main .ui-widget-header .ui-state-hover a {
+    background-color: #007f85;
+    color: #fff;
+    border: none;
+  }
+  #s-lib-footer-public {
+    margin-top: 4rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  /*Profiles*/
+  .s-lib-profile-div {
+    text-align: center;
+  }
+  .s-lib-profile-container {
+    padding: 1.2em;
+  }
+  a.label.label-info,
+  #s-lg-guide-main a.label.label-info {
+    background-color: transparent;
+    border: 1px solid #001e62;
+    color: #001e62;
+    font-size: 1em !important;
+  }
+  a.label.label-info:hover,
+  #s-lg-guide-main a.label.label-info:hover {
+    background-color: transparent;
+    border: 2px solid #001e62;
+    color: #001e62;
+  }
+
+  /*Databases A-Z */
+  #s-lg-az-result-count {
+    margin-bottom: 0.2em;
+  }
+  .navbar {
+    background-color: #e8e8e8;
+  }
+  #s-lg-az-search-bar {
+    padding-bottom: 2em;
+  }
+  /*Hide vendor dropdown list*/
+  #s-lg-az-filter-cols #col-search {
+    width: 50%;
+  }
+  #s-lg-az-filters #col-vendors {
+    display: none;
+  }
+
+  /*Hide alternative names and keywords on Databases A-Z*/
+  .s-lg-az-result-keywords {
+    display: none;
+  }
+
+  /*Hide metadata on Guide List Box*/
+  .s-lg-guide-list-info {
+    display: none;
+  }
+
+  /*Hide metadata on Subject page*/
+  .s-lg-gmeta {
+    display: none;
+  }
+
+  /* provide the ability for images to not float in text boxes. */
+  .float-none,
+  .float-none img {
+    float: none !important;
+  }
+
+  /* remove stupid floats on inline images */
+  .s-lib-box img:not(.float) {
+    float: unset;
+  }
+
+  /* remove bizarre double chat widgets */
+  .lci_chat_load:nth-of-type(2) {
+    display: none;
+  }
+
+ form {
+  margin-bottom: 1em;
+}
+</style>
+
+<!-- Place this script as near to the end of your BODY as possible. -->
+<script type="text/javascript">
+  /* header overrides (some code in main.js is not meant for libguides) */
+  $(document).ready(function () {
+    /* Force sidebar to open */
+    var menu_nav_toggle_button = $("#menu_nav_toggle_button");
+    var menu_nav = $("div.l-header > div.l-full > nav");
+    menu_nav_toggle_button.click(function () {
+      menu_nav.toggleClass("is-active");
+    });
+
+    /* Force chat widget to open */
+    var chat_widget = $("footer .chat-widget");
+    chat_widget.click(function () {
+      chat_widget.toggleClass("chat-widget--active");
+    });
+
+    /* Markup Cleanup */
+    /* remove all inline styles except visibility */
+    $("#s-lg-guide-main *[style]").each(function () {
+      var hidden;
+      if (!$(this).is(":visible")) {
+        hidden = true;
+      }
+      $(this).removeAttr("style");
+      if (hidden) {
+        $(this).css("display", "none");
+      }
+    });
+
+    /* remove extraneous subheader menu */
+    $("body > header > div.l-header > a.menu-secondary-anchor").css(
+      "display",
+      "none"
+    );
+
+    /* remove buttons in mobile sidebar */
+    $("#menu-main > li > button").css("display", "none");
+
+    /* remove width, height, border attributes from tables */
+    $("#s-lg-guide-main table").removeAttr("height");
+    $("#s-lg-guide-main table").removeAttr("width");
+    $("#s-lg-guide-main table").removeAttr("border");
+
+    /* remove all font tags */
+    $("font").contents().unwrap();
+
+    /* remove extra spaces */
+    $("#s-lg-guide-main").text(function (i, old) {
+      var $this = $(this);
+      $this.html($this.html().replace(/ /g, ""));
+    });
+
+    /* misc wtf */
+    /* I've seen 'invisible' classes; hide */
+    $("#s-lg-guide-main .invisibleNavHeading").css("display", "none");
+    $("#s-lg-guide-main .invisibleLabel").css("display", "none");
+  });
+</script><script>
+var springStats = springStats || {};
+springStats.saConfig = springStats.saConfig || {
+    site_id: 34,
+    tracking_parameters: {"_st_guide_id":904473,"_st_page_id":6992692,"_st_site_id":34},
+    tracking_server_host: "libguides-proc.springyaws.com"
+};
+</script>
+<script async  src="/web/js/sa.min.js?3116" ></script>
+		<script>
+			springSpace.Common = springSpace.Common || { };
+			springSpace.Common.constant = {
+					PROCESSING: {
+						ACTION_DISPLAY_POLL: 159
+					}
+			};
+			springSpace.Common.baseURL = "https://researchguides.uic.edu/";
+			
+			handleScroll=function() {
+                if (false) {
+					var target_elt = "#s-lg-page-section-6992692";
+					jQuery("html, body").animate({ scrollTop: jQuery(target_elt).offset().top }, 750);
+					if (jQuery(this).scrollTop() > 220) {
+						jQuery("#s-lib-scroll-top").fadeIn(750);
+					}
+				}
+			}
+	   </script>
+        <script>
+            // Enable tooltips.
+            jQuery(function () {
+                try {
+                    springSpace.UI.initPopOvers();
+                    jQuery(".az-bs-tooltip").tooltip();
+                } catch (e) { }
+            });jQuery(window).one('load', function() {springSpace.springTrack.trackPage({_st_type_id: '1',_st_guide_id: '904473',_st_page_id: '6992692'});});
+            jQuery(document).ready(function() {
+                handleScroll();
+            });
+        </script><!-- BEGIN: Analytics code --><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5NVRDL');</script>
+<!-- End Google Tag Manager --><!-- END: Analytics code --></head>
+<body class="s-lg-guide-body">
+<a id="s-lg-public-skiplink" class="alert-info" href="#s-lg-guide-main">Skip to Main Content</a><!-- obsolete_browser_alert.twig -->
+<div id="obsolete_browser_alert" class="alert alert-danger obsolete_browser_alert">
+    It looks like you&#039;re using Internet Explorer 11 or older. This website works best with modern browsers such as the latest versions of Chrome, Firefox, Safari, and Edge. If you continue with this browser, you may see unexpected results.
+</div>
+
+<style>
+    .obsolete_browser_alert {
+        display: none;
+        font-weight: bold;
+        font-size: 1.25em;
+        text-align: center;
+        padding: 20px;
+        z-index:9999
+    }
+</style>
+
+<script>
+    // this property being set indicates an IE browser, so we show the alert
+    if (window.document.documentMode) {
+        document.getElementById("obsolete_browser_alert").style.display = "block";
+    }
+</script>
+<!-- !obsolete_browser_alert.twig -->
+<!-- BEGIN: Page Header -->
+<header role="banner">
+  <!--[if lte IE 9]>
+    <div class="browser-stripe u-dark-region">
+      <div class="l-full">
+        <h2>Your browser is unsupported</h2>
+        <p>
+          We recommend using the latest version of IE11, Edge, Chrome, Firefox
+          or Safari.
+        </p>
+      </div>
+    </div>
+  <![endif]-->
+  <div class="browser-stripe u-dark-region ie10">
+    <div class="l-full">
+      <h2>Your browser is unsupported</h2>
+      <p>
+        We recommend using the latest version of IE11, Edge, Chrome, Firefox or
+        Safari.
+      </p>
+    </div>
+  </div>
+
+  <div class="l-header">
+    <div class="eyebrow-mobile-wrapper js-eyebrow-mobile">
+      <div class="eyebrow-mobile">
+        <a href="http://uic.edu/" class="icon-uic-logo eyebrow-logo"
+          >UIC.edu Home</a
+        >
+        <div class="site-title-eyebrow-mobile">
+          <a href="http://library.uic.edu/">University Library</a>
+        </div>
+        <button class="search-toggle-mobile js-search-toggle-mobile">
+          <a href="http://library.uic.edu/search">
+            <span class="icon-search"> Toggle Search </span>
+          </a>
+        </button>
+        <button
+          class="nav-header-toggle js-nav-header-toggle"
+          id="menu_nav_toggle_button"
+        >
+          <span class="icon-menu"> Toggle Menu </span>
+        </button>
+      </div>
+      <div class="search-input-container-mobile">
+        <div class="search-title">
+          Search
+          <a class="search-close search-toggle-mobile">
+            <svg
+              aria-label="Close search box"
+              width="100%"
+              height="100%"
+              viewBox="0 0 22 22"
+              version="1.1"
+              xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+              xml:space="preserve"
+              style="
+                fill-rule: evenodd;
+                clip-rule: evenodd;
+                stroke-linecap: round;
+                stroke-miterlimit: 1.41421;
+              "
+            >
+              <g id="icon-close">
+                <path
+                  id="Line"
+                  d="M2,2l18,18"
+                  style="fill: none; stroke-width: 2px; stroke: #fff"
+                ></path>
+                <path
+                  id="Line1"
+                  d="M20,2l-18,18"
+                  style="fill: none; stroke-width: 2px; stroke: #fff"
+                ></path>
+              </g>
+            </svg>
+          </a>
+        </div>
+        <form
+          method="get"
+          action="/search"
+          role="search"
+          aria-label="Search this site on your mobile device"
+        >
+          <input
+            type="text"
+            name="q"
+            class="search-input-mobile"
+            placeholder="Search..."
+            tabindex="-1"
+            aria-label="Search this site on your mobile device"
+            disabled=""
+          />
+          <input
+            type="submit"
+            class="submit-button"
+            name="search"
+            value="Submit"
+          />
+        </form>
+      </div>
+    </div>
+
+    <a href="http://uic.edu" class="icon-uic-logo header-logo">UIC.edu Home</a>
+
+    <div class="l-full">
+      <div class="site-title-main -large">
+        <a href="http://library.uic.edu/">University Library</a>
+      </div>
+      <nav class="header-menus js-header-menus" role="navigation">
+        <div id="skip" class="skip-menu assistive-text">
+          <p>
+            Skip to
+            <a class="_main" href="#main">the content of this page</a>,
+            <a class="_primary-menu" href="#menu-main">the main menu</a>,
+            <a class="_secondary-menu" href="#menu-secondary"
+              >the secondary menu</a
+            >, <a class="_search" href="#search">the site search form</a> or go
+            to the
+            <a class="_home" href="http://library.uic.edu/"
+              >the site home page</a
+            >.
+          </p>
+        </div>
+
+        <div class="site-title-mobile-menu">
+          <a href="http://library.uic.edu/">University Library</a>
+        </div>
+
+        <h2 class="assistive-text">Main Menu</h2>
+        <ul id="menu-main" class="menu menu-main" aria-label="Main menu">
+          <li class="_item">
+            <a href="http://library.uic.edu/help" target="_self">Help</a>
+          </li>
+          <li class="_item menu-item-has-children">
+            <a href="http://library.uic.edu/collections" target="_self"
+              >Collections</a
+            >
+            <button role="button" class="expand-item js-expand-item">
+              Expand Collections menu
+            </button>
+            <ul class="_child">
+              <li class="_item">
+                <a
+                  href="http://library.uic.edu/collections/articles"
+                  target="_self"
+                  >Articles</a
+                >
+              </li>
+              <li class="_item">
+                <a
+                  href="http://library.uic.edu/collections/books-media"
+                  target="_self"
+                  >Books &amp; Media</a
+                >
+              </li>
+              <li class="_item menu-item-has-children">
+                <a
+                  href="http://library.uic.edu/collections/digital-images"
+                  target="_self"
+                  >Digital Images</a
+                >
+                <button role="button" class="expand-item js-expand-item">
+                  Expand Digital Images menu
+                </button>
+                <ul class="_child">
+                  <li class="_item">
+                    <a
+                      href="http://library.uic.edu/collections/digital-images/uic-image-collections"
+                      target="_self"
+                      >UIC Image Collections</a
+                    >
+                  </li>
+                </ul>
+              </li>
+              <li class="_item">
+                <a
+                  href="http://library.uic.edu/collections/maps-gis"
+                  target="_self"
+                  >Maps &amp; GIS</a
+                >
+              </li>
+              <li class="_item menu-item-has-children">
+                <a
+                  href="http://library.uic.edu/collections/special-collections-university-archives"
+                  target="_self"
+                  >Special Collections &amp; University Archives</a
+                >
+                <button role="button" class="expand-item js-expand-item">
+                  Expand Special Collections &amp; University Archives menu
+                </button>
+                <ul class="_child">
+                  <li class="_item">
+                    <a
+                      href="http://library.uic.edu/collections/special-collections-university-archives/finding-aids"
+                      target="_self"
+                      >Finding Aids</a
+                    >
+                  </li>
+                  <li class="_item">
+                    <a
+                      href="http://library.uic.edu/collections/special-collections-university-archives/rare-books"
+                      target="_self"
+                      >Rare Books</a
+                    >
+                  </li>
+                </ul>
+              </li>
+              <li class="_item">
+                <a
+                  href="http://library.uic.edu/collections/uic-publications"
+                  target="_self"
+                  >Theses, Dissertations &amp; UIC Publications</a
+                >
+              </li>
+            </ul>
+          </li>
+          <li class="_item menu-item-has-children">
+            <a href="http://library.uic.edu/libraries" target="_self"
+              >Libraries</a
+            >
+            <button role="button" class="expand-item js-expand-item">
+              Expand Libraries menu
+            </button>
+            <ul class="_child">
+              <li class="_item menu-item-has-children">
+                <a href="http://library.uic.edu/libraries/daley" target="_self"
+                  >Chicago-Daley</a
+                >
+                <button role="button" class="expand-item js-expand-item">
+                  Expand Chicago-Daley menu
+                </button>
+                <ul class="_child">
+                  <li class="_item">
+                    <a
+                      href="http://library.uic.edu/libraries/daley/hours"
+                      target="_self"
+                      >Hours &amp; Location</a
+                    >
+                  </li>
+                  <li class="_item">
+                    <a
+                      href="http://library.uic.edu/libraries/daley/directory"
+                      target="_self"
+                      >Faculty &amp; Staff</a
+                    >
+                  </li>
+                </ul>
+              </li>
+              <li class="_item menu-item-has-children">
+                <a
+                  href="http://library.uic.edu/libraries/lhs-chicago"
+                  target="_self"
+                  >Chicago-Health Sciences</a
+                >
+                <button role="button" class="expand-item js-expand-item">
+                  Expand Chicago-Health Sciences menu
+                </button>
+                <ul class="_child">
+                  <li class="_item">
+                    <a
+                      href="http://library.uic.edu/libraries/lhs-chicago/hours"
+                      target="_self"
+                      >Hours &amp; Location</a
+                    >
+                  </li>
+                  <li class="_item">
+                    <a
+                      href="http://library.uic.edu/libraries/lhs-chicago/directory"
+                      target="_self"
+                      >Faculty &amp; Staff</a
+                    >
+                  </li>
+                </ul>
+              </li>
+              <li class="_item menu-item-has-children">
+                <a
+                  href="http://library.uic.edu/libraries/lhs-peoria"
+                  target="_self"
+                  >Peoria-Health Sciences</a
+                >
+                <button role="button" class="expand-item js-expand-item">
+                  Expand Peoria-Health Sciences menu
+                </button>
+                <ul class="_child">
+                  <li class="_item">
+                    <a
+                      href="http://library.uic.edu/libraries/lhs-peoria/hours"
+                      target="_self"
+                      >Hours &amp; Location</a
+                    >
+                  </li>
+                  <li class="_item">
+                    <a
+                      href="http://library.uic.edu/libraries/lhs-peoria/directory"
+                      target="_self"
+                      >Faculty &amp; Staff</a
+                    >
+                  </li>
+                </ul>
+              </li>
+              <li class="_item menu-item-has-children">
+                <a
+                  href="http://library.uic.edu/libraries/lhs-rockford"
+                  target="_self"
+                  >Rockford-Health Sciences</a
+                >
+                <button role="button" class="expand-item js-expand-item">
+                  Expand Rockford-Health Sciences menu
+                </button>
+                <ul class="_child">
+                  <li class="_item">
+                    <a
+                      href="http://library.uic.edu/libraries/lhs-rockford/hours"
+                      target="_self"
+                      >Hours &amp; Location</a
+                    >
+                  </li>
+                  <li class="_item">
+                    <a
+                      href="http://library.uic.edu/libraries/lhs-rockford/directory"
+                      target="_self"
+                      >Faculty &amp; Staff</a
+                    >
+                  </li>
+                </ul>
+              </li>
+              <li class="_item menu-item-has-children">
+                <a
+                  href="http://library.uic.edu/libraries/lhs-urbana"
+                  target="_self"
+                  >Urbana-Health Sciences</a
+                >
+                <button role="button" class="expand-item js-expand-item">
+                  Expand Urbana-Health Sciences menu
+                </button>
+                <ul class="_child">
+                  <li class="_item">
+                    <a
+                      href="http://library.uic.edu/libraries/lhs-urbana/hours"
+                      target="_self"
+                      >Hours &amp; Location</a
+                    >
+                  </li>
+                  <li class="_item">
+                    <a
+                      href="http://library.uic.edu/libraries/lhs-urbana/directory"
+                      target="_self"
+                      >Faculty &amp; Staff</a
+                    >
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li class="_item menu-item-has-children">
+            <a href="http://library.uic.edu/about" target="_self">About</a>
+            <button role="button" class="expand-item js-expand-item">
+              Expand About menu
+            </button>
+            <ul class="_child">
+              <li class="_item">
+                <a href="http://library.uic.edu/about/events" target="_self"
+                  >Events</a
+                >
+              </li>
+              <li class="_item">
+                <a href="http://library.uic.edu/about/news" target="_self"
+                  >News</a
+                >
+              </li>
+              <li class="_item">
+                <a href="http://library.uic.edu/about/employment" target="_self"
+                  >Jobs &amp; Careers</a
+                >
+              </li>
+              <li class="_item">
+                <a href="http://library.uic.edu/about/directory" target="_self"
+                  >Directory</a
+                >
+              </li>
+              <li class="_item">
+                <a href="http://library.uic.edu/about/policies" target="_self"
+                  >Library Policies</a
+                >
+              </li>
+            </ul>
+          </li>
+        </ul>
+
+        <div class="l-eyebrow">
+          <h2 class="assistive-text">Eyebrow menu</h2>
+          <ul
+            id="menu-eyebrow"
+            class="menu menu-eyebrow"
+            aria-label="Eyebrow menu"
+          >
+            <li class="_item">
+              <a href="http://library.uic.edu/contact" target="_self"
+                >Contact Us</a
+              >
+            </li>
+            <li class="_item">
+              <a href="http://library.uic.edu/accounts" target="_self"
+                >My Accounts</a
+              >
+            </li>
+            <li class="_item">
+              <a href="http://library.uic.edu/donate" target="_self"
+                >Give to the Library</a
+              >
+            </li>
+          </ul>
+
+          <h2 class="assistive-text">UIC menu</h2>
+          <ul class="menu-uic">
+            <li class="_item">
+              <a href="http://uic.edu">UIC.edu</a>
+            </li>
+            <li class="_item">
+              <a href="http://maps.uic.edu/">Campus Map</a>
+            </li>
+          </ul>
+
+          <button id="search" class="search-toggle">
+            <a href="http://library.uic.edu/search">
+              <span class="icon-search"> Toggle Search </span>
+            </a>
+          </button>
+
+          <div class="search-input-container">
+            <form
+              method="get"
+              action="/search"
+              role="search"
+              aria-label="Search this site"
+            >
+              <input
+                type="text"
+                name="q"
+                class="search-input"
+                placeholder="Search..."
+                tabindex="-1"
+                aria-label="Search"
+                disabled=""
+              />
+              <input
+                type="submit"
+                class="submit-button"
+                name="search"
+                value="Submit"
+              />
+            </form>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </div>
+</header><!-- END: Page Header -->
+<!-- BEGIN: Guide Info Header -->
+<div id="s-lg-guide-header" class="container s-lib-header s-lib-side-borders">
+    <nav id="s-lib-bc" aria-label="breadcrumb">
+        <ol id="s-lib-bc-list" class="breadcrumb"><li id="s-lib-bc-customer"><a title="UIC Library" href="https://library.uic.edu/">UIC Library</a></li><li id="s-lib-bc-site"><a title="Subject and Course Guides" href="https://researchguides.uic.edu/">Subject and Course Guides</a></li><li id="s-lib-bc-guide"><a title="New Books at Daley" href="https://researchguides.uic.edu/newbooks">New Books at Daley</a></li><li id="s-lib-bc-page" class="active">LatinX Heritage Month</li></ol>    </nav>
+    <div class="pull-right">
+        <div id="s-lg-guide-header-search">
+            
+                <div id="s-lg-guide-search-box">
+                    <form role="search" id="s-lg-guide-search-form" action="https://researchguides.uic.edu/srch.php"
+                    method="GET">
+                        <div class="input-group input-group-sm">
+                            <input type="text" id="s-lg-guide-search-terms" name="q" class="form-control" placeholder="Find subject and course guides">
+                            <label class="sr-only" for="s-lg-guide-search-terms">Find subject and course guides</label>
+                            <span class="input-group-btn">
+                                <button class="btn btn-default" type="submit">Search guides</button>
+                            </span>
+                        </div>
+                    </form>
+                </div>        </div>
+            </div>
+    <div id="s-lg-guide-header-info">
+        <h1 id="s-lg-guide-name">New Books at Daley: LatinX Heritage Month</h1>
+        <div id="s-lg-guide-desc-container">
+            <span id="s-lg-guide-description"></span>
+        </div>
+    </div>
+</div>
+<!-- END: Guide Info Header -->
+<div id="s-lg-tabs-container" class="container s-lib-side-borders pad-top-med">
+    <div id="s-lg-guide-tabs" class="tabs" role="navigation" aria-label="Guide Pages">
+        <ul class="nav nav-tabs split-button-nav">
+            <li class=""><a title="" class="" href="https://researchguides.uic.edu/newbooks/latinx" ><span>Home</span></a></li><li class=""><a title="" class="" href="https://researchguides.uic.edu/newbooks/nativeamericanheritage" ><span>More Native American Heritage Month Titles</span></a></li><li class="active"><a title="" class="active" href="https://researchguides.uic.edu/newbooks/latinxheritage" ><span>LatinX Heritage Month</span></a></li><li class=""><a title="" class="" href="https://researchguides.uic.edu/newbooks/womenshistory" ><span>Women's History Month</span></a></li><li class=""><a title="" class="" href="https://researchguides.uic.edu/c.php?g=904473&p=6510542" ><span>Black History Month</span></a></li><li class=""><a title="" class="" href="https://researchguides.uic.edu/newbooks/asianamericanawareness" ><span>Asian American Awareness Month</span></a></li><li class=""><a title="" class="" href="https://researchguides.uic.edu/newbooks/lgtbqpride" ><span>LGBTQ Pride Month</span></a></li><li class=""><a title="" class="" href="https://researchguides.uic.edu/newbooks/disabilityawareness" ><span>Disability Awareness Month</span></a></li><li class=""><a title="" class="" href="https://researchguides.uic.edu/c.php?g=904473&p=8285511" ><span>Arab American Heritage Month</span></a></li><li class=""><a title="" class="" href="https://researchguides.uic.edu/c.php?g=904473&p=8341855" ><span>Jewish American Heritage Month</span></a></li>        </ul>
+    </div>
+</div>
+<div id="s-lg-guide-tabs-title-bar" class="container s-lib-side-borders"></div>
+<!-- BEGIN: Guide Content -->
+<div id="s-lg-guide-main" class="container s-lib-main s-lib-side-borders" tabindex="-1">
+        
+				<div class="row s-lg-row">
+    <div id="s-lg-col-126" class="col-md-12">
+        <div class="s-lg-col-boxes">
+        </div>
+    </div>
+				
+</div>
+				<div class="row s-lg-row">
+    <div id="s-lg-col-1" class="col-md-6">
+        <div class="s-lg-col-boxes">
+							<div id="s-lg-box-wrapper-32012178" class="s-lg-box-wrapper-32012178">
+					<div id="s-lg-box-27230226-container" class="s-lib-box-container">
+						<div id="s-lg-box-27230226" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Featured EBooks
+                                </h2>
+							<div id="s-lg-box-collapse-27230226" >
+								<div class="s-lib-box-content">
+									<div class="">
+                        <ul id="s-lg-link-list-65514482" class="s-lg-link-list s-lg-link-list-5"><li class="">
+                        <div id="s-lg-content-63132959" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/m90q07/alma99494907563705897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63132959'});"><span id="s-lg-book-cover-63132959" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=9780190691202/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63132959" class="s-lg-book-title">The Oxford Handbook of Latino Studies</span><span id="s-lg-book-by-63132959" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63132959" class="s-lg-book-author">Ilan Stavans</span></a><div id="s-lg-book-desc-63132959" class="s-lg-book-desc"><div id="s-lg-link-desc-63132959" class="s-lg-link-desc">At the beginning of the third decade of the 21st century, the Latino minority, the biggest and fastest growing in the United States, is at a crossroads. Is assimilation taking place in comparable ways to previous immigrant groups? Are the links to the countries of origin being redefined in the  age of contested globalism? How are Latinos changing America and how is America changing Latinos? The Oxford Handbook of Latino Studies reflects on these questions, offering a sweeping exploration of Latinas and Latinos' complex experiences in the United States.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63132975" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/f4h5np/alma99494907316505897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63132975'});"><span id="s-lg-book-cover-63132975" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=1566894883/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63132975" class="s-lg-book-title">In the Distance</span><span id="s-lg-book-by-63132975" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63132975" class="s-lg-book-author">Hernan Diaz</span></a><div id="s-lg-book-desc-63132975" class="s-lg-book-desc"><div id="s-lg-link-desc-63132975" class="s-lg-link-desc">Finalist for the 2018 Pulitzer Prize for Fiction    A young Swedish immigrant finds himself penniless and alone in California. The boy travels East in search of his brother, moving on foot against the great current of emigrants pushing West. Driven back again and again, he meets naturalists, criminals, religious fanatics, swindlers, Indians, and lawmen, and his exploits turn him into a legend. Diaz defies the conventions of historical fiction and genre, offering a probing look at the stereotypes that populate our past and a portrait of radical foreignness.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63132992" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/151krae/cdi_dukeupress_books_org_bibliovault_9781478008859"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63132992'});"><span id="s-lg-book-cover-63132992" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=9781478008569/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63132992" class="s-lg-book-title">Latinx Art</span><span id="s-lg-book-by-63132992" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63132992" class="s-lg-book-author">Arlene Dávila</span></a><div id="s-lg-book-desc-63132992" class="s-lg-book-desc"><div id="s-lg-link-desc-63132992" class="s-lg-link-desc">Dávila draws on numerous interviews with artists, dealers, and curators to explore the problem of visualizing Latinx art and artists. Providing an inside and critical look of the global contemporary art market, Dávila's book is at once an introduction to contemporary Latinx art and a call to decolonize the art worlds and practices that erase and whitewash Latinx artists.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63133057" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/m90q07/alma99494888296905897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63133057'});"><span id="s-lg-book-cover-63133057" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=1478012277/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63133057" class="s-lg-book-title">Abstract Barrios</span><span id="s-lg-book-by-63133057" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63133057" class="s-lg-book-author">Johana Londoño</span></a><div id="s-lg-book-desc-63133057" class="s-lg-book-desc"><div id="s-lg-link-desc-63133057" class="s-lg-link-desc">Johana Londoño examines how the barrio has become a cultural force that has been manipulated in order to create Latinized urban landscapes that are palatable for white Americans who view concentrated areas of Latinx populations as a threat.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63133180" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/m90q07/alma99494928511405897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63133180'});"><span id="s-lg-book-cover-63133180" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=0295747641/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63133180" class="s-lg-book-title">Latinx photography in the United States : a visual history</span><span id="s-lg-book-by-63133180" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63133180" class="s-lg-book-author">Elizabeth Ferrer</span></a><div id="s-lg-book-desc-63133180" class="s-lg-book-desc"><div id="s-lg-link-desc-63133180" class="s-lg-link-desc">Whether at UFW picket lines in California's Central Valley or capturing summertime street life in East Harlem Latinx photographers have documented fights for dignity and justice as well as the daily lives of ordinary people. Their powerful, innovative photographic art touches on family, identity, protest, borders, and other themes, including the experiences of immigration and marginalization common to many of their communities. Yet the work of these artists has largely been excluded from the documented history of photography in the United States. Through individual profiles of more than eighty photographers from the early history of the photographic medium to the present, Elizabeth Ferrer introduces readers to Latinx portraitists, photojournalists, and documentarians and their legacies.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63133195" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/m90q07/alma99494925799805897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63133195'});"><span id="s-lg-book-cover-63133195" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=9781595589170/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63133195" class="s-lg-book-title">Inventing Latinos</span><span id="s-lg-book-by-63133195" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63133195" class="s-lg-book-author">Laura E. Gómez</span></a><div id="s-lg-book-desc-63133195" class="s-lg-book-desc"><div id="s-lg-link-desc-63133195" class="s-lg-link-desc">In an unprecedented demographic shift, Latinos will comprise a third of the American population in just a matter of decades. While their influence shapes everything from electoral politics to popular culture, many Americans still struggle with two basic questions: Who are Latinos, and where do they fit in America's racial order? Laura E. Gomez, a leading expert on race in America, argues that it is only recently that Mexican Americans, Puerto Ricans, Cubans, Dominicans, Central Americans, and others are seeing themselves (and being seen by others) under the banner of a cohesive racial identity.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63133217" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/151krae/cdi_askewsholts_vlebooks_9780252050466"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63133217'});"><span id="s-lg-book-cover-63133217" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=0252041798/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63133217" class="s-lg-book-title">In Search of Belonging</span><span id="s-lg-book-by-63133217" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63133217" class="s-lg-book-author">Jillian M. Baez</span></a><div id="s-lg-book-desc-63133217" class="s-lg-book-desc"><div id="s-lg-link-desc-63133217" class="s-lg-link-desc">In Search of Belonging explores the ways Latina/o audiences in general, and women in particular, make sense of and engage both mainstream and Spanish-language media. Jillian M. Báez's eye-opening ethnographic analysis draws on the experiences of a diverse group of Latinas in Chicago. In-depth interviews reveal Latinas viewing media images through a lens of citizenship.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63133264" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/151krae/cdi_askewsholts_vlebooks_9780252099809"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63133264'});"><span id="s-lg-book-cover-63133264" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=0252041216/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63133264" class="s-lg-book-title">Latina/o Midwest Reader</span><span id="s-lg-book-by-63133264" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63133264" class="s-lg-book-author">Omar Valerio-Jimenez (Editor); Santiago Vaquera-Vasquez (Editor)</span></a><div id="s-lg-book-desc-63133264" class="s-lg-book-desc"><div id="s-lg-link-desc-63133264" class="s-lg-link-desc">From 2000 to 2010, the Latino population increased by more than 73 percent across eight midwestern states. These interdisciplinary essays explore issues of history, education, literature, art, and politics defining today's Latina/o Midwest.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63133294" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/151krae/cdi_askewsholts_vlebooks_9780252051555"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63133294'});"><span id="s-lg-book-cover-63133294" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=0252042697/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63133294" class="s-lg-book-title">Negotiating Latinidad</span><span id="s-lg-book-by-63133294" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63133294" class="s-lg-book-author">Frances R. Aparicio</span></a><div id="s-lg-book-desc-63133294" class="s-lg-book-desc"><div id="s-lg-link-desc-63133294" class="s-lg-link-desc">Longstanding Mexican and Puerto Rican populations have helped make people of mixed nationalities--MexiGuatamalans, CubanRicans, and others--an important part of Chicago's Latina/o scene. Intermarriage between Guatemalans, Colombians, and Cubans have further diversified this community-within-a-community. Yet we seldom consider the lives and works of these Intralatino/as when we discuss Latino/as in the United States.In Negotiating Latinidad, a cross-section of Chicago's second-generation Intralatino/as offer their experiences of negotiating between and among the national communities embedded in their families. Frances R. Aparicio's rich interviews reveal Intralatino/as proud of their multiplicity and particularly skilled at understanding difference and boundaries. .</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63372350" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/151krae/cdi_proquest_ebookcentral_EBC5813339"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63372350'});"><span id="s-lg-book-cover-63372350" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=9781479807727/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63372350" class="s-lg-book-title">Racial Immanence</span><span id="s-lg-book-by-63372350" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63372350" class="s-lg-book-author">Marissa K. López</span></a><div id="s-lg-book-desc-63372350" class="s-lg-book-desc"><div id="s-lg-link-desc-63372350" class="s-lg-link-desc">Winner, 2021 NACCS Book Award, given by the National Association for Chicano and Chicana Studies  Explores the how, why, and what of contemporary Chicanx culture, including punk rock, literary fiction, photography, mass graves, and digital and experimental installation art.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63372401" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/m90q07/alma99494852635905897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63372401'});"><span id="s-lg-book-cover-63372401" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=0804799814/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63372401" class="s-lg-book-title">South Central Is Home</span><span id="s-lg-book-by-63372401" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63372401" class="s-lg-book-author">Abigail Rosas</span></a><div id="s-lg-book-desc-63372401" class="s-lg-book-desc"><div id="s-lg-link-desc-63372401" class="s-lg-link-desc">South Central Los Angeles is often characterized as an African American community beset by poverty and economic neglect. But this depiction obscures the significant Latina/o population that has called South Central home since the 1970s. More significantly, it conceals the efforts African American and Latina/o residents have made together in shaping their community.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63372441" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/151krae/cdi_jstor_books_10_2307_j_ctv12fw66c"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63372441'});"><span id="s-lg-book-cover-63372441" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=9781479875139/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63372441" class="s-lg-book-title">Troublemakers</span><span id="s-lg-book-by-63372441" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63372441" class="s-lg-book-author">Kathryn Schumaker</span></a><div id="s-lg-book-desc-63372441" class="s-lg-book-desc"><div id="s-lg-link-desc-63372441" class="s-lg-link-desc">Troublemakers traces the history of black and Chicano student protests from small-town Mississippi to metropolitan Denver and beyond, showcasing the stories of individual protesters and demonstrating how their actions contributed to the eventual recognition of the constitutional rights of all students.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63372465" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/151krae/cdi_askewsholts_vlebooks_9781501720055"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63372465'});"><span id="s-lg-book-cover-63372465" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=9781501728143/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63372465" class="s-lg-book-title">Women's Work and Chicano Families</span><span id="s-lg-book-by-63372465" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63372465" class="s-lg-book-author">Patricia Zavella</span></a><div id="s-lg-book-desc-63372465" class="s-lg-book-desc"><div id="s-lg-link-desc-63372465" class="s-lg-link-desc">Drawing on revisionist social theories relating to Chicano family structure as well as on feminist theory, Patricia Zavella paints a compelling picture of the Chicano women who worked in northern California's fruit and vegetable canneries. Her book combines social history, shop floor ethnography, and in-depth interviews to explore the links between Chicano family life and gender inequality in the labor market.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63372488" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/151krae/cdi_proquest_ebookcentral_EBC6038731"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63372488'});"><span id="s-lg-book-cover-63372488" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=0252042972/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63372488" class="s-lg-book-title">Chicago Católico</span><span id="s-lg-book-by-63372488" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63372488" class="s-lg-book-author">Deborah E. Kanter</span></a><div id="s-lg-book-desc-63372488" class="s-lg-book-desc"><div id="s-lg-link-desc-63372488" class="s-lg-link-desc">Today, over one hundred Chicago-area Catholic churches offer Spanish language mass to congregants. How did the city's Mexican population, contained in just two parishes prior to 1960, come to reshape dozens of parishes and neighborhoods?</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63815669" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/vq50bm/alma99494785930305897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63815669'});"><span id="s-lg-book-cover-63815669" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=3030240436/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63815669" class="s-lg-book-title">New & Emerging Issues in LatinX Health</span><span id="s-lg-book-author-63815669" class="s-lg-book-author"></span></a><div id="s-lg-book-desc-63815669" class="s-lg-book-desc"><div id="s-lg-link-desc-63815669" class="s-lg-link-desc">This timely volume serves as a comprehensive and much-needed update to the literature on Latinx health. As both the United States and Latinx subgroups experience and anticipate demographic shifts, it is critical to examine the current epidemiology of Latinx health, as well as the factors influencing this population's health and well-being.</div></div></div></div></li>
+                        
+                            </ul>
+                            </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+        </div>
+    </div>
+    <div id="s-lg-col-2" class="col-md-3">
+        <div class="s-lg-col-boxes">
+							<div id="s-lg-box-wrapper-26062942" class="s-lg-box-wrapper-26062942">
+					<div id="s-lg-box-22203124-container" class="s-lib-box-container">
+						<div id="s-lg-box-22203124" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Featured Print Titles
+                                </h2>
+							<div id="s-lg-box-collapse-22203124" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-50151175" class="  clearfix">
+				<p>For more information about the selected titles, including availability select the title link for each item.&nbsp;</p>
+		   </div><div class="">
+                        <ul id="s-lg-link-list-52929926" class="s-lg-link-list s-lg-link-list-5"><li class="">
+                        <div id="s-lg-content-50149793" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/12bipdi/alma99465092612005897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '50149793'});"><span id="s-lg-book-cover-50149793" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=1439916675/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-50149793" class="s-lg-book-title">Latinx Environmentalisms</span><span id="s-lg-book-by-50149793" class="s-lg-book-by"> by </span><span id="s-lg-book-author-50149793" class="s-lg-book-author">Sarah D. Wald (Editor);</span></a><div id="s-lg-book-desc-50149793" class="s-lg-book-desc"><div id="s-lg-link-desc-50149793" class="s-lg-link-desc">The whiteness of mainstream environmentalism often fails to account for the richness and variety of Latinx environmental thought. Building on insights of environmental justice scholarship as well as critical race and ethnic studies, the editors and contributors to Latinx Environmentalisms map the ways Latinx cultural texts integrate environmental concerns with questions of social and political justice.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-50150327" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/12bipdi/alma99465110612005897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '50150327'});"><span id="s-lg-book-cover-50150327" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=9781945649233/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-50150327" class="s-lg-book-title">Tesoro</span><span id="s-lg-book-by-50150327" class="s-lg-book-by"> by </span><span id="s-lg-book-author-50150327" class="s-lg-book-author">Yesika Salgado</span></a><div id="s-lg-book-desc-50150327" class="s-lg-book-desc"><div id="s-lg-link-desc-50150327" class="s-lg-link-desc">Tesoro is a story of family, survival, and the formative power of the women in Salgado's life. It is a telling of the balance between love and perseverance. Tesoro is an unearthing of the sacred connections that make a person whole; the treasure we forever keep with us when we learn from those we love, when we mourn those we've lost, and what grows in between.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-50150526" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/12bipdi/alma99465051512005897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '50150526'});"><span id="s-lg-book-cover-50150526" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=9781107098565/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-50150526" class="s-lg-book-title">Mexican American English</span><span id="s-lg-book-by-50150526" class="s-lg-book-by"> by </span><span id="s-lg-book-author-50150526" class="s-lg-book-author">Erik R. Thomas (Editor)</span></a><div id="s-lg-book-desc-50150526" class="s-lg-book-desc"><div id="s-lg-link-desc-50150526" class="s-lg-link-desc">Responding to the need for a comprehensive treatment of Mexican American English and its varied influences across multiple generations, this volume provides true insight into how language contact triggers language change, and illustrates previously under-recognized links to ethnolects of other migrant groups in different parts of the world.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-50151000" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/12bipdi/alma99465052012005897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '50151000'});"><span id="s-lg-book-cover-50151000" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=9781612196619/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-50151000" class="s-lg-book-title">Revolution Sunday</span><span id="s-lg-book-by-50151000" class="s-lg-book-by"> by </span><span id="s-lg-book-author-50151000" class="s-lg-book-author">Wendy Guerra; Achy Obejas (Translator)</span></a><div id="s-lg-book-desc-50151000" class="s-lg-book-desc"><div id="s-lg-link-desc-50151000" class="s-lg-link-desc">Cleo, scion of a once-prominent Cuban family and a promising young writer in her own right, travels to Spain to collect a prestigious award. There, Cuban expats view her with suspicion--assuming she's an informant for the Castro regime. To Cleo's surprise, that suspicion follows her home to Cuba, where she finds herself under constant surveillance by the government. When she meets and falls in love with a Hollywood filmmaker, she discovers her family is not who she thought they were . . . and neither is the filmmaker.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-50151037" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/12bipdi/alma99449752212005897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '50151037'});"><span id="s-lg-book-cover-50151037" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=9781477317662/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-50151037" class="s-lg-book-title">¡Sí, Ella Puede!</span><span id="s-lg-book-by-50151037" class="s-lg-book-by"> by </span><span id="s-lg-book-author-50151037" class="s-lg-book-author">Stacey K. Sowards</span></a><div class="s-lg-book-prop-pubdate">Publication Date: 2019-03-01</div><div id="s-lg-book-desc-50151037" class="s-lg-book-desc"><div id="s-lg-link-desc-50151037" class="s-lg-link-desc">Since the 1950s, Latina activist Dolores Huerta has been a fervent leader and organizer in the struggle for farmworkers' rights within the Latina/o community.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-50151395" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/12bipdi/alma99458134112005897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '50151395'});"><span id="s-lg-book-cover-50151395" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=9781469651422/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-50151395" class="s-lg-book-title">Rice in the Time of Sugar</span><span id="s-lg-book-by-50151395" class="s-lg-book-by"> by </span><span id="s-lg-book-author-50151395" class="s-lg-book-author">Louis A. Pérez</span></a><div id="s-lg-book-desc-50151395" class="s-lg-book-desc"><div id="s-lg-link-desc-50151395" class="s-lg-link-desc">How did Cuba's long-established sugar trade result in the development of an agriculture that benefited consumers abroad at the dire expense of Cubans at home? In this history of Cuba, Louis A. Perez proposes a new Cuban counterpoint: rice, a staple central to the island's cuisine, and sugar, which dominated an export economy 150 years in the making.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-50151680" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/12bipdi/alma99465832212005897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '50151680'});"><span id="s-lg-book-cover-50151680" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=1784993093/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-50151680" class="s-lg-book-title">Crossing Borders and Queering Citizenship</span><span id="s-lg-book-by-50151680" class="s-lg-book-by"> by </span><span id="s-lg-book-author-50151680" class="s-lg-book-author">Zalfa Feghali</span></a><div id="s-lg-book-desc-50151680" class="s-lg-book-desc"><div id="s-lg-link-desc-50151680" class="s-lg-link-desc">Feghali crafts a sophisticated theoretical framework to theorize how the act of reading can contribute to the queering of contemporary citizenship in North America. Providing sensitive and convincing readings of work by both popular and niche authors, including Gloria Anzaldúa, Dorothy Allison, Gregory Scofield, Guillermo Gómez-Peña, Erín Moure, Junot Díaz, and Yann Martel, this book is the first to not only read these authors together, but also to discuss how each powerfully resists the exclusionary work of state-sanctioned citizenship in the U.S. and Canada.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-50151757" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/12bipdi/alma99465832312005897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '50151757'});"><span id="s-lg-book-cover-50151757" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=0810140152/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-50151757" class="s-lg-book-title">Encuentro</span><span id="s-lg-book-by-50151757" class="s-lg-book-by"> by </span><span id="s-lg-book-author-50151757" class="s-lg-book-author">Trevor Boffone (Editor);</span></a><div id="s-lg-book-desc-50151757" class="s-lg-book-desc"><div id="s-lg-link-desc-50151757" class="s-lg-link-desc">This anthology has its origins in the Encuentro theater festival, which was produced by the Latino Theater Company in association with the Latinx Theatre Commons in Los Angeles in 2014. Encuentro means "an encounter," and meetings form a core theme in these six groundbreaking plays, each prefaced by a critical introduction from a leading Latinx theater scholar.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-50151902" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/12bipdi/alma99465833012005897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '50151902'});"><span id="s-lg-book-cover-50151902" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=9783903269095/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-50151902" class="s-lg-book-title">Donna Huanca: Piedra Quemada</span><span id="s-lg-book-by-50151902" class="s-lg-book-by"> by </span><span id="s-lg-book-author-50151902" class="s-lg-book-author">Elysia Crampton;</span></a><div id="s-lg-book-desc-50151902" class="s-lg-book-desc"><div id="s-lg-link-desc-50151902" class="s-lg-link-desc">This publication documents a multimedia installation by Berlin- and New York-based artist Donna Huanca (born 1980) at the Belvedere Museum in Vienna.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-50152008" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/12bipdi/alma99465827712005897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '50152008'});"><span id="s-lg-book-cover-50152008" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=9788891820600/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-50152008" class="s-lg-book-title">Cuba Talks</span><span id="s-lg-book-by-50152008" class="s-lg-book-by"> by </span><span id="s-lg-book-author-50152008" class="s-lg-book-author">Laura Salas Redondo (Editor)</span></a><div id="s-lg-book-desc-50152008" class="s-lg-book-desc"><div id="s-lg-link-desc-50152008" class="s-lg-link-desc">This unique volume describes how powerful the Cuban art experience has become, especially after the emergence of Cuba's strong generation of young creatives on the Latin American art scene in the 1980s.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-50152107" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/12bipdi/alma99465873912005897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '50152107'});"><span id="s-lg-book-cover-50152107" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=1438475039/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-50152107" class="s-lg-book-title">Bordered Writers</span><span id="s-lg-book-by-50152107" class="s-lg-book-by"> by </span><span id="s-lg-book-author-50152107" class="s-lg-book-author">Isabel Baca (Editor);</span></a><div id="s-lg-book-desc-50152107" class="s-lg-book-desc"><div id="s-lg-link-desc-50152107" class="s-lg-link-desc">Examines innovative writing pedagogies and the experiences of Latinx student writers at Hispanic-Serving Institutions nationwide.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-50152415" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/12bipdi/alma99465975612005897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '50152415'});"><span id="s-lg-book-cover-50152415" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=1478001526/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-50152415" class="s-lg-book-title">Seeking Rights from the Left</span><span id="s-lg-book-by-50152415" class="s-lg-book-by"> by </span><span id="s-lg-book-author-50152415" class="s-lg-book-author">Elisabeth Jay Friedman (Editor)</span></a><div id="s-lg-book-desc-50152415" class="s-lg-book-desc"><div id="s-lg-link-desc-50152415" class="s-lg-link-desc">Offers a unique comparative assessment of left-leaning Latin American governments by examining their engagement with feminist, women's, and LGBT movements and issues.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63131174" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/vq50bm/alma99472624912005897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63131174'});"><span id="s-lg-book-cover-63131174" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=1477319867/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63131174" class="s-lg-book-title">Agent of Change</span><span id="s-lg-book-by-63131174" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63131174" class="s-lg-book-author">Cynthia E. Orozco</span></a><div id="s-lg-book-desc-63131174" class="s-lg-book-desc"><div id="s-lg-link-desc-63131174" class="s-lg-link-desc">The essayist Adela Sloss-Vento (1901-1998) was a powerhouse of activism in South Texas's Lower Rio Grande Valley throughout the Mexican American civil rights movement beginning in 1920 and the subsequent Chicano movement of the 1960s and 1970s.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63131188" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/vq50bm/alma99471915512005897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63131188'});"><span id="s-lg-book-cover-63131188" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=1541697243/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63131188" class="s-lg-book-title">Barrio America</span><span id="s-lg-book-by-63131188" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63131188" class="s-lg-book-author">A. K. Sandoval-Strausz</span></a><div id="s-lg-book-desc-63131188" class="s-lg-book-desc"><div id="s-lg-link-desc-63131188" class="s-lg-link-desc">Barrio America charts the vibrant revival of American cities in the 1970s, 1980s and 1990s, arguing that we should attribute this revival to the influx of Latin American immigrants -- both legal and not.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63131203" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/vq50bm/alma99494862407905897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63131203'});"><span id="s-lg-book-cover-63131203" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=006294634X/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63131203" class="s-lg-book-title">The Hispanic Republican</span><span id="s-lg-book-by-63131203" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63131203" class="s-lg-book-author">Geraldo Cadava</span></a><div id="s-lg-book-desc-63131203" class="s-lg-book-desc"><div id="s-lg-link-desc-63131203" class="s-lg-link-desc">An illuminating and thought-provoking history of the growth of Hispanic American Republican voters in the past half century and their surprising impact on US politics, updated with new material reflecting on the 2020 election.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63131228" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/vq50bm/alma99472695212005897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63131228'});"><span id="s-lg-book-cover-63131228" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=9780190695392/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63131228" class="s-lg-book-title">The World Come of Age</span><span id="s-lg-book-by-63131228" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63131228" class="s-lg-book-author">Lilian Calles Barger</span></a><div id="s-lg-book-desc-63131228" class="s-lg-book-desc"><div id="s-lg-link-desc-63131228" class="s-lg-link-desc">Born of chaotic cultural crises in Latin America and the United States, liberation theology was a trans-American intellectual movement that sought to speak for those parts of society marginalized by modern politics and religion by virtue of race, class, or sex. Led by such revolutionaries as the  Peruvian Catholic priest Gustavo Gutiérrez, the African American theologian James Cone, or the feminists Mary Daly and Rosemary Radford Ruether, the liberation theology movement sought to bridge the gulf between the religious values of justice and equality and political pragmatism.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63131238" class="s-lg-book clearfix"><div class="s-lg-book-props"><span id="s-lg-book-cover-63131238" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=1568588992/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63131238" class="s-lg-book-title">Fantasy Island</span><span id="s-lg-book-by-63131238" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63131238" class="s-lg-book-author">Ed Morales</span><div id="s-lg-book-desc-63131238" class="s-lg-book-desc"><div id="s-lg-link-desc-63131238" class="s-lg-link-desc">A crucial, clear-eyed accounting of Puerto Rico's 122 years as a colony of the US.   Since its acquisition by the US in 1898, Puerto Rico has served as a testing ground for the most aggressive and exploitative US economic, political, and social policies.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63131246" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/vq50bm/alma99470766512005897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63131246'});"><span id="s-lg-book-cover-63131246" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=9781644450031/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63131246" class="s-lg-book-title">In the Dream House</span><span id="s-lg-book-by-63131246" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63131246" class="s-lg-book-author">Carmen María Machado</span></a><div id="s-lg-book-desc-63131246" class="s-lg-book-desc"><div id="s-lg-link-desc-63131246" class="s-lg-link-desc">A revolutionary memoir about domestic abuse by the award-winning author of Her Body and Other Parties.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63372541" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/151krae/cdi_askewsholts_vlebooks_9781469641058"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63372541'});"><span id="s-lg-book-cover-63372541" class="s-lg-book-cover"><img loading="lazy" alt="Cover Art"  src="//syndetics.com/index.aspx?isbn=146964102X/LC.GIF&client=springshare" class="pull-left s-lg-book-cover-img-0" /></span><span id="s-lg-book-title-63372541" class="s-lg-book-title">Migrant Longing</span><span id="s-lg-book-by-63372541" class="s-lg-book-by"> by </span><span id="s-lg-book-author-63372541" class="s-lg-book-author">Miroslava Chávez-García</span></a><div id="s-lg-book-desc-63372541" class="s-lg-book-desc"><div id="s-lg-link-desc-63372541" class="s-lg-link-desc">Drawing upon a personal collection of more than 300 letters exchanged between her parents and other family members across the U.S.-Mexico border, Miroslava Chavez-Garcia recreates and gives meaning to the hope, fear, and longing migrants experienced in their everyday lives both "here" and "there" (aqui y alla).</div></div></div></div></li>
+                        
+                            </ul>
+                            </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+        </div>
+    </div>
+    <div id="s-lg-col-3" class="col-md-3">
+        <div class="s-lg-col-boxes">
+							<div id="s-lg-box-wrapper-32012183" class="s-lg-box-wrapper-32012183">
+					<div id="s-lg-box-27230229-container" class="s-lib-box-container">
+						<div id="s-lg-box-27230229" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Streaming Media
+                                </h2>
+							<div id="s-lg-box-collapse-27230229" >
+								<div class="s-lib-box-content">
+									<div class="">
+                        <ul id="s-lg-link-list-65514241" class="s-lg-link-list s-lg-link-list-5"><li class="">
+                        <div id="s-lg-content-63132782" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://uic.kanopy.com/video/precious-knowledge"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63132782'});"><span id="s-lg-book-cover-63132782" class="s-lg-book-cover"></span><span id="s-lg-book-title-63132782" class="s-lg-book-title">Precious Knowledge: Fighting for Mexican American Studies in Arizona Schools Studies</span><span id="s-lg-book-author-63132782" class="s-lg-book-author"></span></a><div id="s-lg-book-desc-63132782" class="s-lg-book-desc"><div id="s-lg-link-desc-63132782" class="s-lg-link-desc">Precious Knowledge reports from the frontlines of one of the most contentious battles in public education in recent memory, the fight over Mexican American studies programs in Arizona public schools. The film interweaves the stories of several students enrolled in the Mexican American Studies Program at Tucson High School with interviews with teachers, parents, school officials, and the lawmakers who wish to outlaw the classes.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63132820" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://uic.kanopy.com/video/made-la-documentary-tool-kit"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63132820'});"><span id="s-lg-book-cover-63132820" class="s-lg-book-cover"></span><span id="s-lg-book-title-63132820" class="s-lg-book-title">Made in LA</span><span id="s-lg-book-author-63132820" class="s-lg-book-author"></span></a><div id="s-lg-book-desc-63132820" class="s-lg-book-desc"><div id="s-lg-link-desc-63132820" class="s-lg-link-desc">Made in L.A. is an Emmy award-winning feature documentary that follows the remarkable story of three Latina immigrants working in Los Angeles garment sweatshops as they embark on a three-year odyssey to win basic labor protections from trendy clothing retailer Forever 21. In intimate observational style, Made in L.A. reveals the impact of the struggle on each woman's life as they are gradually transformed by the experience. Compelling, humorous, deeply human, Made in L.A. is a story about immigration, the power of unity, and the courage it takes to find your voice.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63132895" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/m90q07/alma99494898422505897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63132895'});"><span id="s-lg-book-cover-63132895" class="s-lg-book-cover"></span><span id="s-lg-book-title-63132895" class="s-lg-book-title">The Latino List- Part 2</span><span id="s-lg-book-author-63132895" class="s-lg-book-author"></span></a><div id="s-lg-book-desc-63132895" class="s-lg-book-desc"><div id="s-lg-link-desc-63132895" class="s-lg-link-desc">The Latino List: Volume 2 features interviews with an extraordinary cross-section of Hispanic Americans who represent a variety of professions, disciplines, and backgrounds, each speaking to the unique struggles and triumphs he or she has faced.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63132841" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://uic.kanopy.com/video/graduateslos-graduados"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63132841'});"><span id="s-lg-book-cover-63132841" class="s-lg-book-cover"></span><span id="s-lg-book-title-63132841" class="s-lg-book-title">The Graduates, Los Graduados</span><span id="s-lg-book-author-63132841" class="s-lg-book-author"></span></a><div id="s-lg-book-desc-63132841" class="s-lg-book-desc"><div id="s-lg-link-desc-63132841" class="s-lg-link-desc">"Boys" gives us three more teenagers who are just as distinct: Juan, a Dominican living in Lawrence, Massachusetts who was bullied as a gay teen until finding his own identity as a performer and writer; Eduardo from San Diego, who is steered away from the gang path when introduced to a special college prep organization that changes his outlook; and Gustavo, who came to America from Mexico to live in the very different environment of Georgia and whose dreams of college are blocked by his undocumented status.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63132861" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://uic.kanopy.com/video/birth-border"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63132861'});"><span id="s-lg-book-cover-63132861" class="s-lg-book-cover"></span><span id="s-lg-book-title-63132861" class="s-lg-book-title">Birth on the Border</span><span id="s-lg-book-author-63132861" class="s-lg-book-author"></span></a><div id="s-lg-book-desc-63132861" class="s-lg-book-desc"><div id="s-lg-link-desc-63132861" class="s-lg-link-desc">This intimate and personal documentary follows two women from Ciudad Juarez as they cross the U.S.-Mexico border legally to give birth in Texas, putting their hearts and bodies on the line as they confront harassment at the hands of U.S. border officials.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63132874" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://i-share-uic.primo.exlibrisgroup.com/permalink/01CARLI_UIC/m90q07/alma99494906187705897"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63132874'});"><span id="s-lg-book-cover-63132874" class="s-lg-book-cover"></span><span id="s-lg-book-title-63132874" class="s-lg-book-title">Voces. Latino vote : dispatches from the battleground</span><span id="s-lg-book-author-63132874" class="s-lg-book-author"></span></a><div id="s-lg-book-desc-63132874" class="s-lg-book-desc"><div id="s-lg-link-desc-63132874" class="s-lg-link-desc">This film follows the efforts of community leaders working to ensure Latino voter turnout. How will these efforts impact the presidential election result, and will 2020 be a tipping point for the impact of the Latino vote?</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63132761" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://uic.kanopy.com/video/black-and-cuba"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63132761'});"><span id="s-lg-book-cover-63132761" class="s-lg-book-cover"></span><span id="s-lg-book-title-63132761" class="s-lg-book-title">Black & Cuba: Students Explore Race and Society in Cuba</span><span id="s-lg-book-author-63132761" class="s-lg-book-author"></span></a><div id="s-lg-book-desc-63132761" class="s-lg-book-desc"><div id="s-lg-link-desc-63132761" class="s-lg-link-desc">Black and Cuba follows street-smart Ivy League students who are outcasts at their elite university, as they band together and adventure to Cuba to see if revolution is truly possible. Intent on sharing their experiences, the students film their journey through the streets of Havana and Santiago.</div></div></div></div></li>
+                        <li class="">
+                        <div id="s-lg-content-63132802" class="s-lg-book clearfix"><div class="s-lg-book-props"><a href="https://uic.kanopy.com/video/latinos-beyond-reel-challenging-media-stereotype"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '63132802'});"><span id="s-lg-book-cover-63132802" class="s-lg-book-cover"></span><span id="s-lg-book-title-63132802" class="s-lg-book-title">Latinos Beyond Reel: Challenging a Media Stereotype</span><span id="s-lg-book-author-63132802" class="s-lg-book-author"></span></a></div></div></li>
+                        
+                            </ul>
+                            </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+        </div>
+    </div>
+				
+</div>
+				<div class="row s-lg-row">
+    <div id="s-lg-col-127" class="col-md-12">
+        <div class="s-lg-col-boxes">
+        </div>
+    </div>
+				
+</div>    <ul id="s-lg-page-prevnext" class="pager s-lib-hide"><li class="previous"><a href="https://researchguides.uic.edu/newbooks/nativeamericanheritage">&lt;&lt; <strong>Previous:</strong> More Native American Heritage Month Titles</a></li><li class="next"><a href="https://researchguides.uic.edu/newbooks/womenshistory"><strong>Next:</strong> Women's History Month &gt;&gt;</a></li></ul></div>
+<!-- END: Guide Content -->
+<!-- BEGIN: Page Footer -->
+<div id="s-lib-footer-public"
+     class="s-lib-footer footer container s-lib-side-borders">
+    <div id="s-lg-guide-header-meta" class="pad-top-sm pad-left-med clearfix">
+        <ul id="s-lg-guide-header-attributes" class="">
+            <li id="s-lg-guide-header-updated" class="s-lg-h-separator">
+                <span class="s-lg-guide-label">Last Updated:</span> <span class="s-lg-text-greyout">Nov 8, 2021 8:30 AM</span>            </li>
+            <li id="s-lg-guide-header-url" class="s-lg-h-separator">
+                <span class="s-lg-guide-label">URL:</span> <span class="s-lg-text-greyout">https://researchguides.uic.edu/newbooks</span>            </li>
+            <li id="s-lg-guide-print-url">
+                <a href="javascript: window.print();"><i class="fa fa-print" aria-hidden="true" title="Print Page"></i> Print Page</a>            </li>
+        </ul>
+        <div id="s-lib-footer-login-link" class="pull-right pad-right-med">
+            <a href="https://uic.libapps.com/libapps/login.php?site_id=34&target64=L2xpYmd1aWRlcy9hZG1pbl9jLnBocD9nPTkwNDQ3MyZwPTY5OTI2OTI=">Staff Login</a>        </div>
+    </div>
+    <div class="pad-bottom-sm clearfix">
+        <div id="s-lib-footer-support-link" class="pull-right pad-right-med">
+            <a href="http://go.library.uic.edu/lib-web">Report a problem.</a>        </div>
+        <div id="s-lg-guide-header-subjects" class="pad-top-sm pad-left-med pad-right-med pull-left">
+                    </div>
+        <div id="s-lg-guide-header-tags" class="pad-top-sm pad-left-med">
+                    </div>
+    </div>
+</div>
+<!-- END: Page Footer -->
+<!-- scroll_top.twig -->
+<div id="s-lib-scroll-top">
+    <a href="javascript:void(0);" onclick="jQuery('body').focus();" title="Back to Top"
+       aria-label="Back to Top">
+        <span class="fa-stack fa-lg" aria-hidden="true">
+            <i class="fa fa-square-o fa-stack-2x"></i>
+            <i class="fa fa-angle-double-up fa-stack-1x" style="position:relative; bottom:2px;"></i>
+        </span>
+    </a>
+</div>
+<!-- !scroll_top.twig -->
+<div id="s-lib-alert" title=""><div id="s-lib-alert-content"></div></div>
+                <!-- BEGIN: Custom Footer -->
+                
+<footer class="page__footer" role="contentinfo">
+  <div class="footer uic-footer">
+    <section class="uic-footer__site">
+      <div class="uic-footer__site-container">
+        <div class="uic-footer__site-title">
+          <span class="wordmark">
+            <span class="wordmark__container">
+              <span class="wordmark__content">
+                <span class="wordmark__logo"
+                  ><svg
+                    class="uic-circle-logo"
+                    version="1.1"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 54 54"
+                  >
+                    <title>
+                      Logo for the University of Illinois at Chicago
+                    </title>
+                    <rect
+                      class="uic-circle-logo__text"
+                      x="5"
+                      y="17"
+                      width="46"
+                      height="20"
+                    ></rect>
+                    <path
+                      class="uic-circle-logo__circle"
+                      d="M54,27C54,12.1,41.9,0,27,0S0,12.1,0,27s12.1,27,27,27S54,41.9,54,27z M21.8,29.4c0,2.5-0.3,3.6-1,4.8
+                                    c-1.2,1.9-4.3,2.7-7,2.7s-5.8-0.8-7-2.7c-0.7-1.2-1-2.4-1-4.8V19H11v10.5c-0.1,0.9,0.1,1.8,0.6,2.5c0.5,0.5,1.3,0.8,2.1,0.7
+                                    c0.8,0.1,1.6-0.2,2.2-0.8c0.5-0.7,0.7-1.6,0.6-2.5V19h5.3V29.4z M25,19h5.3v17.6H25V19z M49.3,23.4l-4.6,2.2
+                                    c-0.4-1.7-1.4-2.7-3.1-2.7c-2.2,0-3.4,1.9-3.4,4.9s1.1,4.8,3.4,4.8c1.4,0.1,2.7-0.8,3-2.2l4.8,1.7c-1.2,2.8-3.8,4.8-7.8,4.8
+                                    c-5.6,0-8.8-3.7-8.8-9.1s3.4-9.1,8.9-9.1C45.9,18.7,48.3,21.1,49.3,23.4L49.3,23.4z"
+                    ></path>
+                  </svg>
+                </span>
+                <span class="wordmark__text">
+                  <span class="wordmark__line wordmark__university"
+                    >University</span
+                  >
+                  <span class="wordmark__line wordmark__library">Library</span>
+                </span>
+              </span>
+            </span>
+          </span>
+        </div>
+        <div class="uic-footer__site-content-and-links">
+          <div class="uic-footer__site-content">
+            <section class="footer-locations">
+              <h2 class="footer-locations__header">Locations</h2>
+
+              <ul class="footer-locations__list">
+                <li class="footer-locations__list-item">
+                  <article class="footer-location">
+                    <a href="http://library.uic.edu/libraries/daley">
+                      <div class="footer-location__icon">
+                        <svg
+                          class="arrow-right-icon"
+                          aria-hidden="true"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 10 10"
+                        >
+                          <path
+                            d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"
+                          ></path>
+                        </svg>
+                      </div>
+
+                      <h3 class="footer-location__name">
+                        Richard J.
+                        <span class="last-two-words">Daley Library</span>
+                      </h3>
+
+                      <div class="footer-location__address">
+                        <div class="footer-location-address">
+                          <p>801 S. Morgan</p>
+
+                          <p>
+                            <span class="city">Chicago</span>,
+                            <span class="state">IL</span>
+                            <span class="zip">60607</span>
+                          </p>
+                        </div>
+                      </div>
+
+                      <div class="footer-location__phones">
+                        <div class="footer-location-phone">
+                          <span class="footer-location-phone__name">Phone</span>
+                          <span class="footer-location-phone__number"
+                            >(312) 996-2724</span
+                          >
+                        </div>
+                      </div>
+                    </a>
+                  </article>
+                </li>
+                <li class="footer-locations__list-item">
+                  <article class="footer-location">
+                    <a href="http://library.uic.edu/libraries/lhs-chicago">
+                      <div class="footer-location__icon">
+                        <svg
+                          class="arrow-right-icon"
+                          aria-hidden="true"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 10 10"
+                        >
+                          <path
+                            d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"
+                          ></path>
+                        </svg>
+                      </div>
+
+                      <h3 class="footer-location__name">
+                        Library of the
+                        <span class="last-two-words"
+                          >Health Sciences-Chicago</span
+                        >
+                      </h3>
+
+                      <div class="footer-location__address">
+                        <div class="footer-location-address">
+                          <p>1750 W. Polk St.</p>
+
+                          <p>
+                            <span class="city">Chicago</span>,
+                            <span class="state">IL</span>
+                            <span class="zip">60612</span>
+                          </p>
+                        </div>
+                      </div>
+
+                      <div class="footer-location__phones">
+                        <div class="footer-location-phone">
+                          <span class="footer-location-phone__name"
+                            >Circulation</span
+                          >
+                          <span class="footer-location-phone__number"
+                            >(312) 996-8966</span
+                          >
+                        </div>
+                        <div class="footer-location-phone">
+                          <span class="footer-location-phone__name"
+                            >Reference</span
+                          >
+                          <span class="footer-location-phone__number"
+                            >(312) 996-9163</span
+                          >
+                        </div>
+                      </div>
+                    </a>
+                  </article>
+                </li>
+                <li class="footer-locations__list-item">
+                  <article class="footer-location">
+                    <a href="http://library.uic.edu/libraries/lhs-peoria">
+                      <div class="footer-location__icon">
+                        <svg
+                          class="arrow-right-icon"
+                          aria-hidden="true"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 10 10"
+                        >
+                          <path
+                            d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"
+                          ></path>
+                        </svg>
+                      </div>
+
+                      <h3 class="footer-location__name">
+                        Library of the
+                        <span class="last-two-words"
+                          >Health Sciences-Peoria</span
+                        >
+                      </h3>
+
+                      <div class="footer-location__address">
+                        <div class="footer-location-address">
+                          <p>
+                            One Illini Drive<br />
+                            PO Box 1649
+                          </p>
+
+                          <p>
+                            <span class="city">Peoria</span>,
+                            <span class="state">IL</span>
+                            <span class="zip">61656</span>
+                          </p>
+                        </div>
+                      </div>
+
+                      <div class="footer-location__phones">
+                        <div class="footer-location-phone">
+                          <span class="footer-location-phone__name">Phone</span>
+                          <span class="footer-location-phone__number"
+                            >(309) 671-8490</span
+                          >
+                        </div>
+                      </div>
+                    </a>
+                  </article>
+                </li>
+                <li class="footer-locations__list-item">
+                  <article class="footer-location">
+                    <a href="http://library.uic.edu/libraries/lhs-rockford">
+                      <div class="footer-location__icon">
+                        <svg
+                          class="arrow-right-icon"
+                          aria-hidden="true"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 10 10"
+                        >
+                          <path
+                            d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"
+                          ></path>
+                        </svg>
+                      </div>
+
+                      <h3 class="footer-location__name">
+                        Crawford Library of the
+                        <span class="last-two-words"
+                          >Health Sciences-Rockford</span
+                        >
+                      </h3>
+
+                      <div class="footer-location__address">
+                        <div class="footer-location-address">
+                          <p>1601 Parkview Ave.</p>
+
+                          <p>
+                            <span class="city">Rockford</span>,
+                            <span class="state">IL</span>
+                            <span class="zip">61107</span>
+                          </p>
+                        </div>
+                      </div>
+
+                      <div class="footer-location__phones">
+                        <div class="footer-location-phone">
+                          <span class="footer-location-phone__name">Phone</span>
+                          <span class="footer-location-phone__number"
+                            >(815) 395-5650</span
+                          >
+                        </div>
+                      </div>
+                    </a>
+                  </article>
+                </li>
+                <li class="footer-locations__list-item">
+                  <article class="footer-location">
+                    <a href="http://library.uic.edu/libraries/lhs-urbana">
+                      <div class="footer-location__icon">
+                        <svg
+                          class="arrow-right-icon"
+                          aria-hidden="true"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 10 10"
+                        >
+                          <path
+                            d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"
+                          ></path>
+                        </svg>
+                      </div>
+
+                      <h3 class="footer-location__name">
+                        Library of the
+                        <span class="last-two-words"
+                          >Health Sciences-Urbana</span
+                        >
+                      </h3>
+
+                      <div class="footer-location__address">
+                        <div class="footer-location-address">
+                          <p>102 Medical Sciences Building, 506 S. Mathews</p>
+
+                          <p>
+                            <span class="city">Urbana</span>,
+                            <span class="state">IL</span>
+                            <span class="zip">61801</span>
+                          </p>
+                        </div>
+                      </div>
+
+                      <div class="footer-location__phones">
+                        <div class="footer-location-phone">
+                          <span class="footer-location-phone__name"
+                            >Circulation</span
+                          >
+                          <span class="footer-location-phone__number"
+                            >(217) 333-4893</span
+                          >
+                        </div>
+                        <div class="footer-location-phone">
+                          <span class="footer-location-phone__name"
+                            >Reference</span
+                          >
+                          <span class="footer-location-phone__number"
+                            >(217) 244-0607</span
+                          >
+                        </div>
+                      </div>
+                    </a>
+                  </article>
+                </li>
+              </ul>
+            </section>
+          </div>
+          <div class="uic-footer__site-links">
+            <ul class="footer-buttons">
+              <li>
+                <a
+                  class="footer-button"
+                  href="http://library.uic.edu/help/article/1891/faculty-services"
+                  >Faculty services</a
+                >
+              </li>
+              <li>
+                <a
+                  class="footer-button"
+                  href="http://library.uic.edu/help/article/1873/alumni-services"
+                  >Alumni services</a
+                >
+              </li>
+              <li>
+                <a
+                  class="footer-button"
+                  href="http://library.uic.edu/help/article/1887/distance-student-services"
+                  >Distance student services</a
+                >
+              </li>
+              <li>
+                <a
+                  class="footer-button"
+                  href="http://library.uic.edu/help/article/1955/use-accessibility-services"
+                  >Accessibility services</a
+                >
+              </li>
+            </ul>
+            <nav
+              class="uic-social-navigation"
+              aria-labelledby="social-nav-header"
+            >
+              <h2 id="social-nav-header">Social Networking</h2>
+              <ul></ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="uic-footer__university">
+      <section class="uic-footer-legal">
+        <div class="uic-footer-legal__container">
+          <div class="uic-footer-legal__legal">
+            <p class="uic-footer-legal__copyright">
+              © 2016 The Board of Trustees of the University of Illinois
+            </p>
+            <p class="uic-footer-legal__privacy-link">
+              <a href="http://www.vpaa.uillinois.edu/policies/web_privacy.cfm"
+                >Privacy Policy</a
+              >
+            </p>
+          </div>
+
+          <div class="uic-footer-legal__university-links">
+            <h2>Campus Links</h2>
+            <ul>
+              <li>
+                <a href="http://uillinois.edu/">University of Illinois</a>
+              </li>
+              <li><a href="http://uic.edu/">Chicago</a></li>
+              <li><a href="http://illinois.edu/">Urbana-Champaign</a></li>
+              <li><a href="http://uis.edu/">Springfield</a></li>
+            </ul>
+          </div>
+        </div>
+      </section>
+    </section>
+
+    <div class="chat-widget" aria-labelledby="chat-window-title">
+      <div class="chat-widget__header">
+        <a href="#" id="chat-window-title" class="chat-widget__title">
+          Chat with a Librarian
+        </a>
+        <a href="#" class="chat-widget__close"> Close </a>
+      </div>
+      <div class="chat-widget__embed">
+        <div class="chat-widget__embed-content">
+          <div id="libchat_a8f3cdd768831e345ca9d2f796ff5e5d">
+            <div
+              class="lci_chat_load"
+              style="
+                width: 100%;
+                height: 340px;
+                border: 1px solid transparent;
+                box-sizing: content-box;
+                background-color: rgb(249, 249, 249);
+              "
+            >
+              <iframe
+                id="iframe_a8f3cdd768831e345ca9d2f796ff5e5d"
+                name="iframe_a8f3cdd768831e345ca9d2f796ff5e5d"
+                title="Chat widget"
+                src="https://v2.libanswers.com/chati.php?iid=1175&hash=a8f3cdd768831e345ca9d2f796ff5e5d&online=false&referer_title=Find%20books%20and%20e-books"
+                frameborder="0"
+                scrolling="no"
+                style="
+                  border: 0px;
+                  box-sizing: border-box;
+                  width: 100%;
+                  height: 340px;
+                  background-color: rgb(249, 249, 249);
+                "
+              ></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+		<!-- END: Custom Footer -->
+</body>
+</html>

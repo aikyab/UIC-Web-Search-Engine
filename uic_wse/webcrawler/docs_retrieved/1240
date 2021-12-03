@@ -1,0 +1,130 @@
+<!DOCTYPE html
+  PUBLIC "XSLT-compat">
+<html xmlns:xs="http://www.w3.org/2001/XMLSchema"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Warning: Beware of Email Impersonation Scams</title><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"></head><body style="margin:0;"><!--[if (gte mso 9) | (gte IE 7)]><style>
+                    /* set table width for Outlook 2007+ */
+                    table#wrapper 
+                    { 
+                        width:873px !important; 
+                    } 
+                </style><![endif]--><style>
+                    table#wrapper
+                    {
+                        max-width:873px !important;
+                        box-shadow:none;
+                    }
+                    table th, 
+                    table td
+                    {
+                        padding:0 !important;
+                    }
+                    .col-2 table td {
+                    padding: 10px !important;
+                    }
+                    #outlook a
+                    {
+                        padding:0;
+                    }
+                    .ExternalClass
+                    {
+                        width:100%;
+                    }
+                    .ExternalClass, 
+                    .ExternalClass p, 
+                    .ExternalClass span, 
+                    .ExternalClass font, 
+                    .ExternalClass td, 
+                    .ExternalClass div
+                    {
+                        line-height:100% !important;
+                    }
+                    .content-td a,
+                    .content-div a
+                    {
+                        color: #BA0000;
+                        text-decoration: underline;
+                    }
+                    .content-td a:hover,
+                    .content-div a:hover
+                    {
+                        color: #;
+                        text-decoration: none;
+                    }
+                    #footer a
+                    {
+                        color: #00ACEE;
+                        text-decoration: none;
+                    }
+                    #footer a:hover
+                    {
+                        color: #;
+                        text-decoration: none;
+                    }
+                    #footer img
+                    {
+                        border:0;
+                    }
+                </style><style>
+					span.preheader {
+						display: none !important;
+						max-height: 0;
+						overflow: hidden;
+						width: 75px;
+					}</style> <style type="text/css">
+#main td  {
+padding:0px;
+}
+#main td .edu-uiuc-webservices-calendar-title  {
+padding-top:2px;
+padding-bottom:1px;
+padding-right:10px;
+
+}
+</style>
+ 
+				<span class="preheader">{preheader} </span><div style="display: none; max-height: 0px; overflow: hidden;"> &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp;
+					‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp;
+					‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp;
+					‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp;
+					‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp;
+					‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌</div><table bgcolor="#D0D0C8" style="background-color:#D0D0C8;width:100%; border-collapse: collapse;"><tbody><tr><td><table id="archive-label" align="center" border="0" cellpadding="0" cellspacing="0" style="max-width:873px;" width=""><!-- ARCHIVE_LINK_START --><tr><td align="left" bgcolor="#D0D0C8" style="background:#D0D0C8;line-height:12px;padding:0;">&nbsp;</td></tr><tr><td align="center" colspan="5" bgcolor="#D0D0C8" style="font-size:13px;height:18px;line-height:18px;font-family:arial;"><a href="https://emails.uofi.uic.edu/newsletter/223474.html" style="color:#666666;text-decoration: underline;"><span id="archive-label" style="color:#666666;">Click here to see this online</span></a></td></tr><!-- ARCHIVE_LINK_STOP --><tr><td align="left" bgcolor="#D0D0C8" style="background:#D0D0C8;line-height:12px;padding:0;">&nbsp;</td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" style="border:none;max-width:873px;border-collapse:collapse;" width="" id="wrapper"><tr id="header"><td align="left" bgcolor="#FFFFFF" style="background:#FFFFFF;padding:0;width:100%;border-bottom:none;" width="100%" colspan="3"><a href="http://accc.uic.edu/" style="border:0;"><img style="vertical-align:top;width:100%;border:0;" src="https://skins.webservices.illinois.edu/files/18503/wizard_header.png?iIndex=0422T064740" alt="ACCC Header" width="100%"></a></td></tr><tbody><tr><td align="left" colspan="3" style="padding:0;width:100%;" width="100%"><table id="content-tb" background="#ffffff" bgcolor="#ffffff" cellpadding="0" cellspacing="0" style="background:#ffffff;border:none;border-top:none;width:100%;"><tbody><tr><td align="left" colspan="3" style="padding:0;line-height:24px;height:24px;font-size:24px;">&nbsp;</td></tr><tr><td align="left" style="padding:0;width:5%;" width="5%">&nbsp;</td><td class="content-td" align="left" style="padding:0;width:90%;color:#000000;font-size:14px;" width="90%; min-height:20vh;"><table class="content-div" cellpadding="0" cellspacing="0" style="font-family:Arial;font-size:14px;color:#000000;width:100%;"><tr><td><div id="system-form-header"></div><!--  SKIN_HEADER_END --> <!--CONTENT_STARTS--><!-- SKIN: 18503 --><style rel="stylesheet" type="text/css">
+            @media screen and (max-width:525px) {
+              iframe 
+                    width: 100% !important;
+                }
+            }
+        </style><!-- ELEMENT_1276511_START --><style rel="stylesheet" type="text/css">
+            #content_1 a {
+                color:#497194;
+            }
+            #content_1 p {
+                line-height: 18px;
+                margin-top:6px;
+            }
+            .content-td a, .content-div a {
+                text-decoration: underline !important;
+            }
+        </style><a name="element_1276511" id="element_1276511"></a><table border="0" cellspacing="0" cellpadding="0" style="width:100%;"><tr><td><table style="background: transparent; border: none; width: 100%;" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" id="content_1" align="left"><tbody><tr><td style="padding: 0; font-family: Arial;line-height:18px;font-size:12px;color:#000000"><p style="text-align: center;"><span style="font-size: 24pt; color: #000000;"><br />Please be vigilant of email scam attacks<br /></span></p>
+<p><br /><span style="font-size: 12pt;">Dear students and staff,</span></p>
+<p><span style="font-size: 12pt;">The ACCC Information Security and Privacy Office has been receiving an increasing number of reports of &ldquo;fake&rdquo; email accounts being used to scam UIC students and staff out of money that is usually impossible to recover.</span></p>
+<p><span style="font-size: 12pt;">Although ACCC makes every effort to block malicious emails, due to the nature of the way these emails are crafted, automated spam detection measures are not able to effectively detect and block all such email. Please be vigilant.&nbsp;</span><br /><br /><span style="font-size: 12pt;"><strong>In an attempt to appear legitimate: </strong></span></p>
+<ul>
+<li><span style="font-size: 12pt;">Attackers create email accounts impersonating someone known to the recipient (e.g., a department head, an instructor, etc.). The accounts they use are NOT UIC accounts and typically have &ldquo;from&rdquo; addresses similar to:</span><br /><span style="font-size: 12pt;">&nbsp;</span>
+<ul>
+<li><span style="font-size: 12pt;">FirstName.LastName@gmail.com (e.g. Jane.Doe@gmail.com)</span></li>
+<li><span style="font-size: 12pt;">netid.uic.edu@gmail.com (e.g. janedoe.uic.edu@gmail.com<a style="color: #497194;" href="mailto:janedoe.uic.edu@gmail.com)"><span style="color: #497194;">)</span></a></span></li>
+<li><span style="font-size: 12pt;">netid.uic.edu@outlook.com (e.g. <a style="color: #497194;" href="mailto:janedoe.uic.edu@outlook.com)"><span style="color: #497194;">j</span></a>anedoe.uic.edu@outlook.com<a style="color: #497194;" href="mailto:janedoe.uic.edu@outlook.com)">)<br style="color: #497194;" /><br style="color: #497194;" /></a></span></li>
+</ul>
+</li>
+<li><span style="font-size: 12pt;">The scam emails sometimes contain signature or bio information the legitimate person uses in their emails.</span><br /><br /></li>
+<li><span style="font-size: 12pt;">The attacker email may simply ask &ldquo;Are you there?&rdquo; or may immediately launch into describing that they are in a meeting and need you to purchase something (gift cards) for them right away and email them the gift card numbers with the promise that you will be reimbursed later.</span></li>
+</ul>
+<p><span style="font-size: 12pt;"><strong>What you can do:</strong> </span><br /><br /><span style="font-size: 12pt;">If you receive an email like this, do not click "reply." If you are unsure if the email originated from the supposed sender, create a new email and enter the recipient&rsquo;s email address by hand to make sure you are sending to the actual person. </span><br /><br /><span style="font-size: 12pt;">If you believe you have fallen victim to this scam at UIC, you should file a report with the University Police at 312-355-5555 (emergency) or 312-996-2830 (non-emergency). </span><br /><br /><span style="font-size: 12pt;">ACCC Information Security and Privacy Office </span><br /><a style="color: #497194;" href="mailto:security@uic.edu"><span style="font-size: 12pt; color: #497194;">security@uic.edu</span></a></p></td></tr></tbody></table></td></tr></table><!-- ELEMENT_1276511_STOP --><!--CONTENT_ENDS--> <!--  SKIN_FOOTER_START --></td></tr></table></td><td align="left" style="padding:0;width:5%;" width="5%">&nbsp;</td></tr><tr><td align="left" colspan="3" style="padding:0;line-height:24px;height:24px;font-size:24px;">&nbsp;</td></tr></tbody></table></td></tr><tr><td bgcolor="#6d8398" colspan="3" style=""><a href="http://accc.uic.edu/"><img style="vertical-align:top;width:100%;border:0;" src="https://skins.webservices.illinois.edu/files/18503/wizard_footer.png?iIndex=0422T064740" alt="ACCC Footer" width="100%"></a></td></tr></tbody></table></td></tr><!-- SUBSCRIPTION_LINK_START --><tr><td style="line-height:4px;height:4px;" height="4"></td></tr><tr><td align="center" style="padding:0;font-family:Arial;font-size:80%;"><p id='subscription'><!--UNSUBSCRIBE_START--><a id='unsubscribe1' style='color:#00ACEE;' href='https://emails.uofi.uic.edu/unsubscribe?authId={UNSUBSCRIBE_AUTH_ID}'><span style='color:#00ACEE;'>Unsubscribe</span></a><!--UNSUBSCRIBE_END--></p><br></td></tr><!-- SUBSCRIPTION_LINK_STOP --></tbody></table><script>
+            		if(window.top != window.self)
+            		{ 
+	            		document.body.style.backgroundColor = '#D0D0C8';
+    				}
+            	</script></body></html>

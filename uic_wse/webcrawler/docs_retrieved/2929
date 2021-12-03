@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<!-- OneTrust Cookies Consent Notice start, uic.edu -->
+<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="c2f2262d-b694-4eba-8f4b-142c102b685a"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end, uic.edu -->
+
+
+<!-- Google Analytics Code -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-20665772-1', 'auto');
+    ga('create', 'UA-4402713-9', 'auto', 'todayTracker');
+    ga('send', 'pageview');
+    ga('todayTracker.send', 'pageview');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-57G9C3Q');</script>
+<!-- End Google Tag Manager -->
+  
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Contact tracing and seating assignments | UIC Today</title>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://today.uic.edu/wp-content/themes/uictoday/style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://today.uic.edu/wp-content/themes/uictoday/css/style.min.css" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://today.uic.edu/feed" />
+<link rel="shortcut icon" href="https://today.uic.edu/wp-content/themes/uictoday/favicon.ico" />
+
+<!-- Favicons -->
+<!-- generated at https://favicon.io/favicon-converter/ -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/today.uic.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://today.uic.edu/wp-includes/css/dist/block-library/style.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ugb-style-css-v2-css'  href='https://today.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/deprecated/frontend_blocks_deprecated_v2.css?ver=3.0.2' type='text/css' media='all' />
+<style id='ugb-style-css-v2-inline-css' type='text/css'>
+:root {
+			--content-width: 900px;
+		}
+</style>
+<link rel='stylesheet' id='ugb-style-css-premium-v2-css'  href='https://today.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/deprecated/frontend_blocks_deprecated_v2__premium_only.css?ver=3.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-components-css'  href='https://today.uic.edu/wp-includes/css/dist/components/style.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css'  href='https://today.uic.edu/wp-includes/css/dist/block-editor/style.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-nux-css'  href='https://today.uic.edu/wp-includes/css/dist/nux/style.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-css'  href='https://today.uic.edu/wp-includes/css/dist/editor/style.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='sld_block-cgb-style-css-css'  href='https://today.uic.edu/wp-content/plugins/simple-link-directory/gutenberg/sld-block/dist/blocks.style.build.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='events-manager-css'  href='https://today.uic.edu/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.99912' type='text/css' media='all' />
+<link rel='stylesheet' id='ssp-recent-episodes-css'  href='https://today.uic.edu/wp-content/plugins/seriously-simple-podcasting/assets/css/recent-episodes.css?ver=2.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wow-icons-fa-css'  href='https://today.uic.edu/wp-content/plugins/wow-icons//assets/fontawesome/font-awesome.min.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='upw_theme_standard-css'  href='https://today.uic.edu/wp-content/plugins/ultimate-posts-widget/css/upw-theme-standard.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://today.uic.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.14' type='text/css' media='all' />
+<style id='tablepress-default-inline-css' type='text/css'>
+.tablepress-id-1 .column-1{vertical-align:middle}.tablepress-id-1 tbody td{font-size:15px}.tablepress-id-1{width:auto important!}.tablepress-id-1 img{margin:0!important}.tablepress-id-6 .column-1{vertical-align:middle}.tablepress-id-6 tbody td{font-size:15px}.tablepress-id-6{width:auto important!}.tablepress-id-6 img{margin:0!important}.tablepress-id-3 thead th{font-weight:400;font-size:1.9em;margin-top:.83em;margin-bottom:.83em;background-color:#006;color:#FFF}.tablepress-id-3 .row-2 td{background-color:#C00;color:#FFF}.tablepress-id-3 .odd td{background-color:#e6e6e6}.tablepress-id-3 td{padding:6px 15px;border:#999 1px solid}.tablepress-id-3 .column-1{width:50%}.tablepress-id-4 thead th{font-weight:400;font-size:1.9em;margin-top:.83em;margin-bottom:.83em;background-color:#006;color:#FFF}.tablepress-id-4 .row-2 td{background-color:#C00;color:#FFF}.tablepress-id-4 .odd td{background-color:#e6e6e6}.tablepress-id-4 td{padding:6px 15px;border:#999 1px solid}.tablepress-id-4 .column-1{width:50%}.tablepress-id-5 thead th{font-weight:400;font-size:1.9em;margin-top:.83em;margin-bottom:.83em;background-color:#006;color:#FFF}.tablepress-id-5 .row-2 td{background-color:#C00;color:#FFF}.tablepress-id-5 .odd td{background-color:#e6e6e6}.tablepress-id-5 td{padding:6px 15px;border:#999 1px solid}.tablepress-id-5 .column-1{width:50%}
+</style>
+<link rel='stylesheet' id='ari-fancybox-css'  href='https://today.uic.edu/wp-content/plugins/ari-fancy-lightbox/assets/fancybox/jquery.fancybox.min.css?ver=1.3.8' type='text/css' media='all' />
+<script type='text/javascript' id='ugb-block-frontend-js-v2-js-extra'>
+/* <![CDATA[ */
+var stackable = {"restUrl":"https:\/\/today.uic.edu\/wp-json\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/deprecated/frontend_blocks_deprecated_v2.js?ver=3.0.2' id='ugb-block-frontend-js-v2-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/deprecated/frontend_blocks_deprecated_v2__premium_only.js?ver=3.0.2' id='ugb-block-frontend-js-premium-v2-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/mouse.min.js?ver=1.12.1' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/sortable.min.js?ver=1.12.1' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.12.1' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/menu.min.js?ver=1.12.1' id='jquery-ui-menu-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/dist/dom-ready.min.js?ver=eb19f7980f0268577acb5c2da5457de3' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/dist/hooks.min.js?ver=50e23bed88bcb9e6e14023e9961698c1' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/dist/i18n.min.js?ver=db9a9a37da262883343e941c3731bc67' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' id='wp-a11y-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/dist/a11y.min.js?ver=5e00de7a43b31bbb9eaf685f089a3903' id='wp-a11y-js'></script>
+<script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.12.1' id='jquery-ui-autocomplete-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/resizable.min.js?ver=1.12.1' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/draggable.min.js?ver=1.12.1' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.12.1' id='jquery-ui-controlgroup-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.12.1' id='jquery-ui-checkboxradio-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/button.min.js?ver=1.12.1' id='jquery-ui-button-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/dialog.min.js?ver=1.12.1' id='jquery-ui-dialog-js'></script>
+<script type='text/javascript' id='events-manager-js-extra'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"https:\/\/today.uic.edu\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/today.uic.edu\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"mm\/dd\/yy","ui_css":"https:\/\/today.uic.edu\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui.min.css","show24hours":"0","is_ssl":"1","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.99912' id='events-manager-js'></script>
+<script type='text/javascript' id='ari-fancybox-js-extra'>
+/* <![CDATA[ */
+var ARI_FANCYBOX = {"lightbox":{"touch":{"vertical":true,"momentum":true},"buttons":["slideShow","fullScreen","thumbs","close"],"lang":"custom","i18n":{"custom":{"PREV":"Previous","NEXT":"Next","PLAY_START":"Start slideshow (P)","PLAY_STOP":"Stop slideshow (P)","FULL_SCREEN":"Full screen (F)","THUMBS":"Thumbnails (G)","CLOSE":"Close (Esc)","ERROR":"The requested content cannot be loaded. <br\/> Please try again later."}}},"convert":{},"viewers":{"pdfjs":{"url":"https:\/\/today.uic.edu\/wp-content\/plugins\/ari-fancy-lightbox\/assets\/pdfjs\/web\/viewer.html"}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/ari-fancy-lightbox/assets/fancybox/jquery.fancybox.min.js?ver=1.3.8' id='ari-fancybox-js'></script>
+<link rel="https://api.w.org/" href="https://today.uic.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://today.uic.edu/wp-json/wp/v2/posts/116165" /><link rel="canonical" href="https://today.uic.edu/contact-tracing-and-seating-assignments" />
+<link rel='shortlink' href='https://today.uic.edu/?p=116165' />
+<link rel="alternate" type="application/json+oembed" href="https://today.uic.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftoday.uic.edu%2Fcontact-tracing-and-seating-assignments" />
+<link rel="alternate" type="text/xml+oembed" href="https://today.uic.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftoday.uic.edu%2Fcontact-tracing-and-seating-assignments&#038;format=xml" />
+						  <style type="text/css">
+			@media screen {
+			  .printfriendly {
+				position: relative;
+				  z-index: 1000;
+				margin: 0px 0px 0px 0px;
+			  }
+			  .printfriendly a, .printfriendly a:link, .printfriendly a:visited, .printfriendly a:hover, .printfriendly a:active {
+				font-weight: 600;
+				cursor: pointer;
+				text-decoration: none;
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+				outline:none;
+				font-size: 14px !important;
+				color: #55750C !important;
+			  }
+			  .printfriendly.pf-alignleft {float: left}.printfriendly.pf-alignright {float: right}.printfriendly.pf-aligncenter {display: flex;align-items: center;justify-content: center;}
+			}
+
+			@media print {
+			  .printfriendly {display: none}
+			}
+
+			.pf-button.pf-button-excerpt {
+				display: none;
+			}
+
+		  </style>
+				
+<link rel="alternate" type="application/rss+xml" title="Podcast RSS feed" href="https://today.uic.edu/feed/podcast" />
+
+<script type="text/javascript">
+           var ajaxurl = "https://today.uic.edu/wp-admin/admin-ajax.php";
+         </script><style type="text/css">BODY .fancybox-container{z-index:200000}BODY .fancybox-is-open .fancybox-bg{opacity:0.87}BODY .fancybox-bg {background-color:#0f0f11}BODY .fancybox-thumbs {background-color:#ffffff}</style>
+<!-- Put the following javascript before the closing </head> tag. -->
+
+<script>
+  (function() {
+    var cx = '009511351313755808885:xdz07yl93pe';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+</head>
+
+<body role="document" class="post-template-default single single-post postid-116165 single-format-standard wp-embed-responsive">
+  
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57G9C3Q"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+<div id="header" role="banner">
+
+
+
+
+         		<div id="header-background">
+
+
+
+<!-- removed color wash for now.
+
+			<div class="color-wash">
+            <img src="" alt="   ">
+            </div>
+
+            -->
+
+
+
+            <div class="uic-type-wrapper">
+
+
+            <div class="last-update-timestamp">
+            	Updated: Dec 01, 2021 at 04:51 PM
+            </div><!--  last-update-timestamp   -->
+
+
+            <div class="uic-type-treatment">
+
+  			<div class="_mark">
+    		<a href="http://uic.edu" class="uic-logo-icon" aria-label="UIC logo">
+ 			<svg aria-label="UIC.edu" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ 			<title>UIC Logo</title>
+ 			<circle class="_circle" cx="27" cy="27" r="25" fill="none"></circle>
+ <path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#d50032" fill-rule="evenodd"></path>
+</svg>
+</a>
+  			</div><!--  _mark   -->
+
+  			<div class="_text">
+    		<a href="/">
+        	  Today
+      		  </a>
+ 			</div><!--  _text   -->
+
+
+			</div><!--  uic-type-treatment   -->
+
+
+
+            <!-- Put search box here -->
+<div class="search-box" aria-label="Search U I C today">
+    <form role="search" method="get" action="https://today.uic.edu/">
+     
+        <input type="text" id="s" name="s" aria-label="Search" size="25" value="" placeholder="Search">
+
+<button type="submit" value="Submit" style="border: 0;
+clip: rect( 1px, 1px, 1px, 1px );
+clip-path: inset( 50% );
+height: 1px;
+margin: -1px;
+overflow: hidden;
+padding: 0;
+position: absolute;
+width: 1px;
+word-wrap: normal;">
+Submit
+</button>
+
+    </form>
+    
+    
+</div>
+
+
+
+<!-- End search box code -->
+
+
+
+			</div><!--  uic-type-wrapper    -->
+
+
+		</div><!--  header-background   -->
+
+
+
+
+
+		<div id="main_nav" role="navigation" aria-label="Site">
+	  	 	<div class="main_nav_container"><ul id="menu-main_nav" class="menu"><li id="menu-item-57546"><a href="https://today.uic.edu/campus-news">Campus News</a>
+<ul class="sub-menu">
+	<li id="menu-item-105508"><a href="https://today.uic.edu/category/official">Official Communications</a></li>
+	<li id="menu-item-110888"><a href="https://today.uic.edu/uic-in-the-news">UIC in the news</a></li>
+</ul>
+</li>
+<li id="menu-item-57547"><a href="https://today.uic.edu/academics-research">Academics &#038; Research</a></li>
+<li id="menu-item-57548"><a href="https://today.uic.edu/events">Events</a></li>
+<li id="menu-item-67603"><a href="https://today.uic.edu/resources">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-100210"><a href="https://today.uic.edu/resources/current-student-resources">Current Student Resources</a></li>
+	<li id="menu-item-100209"><a href="https://today.uic.edu/resources/faculty-and-staff-resources">Faculty and Staff Resources</a></li>
+	<li id="menu-item-96520"><a href="https://today.uic.edu/online-learning-resources-and-support">Online Learning Resources and Support</a></li>
+	<li id="menu-item-81898"><a href="https://today.uic.edu/resources/photo-video-policies">Photography/Video</a></li>
+	<li id="menu-item-82144"><a href="https://today.uic.edu/resources/social-media-inquiry-form">Social Media Account Request Form</a></li>
+	<li id="menu-item-106506"><a href="https://today.uic.edu/resources/uic-social-media-guidelines-and-best-practices">UIC Social Media Guidelines and Best Practices</a></li>
+</ul>
+</li>
+<li id="menu-item-116175"><a href="https://today.uic.edu/coronavirus">COVID-19</a>
+<ul class="sub-menu">
+	<li id="menu-item-105322"><a href="https://today.uic.edu/circle-back-to-campus-newsletter">Circle Back to Campus</a></li>
+	<li id="menu-item-92300"><a href="https://today.uic.edu/frequently-asked-questions">Frequently Asked Questions</a></li>
+	<li id="menu-item-105323"><a href="https://today.uic.edu/covid-19-saliva-testing">Saliva Testing and Contact Tracing</a></li>
+	<li id="menu-item-116515"><a href="https://today.uic.edu/isolation-and-quarantine">Isolation and Quarantine</a></li>
+</ul>
+</li>
+<li id="menu-item-57549"><a href="https://today.uic.edu/contact">Contact</a>
+<ul class="sub-menu">
+	<li id="menu-item-57551"><a href="https://today.uic.edu/contact/communicating-on-campus">Communicating On Campus</a></li>
+	<li id="menu-item-57552"><a href="https://today.uic.edu/contact/communicating-on-campus/sending-announcements-dddh">Sending Announcements / DDDH</a></li>
+	<li id="menu-item-57550"><a href="https://today.uic.edu/contact/social-media-directory">UIC Social Media Directory</a></li>
+</ul>
+</li>
+</ul></div>	    
+
+
+      </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</div>
+		</div>
+
+
+
+
+
+
+
+
+ <div id="container" role="main" aria-label="Main content" class="clearfix">
+
+
+
+
+
+
+<div id="content">
+
+		<div id="single_right_sidebar"> <!-- creates social sharing links -->
+			<div class="single_rightBar_widgets connect">
+					<a href="http://www.facebook.com/sharer/sharer.php?u=https://today.uic.edu/contact-tracing-and-seating-assignments&amp;t=Contact tracing and seating assignments">
+						<img src="/wp-content/themes/uictoday/images/icon-facebook-link.svg" alt="Facebook"/>
+					</a>
+					<a href="http://twitter.com/intent/tweet?text=Contact tracing and seating assignments - https://today.uic.edu/contact-tracing-and-seating-assignments" title="Tweet this!">
+						<img src="/wp-content/themes/uictoday/images/icon-twitter-link.svg" alt="Twitter"/>
+					</a>
+					<a href="http://www.linkedin.com/shareArticle?mini=true&amp;title=Contact tracing and seating assignments&amp;url=https://today.uic.edu/contact-tracing-and-seating-assignments" title="Share on LinkedIn">
+						<img src="/wp-content/themes/uictoday/images/icon-linkedin-link.svg" alt="LinkedIn"/>
+					</a>
+					<a href="http://www.tumblr.com/share/link?url=https://today.uic.edu/contact-tracing-and-seating-assignments">
+						<img src="/wp-content/themes/uictoday/images/icon-tumblr-link.svg" alt="Tumblr"/>
+					</a>
+					<a href="mailto:?Subject=Contact tracing and seating assignments&Body=https://today.uic.edu/contact-tracing-and-seating-assignments">
+						<img src="/wp-content/themes/uictoday/images/icon-cta-envelope.svg" alt="email"/>
+					</a>
+			</div>
+		</div>
+
+<!--		<div class="labels">
+										</div>  -->
+
+		<div class="article clearfix">
+			<h1>Contact tracing and seating assignments</h1>
+
+			<p class="author-date">
+				August 27, 2021			</p>
+
+			<div class="pf-content"><p>Dear faculty,</p>
+<p>We want to thank you for your significant efforts this first week of the academic year to ensure a safe learning environment for all. Your leadership and resilience have allowed us to re-start our on-campus classes and activities and we are truly grateful for your commitment to the success of our students.</p>
+<p>As we move forward with face-to-face, on-campus instruction, one important measure for limiting the spread of COVID-19 is <a href="https://www.cdc.gov/coronavirus/2019-ncov/easy-to-read/contact-tracing.html">contact tracing</a>. While we have several measures in place to ensure a safe teaching and learning community, such as masking of all students, faculty, and staff indoors; vaccination requirements; and regular testing of those who cannot be vaccinated, contact tracing remains an effective measure to track interactions among individuals in your class, identify others who may have become infected, and slow the spread of COVID-19. We anticipate that with proper mask-wearing indoors and a high community vaccination rate, there will not be in-classroom transmission. However, it is possible that someone in your classroom may test positive for COVID-19 this semester. While we continue to navigate the fluid COVID-19 environment, we are asking for your assistance with contact tracing beginning the week of Sept. 7 as follows.</p>
+<p><strong>What can I do to help with contact tracing in my classroom?</strong></p>
+<p>If someone in your classroom tests positive for COVID-19, <a href="https://publichealth.uic.edu/uic-covid-19-public-health-response/uic-covid-19-contact-tracing-and-epidemiology-program/">UIC’s contact tracing team</a> will reach out to the individual student(s) and to you, the instructor, with details to assist with contact tracing efforts. All contact tracing will be handled by the contact tracing teams. Although not a routine feature of classroom learning at UIC, <strong>assigned seating for classes greater than 30 students in size</strong>, when feasible, is one strategy that can assist in making contact tracing more efficient and less disruptive to the learning environment, as it may result in fewer students and instructors needing to be tested and, possibly, to quarantine. For small classes (those with less than 30 students), all students will be contacted by contact tracing teams and thus assigned seating is not necessary. By providing contact tracers with seating information for larger classes, you will enable them to accurately determine if there has been in-classroom transmission. Specifically, by knowing who was sitting closest, and who was sitting farthest away, from the individual in a class who tests positive for COVID-19, those who were in close contact can be rapidly identified, tested, and quarantined if necessary. This information will prevent the need for testing all students and instructors in a class. Currently, only those exposed, who are unable to be vaccinated need to quarantine, but all those considered exposed need to test, regardless of vaccination status.</p>
+<p><strong>How might I go about assigning seating in my class?</strong></p>
+<p>The most straightforward option for tracking student seating information is using a <strong>seating chart, </strong>with seats either assigned by you or chosen by students for the duration of the semester. We encourage instructors to use low-tech methods to assign seating and provide a few suggestions for doing so here. With fixed seat assignments, this process need only occur once and not every class session:</p>
+<ul>
+<li>Use a spreadsheet program such as Excel or Google Sheets to fill in rows and columns with students’ names and UINs in cells corresponding to the positions of chairs or desks in your classroom.</li>
+<li>Download the Microsoft Office Seating Chart template (<a href="https://templates.office.com/en-us/seating-charts-tm01018402">https://templates.office.com/en-us/seating-charts-tm01018402</a>), in which you organize shapes corresponding to the chairs, desks, and tables in your classrooms, customizing the array of furniture according to your preferred classroom set-up. Then pass around a blank seating chart for students to fill in with their names and UINs.</li>
+<li>If it is too unwieldy to track assigned seating of individual students, consider assigning students to “pods” corresponding to specific sections of the classroom. Pass around a blank form, one for each pod, for students to add their names and UINs.</li>
+<li>To assist in creating seating charts, for centrally-managed classrooms, instructors may download PDFs with the furniture layouts for each classroom from the Layouts tab in the UIC Classrooms Database: <a href="http://classrooms.uic.edu/">http://classrooms.uic.edu/</a>.</li>
+</ul>
+<p>Instructors should retain seating charts to support contact tracing. Please remind students of the significance of staying in their assigned seats or pods throughout the term.</p>
+<p>**Please note that UIC currently does not have a technology solution for creating seating charts, although several of our systems do take attendance (e.g., <a href="https://teaching.uic.edu/ed-tech/virtual-classrooms/acadly/">Acadly</a>, <a href="https://teaching.uic.edu/ed-tech/polling-surveys/iclicker/">iClicker</a>, <a href="https://help.blackboard.com/Learn/Instructor/Original/Grade/Attendance">Blackboard Attendance</a>), which is helpful in tracking who attends each class session but is limited in its utility informing contact tracing efforts since they do not record seating information.</p>
+<p><strong>What if the seating assignments in my class change frequently?</strong></p>
+<p>The optimal pedagogy for student learning in your class may not be amenable to assigned seating. For example, students may move around for group work or demonstrations. We provide a couple of ideas for monitoring student proximity in a classroom with dynamic seating arrangements; these strategies rely on student compliance with reporting and also require more frequent gathering of seating information.</p>
+<ul>
+<li>If assigned seating isn’t practical or appropriate for your course pedagogy, set aside a few minutes at the beginning of each class to ask students to identify and record the names of students who are sitting near them, submitting this information as a <a href="https://help.blackboard.com/Learn/Instructor/Original/Assignments">Blackboard Assignment</a>.</li>
+<li>Similarly, if you have students work in groups periodically during class, ask students to identify and record the names of students who are in their group during those particular class sessions.</li>
+</ul>
+<p><strong>Are there any pedagogical benefits to using assigned seating and/or tracking seating arrangements in my classroom?</strong></p>
+<p>Employing assigned seating in your classroom can become a tool to help you learn students’ names, which helps to cultivate an inclusive learning environment (<a href="https://www.lifescied.org/doi/full/10.1187/cbe.13-06-0115">Tanner 2013</a>). Calling on students by their names builds classroom community, helps them feel more comfortable, leads to greater student engagement in class, makes students feel more accountable to the instructor, encourages students to seek help when necessary, and increases student satisfaction with a course (<a href="https://pubmed.ncbi.nlm.nih.gov/28188281/">Cooper <em>et al.</em> 2017</a>, <a href="https://www.tandfonline.com/doi/abs/10.1080/04250494.2018.1509673">Murdoch <em>et al. </em>2018</a>, <a href="https://lr.law.qut.edu.au/article/view/544.html">O’Brien <em>et al.</em> 2014</a>). Strategies to track student proximity to one another that rely on students talking to one another and exchanging information have the added benefit of promoting student-student interactions, which can help to foster community in your classroom and even improve student learning (<a href="https://bearworks.missouristate.edu/cgi/viewcontent.cgi?article=1022&amp;context=articles-coe">Hurst <em>et al.</em> 2013</a>).</p>
+<p>Finally, we encourage faculty to take advantage of the resources offered by the Center for the Advancement of Teaching Excellence (<a href="https://teaching.uic.edu/">CATE</a>) for assistance with ways to accommodate student needs while managing classroom instruction and safety.</p>
+<p>Sincerely,</p>
+<p>Javier Reyes<br />
+Provost and Vice Chancellor for Academic Affairs</p>
+<div class="printfriendly pf-button pf-button-content pf-alignleft"><a href="#" rel="nofollow" onclick="window.print(); return false;" title="Printer Friendly, PDF & Email"><img style="border:none;-webkit-box-shadow:none; -moz-box-shadow: none; box-shadow:none; padding:0; margin:0" src="https://cdn.printfriendly.com/buttons/print-button-gray.png" alt="Print Friendly, PDF & Email" /></a></div></div>
+			<p class="author-date">
+													<div class="rightBar_widgets">
+						<h2>Contact</h2>
+						<p>
+							<span class="bold"><a href="https://today.uic.edu/author/uicnews-staff" title="Posts by UIC News staff" rel="author">UIC News staff</a></span><br />
+							<br />
+							<a href="mailto:uicnews-staff@uic.edu">uicnews-staff@uic.edu</a><br />
+										</p>
+			</div>
+
+			<div id="tag-area">
+				<p class="tag-label">Categories</p>
+																<p>
+							<a href="https://today.uic.edu/category/official/covid19" rel="category tag">Coronavirus</a>, <a href="https://today.uic.edu/category/official" rel="category tag">Official Communications</a>, <a href="https://today.uic.edu/category/official/provost-officials" rel="category tag">Provost officials</a>						</p>
+									</p>
+
+													<p class="tag-label">Topics</p>
+					<p><a href="https://today.uic.edu/tag/contact-tracing" rel="tag">contact tracing</a>, <a href="https://today.uic.edu/tag/coronavirus" rel="tag">coronavirus</a>, <a href="https://today.uic.edu/tag/fall-2021" rel="tag">fall 2021</a></p>
+							</div>
+
+
+			
+</div>
+
+<!-- Need 2 closing divs before footer to close divs from page header include -->
+	</div>
+
+</div>
+
+
+<div class="clearThis">&nbsp;</div>
+
+
+
+
+
+    
+
+    <footer id="footer" class="footer u-dark-region" role="contentinfo">
+
+
+  <div class="footer-contact">
+    <div class="l-full">
+
+
+            <div class="uic-type-wrapper-footer">
+
+            <div class="uic-type-treatment-footer">
+            
+  			<div class="_mark"> 
+    		<a href="http://uic.edu" class="uic-logo-icon" aria-label="UIC logo">
+ 			<svg aria-label="UIC.edu" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ 			<title>UIC Logo</title>
+ 			<circle class="_circle" cx="27" cy="27" r="25" fill="none"></circle>
+ <path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#d50032" fill-rule="evenodd"></path>
+</svg>
+</a>
+  			</div><!--  _mark   -->   
+            
+  			<div class="_text">
+    		<a href="/">
+        	  Today
+      		  </a>
+ 			</div><!--  _text   -->
+
+            
+			</div><!--  uic-type-treatment-footer   -->
+
+
+			</div><!--  uic-type-wrapper-footer    -->
+ 
+
+
+  <div class="_contact">
+  
+  
+    <h2>UIC Today Contact</h2>
+    
+    
+		<div class="site-address">Office of Strategic Marketing and Communications<br />
+		601 S. Morgan St., 1320 UH, Chicago, IL 60607</div>
+      
+      
+		<div class="site-email"><a href="mailto:uictoday@uic.edu">uictoday@uic.edu</a></div>
+        
+        
+		<div aria-label="Social Media Accounts" class="_social" role="navigation">
+			<h2 class="assistive-text">Social Media Accounts</h2> 
+  			<ul class="site-social-links">
+            <li><a href="https://www.facebook.com/uicnews "><img src="/wp-content/themes/uictoday/images/social-media-icons/facebook.png" alt="Facebook"></a></li>
+            <li><a href="https://instagram.com/thisisuic/"><img src="/wp-content/themes/uictoday/images/social-media-icons/instagram.png" alt="Instagram"></a></li>
+            <li><a href="https://today.uic.edu/campus-news/campus-newspaper/subscribe-to-uic-today"><img src="/wp-content/themes/uictoday/images/social-media-icons/rss.png" alt="RSS feed"></a></li>
+            <li><a href="https://uicscience.tumblr.com/"><img src="/wp-content/themes/uictoday/images/social-media-icons/tumblr.png" alt="tumblr"></a></li>
+            <li><a href="https://twitter.com/UICnews"><img src="/wp-content/themes/uictoday/images/social-media-icons/twitter.png" alt="Twitter"></a></li>
+            <li><a href="https://www.youtube.com/user/uicmedia"><img src="/wp-content/themes/uictoday/images/social-media-icons/youtube.png" alt="YouTube"></a></li>
+            <li><a href="https://today.uic.edu/contact/social-media-directory"><img src="/wp-content/themes/uictoday/images/social-media-icons/directory.png" alt="Social media directory"></a></li>
+            </ul>
+            
+            
+		</div>        
+        
+        
+  </div>
+
+    
+
+       
+
+
+   
+
+
+
+
+
+		<div id="quicklinks_footer" role="navigation" aria-label="Quick Links" >
+			<div id="quicklinks_footer_container">
+	  	 	<div class="menu-footer-quicklinks-container"><ul id="menu-footer-quicklinks" class="menu"><li id="menu-item-57564"><a href="/news-release/news-release/">For the Media</a></li>
+<li id="menu-item-57555"><a href="https://today.uic.edu/experts-guide">Experts Guide</a></li>
+<li id="menu-item-57577"><a href="https://today.uic.edu/contact/communicating-on-campus/submit-announcements">Submit Announcements</a></li>
+<li id="menu-item-57578"><a href="https://today.uic.edu/submit-an-event">Submit an Event</a></li>
+<li id="menu-item-67562"><a href="https://today.uic.edu/campus-news/campus-newspaper/subscribe-to-uic-today">Subscribe to UIC Today</a></li>
+<li id="menu-item-110887"><a href="https://today.uic.edu/uic-in-the-news">UIC in the news</a></li>
+</ul></div>        	</div>
+	    </div>      
+
+
+</div>
+
+    
+    </div>
+  </div>
+
+
+
+
+<div class="footer-wrapper-uic-menu-legal">
+
+
+  <div class="footer-uic-menu">
+    <div class="ll-full">
+
+      <div role="navigation" aria-label="UIC.edu Links" >
+  <h2 class="assistive-text">UIC.edu links</h2>
+  <ul class="uic-footer-menu">
+    <li><a href="http://uic.edu/">UIC.edu</a></li>
+    <li><a href="http://catalog.uic.edu/ucat/academic-calendar/">Academic Calendar</a></li>
+    <li><a href="http://uicflames.com/">Athletics</a></li>
+    <li><a href="http://www.uic.edu/apps/departments-az/search">Campus Directory</a></li>
+    <li><a href="http://disabilityresources.uic.edu/">Disability Resources</a></li>
+    <li><a href="http://emergency.uic.edu/">Emergency Information</a></li>
+    <li><a href="http://events.uic.edu/">Event Calendar</a></li>
+    <li><a href="http://uic.edu/about/job-opportunities">Job Openings</a></li>
+    <li><a href="http://library.uic.edu/">Library</a></li>
+    <li><a href="http://maps.uic.edu/">Maps</a></li>
+    <li><a href="http://hospital.uillinois.edu/">UI Health</a></li>
+    <li><a href="http://dos.uic.edu/studentveteranaffairs.shtml">Veterans Affairs</a></li>
+  </ul>
+</div>
+
+    </div><!--  ll-full   -->
+    
+    <div class="m-full">
+    <img src="/wp-content/themes/uictoday/images/uihealth.png" alt="UI Health and UIC co-branded logo">
+    </div><!--  m-full   -->
+
+    <div class="n-full" style="padding:59px;">
+      <div class="cookie-banner">
+        <div id="footer-bottom">
+          <!-- OneTrust Cookies Settings button start -->
+          <button id="ot-sdk-btn" class="ot-sdk-show-settings" type="button">Cookie Settings</button>
+          <!-- OneTrust Cookies Settings button end -->
+        </div>
+      </div>
+    </div><!--  m-full   -->
+
+    
+  </div><!--  footer-uic-menu   --> 
+
+
+
+
+  <div class="footer-legal">
+    <div class="l-full">
+
+      <div class="site-copyright">
+  &copy; 2021 The Board of Trustees of the University of Illinois <span class="pipe-separator">|</span>
+  <a href="http://www.vpaa.uillinois.edu/policies/web_privacy.cfm">Privacy Statement</a>
+</div>
+
+<div class="campuses" role="navigation" aria-label="University of Illinois campus web sites">
+  <h2 class="assistive-text">Campuses</h2>
+  <ul class="campuses-list">
+    <li><a href="https://uillinois.edu/">University of Illinois System</a></li>
+    <li><a href="https://illinois.edu/">Urbana-Champaign</a></li>
+    <li><a href="https://uis.edu/">Springfield</a></li>
+  </ul>
+</div>
+
+    </div>
+
+
+
+</div><!--  footer-wrapper-uic-menu-legal   --> 
+
+
+
+<!-- Google Translate widget -->
+<h2 class="assistive-text">Google Translate</h2>
+<div class="google-translate">
+  <div id="google_translate_element">
+  </div>
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
+      }
+  </script>
+  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</div>
+
+
+    
+    
+  </div>
+
+</footer>
+
+
+
+
+
+</div>
+
+
+<script>requestAnimationFrame(() => document.body.classList.add( "stk--anim-init" ))</script><script type="text/javascript">
+  document.write(unescape("%3Cscript src='//www.uic.edu/inc/emergency/alert.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+		<script type="text/javascript" id="pf_script">
+		  var pfHeaderImgUrl = 'https://today.uic.edu/files/2019/10/TodayPrintHeader.jpg';
+		  var pfHeaderTagline = 'UIC Today';
+		  var pfdisableClickToDel = '0';
+		  var pfImagesSize = 'full-size';
+		  var pfImageDisplayStyle = 'right';
+		  var pfEncodeImages = '0';
+		  var pfDisableEmail = '0';
+		  var pfDisablePDF = '0';
+		  var pfDisablePrint = '0';
+		  var pfCustomCSS = '';
+		  var pfPlatform = 'WordPress';
+		</script>
+		<script async src='https://cdn.printfriendly.com/printfriendly.js'></script>
+			<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/wp-embed.min.js?ver=5.7' id='wp-embed-js'></script>
+
+</body>
+</html><!-- WP Fastest Cache file was created in 0.11121392250061 seconds, on 01-12-21 17:50:08 -->

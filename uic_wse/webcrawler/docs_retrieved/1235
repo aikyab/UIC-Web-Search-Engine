@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+
+<link rel='stylesheet' type='text/css' href='css/style2.css'>
+<script src='js/js2.js'></script>
+<title>Academic Continuity</title>
+</head>
+
+<body onLoad="showTab(currentTab)" >
+
+
+
+<div class="header">
+
+<form id="regForm" action="" method=GET >
+
+
+<!-- One "tab" for each step in the form: -->
+<div class="tab">
+<h1>
+Welcome! Learn about taking online tests</h1>
+
+<p>
+Good organization is the key to successful test taking. Don't wait till the last minute to read the instructions. Study in advance and then study some more so you have a good understanding of the material you will be tested on. But also read instructions thoroughly and well in advance.
+</p>
+<p>
+Instructor should send out emails or messages through the test module that explain everything thoroughly. If there is anything you don't understand, get in touch with the instructor and ask for an explanation. Here are some additional tips to help you succeed at your next online exam.
+</p>
+<b>Check your computer</b>
+<p>
+There's nothing more discouraging than turning your computer on to take a pre-scheduled test and discovering your equipment is not working or you have an access problem. As well as you are able, check out your computer ahead of the test. Make sure it's working and that your Wi-Fi connection is available.
+
+Give yourself time to get another computer or travel to an alternative Wi-Fi access point if needs be. It's also a good idea to open two different browsers, one to take the test in, and another to look up information (if you're allowed to do so). That way, you won't run the risk of inadvertently closing your exam and possibly losing results.
+</p>
+<b>Find a good spot to take the test</b>
+<p>
+Make sure you've turned off all distractions -- TV, phone, social media, and all notifications. Get the kids and pets settled ahead of time or find someone to take care of them so that you can proceed undistracted. Gather all the things you will need, including books, notebooks, pens or pencils to work out mathematical problems or to jot notes.
+</p>
+<b>Make sure you understand the test guidelines</b>
+<p>
+Check and recheck the test time and date. Can you take the exam anytime within a certain window of time? How long will you have to complete the test? Go over any additional instructions thoroughly.
+</p>
+<b>If available, take practice exams</b>
+<p>
+
+Ask your instructor for a practice exam and take it. Ask for any additional recommendations for preparing for the test.
+</p>
+<b>Study</b>
+<p>
+
+Even if your exam is "open book," you need to be familiar with the material so you don't waste time hunting for it. By having a good mastery of the material, you can organize what you think you will need to know in study notes and in your mind so it's more easily accessible when you're answering exam questions.
+</p>
+
+<b>Practice good time management while taking the test</b>
+<p>
+
+If you get stumped on a question, move on to the next one. You can come back and work on the questions that require more thought later.
+</p>
+<b>Use logic when test taking</b>
+<p>
+
+If you don't know the answer to a multiple choice question, start eliminating. Usually a few of the answers will be obviously incorrect, and may be similar in content or just don't seem to fit. Weigh those that seem closest to what the instructor is looking for, further eliminating as you work through to the answer.
+</p>
+<b>Keep track of time</b>
+<p>
+If you have limited time to take the test, set a watch or clock to alert you 10 minutes or so before your deadline so you will know how much time you have left to complete the test. Also, don't stay on one question for too long. Go back to it later if you're stuck.
+</p>
+<b>Technical problems?</b>
+<p>
+Don't despair, but do take screen shots and notify your instructor right away.
+</p>
+<b>Check and recheck</b>
+<p>
+Give yourself time to check and recheck your work before you submit it. Make sure all questions are answered, whether they're short answer or multiple choice. Remember, you will always get zero credit for the questions you don't answer.
+</p>
+
+<div style="overflow:auto;">
+
+<a class="tool how" href="https://www.youtube.com/watch?v=qztOnai9GZM&list=PLontYaReEU1seUE3ACG3sEc3zR7Br7URU&index=11" target=_new>Blackboard Tests</a>
+</div>
+
+</div>
+
+</form> 
+
+
+</body>
+</html>
+
+

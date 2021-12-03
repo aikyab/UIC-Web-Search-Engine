@@ -1,0 +1,2121 @@
+  
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js ie ie6 lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]><html class="no-js ie ie7 lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]><html class="no-js ie ie8 lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en-US"> <!--<![endif]-->
+    <head>
+
+    
+
+    <!-- OneTrust Cookies Consent Notice start, uic.edu -->
+<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="c2f2262d-b694-4eba-8f4b-142c102b685a"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end, uic.edu -->
+
+<!-- Google Analytics script (RED and this site) -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    
+        ga('create', 'UA-20665772-1', 'auto');
+    
+    
+        ga('send', 'pageview');
+    
+      </script>
+<!-- End Google Analytics script (RED and this site) -->
+
+
+
+<!-- Google Tag Manager script for RED multisite -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+              j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})
+              (window,document,'script','dataLayer','GTM-W2Q8D2K');
+  </script>
+<!-- End Google Tag Manager script for RED multisite -->
+
+
+
+
+
+
+        <title>
+                            Publications | Natural Language Processing Laboratory | University of Illinois Chicago
+                    </title>
+
+
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://nlp.lab.uic.edu/xmlrpc.php" />
+
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="&nbsp;"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+
+    <link rel="stylesheet" href="https://nlp.lab.uic.edu/wp-content/themes/uic-red/main.css?v=1638281954" type="text/css" media="all" />
+    <link rel="stylesheet" href="https://nlp.lab.uic.edu/wp-content/themes/uic-red/theinhardt.css?v=1638281954" type="text/css" media="all">
+
+    <link rel='dns-prefetch' href='//www.uic.edu' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/nlp.lab.uic.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=797ab4b087a327bd009281ec75f90d4f"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://nlp.lab.uic.edu/wp-includes/css/dist/block-library/style.min.css?ver=797ab4b087a327bd009281ec75f90d4f' type='text/css' media='all' />
+<link rel='stylesheet' id='quick-escape-css'  href='https://nlp.lab.uic.edu/wp-content/plugins/uic-red-quick-escape/css/main.css?ver=797ab4b087a327bd009281ec75f90d4f' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://nlp.lab.uic.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.9.2' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js?ver=797ab4b087a327bd009281ec75f90d4f' id='jquery-js'></script>
+<script type='text/javascript' src='https://nlp.lab.uic.edu/wp-content/plugins/uic-red-quick-escape/js/quick-escape.js?ver=797ab4b087a327bd009281ec75f90d4f' id='quick-escape-js'></script>
+<link rel="https://api.w.org/" href="https://nlp.lab.uic.edu/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nlp.lab.uic.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://nlp.lab.uic.edu/wp-includes/wlwmanifest.xml" /> 
+
+
+</head>
+      
+  <body>
+
+<!-- Google Tag Manager for RED multisite (noscript) -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W2Q8D2K" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager for RED multisite (noscript) -->
+
+
+
+
+
+  
+  
+
+  <div class="l-page page-template page-template-page-templates page-template-landing-page page-template-page-templateslanding-page-php page page-id-23 page-parent post-type--landing_page  site-type-b theme--blue is-sidebar  ">
+
+
+    <!--[if lte IE 9]>
+<div class="browser-stripe u-dark-region">
+  <div class="l-full">
+      <h2>Your browser is unsupported</h2>
+      <p>We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.</p>
+  </div>
+</div>
+<![endif]-->
+<div class="browser-stripe u-dark-region ie10">
+  <div class="l-full">
+      <h2>Your browser is unsupported</h2>
+      <p>We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.</p>
+  </div>
+</div>
+    
+<header class="l-header" role="banner">
+
+  
+  <div class="header-navigation ">
+
+      <!--
+skipto accessibility feature
+
+How to update:
+1. Pull most recent version from https://github.com/a11y-tools/skipto
+2. Copy entire contents of this file: compiled/js/skipto.min.js
+3. Paste between the script tags below, replacing the old script.
+4. Search for displayOption and change its value to "popup"
+5. Save and compile with Gulp
+6. Verify it loads on front end by pressing tab key on load.
+ -->
+
+
+
+<script>
+
+
+/*! skipto - v4.1.2 - 2021-09-17
+* https://github.com/paypal/skipto
+* Copyright (c) 2021 PayPal Accessibility Team and University of Illinois; Licensed BSD */
+ /*@cc_on @*/
+/*@if (@_jscript_version >= 5.8) @*/
+
+!function(){"use strict";var SkipTo={skipToId:"id-skip-to-js-4",skipToMenuId:"id-skip-to-menu-4",domNode:null,buttonNode:null,menuNode:null,tooltipNode:null,menuitemNodes:[],firstMenuitem:!1,lastMenuitem:!1,firstChars:[],headingLevels:[],skipToIdIndex:1,showAllLandmarksSelector:"main, [role=main], [role=search], nav, [role=navigation], section[aria-label], section[aria-labelledby], section[title], [role=region][aria-label], [role=region][aria-labelledby], [role=region][title], form[aria-label], form[aria-labelledby], aside, [role=complementary], body > header, [role=banner], body > footer, [role=contentinfo]",showAllHeadingsSelector:"h1, h2, h3, h4, h5, h6",showTooltipFocus:!1,showTooltipHover:!1,tooltipTimerDelay:500,config:{enableActions:!1,enableMofN:!0,enableHeadingLevelShortcuts:!0,enableHelp:!0,enableTooltip:!0,accesskey:"0",attachElement:"header",displayOption:"popup",containerElement:"div",containerRole:"",customClass:"",buttonTitle:"",buttonTitleWithAccesskey:"",buttonTooltip:"",buttonTooltipAccesskey:"Shortcut Key: $key",buttonLabel:"Skip To Content",menuLabel:"Landmarks and Headings",landmarkGroupLabel:"Landmarks",headingGroupLabel:"Headings",mofnGroupLabel:" ($m of $n)",headingLevelLabel:"Heading level",mainLabel:"main",searchLabel:"search",navLabel:"navigation",regionLabel:"region",asideLabel:"aside",footerLabel:"footer",headerLabel:"header",formLabel:"form",msgNoLandmarksFound:"No landmarks found",msgNoHeadingsFound:"No headings found",actionGroupLabel:"Actions",actionShowHeadingsHelp:'Toggles between showing "All" and "Selected" Headings.',actionShowSelectedHeadingsLabel:"Show Selected Headings ($num)",actionShowAllHeadingsLabel:"Show All Headings ($num)",actionShowLandmarksHelp:'Toggles between showing "All" and "Selected" Landmarks.',actionShowSelectedLandmarksLabel:"Show Selected Landmarks ($num)",actionShowAllLandmarksLabel:"Show All Landmarks ($num)",actionShowSelectedHeadingsAriaLabel:"Show $num selected headings",actionShowAllHeadingsAriaLabel:"Show all $num headings",actionShowSelectedLandmarksAriaLabel:"Show $num selected landmarks",actionShowAllLandmarksAriaLabel:"Show all $num landmarks",landmarks:'main, [role="main"], [role="search"], nav, [role="navigation"], aside, [role="complementary"]',headings:'main h1, [role="main"] h1, main h2, [role="main"] h2',colorTheme:"",fontFamily:"",fontSize:"",positionLeft:"",menuTextColor:"",menuBackgroundColor:"",menuitemFocusTextColor:"",menuitemFocusBackgroundColor:"",focusBorderColor:"",buttonTextColor:"",buttonBackgroundColor:""},colorThemes:{default:{fontFamily:"inherit",fontSize:"inherit",positionLeft:"46%",menuTextColor:"#1a1a1a",menuBackgroundColor:"#dcdcdc",menuitemFocusTextColor:"#eeeeee",menuitemFocusBackgroundColor:"#1a1a1a",focusBorderColor:"#1a1a1a",buttonTextColor:"#1a1a1a",buttonBackgroundColor:"#eeeeee"},illinois:{fontFamily:"inherit",fontSize:"inherit",positionLeft:"46%",menuTextColor:"#00132c",menuBackgroundColor:"#cad9ef",menuitemFocusTextColor:"#eeeeee",menuitemFocusBackgroundColor:"#00132c",focusBorderColor:"#ff552e",buttonTextColor:"#444444",buttonBackgroundColor:"#dddede"},aria:{fontFamily:"sans-serif",fontSize:"10pt",positionLeft:"7%",menuTextColor:"#000",menuBackgroundColor:"#def",menuitemFocusTextColor:"#fff",menuitemFocusBackgroundColor:"#005a9c",focusBorderColor:"#005a9c",buttonTextColor:"#005a9c",buttonBackgroundColor:"#ddd"}},defaultCSS:".skip-to.popup{position:absolute;top:-30em;left:0}.skip-to,.skip-to.popup.focus{position:absolute;top:0;left:$positionLeft;font-family:$fontFamily;font-size:$fontSize}.skip-to.fixed{position:fixed}.skip-to button{position:relative;margin:0;padding:6px 8px 6px 8px;border-width:0 1px 1px 1px;border-style:solid;border-radius:0 0 6px 6px;border-color:$buttonBackgroundColor;color:$menuTextColor;background-color:$buttonBackgroundColor;z-index:200;font-family:$fontFamily;font-size:$fontSize}.skip-to .skip-to-tooltip{position:absolute;top:2.25em;left:8em;margin:1px;padding:4px;border:1px solid #ccc;box-shadow:2px 3px 5px #ddd;background-color:#eee;color:#000;font-family:Helvetica,Arial,Sans-Serif;font-variant-numeric:slash-zero;font-size:9pt;width:auto;display:none;white-space:nowrap;z-index:201}.skip-to .skip-to-tooltip.skip-to-show-tooltip{display:block}.skip-to [aria-expanded=true]+.skip-to-tooltip.skip-to-show-tooltip{display:none}.skip-to [role=menu]{position:absolute;min-width:17em;display:none;margin:0;padding:.25rem;background-color:$menuBackgroundColor;border-width:2px;border-style:solid;border-color:$focusBorderColor;border-radius:5px;z-index:1000}.skip-to [role=group]{display:grid;grid-auto-rows:min-content;grid-row-gap:1px}.skip-to [role=separator]:first-child{border-radius:5px 5px 0 0}.skip-to [role=menuitem]{padding:3px;width:auto;border-width:0;border-style:solid;color:$menuTextColor;background-color:$menuBackgroundColor;z-index:1000;display:grid;overflow-y:auto;grid-template-columns:repeat(6,1.2rem) 1fr;grid-column-gap:2px;font-size:1em}.skip-to [role=menuitem] .label,.skip-to [role=menuitem] .level{font-size:100%;font-weight:400;color:$menuTextColor;display:inline-block;background-color:$menuBackgroundColor;line-height:inherit;display:inline-block}.skip-to [role=menuitem] .level{text-align:right;padding-right:4px}.skip-to [role=menuitem] .label{text-align:left;margin:0;padding:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.skip-to [role=menuitem] .label:first-letter,.skip-to [role=menuitem] .level:first-letter{text-decoration:underline;text-transform:uppercase}.skip-to [role=menuitem].skip-to-h1 .level{grid-column:1}.skip-to [role=menuitem].skip-to-h2 .level{grid-column:2}.skip-to [role=menuitem].skip-to-h3 .level{grid-column:3}.skip-to [role=menuitem].skip-to-h4 .level{grid-column:4}.skip-to [role=menuitem].skip-to-h5 .level{grid-column:5}.skip-to [role=menuitem].skip-to-h6 .level{grid-column:8}.skip-to [role=menuitem].skip-to-h1 .label{grid-column:2/8}.skip-to [role=menuitem].skip-to-h2 .label{grid-column:3/8}.skip-to [role=menuitem].skip-to-h3 .label{grid-column:4/8}.skip-to [role=menuitem].skip-to-h4 .label{grid-column:5/8}.skip-to [role=menuitem].skip-to-h5 .label{grid-column:6/8}.skip-to [role=menuitem].skip-to-h6 .label{grid-column:7/8}.skip-to [role=menuitem].skip-to-h1.no-level .label{grid-column:1/8}.skip-to [role=menuitem].skip-to-h2.no-level .label{grid-column:2/8}.skip-to [role=menuitem].skip-to-h3.no-level .label{grid-column:3/8}.skip-to [role=menuitem].skip-to-h4.no-level .label{grid-column:4/8}.skip-to [role=menuitem].skip-to-h5.no-level .label{grid-column:5/8}.skip-to [role=menuitem].skip-to-h6.no-level .label{grid-column:6/8}.skip-to [role=menuitem].skip-to-nesting-level-1 .nesting{grid-column:1}.skip-to [role=menuitem].skip-to-nesting-level-2 .nesting{grid-column:2}.skip-to [role=menuitem].skip-to-nesting-level-3 .nesting{grid-column:3}.skip-to [role=menuitem].skip-to-nesting-level-0 .label{grid-column:1/8}.skip-to [role=menuitem].skip-to-nesting-level-1 .label{grid-column:2/8}.skip-to [role=menuitem].skip-to-nesting-level-2 .label{grid-column:3/8}.skip-to [role=menuitem].skip-to-nesting-level-3 .label{grid-column:4/8}.skip-to [role=menuitem].action .label,.skip-to [role=menuitem].no-items .label{grid-column:1/8}.skip-to [role=separator]{margin:1px 0 1px 0;padding:3px;display:block;width:auto;font-weight:700;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:$menuTextColor;background-color:$menuBackgroundColor;color:$menuTextColor;z-index:1000}.skip-to [role=separator] .mofn{font-weight:400;font-size:85%}.skip-to [role=separator]:first-child{border-radius:5px 5px 0 0}.skip-to [role=menuitem].last{border-radius:0 0 5px 5px}.skip-to.focus{display:block}.skip-to button:focus,.skip-to button:hover{background-color:$menuBackgroundColor;color:$menuTextColor;outline:0}.skip-to button:focus{padding:6px 7px 5px 7px;border-width:0 2px 2px 2px;border-color:$focusBorderColor}.skip-to [role=menuitem]:focus{padding:1px;border-width:2px;border-style:solid;border-color:$focusBorderColor;background-color:$menuitemFocusBackgroundColor;color:$menuitemFocusTextColor;outline:0}.skip-to [role=menuitem]:focus .label,.skip-to [role=menuitem]:focus .level{background-color:$menuitemFocusBackgroundColor;color:$menuitemFocusTextColor}",isNotEmptyString:function(str){return"string"==typeof str&&str.length},isEmptyString:function(str){return"string"!=typeof str||0===str.length},init:function(config){if(!document.querySelector("style#"+this.skipToId)){var attachElement=document.body;config&&this.setUpConfig(config),"string"==typeof this.config.attachElement&&(displayOption=document.querySelector(this.config.attachElement))&&displayOption.nodeType===Node.ELEMENT_NODE&&(attachElement=displayOption),this.addCSSColors(),this.renderStyleElement(this.defaultCSS);var displayOption=this.config.containerElement.toLowerCase().trim();this.isNotEmptyString(displayOption)||(displayOption="div"),this.domNode=document.createElement(displayOption),this.domNode.classList.add("skip-to"),this.isNotEmptyString(this.config.customClass)&&this.domNode.classList.add(this.config.customClass),this.isNotEmptyString(this.config.containerRole)&&this.domNode.setAttribute("role",this.config.containerRole);displayOption=this.config.displayOption;if("string"==typeof displayOption&&(displayOption=displayOption.trim().toLowerCase()).length)switch(this.config.displayOption){case"fixed":this.domNode.classList.add("fixed");break;case"onfocus":case"popup":this.domNode.classList.add("popup")}attachElement.firstElementChild?attachElement.insertBefore(this.domNode,attachElement.firstElementChild):attachElement.appendChild(this.domNode),this.buttonNode=document.createElement("button"),this.buttonNode.textContent=this.config.buttonLabel,this.buttonNode.setAttribute("aria-haspopup","true"),this.buttonNode.setAttribute("aria-expanded","false"),this.buttonNode.setAttribute("aria-controls",this.skipToMenuId),this.buttonNode.setAttribute("accesskey",this.config.accesskey),this.domNode.appendChild(this.buttonNode),this.renderTooltip(this.domNode,this.buttonNode),this.menuNode=document.createElement("div"),this.menuNode.setAttribute("role","menu"),this.menuNode.setAttribute("aria-busy","true"),this.menuNode.setAttribute("id",this.skipToMenuId),this.domNode.appendChild(this.menuNode),this.buttonNode.addEventListener("keydown",this.handleButtonKeydown.bind(this)),this.buttonNode.addEventListener("click",this.handleButtonClick.bind(this)),this.buttonNode.addEventListener("focus",this.handleButtonFocus.bind(this)),this.buttonNode.addEventListener("blur",this.handleButtonBlur.bind(this)),this.buttonNode.addEventListener("pointerenter",this.handleButtonPointerenter.bind(this)),this.buttonNode.addEventListener("pointerout",this.handleButtonPointerout.bind(this)),this.domNode.addEventListener("focusin",this.handleFocusin.bind(this)),this.domNode.addEventListener("focusout",this.handleFocusout.bind(this)),window.addEventListener("pointerdown",this.handleBackgroundPointerdown.bind(this),!0)}},renderTooltip:function(attachNode,buttonNode){var accesskey=this.getBrowserSpecificAccesskey(this.config.accesskey),tooltip=this.config.buttonTooltip;this.isNotEmptyString(this.config.buttonTitle)&&(tooltip=this.config.buttonTitle),this.tooltipLeft=buttonNode.getBoundingClientRect().width,this.tooltipTop=buttonNode.getBoundingClientRect().height,this.tooltipNode=document.createElement("div"),this.tooltipNode.setAttribute("role","tooltip"),this.tooltipNode.id="id-skip-to-tooltip",this.tooltipNode.classList.add("skip-to-tooltip"),this.isNotEmptyString(accesskey)&&(tooltip=this.config.buttonTooltipAccesskey.replace("$key",accesskey),this.isNotEmptyString(this.config.buttonTitleWithAccesskey)&&(tooltip=this.config.buttonTitleWithAccesskey.replace("$key",accesskey))),this.isEmptyString(tooltip)?this.config.enableTooltip=!1:this.tooltipNode.textContent=tooltip,attachNode.appendChild(this.tooltipNode),this.tooltipNode.style.left=this.tooltipLeft+"px",this.tooltipNode.style.top=this.tooltipTop+"px",this.tooltipNode.classList.add("skip-to-show-tooltip"),this.tooltipHeight=this.tooltipNode.getBoundingClientRect().height,this.tooltipNode.classList.remove("skip-to-show-tooltip")},updateStyle:function(stylePlaceholder,value,defaultValue){"string"==typeof value&&0!==value.length||(value=defaultValue);for(var index1=this.defaultCSS.indexOf(stylePlaceholder),index2=index1+stylePlaceholder.length;0<=index1&&index2<this.defaultCSS.length;)this.defaultCSS=this.defaultCSS.substring(0,index1)+value+this.defaultCSS.substring(index2),index2=(index1=this.defaultCSS.indexOf(stylePlaceholder,index2))+stylePlaceholder.length},addCSSColors:function(){var theme=this.colorThemes.default;"object"==typeof this.colorThemes[this.config.colorTheme]&&(theme=this.colorThemes[this.config.colorTheme]),this.updateStyle("$fontFamily",this.config.fontFamily,theme.fontFamily),this.updateStyle("$fontSize",this.config.fontSize,theme.fontSize),this.updateStyle("$positionLeft",this.config.positionLeft,theme.positionLeft),this.updateStyle("$menuTextColor",this.config.menuTextColor,theme.menuTextColor),this.updateStyle("$menuBackgroundColor",this.config.menuBackgroundColor,theme.menuBackgroundColor),this.updateStyle("$menuitemFocusTextColor",this.config.menuitemFocusTextColor,theme.menuitemFocusTextColor),this.updateStyle("$menuitemFocusBackgroundColor",this.config.menuitemFocusBackgroundColor,theme.menuitemFocusBackgroundColor),this.updateStyle("$focusBorderColor",this.config.focusBorderColor,theme.focusBorderColor),this.updateStyle("$buttonTextColor",this.config.buttonTextColor,theme.buttonTextColor),this.updateStyle("$buttonBackgroundColor",this.config.buttonBackgroundColor,theme.buttonBackgroundColor)},getBrowserSpecificAccesskey:function(accesskey){var hasOpera=navigator.userAgent.toLowerCase(),hasChrome=navigator.platform.toLowerCase(),hasWin=0<=hasChrome.indexOf("win"),hasMac=0<=hasChrome.indexOf("mac"),hasLinux=0<=hasChrome.indexOf("linux")||0<=hasChrome.indexOf("bsd"),hasAndroid=0<=hasOpera.indexOf("android"),hasFirefox=0<=hasOpera.indexOf("firefox"),hasChrome=0<=hasOpera.indexOf("chrome"),hasOpera=0<=hasOpera.indexOf("opr");if("string"!=typeof accesskey||0===accesskey.length)return"";if(hasWin||hasLinux&&!hasAndroid){if(hasFirefox)return"Shift + Alt + "+accesskey;if(hasChrome||hasOpera)return"Alt + "+accesskey}return hasMac?"Ctrl + Option + "+accesskey:""},setUpConfig:function(appConfig){var name,localConfig=this.config,appConfigSettings=void 0!==appConfig.settings?appConfig.settings.skipTo:{};for(name in appConfigSettings){if(void 0===localConfig[name]||!("string"==typeof appConfigSettings[name]&&0<appConfigSettings[name].length||"boolean"==typeof appConfigSettings[name]))throw new Error('** SkipTo Problem with user configuration option "'+name+'".');localConfig[name]=appConfigSettings[name]}},renderStyleElement:function(css){var styleNode=document.createElement("style"),headNode=document.getElementsByTagName("head")[0],css=document.createTextNode(css);styleNode.setAttribute("type","text/css"),styleNode.id=this.skipToId,styleNode.appendChild(css),headNode.appendChild(styleNode)},getFirstChar:function(label){var c="",label=label.querySelector(".label");return c=label&&this.isNotEmptyString(label.textContent)?label.textContent.trim()[0].toLowerCase():c},getHeadingLevelFromAttribute:function(menuitem){var level="";return level=menuitem.hasAttribute("data-level")?menuitem.getAttribute("data-level"):level},updateKeyboardShortCuts:function(){var mi;this.firstChars=[],this.headingLevels=[];for(var i=0;i<this.menuitemNodes.length;i+=1)mi=this.menuitemNodes[i],this.firstChars.push(this.getFirstChar(mi)),this.headingLevels.push(this.getHeadingLevelFromAttribute(mi))},updateMenuitems:function(){var menuitemNodes=this.menuNode.querySelectorAll("[role=menuitem");this.menuitemNodes=[];for(var i=0;i<menuitemNodes.length;i+=1)this.menuitemNodes.push(menuitemNodes[i]);this.firstMenuitem=this.menuitemNodes[0],this.lastMenuitem=this.menuitemNodes[this.menuitemNodes.length-1],this.lastMenuitem.classList.add("last"),this.updateKeyboardShortCuts()},renderMenuitemToGroup:function(tagNodeChild,mi){var tagNode,labelNode,menuitemNode=document.createElement("div");return menuitemNode.setAttribute("role","menuitem"),menuitemNode.classList.add(mi.class),this.isNotEmptyString(mi.tagName)&&menuitemNode.classList.add("skip-to-"+mi.tagName.toLowerCase()),menuitemNode.setAttribute("data-id",mi.dataId),menuitemNode.tabIndex=-1,this.isNotEmptyString(mi.ariaLabel)&&menuitemNode.setAttribute("aria-label",mi.ariaLabel),menuitemNode.addEventListener("keydown",this.handleMenuitemKeydown.bind(this)),menuitemNode.addEventListener("click",this.handleMenuitemClick.bind(this)),menuitemNode.addEventListener("pointerenter",this.handleMenuitemPointerenter.bind(this)),tagNodeChild.appendChild(menuitemNode),mi.class.includes("heading")&&(this.config.enableHeadingLevelShortcuts?(tagNode=document.createElement("span"),(tagNodeChild=document.createElement("span")).appendChild(document.createTextNode(mi.level)),tagNode.append(tagNodeChild),tagNode.appendChild(document.createTextNode(")")),tagNode.classList.add("level"),menuitemNode.append(tagNode)):menuitemNode.classList.add("no-level"),menuitemNode.setAttribute("data-level",mi.level),this.isNotEmptyString(mi.tagName)&&menuitemNode.classList.add("skip-to-"+mi.tagName)),mi.class.includes("landmark")&&(menuitemNode.setAttribute("data-nesting",mi.nestingLevel),menuitemNode.classList.add("skip-to-nesting-level-"+mi.nestingLevel),0<mi.nestingLevel&&mi.nestingLevel>this.lastNestingLevel&&((labelNode=document.createElement("span")).classList.add("nesting"),menuitemNode.append(labelNode)),this.lastNestingLevel=mi.nestingLevel),(labelNode=document.createElement("span")).appendChild(document.createTextNode(mi.name)),labelNode.classList.add("label"),menuitemNode.append(labelNode),menuitemNode},renderGroupLabel:function(titleNode,s,m,n){var mofnNode=document.getElementById(titleNode),titleNode=mofnNode.querySelector(".title"),mofnNode=mofnNode.querySelector(".mofn");titleNode.textContent=s,this.config.enableActions&&this.config.enableMofN&&"number"==typeof m&&"number"==typeof n&&(s=(s=(s=this.config.mofnGroupLabel).replace("$m",m)).replace("$n",n),mofnNode.textContent=s)},renderMenuitemGroup:function(groupId,title){var labelNode,groupNode,menuNode=this.menuNode;return this.isNotEmptyString(title)&&((labelNode=document.createElement("div")).id=groupId+"-label",labelNode.setAttribute("role","separator"),menuNode.appendChild(labelNode),(groupNode=document.createElement("span")).classList.add("title"),groupNode.textContent=title,labelNode.append(groupNode),(groupNode=document.createElement("span")).classList.add("mofn"),labelNode.append(groupNode),(groupNode=document.createElement("div")).setAttribute("role","group"),groupNode.setAttribute("aria-labelledby",labelNode.id),groupNode.id=groupId,menuNode.appendChild(groupNode),menuNode=groupNode),groupNode},removeMenuitemGroup:function(groupId){var node=document.getElementById(groupId);this.menuNode.removeChild(node),node=document.getElementById(groupId+"-label"),this.menuNode.removeChild(node)},renderMenuitemsToGroup:function(groupNode,menuitems,msgNoItemsFound){if(groupNode.innerHTML="",(this.lastNestingLevel=0)===menuitems.length){var item={};item.name=msgNoItemsFound,item.tagName="",item.class="no-items",item.dataId="",this.renderMenuitemToGroup(groupNode,item)}else for(var i=0;i<menuitems.length;i+=1)this.renderMenuitemToGroup(groupNode,menuitems[i])},getShowMoreHeadingsSelector:function(option){return"all"===option?this.showAllHeadingsSelector:this.config.headings},getShowMoreHeadingsLabel:function(option,n){var label=this.config.actionShowSelectedHeadingsLabel;return(label="all"===option?this.config.actionShowAllHeadingsLabel:label).replace("$num",n)},getShowMoreHeadingsAriaLabel:function(option,n){var label=this.config.actionShowSelectedHeadingsAriaLabel;return(label="all"===option?this.config.actionShowAllHeadingsAriaLabel:label).replace("$num",n)},renderActionMoreHeadings:function(groupNode){var headingsLen=this.getHeadings(this.getShowMoreHeadingsSelector("selected")).length,menuitemNode=this.getHeadings(this.getShowMoreHeadingsSelector("all")).length,noAction=headingsLen===menuitemNode,headingsLen=menuitemNode;return noAction||((menuitemNode={tagName:"",role:"menuitem",class:"action",dataId:"skip-to-more-headings"}).name=this.getShowMoreHeadingsLabel("all",headingsLen),menuitemNode.ariaLabel=this.getShowMoreHeadingsAriaLabel("all",headingsLen),(menuitemNode=this.renderMenuitemToGroup(groupNode,menuitemNode)).setAttribute("data-show-heading-option","all"),menuitemNode.title=this.config.actionShowHeadingsHelp),noAction},updateHeadingGroupMenuitems:function(option){var headings=this.getHeadings(this.getShowMoreHeadingsSelector("selected")),headingsLen=headings.length,groupNode=this.getHeadings(this.getShowMoreHeadingsSelector("all")),menuitemNode=groupNode.length,headings="all"===option?groupNode:headings;this.renderGroupLabel("id-skip-to-group-headings-label",this.config.headingGroupLabel,headings.length,groupNode.length),groupNode=document.getElementById("id-skip-to-group-headings"),this.renderMenuitemsToGroup(groupNode,headings,this.config.msgNoHeadingsFound),this.updateMenuitems(),groupNode.firstElementChild&&groupNode.firstElementChild.focus();headingsLen="all"===option?(option="selected",headingsLen):(option="all",menuitemNode),menuitemNode=this.menuNode.querySelector("[data-id=skip-to-more-headings]");menuitemNode.setAttribute("data-show-heading-option",option),menuitemNode.setAttribute("aria-label",this.getShowMoreHeadingsAriaLabel(option,headingsLen)),menuitemNode.querySelector("span.label").textContent=this.getShowMoreHeadingsLabel(option,headingsLen)},getShowMoreLandmarksSelector:function(option){return"all"===option?this.showAllLandmarksSelector:this.config.landmarks},getShowMoreLandmarksLabel:function(option,n){var label=this.config.actionShowSelectedLandmarksLabel;return(label="all"===option?this.config.actionShowAllLandmarksLabel:label).replace("$num",n)},getShowMoreLandmarksAriaLabel:function(option,n){var label=this.config.actionShowSelectedLandmarksAriaLabel;return(label="all"===option?this.config.actionShowAllLandmarksAriaLabel:label).replace("$num",n)},renderActionMoreLandmarks:function(groupNode){var landmarksLen=this.getLandmarks(this.getShowMoreLandmarksSelector("selected")).length,menuitemNode=this.getLandmarks(this.getShowMoreLandmarksSelector("all")).length,noAction=landmarksLen===menuitemNode,landmarksLen=menuitemNode;return noAction||((menuitemNode={tagName:"",role:"menuitem",class:"action",dataId:"skip-to-more-landmarks"}).name=this.getShowMoreLandmarksLabel("all",landmarksLen),menuitemNode.ariaLabel=this.getShowMoreLandmarksAriaLabel("all",landmarksLen),(menuitemNode=this.renderMenuitemToGroup(groupNode,menuitemNode)).setAttribute("data-show-landmark-option","all"),menuitemNode.title=this.config.actionShowLandmarksHelp),noAction},updateLandmarksGroupMenuitems:function(option){var landmarks=this.getLandmarks(this.getShowMoreLandmarksSelector("selected")),landmarksLen=landmarks.length,groupNode=this.getLandmarks(this.getShowMoreLandmarksSelector("all"),!0),menuitemNode=groupNode.length,landmarks="all"===option?groupNode:landmarks;this.renderGroupLabel("id-skip-to-group-landmarks-label",this.config.landmarkGroupLabel,landmarks.length,groupNode.length),groupNode=document.getElementById("id-skip-to-group-landmarks"),this.renderMenuitemsToGroup(groupNode,landmarks,this.config.msgNoLandmarksFound),this.updateMenuitems(),groupNode.firstElementChild&&groupNode.firstElementChild.focus();landmarksLen="all"===option?(option="selected",landmarksLen):(option="all",menuitemNode),menuitemNode=this.menuNode.querySelector("[data-id=skip-to-more-landmarks]");menuitemNode.setAttribute("data-show-landmark-option",option),menuitemNode.setAttribute("aria-label",this.getShowMoreLandmarksAriaLabel(option,landmarksLen)),menuitemNode.querySelector("span.label").textContent=this.getShowMoreLandmarksLabel(option,landmarksLen)},renderMenu:function(){for(var landmarkElements,headingElements,hasNoAction1,hasNoAction2;this.menuNode.lastElementChild;)this.menuNode.removeChild(this.menuNode.lastElementChild);headingElements=this.getShowMoreLandmarksSelector("all"),hasNoAction1=this.getLandmarks(headingElements,!0),headingElements=this.getShowMoreLandmarksSelector("selected"),landmarkElements=this.getLandmarks(headingElements),hasNoAction2=this.renderMenuitemGroup("id-skip-to-group-landmarks",this.config.landmarkGroupLabel),this.renderMenuitemsToGroup(hasNoAction2,landmarkElements,this.config.msgNoLandmarksFound),this.renderGroupLabel("id-skip-to-group-landmarks-label",this.config.landmarkGroupLabel,landmarkElements.length,hasNoAction1.length),headingElements=this.getShowMoreHeadingsSelector("all"),hasNoAction1=this.getHeadings(headingElements),headingElements=this.getShowMoreHeadingsSelector("selected"),headingElements=this.getHeadings(headingElements),hasNoAction2=this.renderMenuitemGroup("id-skip-to-group-headings",this.config.headingGroupLabel),this.renderMenuitemsToGroup(hasNoAction2,headingElements,this.config.msgNoHeadingsFound),this.renderGroupLabel("id-skip-to-group-headings-label",this.config.headingGroupLabel,headingElements.length,hasNoAction1.length),this.config.enableActions&&(hasNoAction2=this.renderMenuitemGroup("id-skip-to-group-actions",this.config.actionGroupLabel),hasNoAction1=this.renderActionMoreLandmarks(hasNoAction2),hasNoAction2=this.renderActionMoreHeadings(hasNoAction2),hasNoAction1&&hasNoAction2&&this.removeMenuitemGroup("id-skip-to-group-actions")),this.updateMenuitems()},setFocusToMenuitem:function(menuitem){menuitem&&menuitem.focus()},setFocusToFirstMenuitem:function(){this.setFocusToMenuitem(this.firstMenuitem)},setFocusToLastMenuitem:function(){this.setFocusToMenuitem(this.lastMenuitem)},setFocusToPreviousMenuitem:function(menuitem){var newMenuitem=menuitem===this.firstMenuitem?this.lastMenuitem:(newMenuitem=this.menuitemNodes.indexOf(menuitem),this.menuitemNodes[newMenuitem-1]);return this.setFocusToMenuitem(newMenuitem),newMenuitem},setFocusToNextMenuitem:function(menuitem){var newMenuitem=menuitem===this.lastMenuitem?this.firstMenuitem:(newMenuitem=this.menuitemNodes.indexOf(menuitem),this.menuitemNodes[newMenuitem+1]);return this.setFocusToMenuitem(newMenuitem),newMenuitem},setFocusByFirstCharacter:function(index,char){var start;1<char.length||(char=char.toLowerCase(),(start=this.menuitemNodes.indexOf(index)+1)>=this.menuitemNodes.length&&(start=0),-1<(index=-1===(index=-1===(index=-1===(index=this.firstChars.indexOf(char,start))?this.headingLevels.indexOf(char,start):index)?this.firstChars.indexOf(char,0):index)?this.headingLevels.indexOf(char,0):index)&&this.setFocusToMenuitem(this.menuitemNodes[index]))},getIndexFirstChars:function(startIndex,char){for(var i=startIndex;i<this.firstChars.length;i+=1)if(char===this.firstChars[i])return i;return-1},openPopup:function(){this.menuNode.setAttribute("aria-busy","true"),this.renderMenu(),this.menuNode.style.display="block",this.menuNode.removeAttribute("aria-busy"),this.buttonNode.setAttribute("aria-expanded","true")},closePopup:function(){this.isOpen()&&(this.buttonNode.setAttribute("aria-expanded","false"),this.menuNode.style.display="none")},isOpen:function(){return"true"===this.buttonNode.getAttribute("aria-expanded")},handleFocusin:function(){this.domNode.classList.add("focus")},handleFocusout:function(){this.domNode.classList.remove("focus")},handleButtonKeydown:function(event){var flag=!1;switch(event.key){case" ":case"Enter":case"ArrowDown":case"Down":this.openPopup(),this.setFocusToFirstMenuitem(),flag=!0;break;case"Esc":case"Escape":this.closePopup(),this.buttonNode.focus(),this.hideTooltip(),flag=!0;break;case"Up":case"ArrowUp":this.openPopup(),this.setFocusToLastMenuitem(),flag=!0}flag&&(event.stopPropagation(),event.preventDefault())},handleButtonClick:function(event){this.isOpen()?(this.closePopup(),this.buttonNode.focus()):(this.openPopup(),this.setFocusToFirstMenuitem()),event.stopPropagation(),event.preventDefault()},isTooltipHidden:function(){return this.tooltipNode.className.indexOf("skip-to-show-tooltip")<0},displayTooltip:function(){(this.showTooltipFocus||this.showTooltipHover)&&this.tooltipNode.classList.add("skip-to-show-tooltip")},showTooltip:function(){this.showTooltipFocus=!0,this.config.enableTooltip&&this.isTooltipHidden()&&(this.tooltipNode.style.left=this.tooltipLeft+"px",this.tooltipNode.style.top=this.tooltipTop+"px",setTimeout(this.displayTooltip.bind(this),this.tooltipTimerDelay))},hideTooltip:function(){this.showTooltipFocus=!1,this.config.enableTooltip&&this.tooltipNode.classList.remove("skip-to-show-tooltip")},handleButtonFocus:function(){this.showTooltip()},handleButtonBlur:function(){this.hideTooltip()},handleButtonPointerenter:function(event){var left,top;this.showTooltipHover=!0,this.config.enableTooltip&&this.isTooltipHidden()&&(top=this.buttonNode.getBoundingClientRect(),left=Math.min(this.tooltipLeft,event.pageX-top.left+this.tooltipHeight),this.tooltipNode.style.left=left+"px",top=event.pageY-top.top,this.tooltipNode.style.top=top+"px",setTimeout(this.showTooltip.bind(this),this.tooltipTimerDelay))},handleButtonPointerout:function(){this.showTooltipHover=!1,this.config.enableTooltip&&this.tooltipNode.classList.remove("skip-to-show-tooltip")},skipToElement:function(elem){var scrollNode,isVisible=this.isVisible,focusNode=!1;function findVisibleElement(e,selectors){if(e)for(var j=0;j<selectors.length;j+=1)for(var elems=e.querySelectorAll(selectors[j]),i=0;i<elems.length;i+=1)if(isVisible(elems[i]))return elems[i];return e}var isLandmark=elem.classList.contains("landmark"),isSearch=elem.classList.contains("skip-to-search"),isNav=elem.classList.contains("skip-to-nav");(elem=document.querySelector('[data-skip-to-id="'+elem.getAttribute("data-id")+'"]'))&&(isSearch&&(focusNode=findVisibleElement(elem,["input","button","input[type=button]","input[type=submit]","a"])),(focusNode=isNav?findVisibleElement(elem,["a","input","button","input[type=button]","input[type=submit]"]):focusNode)&&this.isVisible(focusNode)?(focusNode.focus(),focusNode.scrollIntoView({block:"nearest"})):((elem=isLandmark&&(scrollNode=findVisibleElement(elem,["h1","h2","h3","h4","h5","h6","section","article","p","li","a"]))?scrollNode:elem).tabIndex=-1,elem.focus(),elem.scrollIntoView({block:"center"})))},handleMenuitemAction:function(tgt){var option;switch(tgt.getAttribute("data-id")){case"":break;case"skip-to-more-headings":option=tgt.getAttribute("data-show-heading-option"),this.updateHeadingGroupMenuitems(option);break;case"skip-to-more-landmarks":option=tgt.getAttribute("data-show-landmark-option"),this.updateLandmarksGroupMenuitems(option);break;default:this.closePopup(),this.skipToElement(tgt)}},handleMenuitemKeydown:function(event){var tgt=event.currentTarget,key=event.key,flag=!1;function isPrintableCharacter(str){return 1===str.length&&str.match(/\S/)}if(!(event.ctrlKey||event.altKey||event.metaKey)){if(event.shiftKey)isPrintableCharacter(key)&&(this.setFocusByFirstCharacter(tgt,key),flag=!0),"Tab"===event.key&&(this.buttonNode.focus(),this.closePopup(),flag=!0);else switch(key){case"Enter":case" ":this.handleMenuitemAction(tgt),flag=!0;break;case"Esc":case"Escape":this.closePopup(),this.buttonNode.focus(),flag=!0;break;case"Up":case"ArrowUp":this.setFocusToPreviousMenuitem(tgt),flag=!0;break;case"ArrowDown":case"Down":this.setFocusToNextMenuitem(tgt),flag=!0;break;case"Home":case"PageUp":this.setFocusToFirstMenuitem(),flag=!0;break;case"End":case"PageDown":this.setFocusToLastMenuitem(),flag=!0;break;case"Tab":this.closePopup();break;default:isPrintableCharacter(key)&&(this.setFocusByFirstCharacter(tgt,key),flag=!0)}flag&&(event.stopPropagation(),event.preventDefault())}},handleMenuitemClick:function(event){this.handleMenuitemAction(event.currentTarget),event.stopPropagation(),event.preventDefault()},handleMenuitemPointerenter:function(event){event.currentTarget.focus()},handleBackgroundPointerdown:function(event){this.domNode.contains(event.target)||this.isOpen()&&(this.closePopup(),this.buttonNode.focus())},normalizeName:function(name){return"string"==typeof name?name.replace(/\w\S*/g,function(txt){return txt.charAt(0).toUpperCase()+txt.substr(1).toLowerCase()}):""},getTextContent:function(elem){var str="Test",strings=[];return function getText(e,strings){if(e.nodeType===Node.TEXT_NODE)strings.push(e.data);else if(e.nodeType===Node.ELEMENT_NODE){var tagName=e.tagName.toLowerCase();if("img"===tagName||"area"===tagName)e.alt&&strings.push(e.alt);else for(var c=e.firstChild;c;)getText(c,strings),c=c.nextSibling}}(elem,strings),str=strings.length?strings.join(" "):str},getAccessibleName:function(name){var labelledbyIds=name.getAttribute("aria-labelledby"),label=name.getAttribute("aria-label"),title=name.getAttribute("title"),name="";if(labelledbyIds&&labelledbyIds.length){for(var str,strings=[],ids=labelledbyIds.split(" "),i=0,l=(ids=!ids.length?[labelledbyIds]:ids).length;i<l;i+=1){var e=document.getElementById(ids[i]);(str=e?this.getTextContent(e):str)&&str.length&&strings.push(str)}name=strings.join(" ")}else this.isNotEmptyString(label)?name=label:this.isNotEmptyString(title)&&(name=title);return name},isVisible:function(element){return function isVisibleRec(el){if(9===el.nodeType)return!0;var hidden=window.getComputedStyle(el),display=hidden.getPropertyValue("display"),visibility=hidden.getPropertyValue("visibility"),hidden=el.getAttribute("hidden");return"none"!==display&&"hidden"!==visibility&&null===hidden&&isVisibleRec(el.parentNode)}(element)},getHeadings:function(targets){var headingElementsArr=[];if("string"==typeof(targets="string"!=typeof targets?this.config.headings:targets)&&0!==targets.length){for(var headings=document.querySelectorAll(targets),i=0,len=headings.length;i<len;i+=1){var dataId,level,heading=headings[i],headingItem=heading.getAttribute("role");"string"==typeof headingItem&&"presentation"===headingItem||this.isVisible(heading)&&(dataId=heading.hasAttribute("data-skip-to-id")?heading.getAttribute("data-skip-to-id"):(heading.setAttribute("data-skip-to-id",this.skipToIdIndex),this.skipToIdIndex),level=heading.tagName.substring(1),(headingItem={}).dataId=dataId.toString(),headingItem.class="heading",headingItem.name=this.getTextContent(heading),headingItem.ariaLabel=headingItem.name+", ",headingItem.ariaLabel+=this.config.headingLevelLabel+" "+level,headingItem.tagName=heading.tagName.toLowerCase(),headingItem.role="heading",headingItem.level=level,headingElementsArr.push(headingItem),this.skipToIdIndex+=1)}return headingElementsArr}},getLocalizedLandmarkName:function(tagName,name){var n;switch(tagName){case"aside":n=this.config.asideLabel;break;case"footer":n=this.config.footerLabel;break;case"form":n=this.config.formLabel;break;case"header":n=this.config.headerLabel;break;case"main":n=this.config.mainLabel;break;case"nav":n=this.config.navLabel;break;case"region":n=this.config.regionLabel;break;case"search":n=this.config.searchLabel;break;default:n=tagName}return this.isNotEmptyString(name)&&(n+=": "+name),n},getNestingLevel:function(landmark,landmarks){for(var nestingLevel=0,parentNode=landmark.parentNode;parentNode;){for(var i=0;i<landmarks.length;i+=1)if(landmarks[i]===parentNode&&3===(nestingLevel+=1))return 3;parentNode=parentNode.parentNode}return nestingLevel},getLandmarks:function(targets,allFlag){"boolean"!=typeof allFlag&&(allFlag=!1),"string"!=typeof targets&&(targets=this.config.landmarks);for(var landmarks=document.querySelectorAll(targets),mainElements=[],searchElements=[],navElements=[],asideElements=[],footerElements=[],regionElements=[],otherElements=[],allLandmarks=[],dataId="",i=0,len=landmarks.length;i<len;i+=1){var landmark=landmarks[i];if(landmark!==this.domNode){var role=landmark.getAttribute("role"),tagName=landmark.tagName.toLowerCase();if(("string"!=typeof role||"presentation"!==role)&&this.isVisible(landmark)){var role=role||tagName,name=this.getAccessibleName(landmark);switch("string"!=typeof name&&(name=""),role){case"banner":tagName="header";break;case"complementary":tagName="aside";break;case"contentinfo":tagName="footer";break;case"form":tagName="form";break;case"main":tagName="main";break;case"navigation":tagName="nav";break;case"section":tagName="region";break;case"search":tagName="search"}["aside","footer","form","header","main","nav","region","search"].indexOf(tagName)<0&&(tagName="main"),landmark.hasAttribute("aria-roledescription")&&(tagName=landmark.getAttribute("aria-roledescription").trim().replace(" ","-"));var dataId=landmark.hasAttribute("data-skip-to-id")?landmark.getAttribute("data-skip-to-id"):(landmark.setAttribute("data-skip-to-id",this.skipToIdIndex),this.skipToIdIndex),landmarkItem={};switch(landmarkItem.dataId=dataId.toString(),landmarkItem.class="landmark",landmarkItem.name=this.getLocalizedLandmarkName(tagName,name),landmarkItem.tagName=tagName,landmarkItem.nestingLevel=0,allFlag&&(landmarkItem.nestingLevel=this.getNestingLevel(landmark,landmarks)),this.skipToIdIndex+=1,allLandmarks.push(landmarkItem),tagName){case"main":mainElements.push(landmarkItem);break;case"search":searchElements.push(landmarkItem);break;case"nav":navElements.push(landmarkItem);break;case"aside":asideElements.push(landmarkItem);break;case"footer":footerElements.push(landmarkItem);break;case"region":regionElements.push(landmarkItem);break;default:otherElements.push(landmarkItem)}}}}return allFlag?allLandmarks:[].concat(mainElements,regionElements,searchElements,navElements,asideElements,footerElements,otherElements)}};window.addEventListener("load",function(){SkipTo.init(window.SkipToConfig||window.Wordpress||("object"==typeof window.Joomla&&"function"==typeof window.Joomla.getOptions?window.Joomla.getOptions("skipto-settings",{}):{}))})}();
+//# sourceMappingURL=skipto.min.js.map/*@end @*/
+
+
+
+
+
+</script>
+      <div class="eyebrow-mobile-wrapper js-eyebrow-mobile">
+<div class="eyebrow-mobile">
+                            <a href="https://www.uic.edu/"><svg class="large-brand-mark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 358.3167 68.6566">
+  <title>University of Illinois Chicago</title>
+  <g id="full-rgb">
+    <g id="type">
+      <path id="type_PathItem_" data-name="type &lt;PathItem&gt;" d="M92.7856,19.8163a4.11,4.11,0,0,1-.2419,1.8878l-.0015.0035a2.5166,2.5166,0,0,1-4.1817-.0035,4.1121,4.1121,0,0,1-.2418-1.8878V13.0625H85.9158V19.85a5.8717,5.8717,0,0,0,.6027,3.2111,5.1431,5.1431,0,0,0,7.8682-.0015,5.87,5.87,0,0,0,.6022-3.21V13.0625H92.7856Z" style="fill: #001e62"/>
+      <path id="type_PathItem_2" data-name="type &lt;PathItem&gt;" d="M109.3292,16.9944c0,1.0914.0154,2.4014.0254,3.2684.0019.1761.0034.3329.0049.4633-.2055-.3329-.4982-.8-.6833-1.083l-4.3509-6.5353-.03-.0453h-2.0381V24.6888H104.46V20.7739c0-1.61-.012-3.1012-.0254-3.8632l.0119.02c.1379.23.326.5449.5152.8416l4.5017,6.87.03.0463h2.0386V13.0625h-2.2028Z" style="fill: #001e62"/>
+      <rect id="type_PathItem_3" data-name="type &lt;PathItem&gt;" x="118.8786" y="13.0625" width="2.2197" height="11.6263" style="fill: #001e62"/>
+      <path id="type_PathItem_4" data-name="type &lt;PathItem&gt;" d="M132.7558,20.83l-.3225,1.1154c-.0777-.337-.1951-.7988-.2877-1.1159l-2.3407-7.7666h-2.33L131.06,24.6171l.0224.0717H133.7l3.7616-11.6263h-2.2983Z" style="fill: #001e62"/>
+      <polygon id="type_PathItem_5" data-name="type &lt;PathItem&gt;" points="145.767 19.683 151.193 19.683 151.193 17.682 145.767 17.682 145.767 15.064 151.747 15.064 151.747 13.063 143.547 13.063 143.547 24.689 152.167 24.689 152.167 22.688 145.767 22.688 145.767 19.683" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_" data-name="type &lt;CompoundPathItem&gt;" d="M166.1337,19.4978a3.3559,3.3559,0,0,0,1.5573-2.89,3.2638,3.2638,0,0,0-1.6808-3.011,5.7594,5.7594,0,0,0-2.923-.5346h-4.2847V24.6888h2.22V20.12h1.9052l2.6542,4.5689h2.64l-2.8847-4.82A4.8207,4.8207,0,0,0,166.1337,19.4978Zm-5.1114-4.45h2.0649a3.9609,3.9609,0,0,1,1.5718.21,1.3748,1.3748,0,0,1,.745,1.301,1.4382,1.4382,0,0,1-.7445,1.3338,3.9589,3.9589,0,0,1-1.5723.21h-2.0649Z" style="fill: #001e62"/>
+      <path id="type_PathItem_6" data-name="type &lt;PathItem&gt;" d="M179.5681,17.9027,178.191,17.6c-1.3548-.2987-1.7679-.6127-1.7679-1.3448,0-.8665.7839-1.4264,1.9978-1.4264a3.6688,3.6688,0,0,1,2.8772,1.3393l.0642.0791,1.6912-1.3751-.0722-.08a5.907,5.907,0,0,0-4.51-1.9315c-2.56,0-4.4186,1.47-4.4186,3.4948,0,2.32,1.8738,3.0225,3.5063,3.3754l1.5294.336c1.1532.2508,1.8679.5688,1.8679,1.3786,0,.9038-.8287,1.4433-2.2163,1.4433a3.9186,3.9186,0,0,1-3.3057-1.6976l-.0572-.0946L173.5255,22.43l.0587.0826a6.1858,6.1858,0,0,0,5.0552,2.3775c2.8473,0,4.6868-1.4244,4.6868-3.6292C183.3262,19.1793,181.8889,18.4327,179.5681,17.9027Z" style="fill: #001e62"/>
+      <rect id="type_PathItem_7" data-name="type &lt;PathItem&gt;" x="189.9646" y="13.0625" width="2.2178" height="11.6263" style="fill: #001e62"/>
+      <polygon id="type_PathItem_8" data-name="type &lt;PathItem&gt;" points="198.459 15.064 201.802 15.064 201.802 24.689 204.021 24.689 204.021 15.064 207.346 15.064 207.346 13.063 198.459 13.063 198.459 15.064" style="fill: #001e62"/>
+      <polygon id="type_PathItem_9" data-name="type &lt;PathItem&gt;" points="217.674 17.855 214.807 13.063 212.233 13.063 216.463 19.946 216.463 24.689 218.681 24.689 218.681 19.948 223.152 13.063 220.589 13.063 217.674 17.855" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_2" data-name="type &lt;CompoundPathItem&gt;" d="M241.2135,12.861c-3.2958,0-5.5105,2.4173-5.5105,6.0147,0,3.71,2.1112,6.0147,5.5105,6.0147s5.51-2.3049,5.51-6.0147C246.7231,15.2783,244.5093,12.861,241.2135,12.861Zm0,2.0012c1.9162,0,3.1067,1.5379,3.1067,4.0135,0,2.492-1.1617,3.98-3.1067,3.98s-3.1066-1.4876-3.1066-3.98C238.1069,16.4,239.2974,14.8622,241.2135,14.8622Z" style="fill: #001e62"/>
+      <polygon id="type_PathItem_10" data-name="type &lt;PathItem&gt;" points="260.476 15.064 260.476 13.063 252.915 13.063 252.915 24.689 255.135 24.689 255.135 19.834 260.257 19.834 260.257 17.833 255.135 17.833 255.135 15.064 260.476 15.064" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_3" data-name="type &lt;CompoundPathItem&gt;" d="M90.5916,55.4592H85.9075V34.3649h4.6841Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_4" data-name="type &lt;CompoundPathItem&gt;" d="M100.3152,34.3649V51.24h8.4375v4.2188H95.6312V34.3649Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_5" data-name="type &lt;CompoundPathItem&gt;" d="M116.5858,34.3649V51.24h8.4375v4.2188H111.9017V34.3649Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_6" data-name="type &lt;CompoundPathItem&gt;" d="M132.8563,55.4592h-4.6841V34.3649h4.6841Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_7" data-name="type &lt;CompoundPathItem&gt;" d="M147.6981,42.6164c1.6748,2.7607,3.102,5.3975,3.102,5.3975h.0308s-.1861-4.1563-.1861-6.6075V34.3649h4.6221V55.4592h-4.7148l-4.9947-8.128c-1.1787-1.9541-3.1953-5.6767-3.1953-5.6767h-.0307s.2168,3.5058.2168,6.8867v6.918h-4.6529V34.3649h4.7461Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_8" data-name="type &lt;CompoundPathItem&gt;" d="M169.5174,33.9924c6.2353,0,10.206,4.4365,10.206,10.92,0,6.4521-3.6914,10.9189-10.206,10.9189-6.4214,0-10.2061-4.4668-10.2061-10.9189C159.3113,38.4289,163.282,33.9924,169.5174,33.9924Zm0,17.8994c3.5674,0,5.522-2.5752,5.522-6.98s-2.0166-7.0732-5.522-7.0732c-3.5366,0-5.522,2.6679-5.522,7.0732S165.9188,51.8918,169.5174,51.8918Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_9" data-name="type &lt;CompoundPathItem&gt;" d="M188.4935,55.4592h-4.6846V34.3649h4.6846Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_10" data-name="type &lt;CompoundPathItem&gt;" d="M206.3939,40.1662a7.8829,7.8829,0,0,0-5.46-2.2959c-1.9541,0-3.3193.8066-3.3193,2.1406,0,1.3643.9619,1.9229,2.8847,2.2949l3.4121.6827c3.9092.7754,6.3594,2.3271,6.3594,6.05,0,4.373-3.8769,6.7929-8.8721,6.7929a11.9752,11.9752,0,0,1-9.5234-4.4052l3.2578-2.7911a7.9406,7.9406,0,0,0,6.39,3.2881c2.4511,0,3.8779-.9619,3.8779-2.5127,0-1.458-1.2412-1.8613-3.1641-2.2031l-2.73-.5273c-3.8466-.7442-6.7627-2.1407-6.7627-6.2657,0-3.7851,3.5049-6.4218,8.127-6.4218a11.5274,11.5274,0,0,1,8.5,3.3193Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_11" data-name="type &lt;CompoundPathItem&gt;" d="M239.7122,50.8371c-1.582,3.1016-4.3115,4.9941-8.5615,4.9941-6.2978,0-10.082-4.4668-10.082-10.9189,0-6.4834,3.9707-10.92,10.082-10.92a9.0173,9.0173,0,0,1,8.7168,5.3974l-3.9082,1.6446a4.8027,4.8027,0,0,0-4.7471-3.1953c-3.4736,0-5.459,2.6679-5.459,7.0732s1.9229,6.98,5.459,6.98a4.7273,4.7273,0,0,0,4.6533-2.8848Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_12" data-name="type &lt;CompoundPathItem&gt;" d="M247.9505,46.7111v8.7481h-4.6836V34.3649h4.6836v8.1275h7.8174V34.3649h4.6846V55.4592h-4.6846V46.7111Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_13" data-name="type &lt;CompoundPathItem&gt;" d="M270.22,55.4592h-4.6836V34.3649H270.22Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_14" data-name="type &lt;CompoundPathItem&gt;" d="M292.9007,50.8371c-1.582,3.1016-4.3115,4.9941-8.5615,4.9941-6.2969,0-10.0821-4.4668-10.0821-10.9189,0-6.4834,3.9708-10.92,10.0821-10.92A9.0173,9.0173,0,0,1,293.056,39.39l-3.9082,1.6446a4.8028,4.8028,0,0,0-4.7471-3.1953c-3.4736,0-5.459,2.6679-5.459,7.0732s1.9229,6.98,5.459,6.98a4.7273,4.7273,0,0,0,4.6533-2.8848Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_15" data-name="type &lt;CompoundPathItem&gt;" d="M299.4085,55.4592h-4.9326L301.58,34.3649h5.6767l7.042,21.0943h-5.0263l-1.24-4.1875h-7.414Zm5.6768-13.99c-.3721-1.334-.7129-2.73-.7129-2.73h-.0313s-.372,1.3964-.7754,2.7607l-1.8,5.9258h5.0567Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_16" data-name="type &lt;CompoundPathItem&gt;" d="M325.5931,33.9924A9.0173,9.0173,0,0,1,334.31,39.39l-3.9082,1.6446a4.8028,4.8028,0,0,0-4.7471-3.1953c-3.4736,0-5.49,2.6679-5.49,7.0732,0,4.4668,1.9541,7.166,5.5215,7.166,3.0712,0,4.4668-1.9551,4.7158-4.4678h-5.9873V43.4846h10.0195V55.4592h-4.0947V53.5978a7.2147,7.2147,0,0,1-5.49,2.2334c-5.7705,0-9.3378-4.4668-9.3378-10.9189C315.5111,38.4289,319.4818,33.9924,325.5931,33.9924Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_17" data-name="type &lt;CompoundPathItem&gt;" d="M348.1107,33.9924c6.2353,0,10.206,4.4365,10.206,10.92,0,6.4521-3.6914,10.9189-10.206,10.9189-6.4219,0-10.2061-4.4668-10.2061-10.9189C337.9046,38.4289,341.8753,33.9924,348.1107,33.9924Zm0,17.8994c3.5673,0,5.5214-2.5752,5.5214-6.98s-2.0156-7.0732-5.5214-7.0732c-3.5362,0-5.5215,2.6679-5.5215,7.0732S344.512,51.8918,348.1107,51.8918Z" style="fill: #001e62"/>
+    </g>
+    <g id="logoMark">
+      <rect id="logoMark_PathItem_" data-name="logoMark &lt;PathItem&gt;" x="31.7455" y="24.1714" width="6.7174" height="22.3922" style="fill: #fff"/>
+      <path id="logoMark_PathItem_2" data-name="logoMark &lt;PathItem&gt;" d="M20.9464,37.54a4.7676,4.7676,0,0,1-.757,3.1632,3.24,3.24,0,0,1-2.6327.9214,3.24,3.24,0,0,1-2.6357-.9214,4.7673,4.7673,0,0,1-.7576-3.1632V24.1714H7.4444V37.41c0,3.1288.3308,4.6412,1.2211,6.1589,1.4817,2.4694,5.4315,3.423,8.8912,3.423,3.4544,0,7.4074-.9536,8.8882-3.423.89-1.5177,1.2211-3.03,1.2211-6.1589V24.1714h-6.72Z" style="fill: #fff"/>
+      <path id="logoMark_PathItem_3" data-name="logoMark &lt;PathItem&gt;" d="M52.884,41.5255c-2.8642,0-4.3148-2.3059-4.3148-6.16,0-3.8819,1.4506-6.2527,4.3148-6.2527,2.1075,0,3.3256,1.2831,3.8875,3.4554l5.8254-2.7981c-1.1194-2.9308-4.2782-5.9919-9.6123-5.9919-6.9811,0-11.2619,4.709-11.2619,11.5873,0,6.85,4.05,11.5925,11.1294,11.5925,5.103,0,8.2988-2.4688,9.8783-6.06L56.638,38.7266A3.7235,3.7235,0,0,1,52.884,41.5255Z" style="fill: #fff"/>
+      <path id="logoMark_CompoundPathItem_" data-name="logoMark &lt;CompoundPathItem&gt;" d="M34.3313,0a34.3283,34.3283,0,1,0,34.33,34.3282A34.3291,34.3291,0,0,0,34.3313,0ZM14.921,40.7031a3.24,3.24,0,0,0,2.6357.9214,3.24,3.24,0,0,0,2.6327-.9214,4.7676,4.7676,0,0,0,.757-3.1632V24.1714h6.72V37.41c0,3.1288-.3315,4.6412-1.2211,6.1589-1.4808,2.4694-5.4338,3.423-8.8882,3.423-3.46,0-7.4095-.9536-8.8912-3.423-.89-1.5177-1.2211-3.03-1.2211-6.1589V24.1714h6.719V37.54A4.7673,4.7673,0,0,0,14.921,40.7031Zm16.8245,5.8605V24.1714h6.7174V46.5636Zm21.1066.3949c-7.08,0-11.1294-4.7424-11.1294-11.5925,0-6.8783,4.2808-11.5873,11.2619-11.5873,5.3341,0,8.4929,3.0611,9.6123,5.9919l-5.8254,2.7981c-.5619-2.1723-1.78-3.4554-3.8875-3.4554-2.8642,0-4.3148,2.3708-4.3148,6.2527,0,3.8536,1.4506,6.16,4.3148,6.16a3.7235,3.7235,0,0,0,3.754-2.7989L62.73,40.8984C61.1509,44.49,57.9551,46.9585,52.8521,46.9585Z" style="fill: #d50032"/>
+    </g>
+  </g>
+</svg>
+</a>
+    
+    <button aria-label="Search the site" class="search-toggle-mobile js-search-toggle-mobile">
+  <span class="icon-search ">
+        <span class="assistive-text">Search the site</span>
+      </span>
+    </button>
+    <button class="nav-header-toggle js-nav-header-toggle">
+      <span class="icon-menu">
+      Toggle Menu
+      </span>
+    </button>
+  </div>
+  <div class="search-input-container-mobile">
+    <div class="search-input-container-mobile__content">
+      <div class="search-title">
+        Search
+        <a class="search-close search-toggle-mobile">
+          <svg aria-label="Close search box" width="100%" height="100%" viewBox="0 0 22 22">
+            <use xlink:href="https://nlp.lab.uic.edu/wp-content/themes/uic-red/images/svgs/svgs.svg#icon-close"></use>
+          </svg>
+        </a>
+      </div>
+      <form method="get" action="/search" role="search" aria-label="Search this site on your mobile device">
+        <input type="text" name="q" class="search-input-mobile" placeholder="Search..." tabindex="-1" aria-label="Search this site on your mobile device" disabled="">
+        <input type="submit" class="submit-button" name="search" value="Submit">
+      </form>
+    </div>
+  </div>
+</div>
+
+    <div class="header-navigation__eyebrow">
+
+        <div class="header-navigation__eyebrow-menus">
+
+            <div class="header-navigation__logo-and-site-title">
+
+                                <div class="site-title-main">
+                                      <a href="https://www.uic.edu/"><svg class="large-brand-mark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 358.3167 68.6566">
+  <title>University of Illinois Chicago</title>
+  <g id="full-rgb">
+    <g id="type">
+      <path id="type_PathItem_" data-name="type &lt;PathItem&gt;" d="M92.7856,19.8163a4.11,4.11,0,0,1-.2419,1.8878l-.0015.0035a2.5166,2.5166,0,0,1-4.1817-.0035,4.1121,4.1121,0,0,1-.2418-1.8878V13.0625H85.9158V19.85a5.8717,5.8717,0,0,0,.6027,3.2111,5.1431,5.1431,0,0,0,7.8682-.0015,5.87,5.87,0,0,0,.6022-3.21V13.0625H92.7856Z" style="fill: #001e62"/>
+      <path id="type_PathItem_2" data-name="type &lt;PathItem&gt;" d="M109.3292,16.9944c0,1.0914.0154,2.4014.0254,3.2684.0019.1761.0034.3329.0049.4633-.2055-.3329-.4982-.8-.6833-1.083l-4.3509-6.5353-.03-.0453h-2.0381V24.6888H104.46V20.7739c0-1.61-.012-3.1012-.0254-3.8632l.0119.02c.1379.23.326.5449.5152.8416l4.5017,6.87.03.0463h2.0386V13.0625h-2.2028Z" style="fill: #001e62"/>
+      <rect id="type_PathItem_3" data-name="type &lt;PathItem&gt;" x="118.8786" y="13.0625" width="2.2197" height="11.6263" style="fill: #001e62"/>
+      <path id="type_PathItem_4" data-name="type &lt;PathItem&gt;" d="M132.7558,20.83l-.3225,1.1154c-.0777-.337-.1951-.7988-.2877-1.1159l-2.3407-7.7666h-2.33L131.06,24.6171l.0224.0717H133.7l3.7616-11.6263h-2.2983Z" style="fill: #001e62"/>
+      <polygon id="type_PathItem_5" data-name="type &lt;PathItem&gt;" points="145.767 19.683 151.193 19.683 151.193 17.682 145.767 17.682 145.767 15.064 151.747 15.064 151.747 13.063 143.547 13.063 143.547 24.689 152.167 24.689 152.167 22.688 145.767 22.688 145.767 19.683" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_" data-name="type &lt;CompoundPathItem&gt;" d="M166.1337,19.4978a3.3559,3.3559,0,0,0,1.5573-2.89,3.2638,3.2638,0,0,0-1.6808-3.011,5.7594,5.7594,0,0,0-2.923-.5346h-4.2847V24.6888h2.22V20.12h1.9052l2.6542,4.5689h2.64l-2.8847-4.82A4.8207,4.8207,0,0,0,166.1337,19.4978Zm-5.1114-4.45h2.0649a3.9609,3.9609,0,0,1,1.5718.21,1.3748,1.3748,0,0,1,.745,1.301,1.4382,1.4382,0,0,1-.7445,1.3338,3.9589,3.9589,0,0,1-1.5723.21h-2.0649Z" style="fill: #001e62"/>
+      <path id="type_PathItem_6" data-name="type &lt;PathItem&gt;" d="M179.5681,17.9027,178.191,17.6c-1.3548-.2987-1.7679-.6127-1.7679-1.3448,0-.8665.7839-1.4264,1.9978-1.4264a3.6688,3.6688,0,0,1,2.8772,1.3393l.0642.0791,1.6912-1.3751-.0722-.08a5.907,5.907,0,0,0-4.51-1.9315c-2.56,0-4.4186,1.47-4.4186,3.4948,0,2.32,1.8738,3.0225,3.5063,3.3754l1.5294.336c1.1532.2508,1.8679.5688,1.8679,1.3786,0,.9038-.8287,1.4433-2.2163,1.4433a3.9186,3.9186,0,0,1-3.3057-1.6976l-.0572-.0946L173.5255,22.43l.0587.0826a6.1858,6.1858,0,0,0,5.0552,2.3775c2.8473,0,4.6868-1.4244,4.6868-3.6292C183.3262,19.1793,181.8889,18.4327,179.5681,17.9027Z" style="fill: #001e62"/>
+      <rect id="type_PathItem_7" data-name="type &lt;PathItem&gt;" x="189.9646" y="13.0625" width="2.2178" height="11.6263" style="fill: #001e62"/>
+      <polygon id="type_PathItem_8" data-name="type &lt;PathItem&gt;" points="198.459 15.064 201.802 15.064 201.802 24.689 204.021 24.689 204.021 15.064 207.346 15.064 207.346 13.063 198.459 13.063 198.459 15.064" style="fill: #001e62"/>
+      <polygon id="type_PathItem_9" data-name="type &lt;PathItem&gt;" points="217.674 17.855 214.807 13.063 212.233 13.063 216.463 19.946 216.463 24.689 218.681 24.689 218.681 19.948 223.152 13.063 220.589 13.063 217.674 17.855" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_2" data-name="type &lt;CompoundPathItem&gt;" d="M241.2135,12.861c-3.2958,0-5.5105,2.4173-5.5105,6.0147,0,3.71,2.1112,6.0147,5.5105,6.0147s5.51-2.3049,5.51-6.0147C246.7231,15.2783,244.5093,12.861,241.2135,12.861Zm0,2.0012c1.9162,0,3.1067,1.5379,3.1067,4.0135,0,2.492-1.1617,3.98-3.1067,3.98s-3.1066-1.4876-3.1066-3.98C238.1069,16.4,239.2974,14.8622,241.2135,14.8622Z" style="fill: #001e62"/>
+      <polygon id="type_PathItem_10" data-name="type &lt;PathItem&gt;" points="260.476 15.064 260.476 13.063 252.915 13.063 252.915 24.689 255.135 24.689 255.135 19.834 260.257 19.834 260.257 17.833 255.135 17.833 255.135 15.064 260.476 15.064" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_3" data-name="type &lt;CompoundPathItem&gt;" d="M90.5916,55.4592H85.9075V34.3649h4.6841Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_4" data-name="type &lt;CompoundPathItem&gt;" d="M100.3152,34.3649V51.24h8.4375v4.2188H95.6312V34.3649Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_5" data-name="type &lt;CompoundPathItem&gt;" d="M116.5858,34.3649V51.24h8.4375v4.2188H111.9017V34.3649Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_6" data-name="type &lt;CompoundPathItem&gt;" d="M132.8563,55.4592h-4.6841V34.3649h4.6841Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_7" data-name="type &lt;CompoundPathItem&gt;" d="M147.6981,42.6164c1.6748,2.7607,3.102,5.3975,3.102,5.3975h.0308s-.1861-4.1563-.1861-6.6075V34.3649h4.6221V55.4592h-4.7148l-4.9947-8.128c-1.1787-1.9541-3.1953-5.6767-3.1953-5.6767h-.0307s.2168,3.5058.2168,6.8867v6.918h-4.6529V34.3649h4.7461Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_8" data-name="type &lt;CompoundPathItem&gt;" d="M169.5174,33.9924c6.2353,0,10.206,4.4365,10.206,10.92,0,6.4521-3.6914,10.9189-10.206,10.9189-6.4214,0-10.2061-4.4668-10.2061-10.9189C159.3113,38.4289,163.282,33.9924,169.5174,33.9924Zm0,17.8994c3.5674,0,5.522-2.5752,5.522-6.98s-2.0166-7.0732-5.522-7.0732c-3.5366,0-5.522,2.6679-5.522,7.0732S165.9188,51.8918,169.5174,51.8918Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_9" data-name="type &lt;CompoundPathItem&gt;" d="M188.4935,55.4592h-4.6846V34.3649h4.6846Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_10" data-name="type &lt;CompoundPathItem&gt;" d="M206.3939,40.1662a7.8829,7.8829,0,0,0-5.46-2.2959c-1.9541,0-3.3193.8066-3.3193,2.1406,0,1.3643.9619,1.9229,2.8847,2.2949l3.4121.6827c3.9092.7754,6.3594,2.3271,6.3594,6.05,0,4.373-3.8769,6.7929-8.8721,6.7929a11.9752,11.9752,0,0,1-9.5234-4.4052l3.2578-2.7911a7.9406,7.9406,0,0,0,6.39,3.2881c2.4511,0,3.8779-.9619,3.8779-2.5127,0-1.458-1.2412-1.8613-3.1641-2.2031l-2.73-.5273c-3.8466-.7442-6.7627-2.1407-6.7627-6.2657,0-3.7851,3.5049-6.4218,8.127-6.4218a11.5274,11.5274,0,0,1,8.5,3.3193Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_11" data-name="type &lt;CompoundPathItem&gt;" d="M239.7122,50.8371c-1.582,3.1016-4.3115,4.9941-8.5615,4.9941-6.2978,0-10.082-4.4668-10.082-10.9189,0-6.4834,3.9707-10.92,10.082-10.92a9.0173,9.0173,0,0,1,8.7168,5.3974l-3.9082,1.6446a4.8027,4.8027,0,0,0-4.7471-3.1953c-3.4736,0-5.459,2.6679-5.459,7.0732s1.9229,6.98,5.459,6.98a4.7273,4.7273,0,0,0,4.6533-2.8848Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_12" data-name="type &lt;CompoundPathItem&gt;" d="M247.9505,46.7111v8.7481h-4.6836V34.3649h4.6836v8.1275h7.8174V34.3649h4.6846V55.4592h-4.6846V46.7111Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_13" data-name="type &lt;CompoundPathItem&gt;" d="M270.22,55.4592h-4.6836V34.3649H270.22Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_14" data-name="type &lt;CompoundPathItem&gt;" d="M292.9007,50.8371c-1.582,3.1016-4.3115,4.9941-8.5615,4.9941-6.2969,0-10.0821-4.4668-10.0821-10.9189,0-6.4834,3.9708-10.92,10.0821-10.92A9.0173,9.0173,0,0,1,293.056,39.39l-3.9082,1.6446a4.8028,4.8028,0,0,0-4.7471-3.1953c-3.4736,0-5.459,2.6679-5.459,7.0732s1.9229,6.98,5.459,6.98a4.7273,4.7273,0,0,0,4.6533-2.8848Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_15" data-name="type &lt;CompoundPathItem&gt;" d="M299.4085,55.4592h-4.9326L301.58,34.3649h5.6767l7.042,21.0943h-5.0263l-1.24-4.1875h-7.414Zm5.6768-13.99c-.3721-1.334-.7129-2.73-.7129-2.73h-.0313s-.372,1.3964-.7754,2.7607l-1.8,5.9258h5.0567Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_16" data-name="type &lt;CompoundPathItem&gt;" d="M325.5931,33.9924A9.0173,9.0173,0,0,1,334.31,39.39l-3.9082,1.6446a4.8028,4.8028,0,0,0-4.7471-3.1953c-3.4736,0-5.49,2.6679-5.49,7.0732,0,4.4668,1.9541,7.166,5.5215,7.166,3.0712,0,4.4668-1.9551,4.7158-4.4678h-5.9873V43.4846h10.0195V55.4592h-4.0947V53.5978a7.2147,7.2147,0,0,1-5.49,2.2334c-5.7705,0-9.3378-4.4668-9.3378-10.9189C315.5111,38.4289,319.4818,33.9924,325.5931,33.9924Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_17" data-name="type &lt;CompoundPathItem&gt;" d="M348.1107,33.9924c6.2353,0,10.206,4.4365,10.206,10.92,0,6.4521-3.6914,10.9189-10.206,10.9189-6.4219,0-10.2061-4.4668-10.2061-10.9189C337.9046,38.4289,341.8753,33.9924,348.1107,33.9924Zm0,17.8994c3.5673,0,5.5214-2.5752,5.5214-6.98s-2.0156-7.0732-5.5214-7.0732c-3.5362,0-5.5215,2.6679-5.5215,7.0732S344.512,51.8918,348.1107,51.8918Z" style="fill: #001e62"/>
+    </g>
+    <g id="logoMark">
+      <rect id="logoMark_PathItem_" data-name="logoMark &lt;PathItem&gt;" x="31.7455" y="24.1714" width="6.7174" height="22.3922" style="fill: #fff"/>
+      <path id="logoMark_PathItem_2" data-name="logoMark &lt;PathItem&gt;" d="M20.9464,37.54a4.7676,4.7676,0,0,1-.757,3.1632,3.24,3.24,0,0,1-2.6327.9214,3.24,3.24,0,0,1-2.6357-.9214,4.7673,4.7673,0,0,1-.7576-3.1632V24.1714H7.4444V37.41c0,3.1288.3308,4.6412,1.2211,6.1589,1.4817,2.4694,5.4315,3.423,8.8912,3.423,3.4544,0,7.4074-.9536,8.8882-3.423.89-1.5177,1.2211-3.03,1.2211-6.1589V24.1714h-6.72Z" style="fill: #fff"/>
+      <path id="logoMark_PathItem_3" data-name="logoMark &lt;PathItem&gt;" d="M52.884,41.5255c-2.8642,0-4.3148-2.3059-4.3148-6.16,0-3.8819,1.4506-6.2527,4.3148-6.2527,2.1075,0,3.3256,1.2831,3.8875,3.4554l5.8254-2.7981c-1.1194-2.9308-4.2782-5.9919-9.6123-5.9919-6.9811,0-11.2619,4.709-11.2619,11.5873,0,6.85,4.05,11.5925,11.1294,11.5925,5.103,0,8.2988-2.4688,9.8783-6.06L56.638,38.7266A3.7235,3.7235,0,0,1,52.884,41.5255Z" style="fill: #fff"/>
+      <path id="logoMark_CompoundPathItem_" data-name="logoMark &lt;CompoundPathItem&gt;" d="M34.3313,0a34.3283,34.3283,0,1,0,34.33,34.3282A34.3291,34.3291,0,0,0,34.3313,0ZM14.921,40.7031a3.24,3.24,0,0,0,2.6357.9214,3.24,3.24,0,0,0,2.6327-.9214,4.7676,4.7676,0,0,0,.757-3.1632V24.1714h6.72V37.41c0,3.1288-.3315,4.6412-1.2211,6.1589-1.4808,2.4694-5.4338,3.423-8.8882,3.423-3.46,0-7.4095-.9536-8.8912-3.423-.89-1.5177-1.2211-3.03-1.2211-6.1589V24.1714h6.719V37.54A4.7673,4.7673,0,0,0,14.921,40.7031Zm16.8245,5.8605V24.1714h6.7174V46.5636Zm21.1066.3949c-7.08,0-11.1294-4.7424-11.1294-11.5925,0-6.8783,4.2808-11.5873,11.2619-11.5873,5.3341,0,8.4929,3.0611,9.6123,5.9919l-5.8254,2.7981c-.5619-2.1723-1.78-3.4554-3.8875-3.4554-2.8642,0-4.3148,2.3708-4.3148,6.2527,0,3.8536,1.4506,6.16,4.3148,6.16a3.7235,3.7235,0,0,0,3.754-2.7989L62.73,40.8984C61.1509,44.49,57.9551,46.9585,52.8521,46.9585Z" style="fill: #d50032"/>
+    </g>
+  </g>
+</svg>
+</a>
+                                    </div>
+              
+            </div>
+          <nav class="header-menus js-header-menus " aria-label="Primary" role="navigation">
+
+  <div class="site-title-mobile-menu">
+    <a href="https://nlp.lab.uic.edu">Natural Language Processing Laboratory</a>
+  </div>
+
+
+  <h2 class="assistive-text">Main Menu</h2>
+  <ul id="menu-main" class="menu menu-main" aria-label="Main Menu">
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-44 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/nlp-research/"
+        target="_self">
+
+        Research
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand Research menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand Research menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#001E62" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-50">
+                <a 
+                  class="menu-main__second-link"
+                  href="/nlp-research/methodology-and-foundational-work/"
+                  target="_self">
+
+                  Methodology and Foundational Work
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-61">
+                <a 
+                  class="menu-main__second-link"
+                  href="/nlp-research/nl-for-educational-technology/"
+                  target="_self">
+
+                  NL for Educational Technology
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-77">
+                <a 
+                  class="menu-main__second-link"
+                  href="/nlp-research/summarization-for-entertainment-and-for-health-care/"
+                  target="_self">
+
+                  Summarization for Entertainment and Healthcare
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-83">
+                <a 
+                  class="menu-main__second-link"
+                  href="/nlp-research/human-robot-interaction/"
+                  target="_self">
+
+                  Human-Robot Interaction
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-43">
+      <a 
+        class="menu-main__first-link"
+        href="/people/"
+        target="_self">
+
+        People
+      </a>
+
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-23 current_page_item menu-item-42">
+      <a 
+        class="menu-main__first-link"
+        href="/publications/"
+        target="_self">
+
+        Publications
+      </a>
+
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-577">
+      <a 
+        class="menu-main__first-link"
+        href="/resources/"
+        target="_self">
+
+        Resources
+      </a>
+
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-40">
+      <a 
+        class="menu-main__first-link"
+        href="/photos/"
+        target="_self">
+
+        Photos
+      </a>
+
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-262">
+      <a 
+        class="menu-main__first-link"
+        href="/news-2/"
+        target="_self">
+
+        News
+      </a>
+
+          </li>
+  </ul>
+
+  <div class="l-eyebrow">
+
+    <h2 class="assistive-text">Eyebrow menu</h2>
+    <ul id="menu-eyebrow" class="menu menu-eyebrow" aria-label="Eyebrow menu" role="navigation">
+            <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-464">
+            <a  href="https://www.cs.uic.edu/" target="_blank">Computer Science</a>
+        </li>
+            <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-465">
+            <a  href="https://engineering.uic.edu/" target="_blank">College of Engineering</a>
+        </li>
+            <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-460">
+            <a  href="/resources/contact/" target="_self">Contact</a>
+        </li>
+    </ul>
+
+    <h2 class="assistive-text">UIC menu</h2>
+    <ul class="menu-uic" aria-label="Global UIC menu" role="navigation">
+      <li class="_item">
+    <a href="http://uic.edu">UIC.edu</a>
+  </li>
+  <li class="_item">
+    <a href="http://maps.uic.edu/">Campus Map</a>
+  </li>
+</ul>
+
+
+
+    <div aria-label="Primary" role="search" class="search-wrapper">
+
+      <button id="search" class="search-toggle">
+        <span class="icon-search">
+          <span class="assistive-text">Search</span>
+        </span>
+      </button>
+
+      <div class="search-input-container">
+        <div class="search-input-container__form">
+          <form method="get" action="/search" >
+            <input type="text" name="q" class="search-input" placeholder="Search..." tabindex="-1" aria-label="Search" disabled="">
+            <input type="submit" class="submit-button" name="search" value="Submit">
+          </form>
+        </div>
+      </div>
+
+    </div>
+
+
+  </div>
+
+
+</nav>
+        </div>
+    </div>
+
+          <a class="header-navigation__site-title" href="https://nlp.lab.uic.edu">
+        <div class="title-bar">
+          <div class="l-full">
+            <div>
+              <h1 class="site-name">
+                Natural Language Processing Laboratory
+              </h1>
+                              <h2 class="word-mark">UIC Computer Science </h2>
+                          </div>
+                      </div>
+        </div>
+      </a>
+    
+  </div>
+
+                             <div
+  class="header-title header-title--wordmark header-title--hero "
+  style="
+    background-image:url('https://nlp.lab.uic.edu/wp-content/uploads/sites/314/2019/01/nlp-banner-landing-1440x166.png');">
+    
+  <div class="l-full">
+    <div class="header-title__content ">
+                    <div class="_text  _text--landing ">
+                      <h2
+              class="header-title-title header-title-title--b header-title-title--landing">Publications</h2>
+                  </div>
+              </div>
+  </div>
+</div>
+                  
+        <a href="#menu-secondary" class="menu-secondary-anchor">
+      View Menu
+      <svg aria-label="Down arrow icon" width="32" height="32" viewBox="0 0 32 32" role="presentation">
+        <title>Down arrow icon</title>
+        <g fill="none" fill-rule="evenodd">
+          <circle class="_circle" stroke-width="1" stroke="#007Da5" fill="#fff" cx="16" cy="16" r="15"/>
+          <path class="_arrow" stroke-width="2" stroke="#001E62" stroke-linecap="round" d="M12 17l4 4 4-4M16 20v-9"/>
+        </g>
+      </svg>
+    </a>
+        
+</header>
+
+    <main id="main" class="l-content-wrapper" role="main">
+
+      
+                
+	      
+      <div class="l-full">
+
+        <div class="l-content ">
+
+          
+                                
+          <article class="post-type-landing_page" id="article">
+                		    		<div class="components">
+
+  
+    
+      
+
+<section class="component  ">
+
+  
+    <div class="component-accordion js-component-accordion">
+
+    
+    <div class="component-description">
+                    <h2 id="publications" class="__title invisible">Publications</h2>
+        
+            </div>
+
+
+    <dl class="component-accordion__accordion"
+        role="presentation">
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="1">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-1"
+          id="tab-sectionID-1-1"
+          type="button">
+            2021
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-1"
+          id="panel-sectionID-1-1"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2021" class="__title invisible">2021</h2>
+        
+            </div>
+
+
+  
+  <p>B. Di Eugenio, D. Fossati, and N. Green. (2021). <strong><a href="https://www.routledge.com/Intelligent-Support-for-Computer-Science-Education-Pedagogy-Enhanced-by/Eugenio-Fossati-Green/p/book/9781138052017" target="_blank" rel="noopener">Intelligent Support for Computer Science Education: Pedagogy Enhanced by Artificial Intelligence</a>.</strong> <em>CRC Press</em>.</p>
+<p>Z. Rysbek, K.-H. Oh, B. Abbasi, M. Zefran, and B. Di Eugenio. (2021). <strong>Physical Action Primitives for Collaborative Decision Making in Human-Human Manipulation.</strong> In <em>Proceedings of the 30th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)</em>, Aug 8-12.</p>
+<p>I. Gupta, B. Di Eugenio, B. Ziebart, B. Liu, B. S. Gerber, and L. K. Sharp. (2021). <strong><a href="https://aclanthology.org/2021.sigdial-1.31.pdf" target="_blank" rel="noopener">Summarizing Behavioral Change Goals from SMS Exchanges to Support Health Coaches</a>.</strong> In <em>Proceedings of the 22nd Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL)</em>, Singapore, July 29-July 31.</p>
+<p>D. A. Randolph, B. Di Eugenio, and J. Badgerow. (2021). <strong><a href="https://www.smc2020torino.it/SMC2021_papers/SMC_2021_paper_95.pdf" target="_blank" rel="noopener">Expected reciprocal rank for evaluating musical fingering advice</a>.</strong> In <em>Proceedings of the 18th Sound and Music Computing Conference</em>, Torino, Italy, June 29-July 1.</p>
+<p>M. Valizadeh, P. Ranjbar-Noiey, C. Caragea, and N. Parde. (2021). <strong><a href="https://www.aclweb.org/anthology/2021.naacl-main.347/" target="_blank" rel="noopener">Identifying Medical Self-Disclosure in Online Communities</a>.</strong> In <em>Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL)</em>, Online, June.</p>
+<p>X. Dong, D. A. Randolph, C. Weng, A. N. Kho, J. Rogers, and X. Wang. (2021). <strong>Developing high performance secure multi-party computation protocols in healthcare: A case study of patient risk stratification.</strong> In <em>Proceedings of the 2021 AMIA Virtual Informatics Summit</em> (pp. 200–209), Online, March 22-25.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="2">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-2"
+          id="tab-sectionID-1-2"
+          type="button">
+            2020
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-2"
+          id="panel-sectionID-1-2"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2020" class="__title invisible">2020</h2>
+        
+            </div>
+
+
+  
+  <p>I. Gupta, D. Salunke, B. Di Eugenio, P. Allen-Meares, C.A. Dickens, O. Garcia-Bedoya, and A.D. Boyd. (2020). <strong><a href="https://www.onlinejcf.com/article/S1071-9164(20)31204-5/abstract" target="_blank" rel="noopener">An Interactive Dialogue Agent to Assist African American and Hispanic/Latino Heart Failure Patients with Self-Care Needs</a>.</strong> <em>Journal of Cardiac Failure</em>, 26(10), pp.S87-S88.</p>
+<p>P. Hossu and N. Parde. (2020). <strong><a href="https://www.aclweb.org/anthology/2020.semeval-1.223/" target="_blank" rel="noopener">UIC-NLP at SemEval-2020 Task 10: Exploring an Alternate Perspective on Evaluation</a>.</strong> In <em>Proceedings of the 14th International Workshop on Semantic Evaluation (SemEval)</em>, Barcelona, Spain, December 12-13.</p>
+<p>C. Gordon and N. Parde. (2020). <strong><a href="https://preregister.science/papers_20neurips/27_paper.pdf" target="_blank" rel="noopener">Latent Neural Differential Equations for Video Generation</a>.</strong> In <em>Proceedings of the Preregistration Workshop on Machine Learning at NeurIPS 2020</em>, Online, December 6-12.</p>
+<p>S. Farzana and N. Parde. (2020). <strong><a href="https://www.isca-speech.org/archive/Interspeech_2020/pdfs/3085.pdf" target="_blank" rel="noopener">Exploring MMSE Score Prediction Using Verbal and Non-Verbal Cues</a>.</strong> In <em>Proceedings of the 21st Conference of the International Speech Communication Association (INTERSPEECH)</em>, Shanghai, China, October 25-29.</p>
+<p>N. Monaikul, B. Abbasi, Z. Rysbek, B. Di Eugenio, and M. Zefran. (2020). <strong><a href="https://ieeexplore.ieee.org/document/9223461" target="_blank" rel="noopener">Role Switching in Task-Oriented Multimodal Human-Robot Collaboration</a>.</strong> In <em>Proceedings of the 27th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)</em>, August.</p>
+<p>I. Gupta, B. Di Eugenio, D. Salunke, A.D. Boyd, P. Allen-Meares, C.A. Dickens, and O. Garcia-Bedoya. (2020). <strong><a href="https://www.aclweb.org/anthology/2020.nlpmc-1.6/" target="_blank" rel="noopener">Heart Failure Education of African American and Hispanic/Latino Patients: Data Collection and Analysis</a>.</strong> In <em>Proceedings of the First Workshop on NLP for Medical Conversations</em>, July.</p>
+<p>I. Gupta, B. Di Eugenio, B. Ziebart, A. Baiju, B. Liu, B.S. Gerber, L.K. Sharp, N. Nabulsi, and M.H. Smart. (2020). <strong><a href="https://www.aclweb.org/anthology/2020.sigdial-1.30/" target="_blank" rel="noopener">Human-Human Health Coaching via Text Messages: Corpus, Annotation, and Analysis</a>.</strong> In <em>Proceedings of the 21st Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL)</em>, Online, July.</p>
+<p>N. Monaikul and B. Di Eugenio. (2020). <strong><a href="http://nlp.lab.uic.edu/wp-content/uploads/sites/314/2020/03/ANLP-P-MonaikulN.129.pdf" target="_blank" rel="noopener">Detecting Preposition Errors to Target Interlingual Errors in Second Language Writing</a>.</strong> In <em>Proceedings of the 33rd International FLAIRS Conference</em>, Miami, FL, May 17-20.</p>
+<p>A. Kumar, J. Aurisano, B. Di Eugenio, and A. Johnson. (2020). <strong><a href="http://nlp.lab.uic.edu/wp-content/uploads/sites/314/2020/03/FLAIRS2020_Submission_SLPCS_KumarA_155.pdf" target="_blank" rel="noopener">Intelligent Assistant for Exploring Data Visualizations</a>.</strong> In <em>Proceedings of the 33rd International FLAIRS Conference</em>, Miami, FL, May 17-20.</p>
+<p>I. Gupta, B. Di Eugenio, B. Ziebart, B. Liu, B. Gerber, and L. Sharp. (2020). <strong><a href="http://nlp.lab.uic.edu/wp-content/uploads/sites/314/2020/03/AIHI-GuptaI.186.pdf" target="_blank" rel="noopener">Goal Summarization for Human-Human Health Coaching Dialogues</a>.</strong> In <em>Proceedings of the 33rd International FLAIRS Conference</em>, Miami, FL, May 17-20. (<em><strong>Nominated for Best Student Paper</strong></em>)</p>
+<p>A. Kumar, B. Di Eugenio, J. Aurisano, and A. Johnson. (2020). <strong><a href="http://nlp.lab.uic.edu/wp-content/uploads/sites/314/2020/03/LREC2020_articulate_daclassification.pdf" target="_blank" rel="noopener">Augmenting Small Data to Classify Contextualized Dialogue Acts for Exploratory Visualization</a>.</strong> In <em>Proceedings of the 12th Language Resources and Evaluation Conference (LREC)</em>. Marseille, France, May 11-16.</p>
+<p>S. Farzana, M. Valizadeh, and N. Parde. (2020). <strong><a href="https://www.aclweb.org/anthology/2020.lrec-1.147/" target="_blank" rel="noopener">Modeling Dialogue in Conversational Cognitive Health Screening Interviews</a>.</strong> In <em>Proceedings of the 12th International Conference on Language Resources and Evaluation (LREC)</em>, Marseilles, France, May 11-16.</p>
+<p>M. Alizadeh and B. Di Eugenio. (2020). <strong><a href="http://nlp.lab.uic.edu/wp-content/uploads/sites/314/2020/03/A-Corpus-for-Visual-Question-Answering-Annotated-with-Frame-Semantic-Information.pdf" target="_blank" rel="noopener">A Corpus for Visual Question Answering Annotated with Frame Semantic Information</a>.</strong> In <em>Proceedings of the 12th Language Resources and Evaluation Conference (LREC)</em>, Marseille, France, May 11-16.</p>
+<p>O. AlZoubi, B. Di Eugenio, D. Fossati, N. Green, and M. Alizadeh. (2020). <strong><a href="http://nlp.lab.uic.edu/wp-content/uploads/sites/314/2020/03/CSEDU_2020_Camera_ready_8__pages-1.pdf" target="_blank" rel="noopener">Learning Recursion: Insights from the ChiQat Intelligent Tutoring System</a>.</strong> In <em>Proceedings of the 12th International Conference on Computer Supported Education (CSEDU)</em>, May 2-4.</p>
+<p>X. Dong, D. A. Randolph, and X. Wang. (2020). <strong>The feasibility of garbled circuits for cross-site clinical data analytics.</strong> In <em>Proceedings of the AMIA Informatics Summit</em>, Houston, TX, March 23-26.</p>
+<p>X. Dong and D. A. Randolph. (2020). <strong>Toward a more accurate accrual to clinical trials: Joint cohort discovery using Bloom filters and homomorphic encryption.</strong> In <em>Proceedings of the AMIA Joint Summits on Translational Science</em>, Houston, TX, March 23-26.</p>
+<p>M. Alizadeh and B. Di Eugenio. (2020). <strong><a href="http://nlp.lab.uic.edu/wp-content/uploads/sites/314/2019/12/Augmenting-Visual-Question-Answering-with-Semantic-Frame-Information-in-a-Multitask-Learning-Approach.pdf" target="_blank" rel="noopener">Augmenting Visual Question Answering with Semantic Frame Information in a Multitask Learning Approach</a>.</strong> In <em>Proceedings of the 14th IEEE International Conference on Semantic Computing (ICSC)</em>, San Diego, CA, February 3-5. (<em><strong>Nominated for Best Paper Award</strong></em>)</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="3">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-3"
+          id="tab-sectionID-1-3"
+          type="button">
+            2019
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-3"
+          id="panel-sectionID-1-3"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2019" class="__title invisible">2019</h2>
+        
+            </div>
+
+
+  
+  <p>I. Gupta, B. Di Eugenio, B. Ziebart, B. Liu, B. Gerber, and L. Sharp. (2019). <strong><a href="http://nlp.lab.uic.edu/wp-content/uploads/sites/314/2019/11/igupta-bibm-2019.pdf" target="_blank" rel="noopener">Modeling Health Coaching Dialogues for Behavioral Goal Extraction</a>.</strong> In <em>Proceedings of the</em> <em>2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</em>, San Diego, CA, November 18-21.</p>
+<p>X. Dong, D. A. Randolph, and S. Kolar Rajanna. (2019). <strong>Enabling privacy preserving record linkage systems using asymmetric key cryptography.</strong> In Proceedings of the AMIA Annual Symposium, Washington, DC, November 16-20.</p>
+<p>H. Vatani, S. Acharya, A. D. Boyd, B. Di Eugenio, R. Cameron, P. Martyn-Nemeth, D. Chattopadhyay, P. Habibi, C. Dickens, A. Ardati, and K. Dunn Lopez. (2019). <strong>Patients’ Perceptions of Heart Failure Through the Lens of Standardized Nursing Terminologies </strong>(<a href="http://nlp.lab.uic.edu/wp-content/uploads/sites/314/2019/12/AMIA-2019-Patientsu2019-Perceptions-of-Heart-Failure-Through-the-Lens-of-Standardized-Nursing-Terminologies-wAbstract.pdf" target="_blank" rel="noopener"><strong>abstract</strong></a>)<strong>.</strong> American Medical Informatics Association, November 16-20.</p>
+<p>B. Abbasi, N. Monaikul, Z. Rysbek, B. Di Eugenio, and M. Žefran. (2019). <strong><a href="https://ieeexplore.ieee.org/document/8968505" target="_blank" rel="noopener">A Multimodal Human-Robot Interaction Manager for Assistive Robots</a>.</strong> In <em>Proceedings of the 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019)</em>, Macau, China, November 4-8.</p>
+<p>J. Aurisano, A. Kumar, A. Alsaiari, B. Di Eugenio, and A. E. Johnson. (2019). <a href="https://drive.google.com/file/d/1kRpp7_OSg5hkRvcWd_TPFBjsqNJ3tKAb/view"><strong>Evaluation of scalable interactions over multiple views in large display environments </strong></a>(<strong>poster</strong>)<strong>.</strong> IEEE VIS, Vancouver, BC, Canada, October 20-25.</p>
+<p>S. Acharya, B. Di Eugenio, A. D. Boyd, R. Cameron, K. D. Lopez, P. Martyn-Nemeth, D. Chattopadhyay, P. Habibi, C. Dickens, H. Vatani, and A. Ardati. (2019). <strong><a href="https://www.sigdial.org/files/workshops/conference20/proceedings/cdrom/pdf/W19-5928.pdf" target="_blank" rel="noopener">A quantitative analysis of patients’ narratives of heart failure</a>.</strong> In <em>Proceedings of the 20th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2019)</em>, pp. 232-236, Stockholm, Sweden, September 11-13.</p>
+<p>F. Di Palo and N. Parde. (2019). <a href="https://www.aclweb.org/anthology/P19-2042"><strong>Enriching Neural Models with Targeted Features for Dementia Detection</strong></a><strong>.</strong> In <em>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, Student Research Workshop (ACL SRW 2019)</em>, Florence, Italy, July 28-August 2.</p>
+<p>N. Green, B. Di Eugenio, and D. Fossati. (2019).  <strong>Towards adaptive worked-out examples in an Intelligent Tutoring System </strong>(<strong>short paper</strong>)<strong>.</strong>  In <em>Proceedings of the 20th International Conference on Artificial Intelligence in Education (AIED 2019)</em>, Chicago, IL, June 26-28.</p>
+<p>N. Parde and R. D. Nielsen. (2019). <strong><a href="https://link.springer.com/chapter/10.1007/978-3-030-23207-8_40">AI Meets Austen: Towards Human-Robot Discussions of Literary Metaphor</a>.</strong> In <em>Proceedings of the 20th International Conference on Artificial Intelligence in Education (AIED 2019)</em>, Chicago, Illinois, June 25-29.</p>
+<p>Y. Modi and N. Parde. (2019). <strong><a href="https://www.aclweb.org/anthology/W19-1805">The Steep Road to Happily Ever After: An Analysis of Current Visual Storytelling Models</a>.</strong> In <em>Proceedings of the NAACL 2019 Workshop on Shortcomings in Vision and Language (SiVL 2019)</em>, Minneapolis, Minnesota, June 6.</p>
+<p>S. Acharya, B. Di Eugenio, A. D. Boyd, R. Cameron, K. D. Lopez, P. Martyn-Nemeth, D. Chattopadhyay, P. Habibi, C. Dickens, H. Vatani, and A. Ardati. (2019).  <strong><a href="http://nlp.lab.uic.edu/wp-content/uploads/sites/314/2019/10/Promoting-Patient-Engagement-Through-Personalized-Hospital-Stay-Summaries.pdf" target="_blank" rel="noopener">Promoting Patient Engagement Through Personalized Hospital-Stay Summaries</a>.</strong> In <em>Proceedings of the IEEE International Conference on Biomedical &amp; Health Informatics: Extended Abstracts (BHI&#8217;19)</em>, Chicago, IL, May 19-22.</p>
+<p>S. Farzana and N. Parde. (2019). <strong><a href="http://www.natalieparde.com/papers/bhi2019_farzana_parde.pdf">Virtual-Interviewer: A Conversational Agent Designed to Facilitate Cognitive Health Screening in Older Adults</a>.</strong> In <em>Proceedings of the IEEE-EMBS International Conference on Biomedical and Health Informatics: Extended Abstracts (BHI 2019)</em>, Chicago, Illinois, May 19-22.</p>
+<p>N. Parde and R. D. Nielsen. (2019). <strong><a href="http://www.natalieparde.com/papers/parde_speechchi.pdf">User Perceptions of a Conversational Robot Interface</a>.</strong> In <em>Proceedings of the CHI 2019 Workshop on Mapping Theoretical and Methodological Perspectives for Understanding Speech Interface Interactions (SpeechCHI 2019)</em>, Glasgow, United Kingdom, May 5.</p>
+<p>K. D. Lopez, A. Boyd, S. Acharya, C. Lugaresi, T. Maciera, V. Sousa, A. Balasubramanian, K. Roussi, G. M. Keenan, Y. Lussier, J. Li, M. Burton, and B. Di Eugenio. (2019). <strong>Illustration of an Innovative Method to Analyze Electronic Health Record Documentation Data.</strong> Midwest Nursing Research Society’s 43rd Annual Research Conference, Kansas City, MO, March 27-30.</p>
+<p>X. Dong, E. Sadhu, S. Kolar Rajanna, D. A. Randolph, and E. Barbour. (2019). <a href="http://nlp.lab.uic.edu/wp-content/uploads/sites/314/2019/04/2019_amia_i2b2emulator_uic_ccts.pdf" target="_blank" rel="noopener"><strong>TensorFlow enabled i2b2 emulator.</strong></a> In <em>Proceedings of the American Medical Informatics Association 2019 Informatics Summit</em>, March 25-28.</p>
+<p>P. Habibi, S. Acharya, B. Di Eugenio, R. Cameron, A. D. Boyd, K. D. Lopez, P. Martyn-Nemeth, C. Dickens, A. Ardati, and D. Chattopadhyay. (2019). <strong><a href="https://hci.cs.uic.edu/wp-content/uploads/2019/04/myPHA_WISH_CameraReady_V2.pdf" target="_blank" rel="noopener">Designing self-care technologies for HF patients: A conceptual model</a>.</strong> Workgroup on Interactive Systems in Healthcare (WISH): Extended Abstracts, Glasgow, UK.</p>
+<p>S. Acharya, A. D. Boyd, R. Cameron, K. Dunn Lopez, P. Martyn-Nemeth, C. Dickens, A. Ardati, and B. Di Eugenio. (2019). <a href="https://pdfs.semanticscholar.org/093f/c16b6004670354b6123c18ecd5f84b1d3e92.pdf" target="_blank" rel="noopener"><strong>Incorporating Personalization Features in a Hospital-Stay Summary Generation System</strong></a><strong>.</strong> In <em>Proceedings of the 52nd Hawaii International Conference on System Sciences</em>, Maui, HI, Jan 8-11.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="4">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-4"
+          id="tab-sectionID-1-4"
+          type="button">
+            2018
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-4"
+          id="panel-sectionID-1-4"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2018" class="__title invisible">2018</h2>
+        
+            </div>
+
+
+  
+  <p>N. Parde, R. D. Nielsen. (2018). <a href="http://aclweb.org/anthology/W18-6533" target="_blank" rel="noopener"><strong>Automatically Generating Questions about Novel Metaphors in Literature</strong></a>. Proceedings of the 11th International Conference on Natural Language Generation (INLG), Tilburg, Netherlands, November 5-8.</p>
+<p>S. Acharya S, A. D. Boyd, R. Cameron, K. D. Lopez, P. Martyn-Nemeth, C. Dickens, A. Ardati, J. D. Flores, M. Baumann, B. Welland, B. Di Eugenio. (2018). <strong><a href="https://rdcu.be/88wx" target="_blank" rel="noopener">What happened to me while I was in the hospital? Challenges and opportunities for generating patient-friendly hospitalization summaries</a><em>.</em></strong> Journal of Healthcare Informatics Research.</p>
+<p>I. Gupta, B. Di Eugenio, B. Ziebart, B. Liu, B. Gerber, L. Sharp, R. Davis, A. Baiju. (2018). <strong>Towards a Virtual Assistant Health Coach: Corpus Collection and Annotations</strong> (<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2019/01/Towards-a-virtual-assistant-health-coach-GHC.pdf" target="_blank" rel="noopener"><strong>poster</strong></a>)<strong>.</strong> Grace Hopper Celebration (GHC), Houston, TX, September 26-28.</p>
+<p>D. A. Randolph,  J. Badgerow, C. Raphael, B. Di Eugenio. (2018). <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2019/01/Pydactly-a-python-framework-for-piano-fingering.pdf" target="_blank" rel="noopener"><strong>Pydactyl: A Python framework for piano fingering</strong></a> (<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2019/01/Pydactyl-a-python-framework-for-piano-fingering-poster.pdf" target="_blank" rel="noopener"><strong>poster</strong></a>)<strong>.</strong> In <em>Extended Abstracts for the Late-Breaking Demo Session of the 19th International Society for Music Information Retrieval Conference</em>, Paris, France, September 23-27.</p>
+<p>I. Gupta, B. Di Eugenio, B. Ziebart, B. Liu, B. Gerber, L. Sharp, R. Davis, A. Baiju. (2018). <strong>Towards a Virtual Assistant Health Coach: Corpus Collection and Annotations </strong>(<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2019/01/Towards-a-virtual-assistant-health-coach-Tapia.pdf" target="_blank" rel="noopener"><strong>poster</strong></a>)<strong>.</strong> ACM Richard Tapia Celebration of Diversity in Computing Conference and ACM Student Research Competition (SRC), Orlando, FL, September 19-22.</p>
+<p>I. Gupta, B. Di Eugenio, B. Ziebart, B. Liu, B. Gerber, L. Sharp, R. Davis, A. Baiju. (2018). <strong><a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Towards-Building-a-Virtual-Assistant-Health-Coach.pdf" target="_blank" rel="noopener">Towards Building a Virtual Assistant Health Coach.</a> </strong>The Sixth IEEE International Conference on Healthcare Informatics (ICHI), New York City, NY, USA, June 4-7.</p>
+<p>I. Gupta, B. Di Eugenio, B. Ziebart, B. Liu, B. Gerber, L. Sharp, R. Davis, A. Baiju. (2018). <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Creating-and-Annotating-a-Corpus-of-Health-Coaching-Dialogue..pdf" target="_blank" rel="noopener"><strong>Creating and Annotating a Corpus of Health Coaching Dialogue.</strong></a> The Second Widening Natural Language Processing (WiNLP) Workshop, New Orleans, LA, USA, June 1.</p>
+<p>S. Acharya, B. Di Eugenio, A. D. Boyd, R. Cameron, K. Dunn Lopez, P. Martyn-Nemeth, C. Dickens, A. Ardati. (2018). <strong><a href="https://www.aclweb.org/anthology/N18-4011.pdf" target="_blank" rel="noopener">Towards generating personalized hospitalization summaries</a>.</strong> In <em>Proceedings of the NAACL Student Research Workshop</em>.</p>
+<p>A. D. Boyd, K. D. Lopez, C. Lugaresi, T. Macieira, V. Soussa, S. Acharya, A. Balasubramanian, K. Roussi, G. M. Keenan, Y. A. Lussier, J. J. Li, M. Burton, B. Di Eugenio. <strong><a href="https://doi.org/10.1016/j.ijmedinf.2018.02.002" target="_blank" rel="noopener">Physician nurse care: A new use of UMLS to measure professional contribution</a>. </strong>International Journal of Medical Informatics, Volume 113, pp 63-71, May 2018.</p>
+<p>S. Acharya, A. D. Boyd, K. D. Lopez, R. Cameron, B. Di Eugenio. (2018). <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Determining-Medical-Term-Complexity.pdf" target="_blank" rel="noopener"><strong>Determining Medical Term Complexity: Features Identification and Comparison of Classification Techniques.</strong></a> AMIA 2018 Clinical Informatics Conference, Scottsdale, AZ, May 8-10 (Poster).</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="5">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-5"
+          id="tab-sectionID-1-5"
+          type="button">
+            2017
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-5"
+          id="panel-sectionID-1-5"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2017" class="__title invisible">2017</h2>
+        
+            </div>
+
+
+  
+  <p>S. Acharya, B. Di Eugenio, A. D. Boyd, R. Cameron, K. Dunn Lopez, P. Martyn-Nemeth, C. Dickens, A. Ardati. (2017). <strong><a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Personalizing-hospital-stay-summaries.pdf" target="_blank" rel="noopener">Personalizing hospital-stay summaries for patients</a>.</strong> ACM TAPIA Conference, Atlanta, GA, September 20-23 (Poster).</p>
+<p>A. Kumar, B. Di Eugenio, J. Aurisano,  A. Johnson, A. Alsaiari, N. Flowers, A. Gonzalez and J. Leigh. <strong>Multimodal Coreference Resolution for Exploratory Data Visualization Dialogue: Context-Based Annotation and Gesture Identification.</strong> SemDial 2017, The 21st Workshop on the Semantics and Pragmatics of Dialogue, August 15-17,  Saarbrücken, Germany.</p>
+<p>C. Howard, B. Di Eugenio,  P. Jordan, S. Katz. <strong><a href="http://onlinelibrary.wiley.com/doi/10.1111/cogs.12415/full" target="_blank" rel="noopener">Exploring Initiative as a Signal of Knowledge Co-Construction During Collaborative Problem Solving</a></strong>. Cognitive Science, 41(6): 1422-1449, August 2017.</p>
+<p>R. Harsley, B. Di Eugenio, N. Green, D. Fossati. <strong>Collaborative Intelligent Tutoring Systems: Comparing Learner Outcomes Across Varying Collaboration Feedback Strategies.</strong> CSCL 2017, the 12th International Conference on Computer Supported Collaborative Learning. June 2017, Philadelphia, PA.</p>
+<p>R. Harsley, B. Di Eugenio, N. Green, D. Fossati. <strong><a href="https://link.springer.com/chapter/10.1007/978-3-319-61425-0_54" target="_blank" rel="noopener">Enhancing an Intelligent Tutoring System to Support Student Collaboration: Effects on Learning and Behavior</a>.</strong> AIED 2017, International Conference on Artificial Intelligence in Education, June-July 2017, Wuhan, China. 519-522.</p>
+<p>R. Harsley, D. Fossati, B. Di Eugenio, N. Green. <strong><a href="https://dl.acm.org/citation.cfm?id=3017786" target="_blank" rel="noopener">Interactions of Individual and Pair Programmers with an Intelligent Tutoring System for Computer Science</a></strong>. Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science (SigCSE 17), 2017.</p>
+<p>C. Howard, P. Jordan, B. Di Eugenio, S. Katz. <strong><a href="https://link.springer.com/article/10.1007/s40593-015-0071-y" target="_blank" rel="noopener">Shifting the load: A peer dialogue agent that encourages its human collaborator to contribute more to problem solving</a></strong>. International Journal of Artificial Intelligence in Education 27 (1), 101-129.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="6">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-6"
+          id="tab-sectionID-1-6"
+          type="button">
+            2016
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-6"
+          id="panel-sectionID-1-6"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2016" class="__title invisible">2016</h2>
+        
+            </div>
+
+
+  
+  <p>D. A. Randolph, B. Di Eugenio. <strong><a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Dactylize.pdf" target="_blank" rel="noopener">Dactylize: Automatically collecting piano fingering data from performance</a> (<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/poster1.pdf" target="_blank" rel="noopener">poster</a>).</strong> In Extended Abstracts for the Late-Breaking Demo Session of the 17th International Society for Music Information Retrieval Conference, New York, USA, August 2016</p>
+<p>D. A. Randolph, B. Di Eugenio. (2016). <strong><a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Easy-as-abcDE.pdf" target="_blank" rel="noopener">Easy as abcDE: Piano fingering transcription online</a> (<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/poster2.pdf" target="_blank" rel="noopener">poster</a>). </strong>In Extended Abstracts for the Late-Breaking Demo Session of the 17th International Society for Music Information Retrieval Conference. New York , USA, August 2016</p>
+<p>S. Acharya, B. Di Eugenio, A. D. Boyd, K. Dunn Lopez, R. Cameron, G. M Keenan. <strong><a href="http://www.aclweb.org/anthology/W16-6604" target="_blank" rel="noopener">Generating summaries of hospitalizations: A new metric to assess the complexity of medical terms and their definitions</a>.</strong> Proceedings of the 9th International Natural Language Generation (INLG 2016), Edinburgh, UK, September 5-8 2016 (Short paper)</p>
+<p>S. Acharya, B. Di Eugenio, A. D. Boyd, K. Dunn Lopez.<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Towards-generating-comprehensible-hospital-stay-summaries-for-patients.pdf" target="_blank" rel="noopener"> <strong>Towards generating comprehensible hospital-stay summaries for patients.</strong></a> 2016 International Conference on Healthcare Informatics (ICHI) Doctoral Consortium, IEEE, Chicago, IL, October 2016.</p>
+<p>A.  Kumar, J. Aurisano, B. Di Eugenio, A. Johnson, A. Gonzalez and J. Leigh. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Towards-a-dialogue-system-that-supports-rich-visualizations-of-data.pdf" target="_blank" rel="noopener"><strong>Towards a dialogue system that supports rich visualizations of data.</strong></a> The 17th Annual SIGdial Meeting on Discourse and Dialogue (SIGDIAL 2016). Los Angeles, USA, September 13-15 2016 (Short paper)</p>
+<p>J. Aurisano, A.  Kumar, A. Gonzalez, J. Leigh, B. Di Eugenio, and A. Johnson. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Articulate2-Toward-a-Conversational-Interface.pdf" target="_blank" rel="noopener"><strong>Articulate2: Toward a Conversational Interface for Visual Data Exploration.</strong></a> VIS 2016. Baltimore, Maryland, October 2016</p>
+<p>R. Harsley, B. Gupta, B. Di Eugenio, H. Li. <strong><a href="http://www.aclweb.org/anthology/W16-0406" target="_blank" rel="noopener">Hit Songs&#8217; Sentiments Harness Public Mood and Predict Stock Market</a></strong>. Proceedings of the 7th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis. San Diego, CA, June 2016</p>
+<p>N. Green, B. Di Eugenio, R. Harsley, D. Fossati, O. Alzoubi. <a href="https://link.springer.com/chapter/10.1007/978-3-319-39583-8_46" target="_blank" rel="noopener"><strong>Behavior and Learning of Students using Worked-out Examples in a Tutoring System</strong>.</a> 13th International Conference on Intelligent Tutoring Systems. Zagreb, Croatia, June 2016</p>
+<p>R. Harsley, B. Di Eugenio, N. Green, D. Fossati, S. Acharya. <a href="https://link.springer.com/chapter/10.1007/978-3-319-39583-8_22" target="_blank" rel="noopener"><strong>Integrating Support for Collaboration in a Computer Science Intelligent Tutoring System</strong>.</a> 13th International Conference on Intelligent Tutoring Systems. Zagreb, Croatia, June 2016</p>
+<p>R. Harsley, N. Green, B. Di Eugenio, S. Acharya, D. Fossati, O. AlZoubi. <strong><a href="https://dl.acm.org/citation.cfm?id=2869118" target="_blank" rel="noopener">Collab-ChiQat: A Collaborative Remaking of a Computer Science Intelligent Tutoring System.</a></strong> CSCW &#8217;16: Computer Supported Cooperative Work and Social Computing Companion Proceedings. San Francisco, CA, USA, 2016</p>
+<p>R. Harsley, N. Green, M. Alizadeh, S. Acharya, D. Fossati, B. Di Eugenio, O. AlZoubi. <strong><a href="https://dl.acm.org/citation.cfm?id=2844637" target="_blank" rel="noopener">Incorporating Analogies and Worked Out Examples as Pedagogical Strategies in a Computer Science Tutoring System</a>. </strong>Proceedings of the 47th ACM Technical Symposium on Computer Science Education (SIGCSE). Memphis, TN, USA, 2016</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="7">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-7"
+          id="tab-sectionID-1-7"
+          type="button">
+            2015
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-7"
+          id="panel-sectionID-1-7"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2015" class="__title invisible">2015</h2>
+        
+            </div>
+
+
+  
+  <p>K. Roussi, V. Soussa, K. Dunn Lopez, A. Balasubramanian, G. M. Keenan, M. Burton, N. Bahroos, B. Di Eugenio, and A. D. Boyd. <strong>&#8220;Are we talking about the same patient?&#8221;. MEDINFO 2015: </strong><strong>eHealth-enabled Health 2015.</strong> Sao Paulo, Brazil, Aug. 2015. Studies in health technology and informatics 216: 1059 (Poster)</p>
+<p>J. Aurisano, A. Kumar, A. Gonzales, K. Reda, J. Leigh, B. Di Eugenio, A. Johnson. <strong>&#8220;Show Me Data&#8221;. Observational Study of a Conversational Interface in Visual Data Exploration.</strong> IEEE Visualization Conference 2015. Chicago, IL, Oct 2015</p>
+<p>J. Booth, B. Di Eugenio, I. F. Cruz, O. Wolfson. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Robust-Natural-Language-Processing-for-Urban-Trip-Planning.pdf" target="_blank" rel="noopener"><strong>Robust Natural Language Processing for Urban Trip Planning.</strong></a> Applied Artificial Intelligence 29 (9), pp.859-903, 2015</p>
+<p>C. Howard, P. Jordan, B. Di Eugenio, S. Katz. <strong><a href="https://link.springer.com/article/10.1007/s40593-015-0071-y" target="_blank" rel="noopener">Shifting the Load: a Peer Dialogue Agent that Encourages its Human Collaborator to Contribute More to Problem Solving</a>. </strong>International Journal of Artificial Intelligence in Education. Published online: 27 October 2015.</p>
+<p>N. Green, D. Fossati, B. Di Eugenio, R. Harsley, O. AlZoubi, M. Alizadeh. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Student-Behavior.pdf" target="_blank" rel="noopener"><strong>Student Behavior with Worked-out Examples in a Computer Science Intelligent Tutoring System.</strong></a> 3rd International Conference on Educational Technologies. Florianópolis, Santa Catarina, Brazil, 2015</p>
+<p>B. Di Eugenio, N. Green, O. AlZoubi, M. Alizadeh, R. Harsley, D. Fossati. <strong><a href="https://dl.acm.org/citation.cfm?id=2808011" target="_blank" rel="noopener">Worked-out Examples in a Computer Science Intelligent Tutoring System.</a></strong> The 16th Annual Conference on Information Technology Education. Chicago, IL, 2015</p>
+<p>O. AlZoubi, D. Fossati, B. Di Eugenio, N. Green, M. Alizadeh, R. Harsley. <strong><a href="https://dl.acm.org/citation.cfm?id=2808006.2808030" target="_blank" rel="noopener">A Hybrid Model for Teaching Recursion</a>.</strong> The 16th Annual Conference on Information Technology Education. Chicago, IL, 2015</p>
+<p>R. Harsley. <strong><a href="https://dl.acm.org/citation.cfm?id=2787742" target="_blank" rel="noopener">Learning Together: Expanding the One-To-One ITS Model for Computer Science Education.</a> </strong>In Proceedings of the 11th International Conference on Computing Education Research. Omaha, NE, 2015</p>
+<p>R. Harsley, N. Green, M. Alizadeh, A. Tandon, A. Prabhu. <strong>Sick Kitty – Toward Promoting Deductive Reasoning through an Embodied Medical Diagnosis Game. </strong>In Proceedings of the Games Learning Society (GLS) Conference. Madison, WA: ETC Press, 2015</p>
+<p>L. Chen, M. Javaid, B. Di Eugenio, M. Žefran. <strong>The roles and recognition of Haptic-Ostensive actions in collaborative multimodal human–human dialogues</strong>.  Computer Speech &amp; Language. Vol 32(1), pp. 201-231, Nov. 2015</p>
+<p>N. Green, O. AlZoubi, M. Alizadeh, B. Di Eugenio, D. Fossati, R. Harsley.<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/A-Scalable-Intelligent-Tutoring-System.pdf" target="_blank" rel="noopener"> <strong>A Scalable Intelligent Tutoring System Framework for Computer Science Education.</strong></a> 7th International Conference on Computer Supported Education (CSEDU&#8217;15). May 2015</p>
+<p>M. Alizadeh, B. Di Eugenio, R. Harsley, N. Green, D. Fossati, O. AlZoubi. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/A-Study-of-Analogy-in-Computer-Science-Tutorial-Dialogues.pdf" target="_blank" rel="noopener"><strong>A Study of Analogy in Computer Science Tutorial Dialogues.</strong></a> 7th International Conference on Computer Supported Education (CSEDU&#8217;15). May 2015</p>
+<p>D. Fossati, B. Di Eugenio, S. Ohlsson, C. Brown, and L. Chen. <strong>Data driven automatic feedback generation in the iList intelligent tutoring system.</strong> Technology, Instruction, Cognition and Learning. Vol 10(1), pp.5-26, 2015.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="8">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-8"
+          id="tab-sectionID-1-8"
+          type="button">
+            2014
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-8"
+          id="panel-sectionID-1-8"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2014" class="__title invisible">2014</h2>
+        
+            </div>
+
+
+  
+  <p>R. Harsley, <strong>Towards a Collaborative Intelligent Tutoring System Classification Scheme</strong>, Cognition and Exploratory Learning in Digital Age 2014, October 2014</p>
+<p>D. Randolph, <strong>Didactyl: Toward a Useful Computational Model of Piano Fingering</strong>, Presented at the Chicago Colloquium on Digital Humanities and Computer Science, October 2014</p>
+<p>H. Wang, B. Di Eugenio, S. Lin, C. T. Yu, <strong>Distinguishing Different Types of Conference Submissions: The ACL Case Study</strong>, Presented at the Chicago Colloquium on Digital Humanities and Computer Science based on this paper, October 2014</p>
+<p>O. Alzoubi, D. Fossati, B. Di Eugenio, and N. Green. <a href="http://www.fossati.us/papers/alzoubi-aiedcs14.pdf" target="_blank" rel="noopener"><strong>ChiQat-Tutor: An Integrated Environment for Learning Recursion</strong></a>. <em>Proc. of the Second Workshop on AI-supported Education for Computer Science (AIEDCS) (at ITS 2014).</em> Honolulu, HI, June 2014.</p>
+<p>B. Di Eugenio, A. D. Boyd, C. Lugaresi, A. Balasubramanian, G. M. Keenan, M. Burton, T. G. Rezende Macieira, K. Dunn Lopez, C. Friedman, J. Li, and Y. A. Lussier, <a href="https://www.aclweb.org/anthology/W14-4402/" target="_blank" rel="noopener"><strong>PatientNarr: Towards generating patient-centric summaries of hospital stays,</strong></a> <em>Proc. of the Eighth International Natural Language Generation Conference, INLG 2014</em>, Philadelphia, PA, June 2014.</p>
+<p>M. Žefran, M. Javaid, and B. Di Eugenio, <a href="https://ieeexplore.ieee.org/document/6926357" target="_blank" rel="noopener"><strong>Communication through Physical Interaction: A Study of Human Collaborative Manipulation of a Planar Object</strong></a>, <em>Proc. of the 23rd Annual IEEE International Symposium on Robot and Human Interactive Communication (IEEE RO-MAN 2014),</em> Edinburgh, Scotland, August 2014.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="9">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-9"
+          id="tab-sectionID-1-9"
+          type="button">
+            2013
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-9"
+          id="panel-sectionID-1-9"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2013" class="__title invisible">2013</h2>
+        
+            </div>
+
+
+  
+  <p>Omar Alzoubi, Davide Fossati, Barbara Di Eugenio, Nick Green and Lin Chen. <a href="http://nlp.lab.uic.edu/wp-content/uploads/sites/314/2020/09/alzoubi-icce13.pdf" target="_blank" rel="noopener"><strong>Predicting Students&#8217; Performance and Problem Solving Behavior from iList Log Data</strong></a>. ICCE 2013, The 21st International Conference on Computers in Education, pp. 127-132, Nov 18-22, 2013, Bali, Indonesia.</p>
+<p>Barbara Di Eugenio, Camillo Lugaresi, Gail M Keenan, Yves A. Lussier, Jianrong Li, Mike Burton, Carol Friedman, Andrew D. Boyd, <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/HospSum.pdf"><strong>HospSum: Integrating physician discharge notes with coded nursing care data to generate patient-centric summaries</strong>,</a> American Medical Informatics Association AMIA 2013 Annual Symposium, Washington DC, November 16-20th, 2013 (Abstract).</p>
+<p>Barbara Di Eugenio, Nick Green, Rajen Subba.  <a href="http://nlp.lab.uic.edu/wp-content/uploads/sites/314/2019/01/Detecting-life-events-in-feeds-from-twitter.pdf"><strong>Detecting Life Events in Feeds from Twitter.</strong></a> ICSC 2013, Seventh IEEE International Conference on Semantic Computing, Irvine CA, September 16-18, 2013</p>
+<p>Lin Chen and Barbara Di Eugenio.<a title="Chen Di Eugenio SigDial 2013" href="http://aclweb.org/anthology//W/W13/W13-4031.pdf" target="_blank" rel="noopener"> <strong>Multimodality and Dialogue Act Classification in the RoboHelper Project.</strong></a> SigDIal 2013, the  14th Annual Meeting of the Special Interest Group on Discourse and Dialogue Metz, France, 22-24 August 2013, <a name="183"></a>pp. 183–192.</p>
+<p>Camillo Lugaresi and Barbara Di Eugenio. <a title="Lugaresi Di Eigenio ACL 2013" href="http://aclweb.org/anthology//P/P13/P13-1027.pdf" target="_blank" rel="noopener"><strong>Translating Italian connectives into Italian Sign Language.</strong></a> ACL 2013,The 51st Annual Meeting of the Association for Computational Linguistics, Sofia, Bulgaria, August 4-9, 2013, pp. 270&#8211;280. Judged as one of the <a title="Top Ten Papers ACL 13" href="http://lightsidelabs.com/2013/08/07/lightsides-top-ten-papers-at-acl-2013/" target="_blank" rel="noopener">&#8220;<strong>10 best papers of ACL 2013&#8243;</strong></a><strong>.</strong></p>
+<p>Yiwen Sun, Jason Leigh, Andrew Johnson and Barbara Di Eugenio. <strong>Articulate: Creating Meaningful Visualizations from Natural Language</strong>, In “Innovative Approaches of Data Visualization and Visual Analytics, Huang, M., Huang, W., editors. IGI Global</p>
+<p>Barbara Di Eugenio, Lin Chen, Nick Green, Davide Fossati and Omar Alzoubi. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Worked-Out-Examples.pdf"><strong>Worked Out Examples in Computer Science Tutoring.</strong></a> AIED 2013, the 16th International Conference on Artificial Intelligence in Education, Memphis TN, July 2013 (Short paper)</p>
+<p>N. Green, R. Bartholomew, U. Buy. <strong>Assessing Performance of Software Defined Radios on Multicore Hardware.</strong> SDR-WInnComm-Europe 2013, Munich Germany, June 2013</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="10">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-10"
+          id="tab-sectionID-1-10"
+          type="button">
+            2012
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-10"
+          id="panel-sectionID-1-10"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2012" class="__title invisible">2012</h2>
+        
+            </div>
+
+
+  
+  <p>Swati Tata and Barbara Di Eugenio. <strong>SongRecommend: From Summarization to Recommendation. </strong>Natural Language Engineering. Available on Cambridge Journals Online, FirstView Article, pp 1-39, Published online: 28 September 2012. DOI: http://dx.doi.org/10.1017/S1351324912000253<strong><br />
+</strong></p>
+<p>H.-J. Song, J.-W. Son, T.-G. Noh, S.-B. Park and S.-J. Lee. <a href="http://www.aclweb.org/anthology-new/P/P12/P12-1108.pdf" target="_blank" rel="noopener"><strong>A Cost Sensitive Part-of-speech Tagging: Differentiating Serious Errors from Minor Errors</strong></a>. In ACL 2012, the 50th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies, Jeju, South Korea. July 8-14, 2012</p>
+<p>Anruo Wang, Barbara Di Eugenio and Lin Chen. <a href="http://www.aclweb.org/anthology-new/W/W12/W12-1640.pdf" target="_blank" rel="noopener"><strong>Improving Sentence Completion in Dialogues with Multi-Modal Features</strong></a>. In SIGDIAL 2012, the 13th SIGDIAL Meeting on Discourse and Dialogue, Seoul, South Korea. July 5-6, 2012.</p>
+<p>Lin Chen and Barbara Di Eugenio. <a href="http://www.aclweb.org/anthology-new/N/N12/N12-1058.pdf" target="_blank" rel="noopener"><strong>Co-reference via Pointing and Haptics in Multi-Modal Dialogues</strong></a>. In NAACL HLT 2012, the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Montreal, Quebec, Canada. June 3-8, 2012.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="11">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-11"
+          id="tab-sectionID-1-11"
+          type="button">
+            2011
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-11"
+          id="panel-sectionID-1-11"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2011" class="__title invisible">2011</h2>
+        
+            </div>
+
+
+  
+  <p>Lin Chen, Barbara Di Eugenio, Davide Fossati, Stellan Ohlsson and David Cosejo. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Exploring-Effective-Dialogue.pdf"><strong>Exploring Effective Dialogue Act Sequences in One-on-one Computer Science Tutoring Dialogues</strong>.</a> In BEA6, The 6th Workshop on Innovative Use of NLP for Building Educational Applications, Portland, Oregon, USA. June 2011 (Poster).</p>
+<p>Lin Chen, Anruo Wang and Barbara Di Eugenio. <strong><a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Improving-Pronominal-and-Deictic-Co-Reference-Resolution.pdf">Improving Pronominal and Deictic Co-Reference Resolution with Multi-Modal Features</a>.</strong> In SIGDIAL 2011, The 12th SIGDIAL Meeting on Discourse and Dialogue, Portland, Oregon, USA. June 2011 (Poster).</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="12">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-12"
+          id="tab-sectionID-1-12"
+          type="button">
+            2010
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-12"
+          id="panel-sectionID-1-12"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2010" class="__title invisible">2010</h2>
+        
+            </div>
+
+
+  
+  <p>Barbara Di Eugenio, Milos Zefran, Jezekiel Ben-Arie, Mark Foreman, Lin Chen, Simone Franzini, Shankaranand Jagadeesan, Maria Javaid and Kai Ma. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Towards-Effective-Communication-with-Robotic-Assistants.pdf"><strong>Towards Effective Communication with Robotic Assistants for the Elderly: Integrating Speech, Vision and Haptics</strong></a>. Dialog with Robots, AAAI 2010 Fall Symposium, Arlington, VA, USA. November 2010.</p>
+<p>Adam Kurmally, Barbara Di Eugenio, Charles E. Kahn Jr. and Susan McRoy. <a href="https://dl.acm.org/citation.cfm?id=1883077"><strong>Building a corpus and developing a question classifier to support messaging-based question answering</strong></a>. ACM International Health Informatics Symposium, IHI 2010, Arlington, VA, USA, November 2010.</p>
+<p>Lin Chen and Barbara Di Eugenio. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/A-Maximum-Entropy-Approach.pdf"><strong>A Maximum Entropy Approach To Disambiguating VerbNet Classes</strong></a>. 2nd Interdisciplinary Workshop on Verbs, &#8220;The Identification and Representation of Verb Features&#8221;. Pisa, Italy. November 2010.</p>
+<p>Barbara Di Eugenio, Zhuli Xie and Riccardo Serafin. <strong>&#8220;<a href="http://elanguage.net/journals/index.php/dad/article/view/112/755">Dialogue Act Classification, Instance-Based Learning, and Higher Order Dialogue Structure</a>&#8220;.</strong> Journal of Discourse and Dialogue Research. Vol. 1(2): 1-24, July 2010.</p>
+<p>Barbara Di Eugenio, Nancy Green. <strong>Emerging applications of Natural Language Generation in Information Visualization, Education, and Health-Care.</strong> The Handbook of Natural Language Processing (Second Edition). Nitin Indurkhya, Frederic Damerau (Eds.), CRC Press, Taylor and Francis Group. Pp. 557-575. 2010.</p>
+<p>Lin Chen and Barbara Di Eugenio. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/A-Lucene-and-Maximum-Entropy.pdf"><strong>A Lucene and Maximum Entropy Model Based Hedge Detection System</strong></a>. CoNLL 2010 : Shared Task, Fourteenth Conference on Computational Natural Language Learning, Uppsala, Sweden. July 2010.</p>
+<p>Swati Tata and Barbara Di Eugenio.<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Generating-fine-grained-reviews.pdf"> <strong>Generating fine-grained reviews of songs from album reviews</strong></a>. ACL 2010, The 48th Annual Meeting of the Association for Computational Linguistics, Uppsala, Sweden. July 2010.</p>
+<p>Cynthia Kersey, Barbara Di Eugenio, Pamela Jordan, Sandra Katz. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/KSC-PaL.pdf"><strong>KSC-PaL: A Peer Learning Agent</strong></a>. ITS 2010, The Tenth International Conference on Intelligent Tutoring Systems, Pittsburgh, Pennsylvania, USA. June 2010. Pittsburgh, PA</p>
+<p>Davide Fossati, Barbara Di Eugenio, Stellan Ohlsson, Christopher Brown and Lin Chen. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Generating-proactive-feedback.pdf"><strong>Generating proactive feedback to help students stay on track</strong></a>. ITS 2010, The Tenth International Conference on Intelligent Tutoring Systems, Pittsburgh, Pennsylvania, USA. June 2010. Pittsburgh, PA (poster)</p>
+<p>Alberto Tretti, Barbara Di Eugenio.<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Analysis-and-presentation.pdf"> <strong>Analysis and presentation of results for mobile local search</strong></a>. LREC 2010, The seventh international conference on Language Resources and Evaluation. Valletta, Malta. May 2010.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="13">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-13"
+          id="tab-sectionID-1-13"
+          type="button">
+            2009
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-13"
+          id="panel-sectionID-1-13"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2009" class="__title invisible">2009</h2>
+        
+            </div>
+
+
+  
+  <p align="left">Joel Booth, Barbara Di Eugenio, Isabel Cruz, Ouri Wolfson. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Query-Sentences-as-Semantic.pdf" target="_blank" rel="noopener">Query Sentences as Semantic (Sub) Networks</a>. The 3rd IEEE International Conference on Semantic Computing (ICSC). Berkeley, CA, USA. September, 2009.</p>
+<p align="left">Davide Fossati, Barbara Di Eugenio, Stellan Ohlsson, Christopher Brown, Lin Chen, and David Cosejo. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/I-learn-from-you-you-learn-from-me.pdf" target="_blank" rel="noopener">I learn from you, you learn from me: How to make iList learn from students</a> . AIED 2009, The 14th International Conference on Artificial Intelligence in Education. Brighton, UK. July 2009.</p>
+<p align="left">Cynthia Kersey, Barbara Di Eugenio, Pamela Jordan, and Sandra Katz. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Knowledge-Co-construction.pdf">Knowledge Co-construction and Initiative in Peer Learning Interactions</a> . AIED 2009, The 14th International Conference on Artificial Intelligence in Education. Brighton, UK. July 2009.</p>
+<p align="left">Barbara Di Eugenio, Davide Fossati, Stellan Ohlsson, and David Cosejo. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Towards-explaining-effective-tutorial-dialogues.pdf" target="_blank" rel="noopener">Towards explaining effective tutorial dialogues</a> . CogSci 2009, The Annual Meeting of the Cognitive Science Society. Amsterdam, The Netherlands. July 2009.</p>
+<p align="left">Rajen Subba and Barbara Di Eugenio. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/An-effective-Discourse-Parser.pdf" target="_blank" rel="noopener">An effective Discourse Parser that uses Rich Linguistic Information</a>. NAACL-HLT 2009. The 2009 Annual Conference of the North American Chapter of the Association for Computational Linguistics. Boulder, Co. June 2009.</p>
+<p align="left">Cynthia Kersey, Barbara Di Eugenio, Pamela Jordan, and Sandra Katz. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/KSC-PaL-2009.pdf">KSC-PaL: A Peer Learning Agent that Encourages Students to take the Initiative</a> . NAACL-HLT 2009 Workshops, The 4th Workshop on Innovative Use of NLP for Building Educational Applications. Boulder, Co. June 2009.</p>
+<p align="left">Davide Fossati, Barbara Di Eugenio, Christopher Brown, Stellan Ohlsson, David Cosejo, and Lin Chen. Supporting Computer Science curriculum: Exploring and learning linked lists with iList . IEEE Transactions on Learning Technologies, Special Issue on Real-World Applications of Intelligent Tutoring Systems, vol. 2 no. 2, pp. 107-120. April-June 2009.</p>
+<p align="left">Joel Booth, Prasad Sistla, Ouri Wolfson, Isabel F. Cruz. A Data Model for Trip Planning in Multimodal Transportation Systems. The 12th International Conference on Extending Database Technology (EDBT). Saint Petersburg, Russia. March, 2009.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="14">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-14"
+          id="tab-sectionID-1-14"
+          type="button">
+            2008
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-14"
+          id="panel-sectionID-1-14"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2008" class="__title visible">2008</h2>
+        
+            </div>
+
+
+  
+  <p align="left">Barbara Di Eugenio, Davide Fossati, Susan Haller, Dan Yu, and Michael Glass. Be brief, and they shall learn: Generating Concise Language Feedback for a Computer Tutor. International Journal of AI in Education, 18(4). 2008.</p>
+<p align="left">Davide Fossati, Barbara Di Eugenio, Christopher Brown, and Stellan Ohlsson. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Learning-Linked-Lists.pdf">Learning Linked Lists: Experiments with the iList System</a> . ITS 2008, The 9th International Conference on Intelligent Tutoring Systems. LNCS 5091, pp. 80-89. Montreal, Canada. 2008. <strong>Nominated for best paper award.</strong></p>
+<p align="left">Cynthia Kersey, Barbara Di Eugenio, Pamela Jordan, and Sandra Katz. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Modeling-Knowledge.pdf">Modeling Knowledge Co-Construction for Peer Learning Interactions</a>. ITS 2008, The 9th International Conference on Intelligent Tutoring Systems, Student Research Workshop. Montreal, Canada. 2008.</p>
+<p align="left">Joel Booth, Barbara Di Eugenio, Isabel Cruz, Ouri Wolfson. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Understanding-Ambiguous-Language.pdf" target="_blank" rel="noopener">Understanding Ambiguous Language in Context-Aware Mobile Querying</a>. The Mobile Language Processing Workshop at The 46th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL-HLT). Columbus, OH. 2008.</p>
+<p align="left">Davide Fossati. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/The-role-of-positive-feedback.pdf">The role of positive feedback in Intelligent Tutoring Systems</a> . ACL 2008, The 46th Annual Meeting of the Association for Computational Linguistics, Student Research Workshop. Columbus, OH. 2008.</p>
+<p align="left">Cynthia Kersey. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Impact-of-Initiative.pdf">Impact of Initiative on Collaborative Problem Solving</a>. ACL 2008, The 46th Annual Meeting of the Association for Computational Linguistics, Student Research Workshop. Columbus, OH. 2008.</p>
+<p align="left">Xin Lu, Barbara Di Eugenio, Stellan Ohlsson, and Davide Fossati. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Simple-but-effective-feedback.pdf">Simple but effective feedback generation to tutor abstract problem solving</a> . INLG 2008, 5th International Natural Language Generation Conference. Salt Fork, Ohio. 2008.</p>
+<p align="left">Davide Fossati and Barbara Di Eugenio. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/I-saw-TREE-trees.pdf">I saw TREE trees in the park: How to correct real-word spelling mistakes</a> . LREC 2008, The sixth international conference on Language Resources and Evaluation. Marrakech, Morocco. May 2008.</p>
+<p align="left">Zhuli Xie, Barbara Di Eugenio, and Peter C. Nelson. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/From-Extracting-to-Abstracting.pdf">From Extracting to Abstracting: Generating Quasi-abstractive Summaries</a> . LREC 2008, The sixth International Conference on Language Resources and Evaluation, Marrakech, Morocco. May 2008.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="15">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-15"
+          id="tab-sectionID-1-15"
+          type="button">
+            2007
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-15"
+          id="panel-sectionID-1-15"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2007" class="__title visible">2007</h2>
+        
+            </div>
+
+
+  
+  <p align="left">Stellan Ohlsson, Barbara Di Eugenio, Bettina Chow, Davide Fossati, Xin Lu, and Trina C. Kershaw. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Beyond-the-code-and-count.pdf">Beyond the code-and-count analysis of tutoring dialogues</a> . The 13th International Conference on Artificial Intelligence in Education. Marina Del Rey, CA. 2007.</p>
+<p align="left">Xin Lu, Barbara Di Eugenio, and Stellan Ohlsson. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Learning-Tutorial-Rules.pdf">Learning Tutorial Rules using Classification Based on Associations</a> . The 13th International Conference on Artificial Intelligence in Education. Marina Del Rey, CA. 2007 (Poster).</p>
+<p align="left">Rajen Subba and Barbara Di Eugenio. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Automatic-Discourse-Segmentation.pdf">Automatic Discourse Segmentation Using Neural Networks</a> . DECALOG &#8211; The 2007 Workshop on the Semantics and Pragmatics of Dialogue, Trento, Italy. May- 2007 (Poster).</p>
+<p align="left">Cynthia Kersey, Barbara Di Eugenio, Pamela Jordan, and Sandra Katz. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Collaboration-in-Peer-Learning-Dialogues.pdf">Collaboration in Peer Learning Dialogues</a> . Decalog: The 2007 Workshop on the Semantics and Pragmatics of Dialogue, Trento, Italy, May 2007 (Poster).</p>
+<p align="left">Rajen Subba. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Exploiting-Event-Semantics-to-Parse-the-Rhetorical-Structure.pdf">Exploiting Event Semantics to Parse the Rhetorical Structure of Natural Language Text</a> . NAACL 2007, Proceedings of the Doctoral Consortium, the North American chapter for the Association for Computational Linguistics, Rochester, USA. April 2007.</p>
+<p align="left">X. Lu, B. Di Eugenio, T. C. Kershaw, S. Ohlsson, A. Corrigan-Halpern. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Expert-vs.-Non-expert-Tutoring.pdf" target="_blank" rel="noopener">Expert vs. Non-expert Tutoring: Dialogue Moves, Interaction Patterns and Multi-Utterance Turns</a> . CICLing-2007, The Eighth International Conference on Intelligent Text Processing and Computational Linguistics, Mexico City, Mexico, February 2007. <strong>Best student paper award.</strong></p>
+<p align="left">D. Fossati, B. Di Eugenio. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/A-Mixed-Trigrams-Approach.pdf">A Mixed Trigrams Approach for Context Sensitive Spell Checking</a> . CICLing-2007, The Eighth International Conference on Intelligent Text Processing and Computational Linguistics, Mexico City, Mexico, February 2007.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="16">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-16"
+          id="tab-sectionID-1-16"
+          type="button">
+            2006
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-16"
+          id="panel-sectionID-1-16"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2006" class="__title visible">2006</h2>
+        
+            </div>
+
+
+  
+  <p align="left">Massimo Poesio, Amrita Patel and Barbara Di Eugenio. Discourse Structure and Anaphora in Tutorial Discourse: an Empirical Analysis of two Theories of the Global Focus. Research in Language and Computation, Vol 4(2-3): 229-257, 2006</p>
+<p align="left">Xin Lu. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Expert-Tutoring-and-Natural-Language.pdf">Expert Tutoring and Natural Language Feedback in Intelligent Tutoring Systems</a> . Doctoral Student Consortium at the 14th International Conference on Computers in Education (ICCE2006), 2006, Beijing, China</p>
+<p align="left">Xin Lu, Barbara Di Eugenio, Trina Kershaw, Andrew Corrigan-Halpern and Stellan Ohlsson. Tutorial Dialogues: <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Tutorial-Dialogue-Patterns.pdf">Expert vs. Non-Expert Tutors</a> . The 3rd Midwest Computational Linguistics Colloquium, 2006, Urbana, Illinois</p>
+<p align="left">Barbara Di Eugenio, Trina Kershaw, Xin Lu, Andrew Corrigan-Halpern and Stellan Ohlsson. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Toward-a-computational-model.pdf">Toward a Computational Model of Expert Tutoring: A First Report</a> .The 19th International FLAIRS Conference, 2006, Melbourne Beach, Florida</p>
+<p align="left">Rajen Subba, Barbara Di Eugenio, Elena Terenzi. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Building-lexical-resources.pdf">Building Lexical Resources for PrincPar, a large coverage parser that generates principled semantic representations</a>. LREC 2006, The fifth international conference on Language Resources and Evaluation, Genoa, Italy. May 2006.</p>
+<p align="left">Rajen Subba, Barbara Di Eugenio, Su Nam Kim. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Discourse-Parsing-Learning-FOL.pdf">Learning FOL Rules based on Rich Verb Semantic Representations to automatically label Rhetorical Relations</a> . EACL 2006, Workshop on Learning Structured Information in Natural Language Applications, The 11th conference of the European chapter of the Association for Computational Linguistics, Trento, Italy. April 2006.</p>
+<p>Davide Fossati, Gabriele Ghidoni, Barbara Di Eugenio, Isabel Cruz, Huiyong Xiao, and Rajen Subba. <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/The-problem-of-ontology.pdf">The problem of ontology alignment on the web: a first report</a>. EACL 2006, Workshop on Web As Corpus, The 11th conference of the European chapter of the Association for Computational Linguistics, Trento, Italy. April 2006. Here is the <a href="http://nlp.cs.uic.edu/PS-papers/matcher-dataset.tgz">dataset</a> used for the experiments reported in this paper.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="17">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-17"
+          id="tab-sectionID-1-17"
+          type="button">
+            2005
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-17"
+          id="panel-sectionID-1-17"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2005" class="__title visible">2005</h2>
+        
+            </div>
+
+
+  
+  <p align="left">B. Di Eugenio, D. Fossati, D. Yu, S. Haller, M. Glass.<a title="Natural Language Generation" href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Natural-Language-Generation.pdf">Natural Language Generation for Intelligent Tutoring Systems: a case study</a>. AIED 2005, the 12th International Conference on Artificial Intelligence in Education, Amsterdam, The Netherlands, July 2005.<strong>Nominated for best paper award.</strong></p>
+<p align="left">B. Di Eugenio, X. Lu, T. C. Kershaw, A. Corrigan-Halpern, S. Ohlsson.<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Positive-and-negative.pdf">Positive and negative verbal feedback for Intelligent Tutoring Systems</a>. AIED 2005, the 12th International Conference on Artificial Intelligence in Education, Amsterdam, The Netherlands, July 2005 (poster)</p>
+<p align="left">B. Di Eugenio, D. Fossati, D. Yu, S. Haller, M. Glass.<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Aggregation-improves-learning.pdf">Aggregation improves learning: experiments in Natural Language Generation for Intelligent Tutoring Systems</a>. ACL05, 43rd Meeting of the Association for Computational Linguistics, Ann Arbor, MI, USA, June 2005</p>
+<p align="left">B. Di Eugenio, M. J. Trolio.<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Generating-driving-directions.pdf">Generating driving directions for intelligent vehicles interfaces</a>. ECBS05, the 12th IEEE International Conference on the Engineering of Computer-Based Systems, Greenbelt, MD, USA, April 2005</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="18">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-18"
+          id="tab-sectionID-1-18"
+          type="button">
+            2004
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-18"
+          id="panel-sectionID-1-18"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2004" class="__title invisible">2004</h2>
+        
+            </div>
+
+
+  
+  <p align="left">Massimo Poesio, Rosemarie Stevenson, Barbara Di Eugenio and Janet Hitzeman.<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Centering.pdf">Centering: a parametric theory and its instantiations</a>. Computational Linguistics 30(3), pp. 309-363.</p>
+<p align="left">Z. Xie, X. Li, B. Di Eugenio, P. C. Nelson, W. Xiao, T. M. Tirpak.Using Gene Expression Programming to Construct Sentence Ranking Functions for Text Summarization. COLING04, The 20th International Conference on Computational Linguistics, Geneva, Switzerland, August (project note).</p>
+<p align="left">Riccardo Serafin and Barbara Di Eugenio. FLSA:<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/FLSA.pdf">Extending Latent Semantic Analysis with features for dialogue act classification</a>. ACL04, 42nd Annual Meeting of the Association for Computational Linguistics, Barcelona, Spain, July.</p>
+<p align="left">Barbara Di Eugenio and Michael Glass.The Kappa statistic: a second look. Computational Linguistics 30(1) (squib).</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="19">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-19"
+          id="tab-sectionID-1-19"
+          type="button">
+            2003
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-19"
+          id="panel-sectionID-1-19"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2003" class="__title visible">2003</h2>
+        
+            </div>
+
+
+  
+  <p align="left">Riccardo Serafin, Barbara Di Eugenio and Michael Glass.<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Latent-Semantic.pdf">Latent Semantic Analysis for dialogue act classification</a>. HLT-NAACL03, 2003 Human Language Technology Conference, Edmonton, Canada, May (Short Paper) [.pdf] (Superseded by the ACL04 paper)</p>
+<p align="left">Elena Terenzi and Barbara Di Eugenio.<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Building-lexical-semantic.pdf">Building lexical semantic representations for Natural Language instructions</a>. HLT-NAACL03, 2003 Human Language Technology Conference}, Edmonton, Canada, May (Short Paper)</p>
+<p align="left">Susan Haller, Barbara Di Eugenio.Minimal Text Structuring to Improve the Generation of Feedback in Intelligent Tutoring Systems. FLAIRS 2003, the 16th International Florida AI Research Symposium, May</p>
+<p align="left">Barbara Di Eugenio, Susan Haller, Michael Glass.<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Development-and-Evaluation.pdf">Development and evaluation in a small shop</a>. AAAI Spring Symposium on Natural Language Generation in Spoken and Written Dialogue, Stanford, March 03.</p>
+<p align="left">Barbara Di Eugenio.<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Discourse-Processing.pdf">Discourse Processing</a>. Encyclopedia of Cognitive Science, L. Nadel editor, London: Nature Publishing Group, Vol. 1, 976&#8211;983.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="20">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-20"
+          id="tab-sectionID-1-20"
+          type="button">
+            2002
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-20"
+          id="panel-sectionID-1-20"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2002" class="__title invisible">2002</h2>
+        
+            </div>
+
+
+  
+  <p align="left">Barbara Di Eugenio, Michael Glass, Michael J. Trolio.<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/The-DIAG-experiments.pdf">The DIAG experiments: Natural Language Generation for Intelligent Tutoring Systems</a>. The Second International Natural Language Generation Conference, Harriman, NY, July.</p>
+<p align="left">Barbara Di Eugenio, Michael Glass, Michael J. Scott.<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/The-binomial-cumulative-distribution.pdf">The binomial cumulative distribution, or, is my system better than yours?</a>LREC2002, the Third International Conference on Language Resources and Evaluation, Las Palmas, Spain, June.</p>
+<p align="left">Susan Haller, Barbara Di Eugenio and Michael J. Trolio.<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Generating-Natural-Language.pdf">Generating Natural Language Aggregations Using a Propositional Representation of Sets</a>. FLAIRS 2002, the 15th International Florida AI Research Symposium, Pensacola Beach, FL, May.</p>
+<p align="left">Michael Glass, Barbara Di Eugenio.<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/MUP.pdf">MUP &#8211; The UIC Standoff Markup Tool</a>. The Third SigDIAL Workshop on Discourse and Dialogue. Philadelphia, PA, July.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="21">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-21"
+          id="tab-sectionID-1-21"
+          type="button">
+            2001
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-21"
+          id="panel-sectionID-1-21"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2001" class="__title invisible">2001</h2>
+        
+            </div>
+
+
+  
+  <p align="left">Barbara Di Eugenio.<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Natural-Language-Processing.pdf">Natural Language Processing for Computer-supported Instruction</a>. ACM Intelligence, 12(4):22-32, Winter.</p>
+<p align="left">Massimo Poesio, Barbara Di Eugenio.Discourse Structure and Anaphoric Accessibility. ESSLLI2001 Workshop on Information Structure, Discourse Structure and Discourse Semantics. Helsinki, Finland</p>
+<p align="left">Barbara Di Eugenio, Michael Glass, Michael J. Trolio and Susan Haller.<a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Simple-Natural-Language.pdf">Simple Natural Language Generation and Intelligent Tutoring Systems</a>. Workshop on Tutorial Dialogue Systems, 10th International Conference on Artificial Intelligence and Education, San Antonio, TX, May.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="listitem"
+          aria-level="22">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-22"
+          id="tab-sectionID-1-22"
+          type="button">
+            2000
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-22"
+          id="panel-sectionID-1-22"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="2000" class="__title invisible">2000</h2>
+        
+            </div>
+
+
+  
+  <p align="left">Barbara Di Eugenio, Pamela W. Jordan, Richmond H. Thomason, Johanna D. Moore, <a href="http://nlp.cs.uic.edu/PS-papers/ijhcs00.ps.gz" target="_blank" rel="noopener">The agreement process: an empirical investigation of human-human computer-mediated collaborative dialogues</a> . International Journal of Human Computer Studies, 2000.</p>
+<p align="left">Barbara Di Eugenio, <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Lexical-Semantics-and-Knowledge.pdf" target="_blank" rel="noopener">Lexical Semantics and Knowledge Representation in Multilingual Text Generation</a> (by Manfred Stede), Computational Linguistics, Vol. 26(2), pp. 270-273, 2000.</p>
+<p align="left">Barbara Di Eugenio, <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/On-the-usage-of-Kappa.pdf">On the usage of Kappa to evaluate agreement on coding tasks</a> , LREC2000, the Second International Conference on Language Resources and Evaluation, Athens, Greece, 2000.</p>
+<p align="left">Barbara Di Eugenio, Michael J. Trolio, <a href="http://nlp-lab.red.uic.edu/wp-content/uploads/sites/314/2018/06/Can-simple-Natural-Language-Generation-improve-Intelligent-Tutoring-Systems.pdf">Can simple Natural Language Generation improve Intelligent Tutoring Systems</a> , AAAI 2000 Fall Symposium on Building Dialogue Systems for Tutorial Applications, North Falmouth, MA, 2000.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    
+    </dl>
+  </div>
+
+  
+</section>
+
+    
+
+</div>
+          </article>
+        </div>
+
+                                            
+                       
+              
+                            
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+                       
+              
+                            
+
+
+
+
+   
+
+
+          
+                          </div>
+    </main>
+
+    
+        <footer id="footer" class="footer" role="contentinfo">
+
+  <div class="footer-contact">
+    <div class="l-full">
+
+          <div class="simple-footer-contact">
+  <div class="simple-footer-contact__wordmark">
+    <div class="footer-logo">
+          <div class="site-logo-footer">
+        <a href="  https://www.uic.edu/
+">  <svg class="large-brand-mark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 358.3167 68.6566">
+  <title>University of Illinois Chicago</title>
+  <g id="full-rgb">
+    <g id="type">
+      <path id="type_PathItem_" data-name="type &lt;PathItem&gt;" d="M92.7856,19.8163a4.11,4.11,0,0,1-.2419,1.8878l-.0015.0035a2.5166,2.5166,0,0,1-4.1817-.0035,4.1121,4.1121,0,0,1-.2418-1.8878V13.0625H85.9158V19.85a5.8717,5.8717,0,0,0,.6027,3.2111,5.1431,5.1431,0,0,0,7.8682-.0015,5.87,5.87,0,0,0,.6022-3.21V13.0625H92.7856Z" style="fill: #001e62"/>
+      <path id="type_PathItem_2" data-name="type &lt;PathItem&gt;" d="M109.3292,16.9944c0,1.0914.0154,2.4014.0254,3.2684.0019.1761.0034.3329.0049.4633-.2055-.3329-.4982-.8-.6833-1.083l-4.3509-6.5353-.03-.0453h-2.0381V24.6888H104.46V20.7739c0-1.61-.012-3.1012-.0254-3.8632l.0119.02c.1379.23.326.5449.5152.8416l4.5017,6.87.03.0463h2.0386V13.0625h-2.2028Z" style="fill: #001e62"/>
+      <rect id="type_PathItem_3" data-name="type &lt;PathItem&gt;" x="118.8786" y="13.0625" width="2.2197" height="11.6263" style="fill: #001e62"/>
+      <path id="type_PathItem_4" data-name="type &lt;PathItem&gt;" d="M132.7558,20.83l-.3225,1.1154c-.0777-.337-.1951-.7988-.2877-1.1159l-2.3407-7.7666h-2.33L131.06,24.6171l.0224.0717H133.7l3.7616-11.6263h-2.2983Z" style="fill: #001e62"/>
+      <polygon id="type_PathItem_5" data-name="type &lt;PathItem&gt;" points="145.767 19.683 151.193 19.683 151.193 17.682 145.767 17.682 145.767 15.064 151.747 15.064 151.747 13.063 143.547 13.063 143.547 24.689 152.167 24.689 152.167 22.688 145.767 22.688 145.767 19.683" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_" data-name="type &lt;CompoundPathItem&gt;" d="M166.1337,19.4978a3.3559,3.3559,0,0,0,1.5573-2.89,3.2638,3.2638,0,0,0-1.6808-3.011,5.7594,5.7594,0,0,0-2.923-.5346h-4.2847V24.6888h2.22V20.12h1.9052l2.6542,4.5689h2.64l-2.8847-4.82A4.8207,4.8207,0,0,0,166.1337,19.4978Zm-5.1114-4.45h2.0649a3.9609,3.9609,0,0,1,1.5718.21,1.3748,1.3748,0,0,1,.745,1.301,1.4382,1.4382,0,0,1-.7445,1.3338,3.9589,3.9589,0,0,1-1.5723.21h-2.0649Z" style="fill: #001e62"/>
+      <path id="type_PathItem_6" data-name="type &lt;PathItem&gt;" d="M179.5681,17.9027,178.191,17.6c-1.3548-.2987-1.7679-.6127-1.7679-1.3448,0-.8665.7839-1.4264,1.9978-1.4264a3.6688,3.6688,0,0,1,2.8772,1.3393l.0642.0791,1.6912-1.3751-.0722-.08a5.907,5.907,0,0,0-4.51-1.9315c-2.56,0-4.4186,1.47-4.4186,3.4948,0,2.32,1.8738,3.0225,3.5063,3.3754l1.5294.336c1.1532.2508,1.8679.5688,1.8679,1.3786,0,.9038-.8287,1.4433-2.2163,1.4433a3.9186,3.9186,0,0,1-3.3057-1.6976l-.0572-.0946L173.5255,22.43l.0587.0826a6.1858,6.1858,0,0,0,5.0552,2.3775c2.8473,0,4.6868-1.4244,4.6868-3.6292C183.3262,19.1793,181.8889,18.4327,179.5681,17.9027Z" style="fill: #001e62"/>
+      <rect id="type_PathItem_7" data-name="type &lt;PathItem&gt;" x="189.9646" y="13.0625" width="2.2178" height="11.6263" style="fill: #001e62"/>
+      <polygon id="type_PathItem_8" data-name="type &lt;PathItem&gt;" points="198.459 15.064 201.802 15.064 201.802 24.689 204.021 24.689 204.021 15.064 207.346 15.064 207.346 13.063 198.459 13.063 198.459 15.064" style="fill: #001e62"/>
+      <polygon id="type_PathItem_9" data-name="type &lt;PathItem&gt;" points="217.674 17.855 214.807 13.063 212.233 13.063 216.463 19.946 216.463 24.689 218.681 24.689 218.681 19.948 223.152 13.063 220.589 13.063 217.674 17.855" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_2" data-name="type &lt;CompoundPathItem&gt;" d="M241.2135,12.861c-3.2958,0-5.5105,2.4173-5.5105,6.0147,0,3.71,2.1112,6.0147,5.5105,6.0147s5.51-2.3049,5.51-6.0147C246.7231,15.2783,244.5093,12.861,241.2135,12.861Zm0,2.0012c1.9162,0,3.1067,1.5379,3.1067,4.0135,0,2.492-1.1617,3.98-3.1067,3.98s-3.1066-1.4876-3.1066-3.98C238.1069,16.4,239.2974,14.8622,241.2135,14.8622Z" style="fill: #001e62"/>
+      <polygon id="type_PathItem_10" data-name="type &lt;PathItem&gt;" points="260.476 15.064 260.476 13.063 252.915 13.063 252.915 24.689 255.135 24.689 255.135 19.834 260.257 19.834 260.257 17.833 255.135 17.833 255.135 15.064 260.476 15.064" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_3" data-name="type &lt;CompoundPathItem&gt;" d="M90.5916,55.4592H85.9075V34.3649h4.6841Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_4" data-name="type &lt;CompoundPathItem&gt;" d="M100.3152,34.3649V51.24h8.4375v4.2188H95.6312V34.3649Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_5" data-name="type &lt;CompoundPathItem&gt;" d="M116.5858,34.3649V51.24h8.4375v4.2188H111.9017V34.3649Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_6" data-name="type &lt;CompoundPathItem&gt;" d="M132.8563,55.4592h-4.6841V34.3649h4.6841Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_7" data-name="type &lt;CompoundPathItem&gt;" d="M147.6981,42.6164c1.6748,2.7607,3.102,5.3975,3.102,5.3975h.0308s-.1861-4.1563-.1861-6.6075V34.3649h4.6221V55.4592h-4.7148l-4.9947-8.128c-1.1787-1.9541-3.1953-5.6767-3.1953-5.6767h-.0307s.2168,3.5058.2168,6.8867v6.918h-4.6529V34.3649h4.7461Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_8" data-name="type &lt;CompoundPathItem&gt;" d="M169.5174,33.9924c6.2353,0,10.206,4.4365,10.206,10.92,0,6.4521-3.6914,10.9189-10.206,10.9189-6.4214,0-10.2061-4.4668-10.2061-10.9189C159.3113,38.4289,163.282,33.9924,169.5174,33.9924Zm0,17.8994c3.5674,0,5.522-2.5752,5.522-6.98s-2.0166-7.0732-5.522-7.0732c-3.5366,0-5.522,2.6679-5.522,7.0732S165.9188,51.8918,169.5174,51.8918Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_9" data-name="type &lt;CompoundPathItem&gt;" d="M188.4935,55.4592h-4.6846V34.3649h4.6846Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_10" data-name="type &lt;CompoundPathItem&gt;" d="M206.3939,40.1662a7.8829,7.8829,0,0,0-5.46-2.2959c-1.9541,0-3.3193.8066-3.3193,2.1406,0,1.3643.9619,1.9229,2.8847,2.2949l3.4121.6827c3.9092.7754,6.3594,2.3271,6.3594,6.05,0,4.373-3.8769,6.7929-8.8721,6.7929a11.9752,11.9752,0,0,1-9.5234-4.4052l3.2578-2.7911a7.9406,7.9406,0,0,0,6.39,3.2881c2.4511,0,3.8779-.9619,3.8779-2.5127,0-1.458-1.2412-1.8613-3.1641-2.2031l-2.73-.5273c-3.8466-.7442-6.7627-2.1407-6.7627-6.2657,0-3.7851,3.5049-6.4218,8.127-6.4218a11.5274,11.5274,0,0,1,8.5,3.3193Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_11" data-name="type &lt;CompoundPathItem&gt;" d="M239.7122,50.8371c-1.582,3.1016-4.3115,4.9941-8.5615,4.9941-6.2978,0-10.082-4.4668-10.082-10.9189,0-6.4834,3.9707-10.92,10.082-10.92a9.0173,9.0173,0,0,1,8.7168,5.3974l-3.9082,1.6446a4.8027,4.8027,0,0,0-4.7471-3.1953c-3.4736,0-5.459,2.6679-5.459,7.0732s1.9229,6.98,5.459,6.98a4.7273,4.7273,0,0,0,4.6533-2.8848Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_12" data-name="type &lt;CompoundPathItem&gt;" d="M247.9505,46.7111v8.7481h-4.6836V34.3649h4.6836v8.1275h7.8174V34.3649h4.6846V55.4592h-4.6846V46.7111Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_13" data-name="type &lt;CompoundPathItem&gt;" d="M270.22,55.4592h-4.6836V34.3649H270.22Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_14" data-name="type &lt;CompoundPathItem&gt;" d="M292.9007,50.8371c-1.582,3.1016-4.3115,4.9941-8.5615,4.9941-6.2969,0-10.0821-4.4668-10.0821-10.9189,0-6.4834,3.9708-10.92,10.0821-10.92A9.0173,9.0173,0,0,1,293.056,39.39l-3.9082,1.6446a4.8028,4.8028,0,0,0-4.7471-3.1953c-3.4736,0-5.459,2.6679-5.459,7.0732s1.9229,6.98,5.459,6.98a4.7273,4.7273,0,0,0,4.6533-2.8848Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_15" data-name="type &lt;CompoundPathItem&gt;" d="M299.4085,55.4592h-4.9326L301.58,34.3649h5.6767l7.042,21.0943h-5.0263l-1.24-4.1875h-7.414Zm5.6768-13.99c-.3721-1.334-.7129-2.73-.7129-2.73h-.0313s-.372,1.3964-.7754,2.7607l-1.8,5.9258h5.0567Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_16" data-name="type &lt;CompoundPathItem&gt;" d="M325.5931,33.9924A9.0173,9.0173,0,0,1,334.31,39.39l-3.9082,1.6446a4.8028,4.8028,0,0,0-4.7471-3.1953c-3.4736,0-5.49,2.6679-5.49,7.0732,0,4.4668,1.9541,7.166,5.5215,7.166,3.0712,0,4.4668-1.9551,4.7158-4.4678h-5.9873V43.4846h10.0195V55.4592h-4.0947V53.5978a7.2147,7.2147,0,0,1-5.49,2.2334c-5.7705,0-9.3378-4.4668-9.3378-10.9189C315.5111,38.4289,319.4818,33.9924,325.5931,33.9924Z" style="fill: #001e62"/>
+      <path id="type_CompoundPathItem_17" data-name="type &lt;CompoundPathItem&gt;" d="M348.1107,33.9924c6.2353,0,10.206,4.4365,10.206,10.92,0,6.4521-3.6914,10.9189-10.206,10.9189-6.4219,0-10.2061-4.4668-10.2061-10.9189C337.9046,38.4289,341.8753,33.9924,348.1107,33.9924Zm0,17.8994c3.5673,0,5.5214-2.5752,5.5214-6.98s-2.0156-7.0732-5.5214-7.0732c-3.5362,0-5.5215,2.6679-5.5215,7.0732S344.512,51.8918,348.1107,51.8918Z" style="fill: #001e62"/>
+    </g>
+    <g id="logoMark">
+      <rect id="logoMark_PathItem_" data-name="logoMark &lt;PathItem&gt;" x="31.7455" y="24.1714" width="6.7174" height="22.3922" style="fill: #fff"/>
+      <path id="logoMark_PathItem_2" data-name="logoMark &lt;PathItem&gt;" d="M20.9464,37.54a4.7676,4.7676,0,0,1-.757,3.1632,3.24,3.24,0,0,1-2.6327.9214,3.24,3.24,0,0,1-2.6357-.9214,4.7673,4.7673,0,0,1-.7576-3.1632V24.1714H7.4444V37.41c0,3.1288.3308,4.6412,1.2211,6.1589,1.4817,2.4694,5.4315,3.423,8.8912,3.423,3.4544,0,7.4074-.9536,8.8882-3.423.89-1.5177,1.2211-3.03,1.2211-6.1589V24.1714h-6.72Z" style="fill: #fff"/>
+      <path id="logoMark_PathItem_3" data-name="logoMark &lt;PathItem&gt;" d="M52.884,41.5255c-2.8642,0-4.3148-2.3059-4.3148-6.16,0-3.8819,1.4506-6.2527,4.3148-6.2527,2.1075,0,3.3256,1.2831,3.8875,3.4554l5.8254-2.7981c-1.1194-2.9308-4.2782-5.9919-9.6123-5.9919-6.9811,0-11.2619,4.709-11.2619,11.5873,0,6.85,4.05,11.5925,11.1294,11.5925,5.103,0,8.2988-2.4688,9.8783-6.06L56.638,38.7266A3.7235,3.7235,0,0,1,52.884,41.5255Z" style="fill: #fff"/>
+      <path id="logoMark_CompoundPathItem_" data-name="logoMark &lt;CompoundPathItem&gt;" d="M34.3313,0a34.3283,34.3283,0,1,0,34.33,34.3282A34.3291,34.3291,0,0,0,34.3313,0ZM14.921,40.7031a3.24,3.24,0,0,0,2.6357.9214,3.24,3.24,0,0,0,2.6327-.9214,4.7676,4.7676,0,0,0,.757-3.1632V24.1714h6.72V37.41c0,3.1288-.3315,4.6412-1.2211,6.1589-1.4808,2.4694-5.4338,3.423-8.8882,3.423-3.46,0-7.4095-.9536-8.8912-3.423-.89-1.5177-1.2211-3.03-1.2211-6.1589V24.1714h6.719V37.54A4.7673,4.7673,0,0,0,14.921,40.7031Zm16.8245,5.8605V24.1714h6.7174V46.5636Zm21.1066.3949c-7.08,0-11.1294-4.7424-11.1294-11.5925,0-6.8783,4.2808-11.5873,11.2619-11.5873,5.3341,0,8.4929,3.0611,9.6123,5.9919l-5.8254,2.7981c-.5619-2.1723-1.78-3.4554-3.8875-3.4554-2.8642,0-4.3148,2.3708-4.3148,6.2527,0,3.8536,1.4506,6.16,4.3148,6.16a3.7235,3.7235,0,0,0,3.754-2.7989L62.73,40.8984C61.1509,44.49,57.9551,46.9585,52.8521,46.9585Z" style="fill: #d50032"/>
+    </g>
+  </g>
+</svg>
+</a>
+      </div>
+        </div>
+  </div>
+
+
+  <div class="simple-footer-contact__contact">
+        <h2 class="simple-footer-contact_f_header ">Contact</h2>
+    <div class="simple-footer-contact__contact-container">  <div class="site-unit-name"><h3>Natural Language Processing Laboratory</h3></div>
+            <div class="site-email"><a  href="mailto:bdieugen@uic.edu">bdieugen@uic.edu</a></div>
+</div>
+    <div class="simple-footer-contact__contact-container">        </div>
+  </div>
+
+
+  <div class="simple-footer-contact__site-social-links">
+     <div aria-label="Social Media Accounts" class="site-social-links">
+  <h2 class="site-social-links__header assistive-text">Social Media Accounts</h2>
+  <ul class="site-social-links__list">
+                          </ul>
+</div>
+  </div>
+
+</div>
+    
+    </div>
+  </div>
+
+  
+  <div class="footer-uic-menu">
+    <div class="l-full flexer">
+
+      <div aria-label="UIC.edu Links">
+  <h2 class="assistive-text">UIC.edu links</h2>
+  <ul class="uic-footer-menu">
+    <li><strong><a href="https://uic.edu/">UIC.edu</a></strong></li>
+    <li><a href="https://catalog.uic.edu/ucat/academic-calendar/">Academic Calendar</a></li>
+    <li><a href="https://uicflames.com/">Athletics</a></li>
+    <li><a href="https://www.uic.edu/apps/departments-az/search">Campus Directory</a></li>
+    <li><a href="https://disabilityresources.uic.edu/">Disability Resources</a></li>
+    <li><a href="https://emergency.uic.edu/">Emergency Information</a></li>
+    <li><a href="https://today.uic.edu/events">Event Calendar</a></li>
+    <li><a href="https://uic.edu/about/job-opportunities">Job Openings</a></li>
+    <li><a href="https://library.uic.edu/">Library</a></li>
+    <li><a href="https://maps.uic.edu/">Maps</a></li>
+    <li><a href="https://ready.uic.edu/digital-materials/uic-safe-mobile-app/">UIC Safe Mobile App</a></li>
+    <li><a href="https://today.uic.edu/">UIC Today</a></li>
+    <li><a href="https://uihealth.uic.edu/">UI Health</a></li>
+    <li><a href="https://dos.uic.edu/student-veterans-affairs/">Veterans Affairs</a></li>
+  </ul>
+</div>
+
+  
+    </div>
+  </div>
+
+  <div class="footer-legal">
+    <div class="l-full">
+
+      <div class="red-version">Powered by Red 3.0.33</div>
+
+<div class="site-copyright">
+  &copy; 2021 The Board of Trustees of the University of Illinois <span class="pipe-separator">|</span>
+  <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a>
+</div>
+
+<div class="campuses" aria-label="Campuses">
+  <h2 class="assistive-text">Campuses</h2>
+  <ul class="campuses-list">
+    <li><a href="https://www.uillinois.edu/">University of Illinois System</a></li>
+    <li><a href="https://illinois.edu/">Urbana-Champaign</a></li>
+    <li><a href="https://www.uis.edu/">Springfield</a></li>
+  </ul>
+</div>
+    </div>
+  </div>
+
+  
+  
+
+</footer>
+
+	    </div>
+
+
+  <script type='text/javascript' src='https://nlp.lab.uic.edu/wp-content/plugins/uic-red/js-admin/uic-publish-post-settings.js?ver=1.0.0' id='uic-publish-settings-js'></script>
+<script type='text/javascript' src='https://nlp.lab.uic.edu/wp-content/plugins/uic-red/js-admin/acf-field-group-toggle.js?ver=1.0.0' id='acf-field-group-toggle-js'></script>
+<script type='text/javascript' src='//www.uic.edu/apps/web-alert/alert.js?ver=3' id='web-alert-js-js'></script>
+<script type='text/javascript' src='https://nlp.lab.uic.edu/wp-content/themes/uic-red/js/main.js?ver=1' id='main-js'></script>
+<script type='text/javascript' src='https://nlp.lab.uic.edu/wp-includes/js/wp-embed.min.js?ver=797ab4b087a327bd009281ec75f90d4f' id='wp-embed-js'></script>
+
+
+  
+
+  
+  
+  </body>
+</html>

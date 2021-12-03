@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=694, user-scalable=no">
+        <title>Proofpoint Targeted Attack Protection</title>
+        <link href="/jasset/stylesheets/common.css" media="all" rel="stylesheet" type="text/css" />
+        <link href='/jasset/images/favicon.ico' rel='shortcut icon'>
+    </head>
+    <body>
+        <div class='warningbox shadow'>
+            <div class='en title' style="background-image:url('/jasset/images/warning.png')">We're Stopping Targeted Attacks</div>
+            <div class='description'>
+                <p style="direction:ltr">This domain is part of the cybersecurity system that protects enterprise users from <a href="https://www.proofpoint.com/us/threat-insight/introduction-to-threats">targeted phishing email and threats</a>. If your organization (or an organization from which you've received a forwarded email) is using <a href="https://www.proofpoint.com/us/solutions/products/targeted-attack-protection">Proofpoint's Targeted Attack Protection</a> product for advanced threat security, you may have received emails with URLs pointing to this domain.</p>
+                <p style="direction:ltr">Every link starting with 'urldefense.proofpoint.com' is part of the TAP system. This checks that websites are safe to visit, with no malware. If the site is deemed safe by Proofpoint, your browser will redirect you to the original URL web destination. If the site is hosting malware, TAP will block users from accessing the malicious site.</p>
+                <p style="direction:ltr">For more details, please visit our website at <a href="http://www.proofpoint.com/">www.proofpoint.com</a></p>
+                <p style="direction:ltr">Thank you for your interest!</p>
+                <p style="direction:ltr">&nbsp;&nbsp;&nbsp;&nbsp;- The Proofpoint Team</p>
+
+            </div>
+
+            <div class='logo'><img alt="Proofpoint_logo" src="/jasset/images/proofpoint_logo.jpeg" /></div>
+            <div class='footer'>
+                Powered by Proofpoint
+            </div>
+        </div>
+    </body>
+</html>

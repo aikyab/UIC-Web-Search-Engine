@@ -1,0 +1,163 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- DW6 -->
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>CMHSRP: Employment Intervention Demonstration Project-Home</title>
+<link rel="stylesheet" href="2col_leftNav.css" type="text/css" />
+<script language="JavaScript" type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script>
+</head>
+<body onload="MM_preloadImages('images/cmhsrplogo2_r1_c2_f3.gif','images/cmhsrplogo2_r1_c2_f2.gif','images/cmhsrplogo2_r2_c2_f3.gif','images/cmhsrplogo2_r2_c2_f2.gif')"><!-- #BeginLibraryItem "/Library/eidp.masthead.lbi" --><body>
+<div id="masthead">
+
+<div style="float:right;width:219px;height:65px">
+	<div><a href="http://www.uic.edu/" target="_top" onclick="MM_nbGroup('down','navbar1','cmhsrplogo2_r1_c2','../images/cmhsrplogo2_r1_c2_f3.gif',1)" onmouseover="MM_nbGroup('over','cmhsrplogo2_r1_c2','../images/cmhsrplogo2_r1_c2_f2.gif','../images/cmhsrplogo2_r1_c2_f3.gif',1)" onmouseout="MM_nbGroup('out');"><img src="../images/cmhsrplogo2_r1_c2.gif" alt="University of Illinois at Chicago" name="cmhsrplogo2_r1_c2" width="219" height="40" border="0" id="cmhsrplogo2_r1_c2" /></a></div>
+<div>
+
+<a href="http://www.psych.uic.edu/" target="_top" onclick="MM_nbGroup('down','navbar1','cmhsrplogo2_r2_c2','../images/cmhsrplogo2_r2_c2_f3.gif',1)" onmouseover="MM_nbGroup('over','cmhsrplogo2_r2_c2','../images/cmhsrplogo2_r2_c2_f2.gif','../images/cmhsrplogo2_r2_c2_f3.gif',1)" onmouseout="MM_nbGroup('out');"><img src="../images/cmhsrplogo2_r2_c2.gif" alt="Department of Psychiatry" name="cmhsrplogo2_r2_c2" width="219" height="25" border="0" id="cmhsrplogo2_r2_c2" /></a></div>
+</div>
+
+<a href="https://www.psych.uic.edu/research/center-on-mental-health-services-research-and-policy/about-us/about-the-center"><img src="../images/cmhsrplogo2_r1_c1.gif" alt="Center on Mental Health Services Research and Policy" name="cmhsrplogo2_r1_c1" width="541" height="65" border="0" id="cmhsrplogo2_r1_c1" /></a>
+
+<div id="globalNav"> <div id="skip"><a href="#content">Skip site navigation, go to content</a></div>
+
+<a href="https://www.psych.uic.edu/research/center-on-mental-health-services-research-and-policy/about-us/about-the-center">CMHSRP Home</a>|
+      <a href="https://www.psych.uic.edu/research/center-on-mental-health-services-research-and-policy/our-team">Contact
+      Us </a> &nbsp;
+ </div>
+</div><!-- #EndLibraryItem --><!-- begin 2 or 3 column code -->
+<div id="content">
+<h2 id="pageName">Employment Intervention Demonstration Program (EIDP)<br />
+  / Home</h2>
+  <p><a href="https://ajp.psychiatryonline.org/doi/full/10.1176/appi.ajp.2016.15101359"><strong>NEW!</strong> Research shows that supported employment effects last over a decade</a></p>
+  <p><a href="https://onlinecounselingprograms.com/resources/disclose-mental-health-condition-at-work/"><strong>NEW!</strong> Resources for deciding about disclosure at work</a></p>
+  <p><a href="https://www.center4healthandsdc.org/peers-in-se.html"><strong>NEW!</strong> Peer specialists enhance supported employment programs in many roles </a></p>
+  <p><a href="https://www.illinoisips.org/"><strong>NEW!</strong> Supported employment resources for workers with mental illnesses, their supporters, and their employers</a></p>
+  <p><a href="EIDP-Youth-PRJ-article.pdf">Article on Supported  Employment for Youth</a><br />
+  </p>
+  <p><a href="veteranstoolkit.htm">Reasonable Accommodations for Veterans</a></p>
+  <p><a href="eidppubs.htm">Link directly to EIDP journal articles</a></p>
+<a name="content"></a>
+
+  <div class="feature">
+      <p> The Employment Intervention Demonstration Program (EIDP) is a multisite
+        research study of innovative programs that combine vocational rehabilitation
+        with clinical services and supports. The study was designed to determine
+        new ways of enhancing employment opportunities and quality of life for
+        mental health consumers. Funded by the Center for Mental Health Services
+        (CMHS) of the Substance Abuse and Mental Health Services Administration
+        (SAMHSA), the program includes eight demonstration sites as well as a
+        Coordinating Center. The EIDP Coordinating Center, charged with overall
+        program administration, data management, and data analyses, is located
+        at the Center for Mental Health Services Research and Policy in the Department
+        of Psychiatry, working in collaboration with the Human Services Research
+        Institute in Cambridge, Massachusetts. Read more about the EIDP and download
+        study results, research protocols, and other useful materials by clicking
+      on the links below.</p>
+      <p><a href="eidpbackground.htm">Study Background, Purpose &amp; Research Questions</a></p>
+      <p><a href="eidpsites.htm">Study Sites and Models Tested</a></p>
+      <p><a href="eidpfindings.htm"> Major Findings: Executive Summary </a></p>
+      <p><a href="eidppubs.htm"> Scholarly Publications</a></p>
+      <p><a href="eidptoolkit.htm">Job Seeker Toolkit </a></p>
+      <p><a href="veteranstoolkit.htm">Veterans Employment Toolkit</a></p>
+    <p><a href="eidpdocs.htm"> Common Protocols and Documentation Manuals</a></p>
+      <p><a href="eidppes.htm"> Personal Economies Sub-Study</a></p>
+      <p><a href="eidppresent.htm"> Presentations and Course Lectures </a></p>
+      <p><a href="eidparticles.htm"> Latest Commentary</a></p>
+      <p><a href="eidpsitespubs.htm"> Scholarly Activities </a></p>
+      <p><a href="eidppeople.htm"> Personnel and Consultants</a></p>
+      <p><a href="https://www.illinoisips.org/ips-webinars.html">Free Webinar Library on Implementing and Sustaining High-Quality Supported Employment Services</a></p>
+  </div>
+</div>
+<!--end content -->
+<div id="navBar">
+
+  <div class="relatedLinks">
+    <h3>EIDP Funding:</h3>
+    <a href="http://www.mentalhealth.org/cmhs/">CMHS</a><br />
+        <a href="http://www.ed.gov/about/offices/list/osers/nidrr/index.html">NIDRR</a>
+    <h3>Related Links:</h3>
+    <ul>
+      <li><a href="http://mentalhealth.samhsa.gov/consumersurvivor/about.asp">CMHS Consumer Affairs Program</a></li>
+      <li><a href="http://www.ed.gov/rschstat/research/pubs/index.html">NIDRR Publications and Products</a></li>
+      <li><a href="http://www.mentalhealth.org/">SAMHSA's National Mental Health
+        Information Center</a></li>
+      <li>      </li>
+    </ul>
+  <img src="images/eidplogo-clear.gif" alt="EIDP Logo" width="119" height="103" class="logo" /></div>
+    <div id="search">
+<form action="http://www.google.com/u/uiatc" method="get"> <a name="search" id="search"></a>
+      <label>Search EIDP pages</label>
+      <input name="q" type="text" size="15" />
+<input type="hidden" name="hq" value="inurl:www.cmhsrp.uic.edu/eidp" />
+<input type="submit" value="Google Search" />
+    </form>
+  </div>
+</div>
+
+
+
+
+
+<!--end navbar -->
+<!-- end 2 or 3 column code --><!-- #BeginLibraryItem "/Library/footer.lbi" -->
+
+<div id="siteInfo">
+<p>The UIC CMHSRP is
+    part of the ongoing Education and Research efforts of the <a href="http://www.psych.uic.edu/">UIC Department of Psychiatry</a></p>
+  <p><img src="../images/CMHSRP.gif" alt="CMHSRP Logo" width="58" height="58"> | &nbsp;&copy;2021
+  University of Illinois at Chicago</p>
+</div>
+<!-- #EndLibraryItem --></body>
+</html>

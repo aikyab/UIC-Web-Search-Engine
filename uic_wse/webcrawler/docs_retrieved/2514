@@ -1,0 +1,447 @@
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Business Administration (BA) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/css/courseleaf.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<header id="header-new">
+	<div class="wrap">
+		<div class="logo-header">
+			<a href="//www.uic.edu">
+				<img src="/images/logo2021.png" alt="University of Illinois Chicago" />
+			</a>
+		</div>
+		<nav class="catalog-quicklinks" aria-label="catalog quicklink">
+			<button id="hamburger" aria-controls="mobile-menu" data-toggle="#mobile-menu" aria-expanded="false">
+				<span class="sr-only">Toggle menu</span>
+				<i class="fa fa-bars" aria-hidden="true"></i>
+			</button>
+			<div id="mobile-menu">
+			<ul id="quicklinks">
+				<li><a href="/ucat/">Undergraduate</a></li>
+				<li><a href="/gcat">Graduate</a></li>
+				<li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+			</ul>
+			<div id="search" role="search">
+				<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />				</form>
+			</div><!-- end #search -->
+		</div><!-- /#mobile-menu -->
+		</nav>
+	</div>
+</header>
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <a href="/">
+			<h1>Academic Catalog</h1>
+		</a>
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<section id="banner" aria-labbledby="banner-header"
+ class="ugrad"
+>
+    <div class="wrap">
+
+		<div class="banner-text">
+			<h2 id="banner-header">2021-2023 Undergraduate Catalog</h2>
+		</div>
+
+
+
+
+
+    </div><!--end .wrap -->
+</section><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <a id="cl-menu-control" href="#" class="togglenav">
+                <span class="cl-menu-text">Catalog Navigation</span>
+                <!-- <a class="cl-menu-btn" href="#">Catalog Navigation</a> -->
+				<svg aria-label="Down arrow icon" width="32" height="32" viewBox="0 0 32 32" role="presentation"><title>Down arrow icon</title><g fill="none" fill-rule="evenodd"><circle class="_circle" stroke-width="1" stroke="#007Da5" fill="#fff" cx="16" cy="16" r="15"></circle><path class="_arrow" stroke-width="2" stroke="#001E62" stroke-linecap="round" d="M12 17l4 4 4-4M16 20v-9"></path></g></svg>
+			</a><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a></li>
+		<li class="active isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a>
+		<ul class="nav leveltwo" id="/ucat/course-descriptions/">
+			<li><a href="/ucat/course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+			<li><a href="/ucat/course-descriptions/actg/">Accounting (ACTG)</a></li>
+			<li><a href="/ucat/course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+			<li><a href="/ucat/course-descriptions/anth/">Anthropology (ANTH)</a></li>
+			<li><a href="/ucat/course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+			<li><a href="/ucat/course-descriptions/arab/">Arabic (ARAB)</a></li>
+			<li><a href="/ucat/course-descriptions/arch/">Architecture (ARCH)</a></li>
+			<li><a href="/ucat/course-descriptions/art/">Art (ART)</a></li>
+			<li><a href="/ucat/course-descriptions/ah/">Art History (AH)</a></li>
+			<li><a href="/ucat/course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+			<li><a href="/ucat/course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+			<li><a href="/ucat/course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+			<li><a href="/ucat/course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+			<li><a href="/ucat/course-descriptions/bme/">Biomedical Engineering (BME)</a></li>
+			<li><a href="/ucat/course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+			<li><a href="/ucat/course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+			<li><a href="/ucat/course-descriptions/blst/">Black Studies (BLST)</a></li>
+			<li class="active self"><a href="#" onclick="return false;">Business Administration (BA)</a></li>
+			<li><a href="/ucat/course-descriptions/cc/">Campus Courses (CC)</a></li>
+			<li><a href="/ucat/course-descriptions/cst/">Catholic Studies (CST)</a></li>
+			<li><a href="/ucat/course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+			<li><a href="/ucat/course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+			<li><a href="/ucat/course-descriptions/chem/">Chemistry (CHEM)</a></li>
+			<li><a href="/ucat/course-descriptions/chin/">Chinese (CHIN)</a></li>
+			<li><a href="/ucat/course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+			<li><a href="/ucat/course-descriptions/cl/">Classics (CL)</a></li>
+			<li><a href="/ucat/course-descriptions/comm/">Communication (COMM)</a></li>
+			<li><a href="/ucat/course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+			<li><a href="/ucat/course-descriptions/cs/">Computer Science (CS)</a></li>
+			<li><a href="/ucat/course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+			<li><a href="/ucat/course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+			<li><a href="/ucat/course-descriptions/des/">Design (DES)</a></li>
+			<li><a href="/ucat/course-descriptions/dlg/">Dialogue (DLG)</a></li>
+			<li><a href="/ucat/course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+			<li><a href="/ucat/course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+			<li><a href="/ucat/course-descriptions/econ/">Economics (ECON)</a></li>
+			<li><a href="/ucat/course-descriptions/ed/">Education (ED)</a></li>
+			<li><a href="/ucat/course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+			<li><a href="/ucat/course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+			<li><a href="/ucat/course-descriptions/ece/">Electrical and Computer Engr (ECE)</a></li>
+			<li><a href="/ucat/course-descriptions/engr/">Engineering (ENGR)</a></li>
+			<li><a href="/ucat/course-descriptions/engl/">English (ENGL)</a></li>
+			<li><a href="/ucat/course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+			<li><a href="/ucat/course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+			<li><a href="/ucat/course-descriptions/fin/">Finance (FIN)</a></li>
+			<li><a href="/ucat/course-descriptions/fr/">French (FR)</a></li>
+			<li><a href="/ucat/course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+			<li><a href="/ucat/course-descriptions/geog/">Geography (GEOG)</a></li>
+			<li><a href="/ucat/course-descriptions/ger/">Germanic Studies (GER)</a></li>
+			<li><a href="/ucat/course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+			<li><a href="/ucat/course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+			<li><a href="/ucat/course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+			<li><a href="/ucat/course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+			<li><a href="/ucat/course-descriptions/him/">Health Information Management (HIM)</a></li>
+			<li><a href="/ucat/course-descriptions/heb/">Hebrew (HEB)</a></li>
+			<li><a href="/ucat/course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+			<li><a href="/ucat/course-descriptions/hist/">History (HIST)</a></li>
+			<li><a href="/ucat/course-descriptions/hon/">Honors College Courses (HON)</a></li>
+			<li><a href="/ucat/course-descriptions/hn/">Human Nutrition (HN)</a></li>
+			<li><a href="/ucat/course-descriptions/hum/">Humanities (HUM)</a></li>
+			<li><a href="/ucat/course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+			<li><a href="/ucat/course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+			<li><a href="/ucat/course-descriptions/it/">Information Technology (IT)</a></li>
+			<li><a href="/ucat/course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+			<li><a href="/ucat/course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+			<li><a href="/ucat/course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+			<li><a href="/ucat/course-descriptions/inst/">International Studies (INST)</a></li>
+			<li><a href="/ucat/course-descriptions/ital/">Italian (ITAL)</a></li>
+			<li><a href="/ucat/course-descriptions/jpn/">Japanese (JPN)</a></li>
+			<li><a href="/ucat/course-descriptions/jst/">Jewish Studies (JST)</a></li>
+			<li><a href="/ucat/course-descriptions/kn/">Kinesiology (KN)</a></li>
+			<li><a href="/ucat/course-descriptions/kor/">Korean (KOR)</a></li>
+			<li><a href="/ucat/course-descriptions/lat/">Latin (LAT)</a></li>
+			<li><a href="/ucat/course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+			<li><a href="/ucat/course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+			<li><a href="/ucat/course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+			<li><a href="/ucat/course-descriptions/ling/">Linguistics (LING)</a></li>
+			<li><a href="/ucat/course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+			<li><a href="/ucat/course-descriptions/lith/">Lithuanian (LITH)</a></li>
+			<li><a href="/ucat/course-descriptions/mgmt/">Management (MGMT)</a></li>
+			<li><a href="/ucat/course-descriptions/mktg/">Marketing (MKTG)</a></li>
+			<li><a href="/ucat/course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+			<li><a href="/ucat/course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+			<li><a href="/ucat/course-descriptions/math/">Mathematics (MATH)</a></li>
+			<li><a href="/ucat/course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+			<li><a href="/ucat/course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+			<li><a href="/ucat/course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+			<li><a href="/ucat/course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+			<li><a href="/ucat/course-descriptions/mils/">Military Science (MILS)</a></li>
+			<li><a href="/ucat/course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+			<li><a href="/ucat/course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+			<li><a href="/ucat/course-descriptions/mus/">Music (MUS)</a></li>
+			<li><a href="/ucat/course-descriptions/nast/">Native American Studies (NAST)</a></li>
+			<li><a href="/ucat/course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+			<li><a href="/ucat/course-descriptions/ns/">Naval Science (NS)</a></li>
+			<li><a href="/ucat/course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+			<li><a href="/ucat/course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+			<li><a href="/ucat/course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+			<li><a href="/ucat/course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+			<li><a href="/ucat/course-descriptions/path/">Pathology (PATH)</a></li>
+			<li><a href="/ucat/course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+			<li><a href="/ucat/course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+			<li><a href="/ucat/course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+			<li><a href="/ucat/course-descriptions/psop/">Pharmacy Systems, Outcomes &amp;&#8203; Policy (PSOP)</a></li>
+			<li><a href="/ucat/course-descriptions/phil/">Philosophy (PHIL)</a></li>
+			<li><a href="/ucat/course-descriptions/pt/">Physical Therapy (PT)</a></li>
+			<li><a href="/ucat/course-descriptions/phys/">Physics (PHYS)</a></li>
+			<li><a href="/ucat/course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+			<li><a href="/ucat/course-descriptions/pol/">Polish (POL)</a></li>
+			<li><a href="/ucat/course-descriptions/pols/">Political Science (POLS)</a></li>
+			<li><a href="/ucat/course-descriptions/port/">Portuguese (PORT)</a></li>
+			<li><a href="/ucat/course-descriptions/psch/">Psychology (PSCH)</a></li>
+			<li><a href="/ucat/course-descriptions/pa/">Public Administration (PA)</a></li>
+			<li><a href="/ucat/course-descriptions/pubh/">Public Health (PUBH)</a></li>
+			<li><a href="/ucat/course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+			<li><a href="/ucat/course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+			<li><a href="/ucat/course-descriptions/res/">Real Estate (RES)</a></li>
+			<li><a href="/ucat/course-descriptions/rels/">Religious Studies (RELS)</a></li>
+			<li><a href="/ucat/course-descriptions/russ/">Russian (RUSS)</a></li>
+			<li><a href="/ucat/course-descriptions/slav/">Slavic &amp;&#8203; Baltic Languages &amp;&#8203;Lit (SLAV)</a></li>
+			<li><a href="/ucat/course-descriptions/sj/">Social Justice (SJ)</a></li>
+			<li><a href="/ucat/course-descriptions/soc/">Sociology (SOC)</a></li>
+			<li><a href="/ucat/course-descriptions/span/">Spanish (SPAN)</a></li>
+			<li><a href="/ucat/course-descriptions/sped/">Special Education (SPED)</a></li>
+			<li><a href="/ucat/course-descriptions/stat/">Statistics (STAT)</a></li>
+			<li><a href="/ucat/course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+			<li><a href="/ucat/course-descriptions/thtr/">Theatre (THTR)</a></li>
+			<li><a href="/ucat/course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+			<li><a href="/ucat/course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+			<li><a href="/ucat/course-descriptions/us/">Urban Studies (US)</a></li>
+		</ul>
+		</li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/course-descriptions/">Undergraduate&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Business Administration (BA)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Business Administration (BA)</h1>
+
+
+
+<div id="textcontainer" class="page_content">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="bacourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>BA&#160;070.  Elementary Mathematics for Business.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Rational operations and arithmetic, fundamental operations of algebra, linear equations and polynomials, and graphic with applications to business. Course Information:  Satisfactory/Unsatisfactory grading only.  No graduation credit.  Prerequisite(s): Eligibility determined by performance on the placement test.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BA&#160;090.  Intermediate Algebra for Business.  5 hours.</strong></p>
+<p class="courseblockdesc">
+Linear equations, rational expressions, quadratic equations, graphing, exponentials and logarithms, systems of linear equations with applications to business. Course Information: Satisfactory/Unsatisfactory grading only.  No graduation credit. Prerequisite(s): Grade of C or better in <a href="/search/?P=BA%20070" title="BA&#160;070" class="bubblelink code" onclick="return showCourse(this, 'BA 070');">BA&#160;070</a> or grade of C or better in MATH 070; or appropriate score on the department placement test. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BA&#160;100.  Introduction to Professional Development.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Introduces first year students to UIC Professional development and presence. Students will use self-assessment tools and improvisational techniques to enhance their professional development and strengths. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit. Meets eight weeks of the semester. Should be taken in the first semester after acceptance into the College of Business Administration. Prerequisite(s): Admission to the College of Business Administration. Recommended background: Incoming first year students. First term freshmen.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BA&#160;101.  Business First-Year Seminar.  0 hours.</strong></p>
+<p class="courseblockdesc">
+A first-year seminar for students to understand UIC Business academic majors and related careers. Provides a foundation for student success by outlining degree completion, careers and introducing students to resources. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BA&#160;190.  UIC Business Seminar Program.  0-3 hours.</strong></p>
+<p class="courseblockdesc">
+The principle objective of the UIC Business Seminar Program is to build and foster the intellectual society within the UIC Business community while introducing students to relevant business material. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated to a maximum of 3 hours. Students may only be enrolled in one section per term. No graduation credit.Meets eight weeks of the semester. The program provides UIC Business students with the opportunity to closely interact with faculty in a small-group environment. It encourages students to explore potential areas of interest in a unique and innovative manner.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BA&#160;200.  Managerial Communication.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Principles of effective business communication applied to practice in writing and speaking, individual and team work; emphasis on written communication. Course Information: Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL&#160;161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL&#160;161</a> or the equivalent.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BA&#160;220.  Business Professional Development II.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Seminar uses experiential activities to develop each studentâ€™s authentic professional presence, verbal and non-verbal skills necessary to excel professionally. Interviewing, networking, dynamic presentations, impromptu speaking and creative team. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit. Meets eight weeks of the semester. Prerequisite(s): <a href="/search/?P=BA%20100" title="BA&#160;100" class="bubblelink code" onclick="return showCourse(this, 'BA 100');">BA&#160;100</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BA&#160;289.  Business Internship Program I.  0-3 hours.</strong></p>
+<p class="courseblockdesc">
+Business internships provide students an opportunity to gain practical work experience in their field of study and to test their career choice. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. No graduation credit. Prerequisite(s): Full-time status, admission into the College of Business Administration, good academic standing, and consent of the director of the Business Career Center.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BA&#160;290.  Business Ethics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A one semester 3 credit hour required elective of all non-accounting business majors, to aid our students in the formation of the attitude, disposition and habit of thinking, working and living in an ethical environment.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BA&#160;299.  Business Administration Study Abroad.  0-18 hours.</strong></p>
+<p class="courseblockdesc">
+Provides credit for foreign study. Student's proposal for study abroad must have prior approval of CBA Undergraduate Student Services.  Final determination of credit is made on the student's completion of the work. Course Information: May be repeated for a maximum of 48 hours of credit. May be repeated for a maximum of 36 hours per academic year or for a total of 48 hours, all of which must be earned within one calendar year. Prerequisite(s): Requires approval of the Study Abroad Office and College of Business Administration Undergraduate Student Services. Class Schedule Information: Study Abroad. Foreign travel required.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BA&#160;300.  Advanced Managerial Communications.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced study of business communication, including practice in the writing of case studies and reports. Course Information: Prerequisite(s): <a href="/search/?P=BA%20200" title="BA&#160;200" class="bubblelink code" onclick="return showCourse(this, 'BA 200');">BA&#160;200</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BA&#160;320.  Civic Engagement.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Each semester, the class will be themed on a city-wide issue (homelessness, hunger, education, etc.). We will partner with a local non-profit, that addresses the chosen theme, to provide a direct service opportunity and guest lecturers for the class. Course Information: Satisfactory/Unsatisfactory grading only. Meets eight weeks of the semester. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=BA%20100" title="BA&#160;100" class="bubblelink code" onclick="return showCourse(this, 'BA 100');">BA&#160;100</a> and <a href="/search/?P=BA%20220" title="BA&#160;220" class="bubblelink code" onclick="return showCourse(this, 'BA 220');">BA&#160;220</a>; or <a href="/search/?P=BA%20420" title="BA&#160;420" class="bubblelink code" onclick="return showCourse(this, 'BA 420');">BA&#160;420</a>; and junior standing or above. No graduation credit given to students enrolled in Business Administration.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BA&#160;330.  Analysis of Firms, Markets, and Industries for Business Decision Making.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of consumer and resource markets; firm production and costs; industry structure, competition, strategy and government regulation and development of managerial decision making skills. Course Information: Credit is not given for <a href="/search/?P=BA%20330" title="BA&#160;330" class="bubblelink code" onclick="return showCourse(this, 'BA 330');">BA&#160;330</a> if the student has credit in <a href="/search/?P=ECON%20220" title="ECON&#160;220" class="bubblelink code" onclick="return showCourse(this, 'ECON 220');">ECON&#160;220</a>. Extensive computer use required. Prerequisite(s): <a href="/search/?P=ECON%20120" title="ECON&#160;120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON&#160;120</a>; and <a href="/search/?P=MATH%20165" title="MATH&#160;165" class="bubblelink code" onclick="return showCourse(this, 'MATH 165');">MATH&#160;165</a> or <a href="/search/?P=MATH%20160" title="MATH&#160;160" class="bubblelink code" onclick="return showCourse(this, 'MATH 160');">MATH&#160;160</a> or <a href="/search/?P=MATH%20125" title="MATH&#160;125" class="bubblelink code" onclick="return showCourse(this, 'MATH 125');">MATH&#160;125</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BA&#160;351.  Legal Environment of Business.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces students to the legal, political and regulatory controls that define and limit business practice opportunities.  The interaction of law, politics and ethics are emphasized. Course Information: Credit is not given for <a href="/search/?P=BA%20351" title="BA&#160;351" class="bubblelink code" onclick="return showCourse(this, 'BA 351');">BA&#160;351</a> if student has credit in <a href="/search/?P=ACTG%20355" title="ACTG&#160;355" class="bubblelink code" onclick="return showCourse(this, 'ACTG 355');">ACTG&#160;355</a>. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=BA%20200" title="BA&#160;200" class="bubblelink code" onclick="return showCourse(this, 'BA 200');">BA&#160;200</a> and <a href="/search/?P=MGMT%20350" title="MGMT&#160;350" class="bubblelink code" onclick="return showCourse(this, 'MGMT 350');">MGMT&#160;350</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BA&#160;395.  Assessment Experience.  0 hours.</strong></p>
+<p class="courseblockdesc">
+Students will complete a day long program to assess  learning outcomes, through a test, simulations, individual case analysis, verbal communication exercises, team presentation and teamwork skills  designed to assess program learning results. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): Open only to juniors and seniors.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BA&#160;420.  Professional Presence.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Workshop style, experiential course using simulations and adapted theater exercises of graduating difficulty that teach students to refine their professional presence. Course Information: Previously listed as ACTG 420.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BA&#160;489.  Business Internship Program II.  0-3 hours.</strong></p>
+<p class="courseblockdesc">
+Business internships provide both graduate and undergraduate professional and practical work experience in their field of study and career choice. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. No graduation credit. Prerequisite(s): Full-time status, admission into the College of Business Administration, good academic standing at UIC, and consent of the director of the Business Career Center.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BA&#160;490.  International Student Exchange Program.  0-18 hours.</strong></p>
+<p class="courseblockdesc">
+The Student Exchange Program enables the reciprocal exchange of students between UIC and colleges or universities in other countries. There are a variety of programs tailored to meet the needs of both graduate and undergraduate students. Course Information: May be repeated for a maximum of 36 hours per academic year or for a total of 48 hours, all of which must be earned within one calendar year. Determination of the number of credits to be granted is part of the proposal approval process. Students from other UIC Colleges and Schools are eligible for the program. For more information, visit the website at http://www.uic.edu/depts/oia/resources-student/studentexchange.html. Prerequisite(s): Junior standing or above and approval of the student's major department, the CBA College Office and the Office of International Affairs.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BA&#160;494.  Special Topics in Business Administration.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of topics in Business Administration not covered in existing offerings or study of selected topics in greater depth. Subject matter will vary by offering. Course Information: May be repeated if topics vary. Students may register for more than one section per term.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BA&#160;495.  Business Strategy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Strategic management and business policy formulation and implementation.  Students will utilize knowledge from all functional areas of business to formulate business strategy and implementation plans through case analysis (may include simulation). Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=ACTG%20210" title="ACTG&#160;210" class="bubblelink code" onclick="return showCourse(this, 'ACTG 210');">ACTG&#160;210</a> and <a href="/search/?P=ACTG%20211" title="ACTG&#160;211" class="bubblelink code" onclick="return showCourse(this, 'ACTG 211');">ACTG&#160;211</a> and <a href="/search/?P=BA%20200" title="BA&#160;200" class="bubblelink code" onclick="return showCourse(this, 'BA 200');">BA&#160;200</a> and ECON 218 and <a href="/search/?P=IDS%20200" title="IDS&#160;200" class="bubblelink code" onclick="return showCourse(this, 'IDS 200');">IDS&#160;200</a> and <a href="/search/?P=IDS%20270" title="IDS&#160;270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS&#160;270</a>; and <a href="/search/?P=IDS%20355" title="IDS&#160;355" class="bubblelink code" onclick="return showCourse(this, 'IDS 355');">IDS&#160;355</a> and <a href="/search/?P=FIN%20300" title="FIN&#160;300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN&#160;300</a> and <a href="/search/?P=MGMT%20340" title="MGMT&#160;340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT&#160;340</a> and <a href="/search/?P=MGMT%20350" title="MGMT&#160;350" class="bubblelink code" onclick="return showCourse(this, 'MGMT 350');">MGMT&#160;350</a> and <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>; and senior standing or above.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2021-2023 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" aria-labeledby="dialog-title" class="screen" role="dialog">
+	<div class="print-header">
+		<h2 id="dialog-title">Print Options</h2>
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+<div class="print-option"><div class="option-head"><a class="option-name" href="/ucat/course-descriptions/ba/ba.pdf" role="button">Download Page (PDF)</a></div><p class="option-desc"><em>The PDF will include all information unique to this page.</em></p></div><div class="print-option"><div class="option-head"><a class="option-name" href="/pdf/2021-23-undergraduate.pdf" target="_blank">Download PDF of the entire Undergraduate Catalog</a></div><p class="option-desc"><em>All pages in the campus catalog.</em></p></div>    </div>
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

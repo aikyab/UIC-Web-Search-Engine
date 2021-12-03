@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<title>:: UIC Convocation 2021 ::</title>
+<meta name="description" content="Convocation is an official ceremony welcoming you, and your family members, into the academic community of the University of Illinois at Chicago.">
+<meta name="author" content="saptarang">
+
+<!-- Mobile Specific Meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<!-- Stylesheets -->
+<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+<link rel="stylesheet" href="css/style.css" />
+<!-- Google Font Code -->
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+<link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+<link href="css/responsive.css" rel="stylesheet" media="screen">
+<link href="css/transitions.css" rel="stylesheet" media="screen">
+<link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8" />
+<style type="text/css"></style>
+<!-- Enable this css if you want to override styles-->
+<!--<link href="css/override.css" rel="stylesheet" media="screen">-->
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!-- Favicon and Apple Icons -->
+<link rel="shortcut icon" href="img/icons/favicon.ico">
+<link rel="apple-touch-icon" href="img/icons/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="img/icons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="img/icons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="144x144" href="img/icons/apple-touch-icon.png">
+<script type="text/javascript" src="js/modernizr-1.0.min.js"></script>
+
+</head>
+
+<body onLoad="initialize()">
+<div id="texture">
+<!-- start HEADER -->
+<section id="top" class="page-block">
+  <header id="home">
+    <div class="container clearfix">
+      <div class="navigation">
+        <div class="row">
+          <div class="col-md-2 col-sm-3">
+            <h1 class="logo"><a href="index.html" title="UIC CONVOCATION"><img class="img-responsive" src="img/logo.png" alt="OnEvent"></a></h1>
+          </div>
+          <div class="col-md-10 col-sm-9"> 
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar navbar-default navbar-header" role="navigation">
+              <button id="navbutton" type="button" class="naven navbar-toggle" data-toggle="collapse" data-target="#Navigation"> 
+				<span class="icon-bar">&mdash;</span> 
+				<span class="icon-bar">&mdash;</span> 
+				<span class="icon-bar">&mdash;</span> 
+			  </button>
+            </div>
+            <nav>
+              <ul id="Navigation" class="list-inline collapse navbar-collapse">
+                <li><a href="#venue" title="Venue">Venue</a></li>
+				<li><a href="#faq" title="FAQ">FAQ</a></li> 
+				<li><a href="#gallery" title="Gallery">Gallery</a></li>
+				<li><a href="#links" title="Links">Links</a></li>
+                
+              </ul>
+            </nav>
+          </div>
+          <!-- end col-md-10 --> 
+        </div>
+        <!--end-row--> 
+      </div>
+      <!-- end navigation --> 
+    </div>
+    <!-- end container --> 
+  </header>
+  
+</section>
+<!-- end HEADER -->
+ 
+<!--BEGIN-INTRO-BOX-->
+<section id="main" class="page-block">
+  <div class="container">
+    	<header class="clearfix">
+          		<div class="text-center">
+                    <div class="venue">
+                    <img alt="" src="img/convologo.png"> <br> <br>
+                    	<h1>WELCOME UIC STUDENTS<br><small>On August 22, 2021</small><br><small>2:30PM (Pre-Show) 3:00PM (Ceremony)</small></h1>
+                      <h2>VIRTUAL CONVOCATION EVENT</h2>
+                      
+                    </div>
+					<div><br></br><iframe width="720" height="405" src="https://www.youtube.com/embed/-3g4D07i2MQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+                    <!-- <div class="countdown styled"></div> -->
+                    
+                    
+                    <p><strong><font color="white"></font></strong></p>
+                    
+
+                    <!--<a style="margin-right:10px;" target="_blank" href="http://www.vcsaweb.uic.edu/convocationRSVP/default.aspx" title="Register For This Event" class="btn"><i class="fa fa-plus-circle"></i> Student Registration</a>
+                    <a style="margin-left: 10px;" target="_blank" href="http://www.vcsaweb.uic.edu/convocationRSVP/FacultyRSVP.aspx" title="Register For This Event" class="btn"><i class="fa fa-plus-circle"></i> Faculty Registration</a>-->
+                   
+                    
+            
+                    
+            	</div>
+                
+      </header>
+   </div>
+</section>
+
+<!--BEGIN-INTRO-BOX-->
+<section id="intro" class="page-block">
+  <div class="container">
+    <div class="section">
+      <article>
+       
+        <h3>2021 UIC New Student Convocation</h3>
+        <p>
+UIC New Student Convocation will be hosted virtually this year. Join Chancellor Michael D. Amiridis, current faculty and staff, UIC student leaders, and your fellow new students as we welcome you into the UIC tradition of excellence and the Fall 2021 semester.<br><br>
+
+Although the convocation ceremony is virtual, UIC will be hosting on-campus watch parties for new students and family members. If you’re interested in joining us on campus to watch the ceremony, please be sure to indicate you interest at the time of registration. More information will be sent prior to convocation to individuals who are interested in participating in a watch party.<br><br>
+
+Following the virtual Convocation ceremony, new students and family members are invited to join us on campus for our annual New Student Picnic! We look forward to having new students and families come to campus for some food, entertainment, and to celebrate the start of the new academic year!<br><br>
+
+All new, undergraduate students are expected to attend the New Student Convocation ceremony (virtually). Participation in the on-campus watch party and the new Student Picnic are optional, however highly encouraged! 
+<ul>
+	<li>Pre-registration is required for the virtual ceremony, Convocation Watch Party, and New Student Picnic </li>
+<li>Students will need to pre-register themselves, and up to 2 guests, by Thursday, August 19 </li>
+<li>For contact tracing purposes you will need each guest’s name, email address, and phone number at the time of registration</li>
+<li>There will be no walk-ins permitted for this event </li>
+<li>Space is limited and filled on a first come, first served basis </li>
+<li>For changes or cancellations, please email orhelp@uic.edu </li>
+</ul>
+
+All registered participants (new students and family members) will receive additional communication with login instructions, watch party logistics, and picnic information prior to New Student Convocation.<br><br>
+
+Please note: for the on-campus watch party and the picnic, all participants must show proof of COVID-19 vaccination or provide proof of a negative COVID-19 result within 72 hours of the event at check-in, for each unvaccinated attendee. No participants will be admitted without proof of vaccination or negative test results. New UIC students will be asked to show their Daily Pass as proof of vaccination or an accepted vaccine exemption.
+			
+
+</p>
+      <!--<p>The UIC Convocation is a ceremony to welcome new students to the University of Illinois at Chicago. This event marks the official beginning of a new student's entry into the UIC academic community. All new students are expected to attend this special event. Parents are welcome and encouraged to attend. Please register for the UIC New Student Convocation by August 18!<br><br> 
+        
+        Register for the 2018 UIC Convocation by following the steps below: <br><br> 
+		
+		Step 1 - Click on link <a href="https://my.uic.edu" target="_blank">my.uic.edu</a><br>
+		Step 2 - Log in to Portal with UIC netid and password<br>
+		Step 3 - Click on 2018 UIC Convocation link in the “My Announcement” Portlet on the home page/ <br>
+		Step 4 - Click on Sign-on <br>
+		Step 5 - Register for Event and Picnic, if attending<br>
+        </p>-->
+      </article>
+    </div>
+ <!--   --end-section-- -->
+ </div>
+</section> 
+<!--END-INTRO-BOX-->
+
+
+
+<!--BEGIN-SPEAKERS-->
+<!--
+<section id="speakers" class="page-block">
+  <div class="container">
+    <div class="section clearfix bottom-margin">
+      <header class="page-head colored clearfix">
+        <h2>Speakers of the Event</h2>
+        <p class="text-muted">We’ve got expert’s speech from around the world </p>
+      </header>
+      <article>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla hendrerit vitae nulla at ultricies. Suspendisse consequat tempor mi, eu tristique mi. 
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dignissim convallis dolor at viverra. Nullam consequat nulla enim, eu vulputate magna varius quis. 
+          Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
+      </article>
+    </div>
+    <div class="row clearfix speaker-grid">
+      <div class="col-md-4 col-sm-6 col-xs-6">
+        <div class="section no-padding">
+          <figure> <img src="img/speakers/speaker1.jpg" alt="Speaker" class="img-responsive" />
+            <figcaption class="speaker-info"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla hendrerit vitae nulla at ultricies. Suspendisse consequat tempor mi, eu tristique mi. 
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dignissim convallis dolor at viverra. </figcaption>
+          </figure>
+          <div class="speaker clearfix">
+            <div class="col-md-10 col-sm-9 col-xs-9">
+              <h6>Richard Doe</h6>
+              <p>Vice President, Company Name</p>
+            </div>
+            <div class="col-md-2 col-sm-3 col-xs-3 readIcon"> <i class="fa fa-chevron-circle-down"></i> </div>
+          </div>
+        </div>
+      </div>
+      -->
+      <!--end-col-md-4-->
+      <!--
+      <div class="col-md-4 col-sm-6 col-xs-6">
+        <div class="section no-padding">
+          <figure> <img src="img/speakers/speaker2.jpg" alt="Speaker" class="img-responsive" />
+            <figcaption class="speaker-info"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla hendrerit vitae nulla at ultricies. Suspendisse consequat tempor mi, eu tristique mi. </figcaption>
+          </figure>
+          <div class="speaker clearfix">
+            <div class="col-md-10 col-sm-9 col-xs-9">
+              <h6>Christine Doe</h6>
+              <p>CEO, Company Name</p>
+            </div>
+            <div class="col-md-2 col-sm-3 col-xs-3 readIcon"> <i class="fa fa-chevron-circle-down"></i> </div>
+          </div>
+        </div>
+      </div>
+      -->
+      <!--end-col-md-4-->
+      <!--
+      <div class="col-md-4 col-sm-6 col-xs-6">
+        <div class="section no-padding">
+          <figure> <img src="img/speakers/speaker3.jpg" alt="Speaker" class="img-responsive" />
+            <figcaption class="speaker-info"> Nulla hendrerit vitae nulla at ultricies. Suspendisse consequat tempor mi, eu tristique mi. 
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dignissim convallis dolor at viverra. </figcaption>
+          </figure>
+          <div class="speaker clearfix">
+            <div class="col-md-10 col-sm-9 col-xs-9">
+              <h6>Jonathan Doe</h6>
+              <p>Operations, Company Name</p>
+            </div>
+            <div class="col-md-2 col-sm-3 col-xs-3 readIcon"> <i class="fa fa-chevron-circle-down"></i> </div>
+          </div>
+        </div>
+      </div>
+      </div>
+      -->
+      <!--end-col-md-4-->
+      
+    <!--end-row--> 
+<!--  
+  </div>
+</section>
+-->
+<!--END-SPEAKERS--> 
+
+<!--END-PARTNERS--> 
+
+
+<!--BEGIN-VENUE-->
+<section id="venue" class="page-block">
+  <div class="container">
+    <div class="section clearfix bottom-margin">
+      <header class="page-head colored clearfix">
+        <h2>Convocation Venue</h2>
+        <p class="text-muted">The location you'll be looking for</p>
+      </header>
+      <article>
+        <!-- <div id="map_canvas"></div> -->
+        <div class="row clearfix">
+          <div class="col-md-4 col-sm-12 column">
+            <div class="column-content">
+              <h3>Event <span>Location</span></h3>
+              <p>UIC New Student Convocation will be hosted virtually this year. Pre-registration is required. Following registration, all new students and family members will receive login information via the email provided at registration. <br></br>For those who register for the Watch Party of New Student Picnic, additional information will be sent about location, checking in, and other additional logistics prior to the event.</p>
+				
+            </div>
+          </div>
+          <!--<div class="col-md-4 col-sm-12 column directions-input">
+            <div class="column-content">
+              <h3>Get <span>Directions</span></h3>
+              <form action="https://www.saptarang.org/routebeschrijving" onSubmit="calcRoute();return false;" id="routeForm">
+                <label for="routeStart"><strong>Destination From:</strong></label>
+                <input type="text" id="routeStart" value="123 My Street">
+                <label for="routeVia"><strong>Via(Optional):</strong></label>
+                <input type="text" id="routeVia">
+                <label>Travel mode:</label>
+                <div class="clearfix">
+                  <label for="driving" class="radio-option">
+                    <input id="driving" type="radio" name="travelMode" value="DRIVING" checked />
+                    Driving</label>
+                  <label for="BICYCLING" class="radio-option">
+                    <input id="BICYCLING" type="radio" name="travelMode" value="BICYCLING" />
+                    Bicylcing</label>
+                  <label for="transit" class="radio-option">
+                    <input id="transit" type="radio" name="travelMode" value="TRANSIT" />
+                    Public transport</label>
+                  <label for="walking" class="radio-option last">
+                    <input id="walking" type="radio" name="travelMode" value="WALKING" />
+                    Walking</label>
+                </div>
+                <input type="submit" value="Get Directions" class="btn btn-block">
+              </form>
+            </div>
+          </div>-->
+          <div class="col-md-8 col-sm-12 column directions-results">
+            <div class="column-content">
+              <h3>Event <span>Registration</span></h3>
+              <p>Official invitations are sent to new students' UIC email accounts. These emails contain unique links for each student. Please be sure to use your link to register!<br></br> Parents and family members are highly encouraged to attend. Parents and family members will need to be included by the student at time of registration. Students, don’t forget to include your family members!</p><br></br>
+           <a class="btn text-center" href="https://go.uic.edu/ConvocationFS" title="Faculty / Staff">Faculty / Staff Registration</a>
+               </div>
+            </div>
+            
+          </div>
+        </div>
+        <!--end-of-row--> 
+      </article>
+    </div>
+  </div>
+</section>
+<!--END-VENUE--> 
+	
+<!--BEGIN-FAQ-->
+<!--
+ <section id="faq" class="page-block">
+  <div class="container">
+    <div class="section">
+      <header class="page-head">
+        <h2>FAQ</h2>
+        <p class="text-muted">Generic Questions About This Event</p>
+      </header>
+      <article class="row">
+        <div class="panel-group clearfix" id="questions">
+          <div class="col-md-6 col-sm-12">
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#questions" href="#question1"> 1 <span>Can my parents and family members attend New Student Convocation? </span> </a> </h4>
+              </div>
+              <div id="question1" class="panel-collapse collapse">
+                <div class="panel-body">
+                  <p>o	Yes, we encourage all new students to invite their families to join them. Each student can invite up to 5 guests. Parents and family members must be registered by the student at the time of registration. Make sure you register your family members individually so they have access to login from their own personal device!</p>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#questions" href="#question2"> 2 <span>Who is invited to New Student Convocation?</span> </a> </h4>
+              </div>
+              <div id="question2" class="panel-collapse collapse">
+                <div class="panel-body">
+                  <p>All new first-year and transfer students, as well as their parents and family members</p>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#questions" href="#question3"> 3 <span>How much does it cost?</span> </a> </h4>
+              </div>
+              <div id="question3" class="panel-collapse collapse">
+                <div class="panel-body">
+                  <p>New Student Convocation is FREE</p>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#questions" href="#question4"> 4 <span>Am I required to attend? </span> </a> </h4>
+              </div>
+              <div id="question4" class="panel-collapse collapse">
+                <div class="panel-body">
+                  <p>All new students are expected to attend this event</p>
+                </div>
+              </div>
+            </div>
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+                <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#questions" href="#question5"> 5 <span>I would like to request accessibility information or request ADA accommodations, who should I contact?</span> </a> </h4>
+              </div>
+              <div id="question5" class="panel-collapse collapse">
+                <div class="panel-body">
+                  <p>This year's event will be virtual and all programming will include closed captioning/sub-titles. Pursuant to the Americans with Disabilities Act, if you require additional accommodations to participate in the event, please indicate your need in your event registration or email <a href="mailto:orhelp@uic.edu.">orhelp@uic.edu.</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          <!--end-of-column-6-->
+          <!--
+          <div class="col-md-6 col-sm-12">
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#questions" href="#question6"> 6 <span>Where do I register?</span> </a> </h4>
+              </div>
+              <div id="question6" class="panel-collapse collapse">
+                <div class="panel-body">
+                  <p>All new students will receive an invitation, which is sent to your UIC email address. You can also click on the buttons above to register.</p>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#questions" href="#question7"> 7 <span>I registered, but I never got login information. How long does it take?</span> </a> </h4>
+              </div>
+              <div id="question7" class="panel-collapse collapse">
+                <div class="panel-body">
+                  <p>Be sure to check your email. Following your registration, you will receive an email from Accelevents with instructions about signing into the event. Be sure to check your spam and junk folders.<br>
+					You will receive a confirmation once you register, and an email with login instructions prior to the event
+					</p>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#questions" href="#question8"> 8 <span>How do I provide my picture for the Convocation Mosaic?</span> </a> </h4>
+              </div>
+              <div id="question8" class="panel-collapse collapse">
+                <div class="panel-body">
+                  <p>o	All new students are able to submit a photo <a href="https://uic.campuslabs.com/engage/submitter/form/start/432580">HERE</a><br>
+						o	Please note that all photos must be received by 6:00pm (CST) on Thursday, August 20, 2020.
+</p>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#questions" href="#question9"> 9 <span>How long is the event?</span> </a> </h4>
+              </div>
+              <div id="question9" class="panel-collapse collapse">
+                <div class="panel-body">
+                  <p>o	Pre-Show begins at 2:30pm<br>
+					o	Ceremony begins at 3:00pm<br>
+					o	Additional, optional programming/activities will be available until 6:00pm
+</p>
+                </div>
+              </div>
+            </div>
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+                <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#questions" href="#question10"> 10 <span>I’m a parent or family member of a new student, can I attend?</span> </a> </h4>
+              </div>
+              <div id="question10" class="panel-collapse collapse">
+                <div class="panel-body">
+                  <p>Yes, parents and family members are highly encouraged to attend. Students will need to include family members in their registration. The unique invitation link is contained in the email invitation.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+      
+          <!--end-of-column-6--> 
+           <!--
+        </div>
+       
+        <!--end-of-accordion--> 
+       <!--
+      </article>
+    </div>
+  </div>
+</section> 
+-->
+<!--END-FAQ--> 
+	
+	
+<!--BEGIN-LINKS-->
+<section id="gallery" class="page-block">
+  <div class="container">
+    <div class="section">
+      <header class="page-head">
+      <h2><i class="fa fa-picture-o"></i> Event <span>Gallery</span></h2>          
+        <p class="text-muted">Photos from past convocation events</p>
+      </header>
+      <article class="row">        
+          <div class="img-grid clearfix">
+            <ul id="eg-thumbs" class="eg-thumbs clearfix">
+              <li> <a href="img/gallery/large/01.jpg" title="Past Event Photos" class="pretty"> <img src="img/gallery/thumb/01.jpg" alt="Students at UIC Convocation" class="img-responsive">
+                <!--<div class="img-caption"><span>Image Caption 1</span></div>-->
+                </a> </li>
+              <li> <a href="img/gallery/large/02.jpg" title="Past Event Photos" class="pretty"> <img src="img/gallery/thumb/02.jpg" alt="Students at UIC Convocation" class="img-responsive">
+                <!--<div class="img-caption"><span>Image Caption 1</span></div>-->
+                </a> </li>
+              <li> <a href="img/gallery/large/03.jpg" title="Past Event Photos" class="pretty"> <img src="img/gallery/thumb/03.jpg" alt="Students at UIC Convocation" class="img-responsive">
+                <!--<div class="img-caption"><span>Image Caption 1</span></div>-->
+                </a> </li>
+              <li> <a href="img/gallery/large/04.jpg" title="Past Event Photos" class="pretty"> <img src="img/gallery/thumb/04.jpg" alt="Students at UIC Convocation" class="img-responsive">
+                <!--<div class="img-caption"><span>Image Caption 1</span></div>-->
+                </a> </li>
+              <li> <a href="img/gallery/large/05.jpg" title="Past Event Photos" class="pretty"> <img src="img/gallery/thumb/05.jpg" alt="Students at UIC Convocation" class="img-responsive">
+                <!--<div class="img-caption"><span>Image Caption 1</span></div>-->
+                </a> </li>
+              <li> <a href="img/gallery/large/06.jpg" title="Past Event Photos" class="pretty"> <img src="img/gallery/thumb/06.jpg" alt="Students at UIC Convocation" class="img-responsive">
+                <!--<div class="img-caption"><span>Image Caption 1</span></div>-->
+                </a> </li>
+              <li> <a href="img/gallery/large/07.jpg" title="Past Event Photos" class="pretty"> <img src="img/gallery/thumb/07.jpg" alt="Students at UIC Convocation" class="img-responsive">
+                <!--<div class="img-caption"><span>Image Caption 1</span></div>-->
+                </a> </li>
+              <li> <a href="img/gallery/large/08.jpg" title="Past Event Photos" class="pretty"> <img src="img/gallery/thumb/08.jpg" alt="Students at UIC Convocation" class="img-responsive">
+                <!--<div class="img-caption"><span>Image Caption 1</span></div>-->
+                </a> </li>
+				<li> <a href="img/gallery/large/09.jpg" title="Past Event Photos" class="pretty"> <img src="img/gallery/thumb/09.jpg" alt="Students at UIC Convocation" class="img-responsive">
+                <!--<div class="img-caption"><span>Image Caption 1</span></div>-->
+                </a> </li>
+				<li> <a href="img/gallery/large/10.jpg" title="Past Event Photos" class="pretty"> <img src="img/gallery/thumb/10.jpg" alt="Students at UIC Convocation" class="img-responsive">
+                <!--<div class="img-caption"><span>Image Caption 1</span></div>-->
+                </a> </li>
+				<li> <a href="img/gallery/large/11.jpg" title="Past Event Photos" class="pretty"> <img src="img/gallery/thumb/11.jpg" alt="Students at UIC Convocation" class="img-responsive">
+                <!--<div class="img-caption"><span>Image Caption 1</span></div>-->
+                </a> </li>
+				<li> <a href="img/gallery/large/12.jpg" title="Past Event Photos" class="pretty"> <img src="img/gallery/thumb/12.jpg" alt="Students at UIC Convocation" class="img-responsive">
+                <!--<div class="img-caption"><span>Image Caption 1</span></div>-->
+                </a> </li>
+            </ul>
+          </div>
+          <!--end-img-grid-->
+      </article>
+    </div>
+  </div>
+</section>
+<!--END-LINKS--> 
+
+<!--BEGIN-LINKS-->
+<!-- 
+<section id="links" class="page-block">
+  <div class="container">
+    <div class="section">
+      <header class="page-head">
+        <h2>College &amp; Campus  Links</h2>
+        <p class="text-muted">Visit our Campus &amp; College websites</p>
+      </header>
+      <article class="row">
+        <div class="panel-group clearfix" >
+          <div class="col-md-12">
+             <h3>College <span>Links</span></h3>
+            <div class="li-blocks">
+			
+				<ul class="li-row">
+					<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://www.uic.edu/honors/"><strong style="color:#EC1F27">Honors College</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+					<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://www.uic.edu/nursing/index.shtml"><strong style="color:#EC1F27">Nursing</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+				</ul>
+				 
+				<ul class="li-row">
+					<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://www.ahs.uic.edu/"><strong style="color:#EC1F27">Applied Health Sciences</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+					<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://www.uic.edu/jaddams/college/"><strong style="color:#EC1F27">Social Work</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+				</ul>
+				
+				<ul class="li-row">
+					<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://chicago.medicine.uic.edu/"><strong style="color:#EC1F27">Medicine</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+					<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://www.uic.edu/sph/"><strong style="color:#EC1F27">School of Public Health</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+				</ul>
+				<ul class="li-row">
+					<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://education.uic.edu/"><strong style="color:#EC1F27">Education</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+					<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://business.uic.edu/"><strong style="color:#EC1F27">Business Administration</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+				</ul>
+				<ul class="li-row">
+					<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://www.uic.edu/cuppa/"><strong style="color:#EC1F27">Urban Planning & Public Affairs</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+					<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://www.uic.edu/depts/enga/"><strong style="color:#EC1F27">Engineering</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+				</ul>
+				<ul class="li-row">
+					<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://cada.uic.edu/"><strong style="color:#EC1F27">Architecture, Design, and the Arts</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+					<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://www.las.uic.edu/"><strong style="color:#EC1F27">Liberal Arts & Sciences</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+				</ul>
+				<ul class="li-row">
+					<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://dentistry.uic.edu/"><strong style="color:#EC1F27">Dentistry</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+					<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://www.uic.edu/pharmacy/"><strong style="color:#EC1F27">Pharmacy</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+				</ul>
+			
+			</div>
+          </div>
+          <!--end-of-column-12--> 
+            <!--<div class="col-md-12">
+             <h3>Campus <span>Links</span></h3>
+            <div class="li-blocks">
+			
+			<ul class="li-row">
+				<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://www.vcsa.uic.edu"><strong style="color:#EC1F27">Vice Chancellor for Student Affairs</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+				<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="https://advance.uic.edu/alumni-association/"><strong style="color:#EC1F27">UIC Alumni Association</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+				
+			</ul>
+			<ul class="li-row">
+				<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://uicflames.cstv.com/"><strong style="color:#EC1F27">Athletics</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+				<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://www.uic.edu/depts/dos/"><strong style="color:#EC1F27">Dean of Student Affairs</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+			</ul>
+			<ul class="li-row">
+				<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://www.housing.uic.edu/"><strong style="color:#EC1F27">Campus Housing</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+				<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://orientation.uic.edu/"><strong style="color:#EC1F27">Student Orientation</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+			</ul>
+            <ul class="li-row">
+				<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://recreation.uic.edu"><strong style="color:#EC1F27">Campus Recreation</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+				<li><i class="fa fa-external-link"></i> <a style="font-size:1em;" target="blank" href="http://involvement.uic.edu"><strong style="color:#EC1F27">Center for Student Involvement</strong></a> <!--<span style="font-size:0.75em">- Moto or Tag Line goes here...</span>--><!--</li>
+			</ul>
+			
+			</div>
+          </div>
+          <!--end-of-column-12--> 
+        <!-- </div>
+        <!--end-of-Links--> 
+        
+      <!-- </article>
+    </div>
+  </div>
+</section>
+<!--END-LINKS--> 
+
+
+
+<!--BEGIN-FOOTER-->
+<footer id="footer" class="page-block">
+  <div class="container">
+    <div class="section no-border">
+      <div class="page-head colored clearfix" style="background-color: #ec1f27;" >
+      
+     
+      
+        <div class="col-md-6 " style="padding-top: 10px; padding-bottom:10px; text-align: center;">
+         
+<a style="color:white;" href="http://www.vcsa.uic.edu"><bold>Student Affairs</bold></a>
+|
+<a style="color:white;" href="http://www.uic.edu"><bold>UIC</bold></a>
+|
+<a style="color:white;" href="mailto:saweb@uic.edu"><bold>Webmaster</bold></a>
+
+<p class="text-center">THE BOARD OF TRUSTEES OF THE UNIVERSITY OF ILLINOIS &copy; <span class="year"></span> All Rights Reserved. <br> </p>
+    
+        </div>
+        
+       
+
+        <div class="col-md-6" style="margin:auto;">
+          <a target="_blank" href="https://sa.uic.edu/"><img src="img/banner-OVCSA-white3.png" alt="NSFP" class="img-responsive"></a>
+          
+         
+        </div>
+        
+      </div>
+     
+      <a href="#top" class="top"><i class="fa fa-arrow-up fa-lg"></i></a> </div>
+    <!--end-of-section--> 
+  </div>
+</footer>
+</div>
+<!--END-FOOTER-->  
+
+<script src="js/jquery.js"></script> 
+<script>
+$('.pretty').attr('rel', 'prettyPhoto[gallery]');
+$( "#Navigation" ).click(function() {
+  $( "#navbutton" ).trigger( "click" );
+});
+
+</script>
+<!-- <script src="https://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script> -->
+
+<script src="js/jquery.backstretch.min.js"></script> 
+<!-- <script type="text/javascript" src="js/directions.js"></script>  -->
+<script src="js/jquery.hoverdir.js"></script>
+<script src="js/bootstrap.min.js"></script> 
+
+<script src="js/jquery.prettyPhoto.js"></script> 
+<script src="js/custom.js"></script> 
+<script src="js/onevent.js"></script> 
+<script src="js/jquery.countdown.js"></script> 
+<script src="js/jquery.fitvids.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-54530386-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

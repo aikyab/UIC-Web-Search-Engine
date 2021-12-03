@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+
+    
+    
+
+    <link rel="stylesheet" media="screen" href="/css2.47.5/font-awesome/css/font-awesome.min.css" />
+	<link rel="stylesheet" media="screen" href="/css2.47.5/LibAnswers_public.min.css" />
+
+    <title>
+        I'm a History Fair student.  How do I make an appointment with Special Collections? - Help Center
+    </title>
+
+	<style>
+                    
+                
+    </style>
+
+    <link rel="stylesheet" media="print" href="/css2.47.5/la_print.css" />
+
+
+    <script src="https://v2.libanswers.com/js2.47.5/jquery.min.js"></script>
+    <script src="/js2.47.5/LibAnswers_public.min.js"></script>
+    <script>
+var springSpace = springSpace || {};
+springSpace.la = springSpace.la || {};
+springSpace.la.Page = {
+    iid: 1175,
+    group_id: 926,
+    faq_id: 215703,
+    qlog_id: 0,
+    auth_id: 0
+};
+</script>
+
+    <style>
+@charset "UTF-8";
+/**
+  * Global LibAnswers styles
+  */
+body {
+  font-family: Theinhardt, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; }
+  body.custom {
+    background-color: #363636;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; }
+    body.custom .background {
+      background-color: #f8f8f8; }
+
+html {
+  font-size: 15px; }
+
+/* for Screen Reader, hide text */
+.sr-only {
+  position: absolute !important;
+  top: -9999px !important;
+  left: -9999px !important;
+  width: 1px;
+  height: 1px; }
+
+body {
+  background-color: #f8f8f8;
+  color: #363636; }
+  body a {
+    color: #007fa5;
+    font-weight: 500; }
+  body #uiclib_libapps_header {
+    /* should probably be empty. */ }
+  body .container #s-la-bc {
+    margin-top: 1rem; }
+    body .container #s-la-bc ol.s-la-color-bars {
+      background-color: unset;
+      background-image: unset;
+      padding: unset;
+      margin-bottom: 1rem; }
+      body .container #s-la-bc ol.s-la-color-bars > li + li:before {
+        content: "▸"; }
+      body .container #s-la-bc ol.s-la-color-bars li:first-of-type a {
+        font-size: 0;
+        text-decoration: none;
+        color: #d50032; }
+        body .container #s-la-bc ol.s-la-color-bars li:first-of-type a::after {
+          font-size: 2.75rem;
+          line-height: 0;
+          vertical-align: -0.25em;
+          content: "•"; }
+  body .container #s-la-public-header {
+    padding: unset;
+    background-color: #001e62;
+    color: white;
+    margin-right: 0;
+    margin-left: 0;
+    padding: 1rem 1rem 0 0; }
+    body .container #s-la-public-header h1#s-la-public-header-title {
+      font-size: 2.5em; }
+    body .container #s-la-public-header .s-la-public-home.s-la-public-header-text {
+      text-align: unset; }
+  body .container #s-la-page-title-bar .navbar {
+    border-radius: unset;
+    border: unset;
+    background-image: unset;
+    background-color: #e1e1e1; }
+    body .container #s-la-page-title-bar .navbar .navbar-text {
+      color: #666; }
+    body .container #s-la-page-title-bar .navbar #s-la-browsebar-collapse form.navbar-form input.s-la-content-search-query {
+      width: 234px; }
+    body .container #s-la-page-title-bar .navbar #s-la-browsebar-collapse .s-la-content-search form.navbar-form {
+      padding: unset; }
+      body .container #s-la-page-title-bar .navbar #s-la-browsebar-collapse .s-la-content-search form.navbar-form .form-group > div {
+        padding: unset;
+        margin: unset; }
+        body .container #s-la-page-title-bar .navbar #s-la-browsebar-collapse .s-la-content-search form.navbar-form .form-group > div input {
+          border: 1px solid silver;
+          border-right: none;
+          border-top-right-radius: unset;
+          border-bottom-right-radius: unset; }
+        body .container #s-la-page-title-bar .navbar #s-la-browsebar-collapse .s-la-content-search form.navbar-form .form-group > div button {
+          color: white;
+          border: 1px solid #666;
+          border-left: none;
+          border-top-left-radius: unset;
+          border-bottom-left-radius: unset; }
+    body .container #s-la-page-title-bar .navbar #s-la-browsebar-collapse ul.nav {
+      float: right;
+      margin-right: unset; }
+  body .container #s-la-page-maincontent .s-la-header h2 {
+    font-size: 2.75em;
+    color: #001e62; }
+  body .container #s-la-page-maincontent .s-la-box .s-la-box-content .uiclib_faq_details p {
+    font-size: 1.75em;
+    color: #666; }
+  body .container #s-la-page-maincontent .s-la-box .s-la-box-content ul.nav-tabs li {
+    margin: unset; }
+  body .container #s-la-page-maincontent .s-la-faq-listing {
+    color: #888888; }
+    body .container #s-la-page-maincontent .s-la-faq-listing .s-la-faq-listing-q a {
+      color: #001e62;
+      font-size: 1.25em; }
+      body .container #s-la-page-maincontent .s-la-faq-listing .s-la-faq-listing-q a:hover, body .container #s-la-page-maincontent .s-la-faq-listing .s-la-faq-listing-q a:active {
+        color: #0d057f; }
+  body .container #s-la-page-maincontent img {
+    margin: 1em;
+    margin-top: unset; }
+    body .container #s-la-page-maincontent img[style*="left"] {
+      margin-left: unset; }
+    body .container #s-la-page-maincontent img[style*="right"] {
+      margin-right: unset; }
+    body .container #s-la-page-maincontent img::after {
+      display: block;
+      content: "";
+      clear: both; }
+  body .container #s-la-page-maincontent .s-la-box-container.s-la-color-bars-border {
+    border-color: #e1e1e1; }
+    body .container #s-la-page-maincontent .s-la-box-container.s-la-color-bars-border .s-la-color-bars {
+      background-color: #e1e1e1;
+      background-image: unset;
+      border: unset; }
+  body .container #s-la-page-maincontent .s-la-box-container.s-la-box-type-1.s-la-box-borderless {
+    padding-left: unset;
+    line-height: 1.25em;
+    font-size: 1.25em; }
+    body .container #s-la-page-maincontent .s-la-box-container.s-la-box-type-1.s-la-box-borderless .s-la-content-topics ul {
+      padding-left: 0;
+      list-style-type: none; }
+      body .container #s-la-page-maincontent .s-la-box-container.s-la-box-type-1.s-la-box-borderless .s-la-content-topics ul li {
+        margin-bottom: 0.75em;
+        text-indent: -1rem;
+        padding-left: 1rem; }
+  body .container #s-la-public-footer {
+    padding: 1rem 1rem 2rem 1rem;
+    background-color: unset;
+    background-image: unset;
+    border-top: unset; }
+  body #uiclib_libapps_footer {
+    /* should probably be empty. */ }
+
+/*
+ * Component styles
+ */
+#uiclib_libapps_ribbon.flex-container > .row {
+  background-color: white;
+  border-bottom: 1px solid #e1e1e1;
+  margin: 0;
+  /* Tablet overrides */
+  /* Desktop overrides */ }
+  #uiclib_libapps_ribbon.flex-container > .row > .col {
+    padding: 0; }
+  #uiclib_libapps_ribbon.flex-container > .row #uiclib_libapps_header.container .row #uiclib_col_logo #uiclib_site_nav_toggle {
+    border: 0.25rem solid #e1e1e1;
+    margin-top: 1.25rem; }
+    #uiclib_libapps_ribbon.flex-container > .row #uiclib_libapps_header.container .row #uiclib_col_logo #uiclib_site_nav_toggle .icon-bar {
+      background-color: black; }
+  #uiclib_libapps_ribbon.flex-container > .row #uiclib_libapps_header.container .row #uiclib_col_logo div#uiclib_site_logo a img {
+    width: 225px;
+    margin: 1rem 0; }
+
+@media (min-width: 576px) and (max-width: 991px) and (min-width: 768px) {
+  #uiclib_libapps_ribbon.flex-container > .row #uiclib_libapps_header.container .row #uiclib_col_logo div#uiclib_site_logo a img {
+    width: 175px; } }
+  @media (min-width: 768px) {
+    #uiclib_libapps_ribbon.flex-container > .row #uiclib_libapps_header.container .row .col {
+      display: flex; }
+      #uiclib_libapps_ribbon.flex-container > .row #uiclib_libapps_header.container .row .col #uiclib_col_logo {
+        display: flex;
+        align-items: center;
+        justify-content: center; }
+      #uiclib_libapps_ribbon.flex-container > .row #uiclib_libapps_header.container .row .col #uiclib_col_nav {
+        width: 100%;
+        display: flex !important;
+        flex-direction: column;
+        padding: unset;
+        margin-left: 2rem; }
+        #uiclib_libapps_ribbon.flex-container > .row #uiclib_libapps_header.container .row .col #uiclib_col_nav a {
+          color: #001e62; }
+        #uiclib_libapps_ribbon.flex-container > .row #uiclib_libapps_header.container .row .col #uiclib_col_nav .nav li a {
+          border-bottom: 0.4rem solid transparent; }
+          #uiclib_libapps_ribbon.flex-container > .row #uiclib_libapps_header.container .row .col #uiclib_col_nav .nav li a:focus, #uiclib_libapps_ribbon.flex-container > .row #uiclib_libapps_header.container .row .col #uiclib_col_nav .nav li a:hover {
+            background-color: unset;
+            border-bottom: 0.4rem solid #d50032; }
+        #uiclib_libapps_ribbon.flex-container > .row #uiclib_libapps_header.container .row .col #uiclib_col_nav #uiclib_nav_main {
+          line-height: 2em;
+          order: 2; }
+          #uiclib_libapps_ribbon.flex-container > .row #uiclib_libapps_header.container .row .col #uiclib_col_nav #uiclib_nav_main > ul > li {
+            font-size: 1.125em; }
+            #uiclib_libapps_ribbon.flex-container > .row #uiclib_libapps_header.container .row .col #uiclib_col_nav #uiclib_nav_main > ul > li > a {
+              text-transform: uppercase;
+              font-weight: bold; }
+            #uiclib_libapps_ribbon.flex-container > .row #uiclib_libapps_header.container .row .col #uiclib_col_nav #uiclib_nav_main > ul > li.active > a {
+              border-bottom: 0.4rem solid #d50032; }
+        #uiclib_libapps_ribbon.flex-container > .row #uiclib_libapps_header.container .row .col #uiclib_col_nav #uiclib_nav_eyebrow {
+          text-align: right;
+          line-height: 2em;
+          order: 1; } }
+      @media (min-width: 768px) and (min-width: 768px) {
+        #uiclib_libapps_ribbon.flex-container > .row #uiclib_libapps_header.container .row .col #uiclib_col_nav #uiclib_nav_eyebrow {
+          font-size: 0.9rem; } }
+  @media (min-width: 768px) {
+        #uiclib_libapps_ribbon.flex-container > .row #uiclib_libapps_header.container .row .col #uiclib_col_nav #uiclib_search_icon {
+          font-size: 1rem;
+          color: #001e62; } }
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  #uiclib_libapps_ribbon.flex-container
+#uiclib_nav_eyebrow {
+    font-size: .8em !important; } }
+
+#uiclib_libapps_footer #uiclib_ankle_ribbon {
+  color: #363636;
+  background-color: #e1e1e1;
+  margin-top: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 3rem; }
+  #uiclib_libapps_footer #uiclib_ankle_ribbon .footer-nav ul {
+    padding-left: 0;
+    list-style-type: none; }
+  #uiclib_libapps_footer #uiclib_ankle_ribbon #uiclib_logo_footer_container {
+    padding-right: 2rem; }
+    #uiclib_libapps_footer #uiclib_ankle_ribbon #uiclib_logo_footer_container img {
+      width: 250px;
+      margin: 1rem 0; }
+  #uiclib_libapps_footer #uiclib_ankle_ribbon #uiclib_footer_menu_more_resources ul {
+    list-style-type: none; }
+    #uiclib_libapps_footer #uiclib_ankle_ribbon #uiclib_footer_menu_more_resources ul a {
+      color: #d50032;
+      text-transform: uppercase;
+      font-size: .9em;
+      font-weight: 700;
+      line-height: 2em; }
+
+#uiclib_libapps_footer #uiclib_toe_ribbon {
+  color: #e1e1e1;
+  background-color: #001e62;
+  padding-top: 2rem;
+  padding-bottom: 5rem; }
+  #uiclib_libapps_footer #uiclib_toe_ribbon #uic_logo_footer_container {
+    padding-right: 2rem; }
+    #uiclib_libapps_footer #uiclib_toe_ribbon #uic_logo_footer_container img {
+      width: 250px;
+      margin: 1rem 0; }
+
+</style>
+<script>
+// console.log("hello world")
+"use strict";
+</script>
+</head>
+<body id="s-la-page-44680" class="s-la-page-public s-la-page-faq">
+    <a id="s-la-public-skiplink" class="alert-info" href="#s-la-public-header-title">Skip to Main Content</a>
+    <!-- start custom header -->
+    <div id="uiclib_libapps_ribbon" class="flex-container">
+
+  <div class="row">
+    <div class="col col-xs-12">
+      <div id="uiclib_libapps_header" class="container">
+        <div class="row">
+          <div class="col col-xs-12">
+            <div id="uiclib_col_logo" class="navbar-header">
+              <button id="uiclib_site_nav_toggle" type="button" class="navbar-toggle" data-toggle="collapse" data-target="#uiclib_col_nav" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <div id="uiclib_site_logo">
+                <a href="https://library.uic.edu/" class="navbar-left">
+                  <img src="https://library.webhost.uic.edu/logos/2020/LIB.ULIB.LOCKB.SM.RGB.SVG" alt="UIC University Library"/></a>
+              </div>
+            </div>
+            <div id="uiclib_col_nav" class="navbar-collapse collapse">
+              <nav id="uiclib_nav_main">
+                <ul class="nav navbar-nav ">
+                  <li class="active">
+                    <a href="https://library.uic.edu/help">Help</a>
+                  </li>
+                  <li>
+                    <a href="https://library.uic.edu/collections">Collections</a>
+                  </li>
+                  <li>
+                    <a href="https://library.uic.edu/libraries">Libraries</a>
+                  </li>
+                  <li>
+                    <a href="https://library.uic.edu/about">About</a>
+                  </li>
+                  <li class="dropdown">
+                    <a href="https://library.uic.edu/services">Services
+                    </a>
+                    
+                  </li>
+                </ul>
+              </nav>
+              <nav id="uiclib_nav_eyebrow">
+                <ul class="nav navbar-nav">
+                  <li>
+                    <a href="https://uic.edu/">UIC.edu</a>
+                  </li>
+                  <li>
+                    <a href="http://maps.uic.edu/">Campus Map</a>
+                  </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                  <li>
+                    <a href="https://library.uic.edu/contact">Contact Us</a>
+                  </li>
+                  <li>
+                    <a href="https://library.uic.edu/accounts">My Accounts</a>
+                  </li>
+                  <li>
+                    <a href="https://library.uic.edu/about/giving/">Give to the Library</a>
+                  </li>
+                  <li>
+                    <a href="https://i-share-uic.primo.exlibrisgroup.com/discovery/search?vid=01CARLI_UIC:CARLI_UIC&tab=LibraryCatalogPlus">
+                      <span class="sr-only">UIC Library Search</span>
+                      <i id="uiclib_search_icon" class="fa fa-search" aria-hidden="true"></i>
+                    </a>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div><script src="https://ask.library.uic.edu/load_chat.php?hash=325a3faf25b8f6445806d60e21bcc210"></script>
+    <!-- end custom header -->
+    <div class="container">
+            
+        <div id="s-la-bc" class="row" role="navigation">
+        <div class="col-md-12">
+            <ol class="breadcrumb s-la-color-bars s-la-color-bars-border">
+                <li>
+                    <a href="http://library.uic.edu">UIC University Library</a>
+                </li>
+                <li class="">
+                    <a href="/">Help Center</a>
+                </li>
+                            </ol>
+        </div>
+    </div>
+    <div id="s-la-public-header" class="s-la-header row clearfix">
+        <div class="col-md-12">
+                        <noscript>
+    <div id="s-la-noscript" class="alert alert-warning">
+        <strong>Warning:</strong> Your browser has javascript disabled. Without javascript some functions will not work, including question submission via the form.
+    </div>
+</noscript>
+            <div class="s-la-public-header-text ">
+                <h1 class="s-la-public-header-title">
+    Help Center
+</h1>
+                <div class="s-la-public-header-description">
+    UIC Library online help and FAQs
+    </div>
+            </div>
+        </div>
+    </div>
+        <div id="s-la-page-title-bar" role="navigation">
+        <div class="navbar navbar-default s-la-color-bars s-la-color-bars-border">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#s-la-browsebar-collapse" aria-hidden="true">
+                    <span class="fa fa-bars"></span><span class="sr-only">Toggle menu visibility</span>
+                </button></div>
+
+            <div class="collapse navbar-collapse" id="s-la-browsebar-collapse">
+                <div id="s-la-content-search-8455" class="s-la-content-search">
+    <form method="get" class="navbar-form navbar-left" role="search" name="s-la-searchform" id="s-la-searchform-8455" action="/search/" aria-labelledby="s-la-content-search-query-8455">
+        <input type="hidden" name="t" value="0" />
+        <div class="form-group">
+            <label for="s-la-content-search-query-8455" class="s-la-searchform-label sr-only control-label">Ask Another Question</label>
+            <div class="col-xs-9">
+                <input type="text" id="s-la-content-search-query-8455" class="s-la-content-search-query form-control" name="q" placeholder="Type your question" value="" autocomplete="off" />
+            </div>
+            <div class="col-xs-3 s-la-searchform-buttoncol">
+                <button type="submit" class="btn btn-default s-la-searchform-button">
+                                    Search
+                                </button>
+            </div>
+        </div>
+    </form>
+
+            <script>$(function() { searchform_8455 = springSpace.la.initFaqSearchForm({ contentId: 8455, iid: 1175, apiDomain: 'ask.library.uic.edu', groupId: [926], limit: 10 }); });</script>
+    </div>
+
+                <ul class="nav navbar-nav s-la-navbrowse">
+                    <li>
+                        <p class="navbar-text">Browse:</p>
+                    </li>
+                    <li>
+                        <a class="" href="/search/">All</a>
+                    </li>
+                                        <li id="s-la-page-title-bar-topics" class="dropdown">
+    <a data-toggle="dropdown" class="dropdown-toggle" href="#">Topics <b class="caret"></b></a>
+    <ul class="dropdown-menu dropdown-scroll dropdown-menu-right" role="menu" aria-hidden="true">
+                    <li>
+                <a href="/search/?t=0&g=926&topics=Borrowing&adv=1" role="menuitem"><span class="badge">9</span><span class="topic_item">Borrowing</span></a>
+            </li>
+                    <li>
+                <a href="/search/?t=0&g=926&topics=Computers%2C%20Printing%20%26amp%3B%20Scanning&adv=1" role="menuitem"><span class="badge">13</span><span class="topic_item">Computers, Printing &amp; Scanning</span></a>
+            </li>
+                    <li>
+                <a href="/search/?t=0&g=926&topics=Electronic%20Resources&adv=1" role="menuitem"><span class="badge">9</span><span class="topic_item">Electronic Resources</span></a>
+            </li>
+                    <li>
+                <a href="/search/?t=0&g=926&topics=Off-Campus%20Access&adv=1" role="menuitem"><span class="badge">4</span><span class="topic_item">Off-Campus Access</span></a>
+            </li>
+                    <li>
+                <a href="/search/?t=0&g=926&topics=On-Campus&adv=1" role="menuitem"><span class="badge">12</span><span class="topic_item">On-Campus</span></a>
+            </li>
+                    <li>
+                <a href="/search/?t=0&g=926&topics=Requesting%20Materials&adv=1" role="menuitem"><span class="badge">14</span><span class="topic_item">Requesting Materials</span></a>
+            </li>
+                    <li>
+                <a href="/search/?t=0&g=926&topics=Research%20Help&adv=1" role="menuitem"><span class="badge">22</span><span class="topic_item">Research Help</span></a>
+            </li>
+                    <li>
+                <a href="/search/?t=0&g=926&topics=Special%20Collections%20%26amp%3B%20University%20Archives&adv=1" role="menuitem"><span class="badge">13</span><span class="topic_item">Special Collections &amp; University Archives</span></a>
+            </li>
+                    <li>
+                <a href="/search/?t=0&g=926&topics=Study%20Spaces&adv=1" role="menuitem"><span class="badge">6</span><span class="topic_item">Study Spaces</span></a>
+            </li>
+                    <li>
+                <a href="/search/?t=0&g=926&topics=Teaching%20%26amp%3B%20Learning&adv=1" role="menuitem"><span class="badge">4</span><span class="topic_item">Teaching &amp; Learning</span></a>
+            </li>
+                    <li>
+                <a href="/search/?t=0&g=926&topics=Writing%2C%20Style%20%26amp%3B%20Citations&adv=1" role="menuitem"><span class="badge">9</span><span class="topic_item">Writing, Style &amp; Citations</span></a>
+            </li>
+            </ul>
+</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+<div id="s-la-page-maincontent" role="main">
+    <div class="s-la-row row">
+        <div id="s-la-page-column-0" class="s-la-column-top col-md-12">
+                                </div>
+    </div>
+
+    <div class="s-la-row row">
+                    <div id="s-la-page-column-1" class="s-la-page-column col-md-3">
+                                                            
+
+<div id="s-la-box-99551-container" class="s-la-box-container s-la-color-bars-border s-la-box-borderless s-la-box-type-1 s-la-box-position-1">
+    <div id="s-la-box-99551" class="s-la-box s-la-box-html">
+        <div class="s-la-box-title s-la-color-bars s-la-color-bars-border">
+            <h2>Topics </h2>
+        </div>
+        <div id="" class="s-la-box-content clearfix"  >
+            <div id="s-la-content-topics-98858" class="s-la-content-topics s-la-content clearfix">
+        <ul class="s-la-content-topic-list">
+            <li id="s-la-topic-73395" ><a href="https://ask.library.uic.edu/search/?t=0&adv=1&topics=Borrowing" >Borrowing</a></li>
+            <li id="s-la-topic-73394" ><a href="https://ask.library.uic.edu/search/?t=0&adv=1&topics=Computers%2C%20Printing%20%26amp%3B%20Scanning" >Computers, Printing &amp; Scanning</a></li>
+            <li id="s-la-topic-73393" ><a href="https://ask.library.uic.edu/search/?t=0&adv=1&topics=Electronic%20Resources" >Electronic Resources</a></li>
+            <li id="s-la-topic-73396" ><a href="https://ask.library.uic.edu/search/?t=0&adv=1&topics=Off-Campus%20Access" >Off-Campus Access</a></li>
+            <li id="s-la-topic-73816" ><a href="https://ask.library.uic.edu/search/?t=0&adv=1&topics=On-Campus" >On-Campus</a></li>
+            <li id="s-la-topic-73392" ><a href="https://ask.library.uic.edu/search/?t=0&adv=1&topics=Requesting%20Materials" >Requesting Materials</a></li>
+            <li id="s-la-topic-73390" ><a href="https://ask.library.uic.edu/search/?t=0&adv=1&topics=Research%20Help" >Research Help</a></li>
+            <li id="s-la-topic-73389" ><a href="https://ask.library.uic.edu/search/?t=0&adv=1&topics=Special%20Collections%20%26amp%3B%20University%20Archives" >Special Collections &amp; University Archives</a></li>
+            <li id="s-la-topic-73391" ><a href="https://ask.library.uic.edu/search/?t=0&adv=1&topics=Study%20Spaces" >Study Spaces</a></li>
+            <li id="s-la-topic-73826" ><a href="https://ask.library.uic.edu/search/?t=0&adv=1&topics=Teaching%20%26amp%3B%20Learning" >Teaching &amp; Learning</a></li>
+            <li id="s-la-topic-73397" ><a href="https://ask.library.uic.edu/search/?t=0&adv=1&topics=Writing%2C%20Style%20%26amp%3B%20Citations" >Writing, Style &amp; Citations</a></li>
+        </ul>
+
+</div>
+
+        </div>
+                            </div>
+</div>
+
+                                                                </div>
+                    <div id="s-la-page-column-2" class="s-la-page-column col-md-9">
+                                                            
+
+<div id="s-la-box-99559-container" class="s-la-box-container s-la-color-bars-border s-la-box-borderless s-la-box-type-4 s-la-box-position-1">
+    <div id="s-la-box-99559" class="s-la-box s-la-box-html">
+        <div class="s-la-box-title s-la-color-bars s-la-color-bars-border">
+            <h2>Question </h2>
+        </div>
+        <div id="" class="s-la-box-content clearfix"  >
+            <h1 class="uiclib_faq_question">I'm a History Fair student.  How do I make an appointment with Special Collections?</h1>
+        </div>
+                            </div>
+</div>
+
+                                            
+
+<div id="s-la-box-99554-container" class="s-la-box-container s-la-color-bars-border s-la-box-borderless s-la-box-type-4 s-la-box-position-2">
+    <div id="s-la-box-99554" class="s-la-box s-la-box-html">
+        <div class="s-la-box-title s-la-color-bars s-la-color-bars-border">
+            <h2>Answer </h2>
+        </div>
+        <div id="" class="s-la-box-content clearfix"  >
+              <div class="uiclib_faq_details"><p>History Fair students are welcome at&nbsp;UIC&nbsp;Special Collections and University Archives.</p></div>
+
+<div class="s-la-faq-answer"><p>Here are some <a href="https://researchguides.uic.edu/historyfair">ideas to get you started</a>.</p>
+
+<p>We encourage students to schedule appointments well in advance of any assignment that is due. That is, last minute or same day appointments are discouraged.</p>
+
+<p>When you&nbsp;request&nbsp;an appointment, we need</p>
+
+<ul>
+	<li>your name</li>
+	<li>the names of any research partners</li>
+	<li>the date and time of your potential visit</li>
+	<li>the collection name(s) and box numbers of the materials that you would like to view.</li>
+</ul>
+
+<p>Rare books are also available if they are relevant to your research topic.</p>
+
+<p>Here is more information about <a href="https://library.uic.edu/help/article/2990/visit-special-collections-and-university-archives">visiting Special Collections</a>.</p>
+
+<p>On your first appointment, for individual students, we limit you to two boxes, and for groups, three to four boxes until you are comfortable working with the materials.&nbsp;</p>
+
+<p>Lastly, this is your research.&nbsp; It is OK for your parents to join you during your visit, but you should be the one to do the research.</p>
+
+<p>You can email&nbsp;<a href="mailto:lib-spec@uic.libanswers.com?subject=Request%20an%20appointment&amp;body=Hi%20there%2C%0A%0AI%20would%20like%20to%20schedule%20an%20appointment%20to%20visit%20UIC%20Library%20Special%20Collections." style="background-color: rgb(255, 255, 255);">lib-spec@uic.libanswers.com</a>&nbsp;to schedule an appointment, or if you have further questions.</p></div>
+
+
+
+        </div>
+                            </div>
+</div>
+
+                                            
+
+<div id="s-la-box-99560-container" class="s-la-box-container s-la-color-bars-border  s-la-box-type-4 s-la-box-position-3">
+    <div id="s-la-box-99560" class="s-la-box s-la-box-html">
+        <div class="s-la-box-title s-la-color-bars s-la-color-bars-border">
+            <h2>Metadata </h2>
+        </div>
+        <div id="" class="s-la-box-content clearfix"  >
+            <ul class="uiclib_faq_meta_list">
+  <!--<li><span class="key">by:</span> <span class="val">Allan Berry</span></li>-->
+  <!--<li><span class="key">created:</span> <span class="val">Jan 12, 2018</span></li>-->
+  <li><span class="key">updated:</span> <span class="val">Jun 22, 2021</span></li>
+  <li><span class="key">views:</span> <span class="val">12</span></li>
+</ul>
+        </div>
+                            </div>
+</div>
+
+                                                <div id="s-la-faq-action-bar-99555" class="s-la-faq-action-bar">
+        <div class="navbar navbar-default s-la-color-bars s-la-color-bars-border">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#s-la-faqbar-collapse-99555" aria-hidden="true">
+                    <span class="fa fa-bars"><span class="sr-only">Toggle action bar</span></span>
+                </button>
+                <a class="navbar-brand" href="#" onclick="return false;">FAQ Actions</a>
+            </div>
+            <div class="collapse navbar-collapse" id="s-la-faqbar-collapse-99555">
+                <ul class="nav navbar-nav navbar-right">
+                    <li id="s-la-faq-printlink">
+    <a href="#" onclick="window.print();">
+        <i class="fa fa-print"></i> <span class="sr-only icon-label"> Print</span>
+    </a>
+</li>
+<li id="s-la-faq-tweetlink">
+    <a href="#" onclick="faqHit(215703, 1175, 2); window.open(`https://twitter.com/share?url=${encodeURIComponent('https\u003A\/\/ask.library.uic.edu\/faq\/215703')}`);">
+        <i class="fa fa-twitter"></i><span class="sr-only icon-label"> Tweet</span>
+    </a>
+</li>
+<li id="s-la-faq-fblink">
+    <a href="#" onclick="faqHit(215703, 1175, 3); window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent('https\u003A\/\/ask.library.uic.edu\/faq\/215703')}`);">
+    <i class="fa fa-facebook-square"></i><span class="sr-only icon-label"> Share on Facebook</span>
+    </a>
+</li>
+                </ul>
+                <p id="s-la-vote" class="navbar-text">
+                    <span id="s-la-vote-label">Was this helpful?</span>
+<button id="s-la-vote-yes" type="button" class="btn btn-link mg-left" data-vote="1" data-warn="" >
+    <span class="fa fa-thumbs-o-up text-success" aria-hidden="true"></span>
+    <span class="fa fa-thumbs-up text-success" aria-hidden="true"></span>
+    <span class="sr-only icon-label">Yes</span>
+</button>
+<span id="s-la-vote-yes-ct">0</span>
+<button id="s-la-vote-no" type="button" class="btn btn-link mg-left" data-vote="0" data-warn="" >
+    <span class="fa fa-thumbs-o-down text-danger" aria-hidden="true"></span>
+    <span class="fa fa-thumbs-down text-danger" aria-hidden="true"></span>
+    <span class="sr-only icon-label">No</span>
+</button>
+<span id="s-la-vote-no-ct">0</span>
+                </p>
+            </div>
+        </div>
+    </div>
+
+                                                                </div>
+            </div>
+
+    <div class="s-la-row row">
+        <div id="s-la-page-column-4" class="s-la-column-bottom col-md-12">
+                                                
+<div id="s-la-box-99552-container" class="s-la-box-container s-la-box-borderless s-la-box-type-6 s-la-box-position-1 alert-info">
+    <div id="s-la-box-99552" class="s-la-box s-la-box-html">
+        <div class="s-la-box-title">
+            <h2>Help Center generic call to action </h2>
+        </div>
+        <div class="s-la-box-content clearfix">
+            <div id="s-la-content-link-98856" class="s-la-content-link s-la-content">
+        <a class="s-la-content-link-a" href="https://library.uic.edu/contact">Need more help? Contact a Librarian!</a>
+    </div>
+
+        </div>
+            </div>
+</div>
+
+                                                </div>
+    </div>
+</div>
+
+<div id="s-la-public-footer" class="s-la-footer s-la-color-bars s-la-color-bars-border" role="contentinfo">
+    <div id="s-la-footer-brand">Powered by <a href="http://www.springshare.com">Springshare</a>; All rights reserved.</div>
+
+            <div id="s-la-footer-support-link">
+            <a href="http://library.uic.edu/contact">Report a tech support issue.</a>
+        </div>
+    
+    <div id="s-la-footer-admin-links">
+                    <span id="s-la-footer-login-link"><a href="/admin/login">Login to LibApps</a></span>
+                        </div>
+</div>
+
+    </div>
+    <!-- start custom footer -->
+    <footer id="uiclib_libapps_footer">
+  <div id="uiclib_ankle_ribbon">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div id="uiclib_logo_footer_container">
+            <a href="https://library.uic.edu/" class="navbar-left">
+              <img id="uiclib_footer_logo" src="https://library.webhost.uic.edu/logos/2020/LIB.ULIB.LOCKB.SM.RGB.SVG" alt="UIC University Library"/></a>
+          </div>
+        </div>
+        <div class="col-md-5 footer-nav">
+          <h4>Locations</h4>
+          <ul>
+            <li><a href="https://library.uic.edu/libraries/daley/">Richard J. Daley Library</a></li>
+            <li><a href="https://library.uic.edu/libraries/lhs-chicago/">Library of the Health Sciences-Chicago</a></li>
+            <li><a href="https://library.uic.edu/libraries/lhs-peoria/">Library of the Health Sciences-Peoria</a></li>
+            <li><a href="https://library.uic.edu/libraries/lhs-rockford/">Crawford Library of the Health Sciences-Rockford</a></li>
+            <li><a href="https://library.uic.edu/libraries/lhs-urbana/">Library of the Health Sciences-Urbana</a></li>
+          </ul>
+        </div>
+        <div id="uiclib_footer_menu_more_resources" class="col-md-3">
+          <h4 class="sr-only">More Resources</h4>
+          <ul>
+            <li><a href="https://library.uic.edu/about/accounts/">My Accounts</a></li>
+            <li><a href="https://library.uic.edu/">Accessibility Services</a></li>
+            <li><a href="https://library.uic.edu/services/accessibility/">Visitor Services</a></li>
+            <li><a href="https://library.uic.edu/services/faculty/">Faculty Services</a></li>
+            <li><a href="https://library.uic.edu/services/alumni/">Alumni Services</a></li>
+            <li><a href="https://library.uic.edu/services/contact/">Contact Us</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="uiclib_toe_ribbon">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div id="uic_logo_footer_container">
+            <a href="https://uic.edu/" class="navbar-left">
+              <img src="https://library.webhost.uic.edu/logos/2020/CAMP.TS.SM.WHT.RGB.SVG" alt="UIC University Library"/></a>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6">
+          <p>© 2021 The Board of Trustees of the University of Illinois |
+            <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a>
+          </p>
+        </div>
+        <div class="col-md-6 text-right">
+          <h4 class="sr-only">Campuses</h4>
+          <ul class="list-inline">
+            <li><a href="https://www.uillinois.edu/">University of Illinois System</a></li>
+            <li><a href="https://illinois.edu/">Urbana-Champaign</a></li>
+            <li><a href="https://www.uis.edu/">Springfield</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer><div id="libchat_a43a2e13f47ac5fb86bfe456d0cd1202"></div>
+    <!-- Optional stat code -->
+        <!-- Optional cookie warning -->
+        <script>
+    jQuery(document).ready(function() {
+        setUpPublicPage();
+        setUpAnswerPage(
+            springSpace.la.Page.faq_id,
+            springSpace.la.Page.iid,
+            false 
+        );
+
+            });
+</script>
+
+    <div id="s-ui-alertarea" role="alert"></div>
+</body>
+</html>

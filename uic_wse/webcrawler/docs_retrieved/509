@@ -1,0 +1,980 @@
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Degree Program, Minor, and Certificate List &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/css/courseleaf.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<header id="header-new">
+	<div class="wrap">
+		<div class="logo-header">
+			<a href="//www.uic.edu">
+				<img src="/images/logo2021.png" alt="University of Illinois Chicago" />
+			</a>
+		</div>
+		<nav class="catalog-quicklinks" aria-label="catalog quicklink">
+			<button id="hamburger" aria-controls="mobile-menu" data-toggle="#mobile-menu" aria-expanded="false">
+				<span class="sr-only">Toggle menu</span>
+				<i class="fa fa-bars" aria-hidden="true"></i>
+			</button>
+			<div id="mobile-menu">
+			<ul id="quicklinks">
+				<li><a href="/ucat/">Undergraduate</a></li>
+				<li><a href="/gcat">Graduate</a></li>
+				<li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+			</ul>
+			<div id="search" role="search">
+				<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />				</form>
+			</div><!-- end #search -->
+		</div><!-- /#mobile-menu -->
+		</nav>
+	</div>
+</header>
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <a href="/">
+			<h1>Academic Catalog</h1>
+		</a>
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<section id="banner" aria-labbledby="banner-header"
+ class="ugrad"
+>
+    <div class="wrap">
+
+		<div class="banner-text">
+			<h2 id="banner-header">2021-2023 Undergraduate Catalog</h2>
+		</div>
+
+
+
+
+
+    </div><!--end .wrap -->
+</section><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <a id="cl-menu-control" href="#" class="togglenav">
+                <span class="cl-menu-text">Catalog Navigation</span>
+                <!-- <a class="cl-menu-btn" href="#">Catalog Navigation</a> -->
+				<svg aria-label="Down arrow icon" width="32" height="32" viewBox="0 0 32 32" role="presentation"><title>Down arrow icon</title><g fill="none" fill-rule="evenodd"><circle class="_circle" stroke-width="1" stroke="#007Da5" fill="#fff" cx="16" cy="16" r="15"></circle><path class="_arrow" stroke-width="2" stroke="#001E62" stroke-linecap="round" d="M12 17l4 4 4-4M16 20v-9"></path></g></svg>
+			</a><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="active isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a>
+		<ul class="nav leveltwo" id="/ucat/degree-programs/">
+			<li class="active self"><a href="#" onclick="return false;">Degree Program and Minor List</a></li>
+			<li><a href="/ucat/degree-programs/academic-standing/">Academic Standing</a></li>
+			<li><a href="/ucat/degree-programs/academic-planning-progress/">Academic Planning and Progress</a></li>
+			<li><a href="/ucat/degree-programs/general-education/">General Education</a></li>
+			<li><a href="/ucat/degree-programs/univ-degree-requirements-graduation/">University Degree Requirements, Graduation, and Commencement</a></li>
+			<li><a href="/ucat/degree-programs/program-updates/">Program Changes and Updates</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a></li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/degree-programs/">Degree&nbsp;Programs&nbsp;and&nbsp;Requirements</a><span class="crumbsep">/</span></li><li><span class="active">Degree Program and Minor List</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Degree Program, Minor, and Certificate List</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,aztext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="aztexttab" role="presentation">
+<a href="#aztextcontainer" role="tab" aria-controls="aztextcontainer" onclick="return showSection('aztext');" >Programs A-Z</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="texttab" aria-hidden="true">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p>Concentrations are offered in several undergraduate degree programs; consult program requirement pages for more information.</p>
+<div class="onecol">
+<table class="sc_degreeinfo">
+<colgroup>
+			<col class="column0"/>
+			<col class="column1"/>
+			<col class="column2"/>
+			<col class="column3"/>
+</colgroup>
+			<thead>
+				<tr>
+					<th class="column0">Department</th>
+					<th class="column1">Degree Program</th>
+					<th class="column2">Minor/Certificate</th>
+					<th class="column3">Preprofessional</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class="college_heading" id="College of Applied Health Sciences"><td colspan="4"><strong>College of Applied Health Sciences</strong></td></tr>
+				<tr class="even firstrow" header="College of Applied Health Sciences">
+					<td class="column0">Biomedical and Health Information Sciences</td>
+					<td class="column1"><a href="/ucat/colleges-depts/applied-health-sciences/bhis/bs/">Health Information Management - BS</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/applied-health-sciences/bhis/lsv-minor/">Life Science Visualization - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Applied Health Sciences">
+					<td class="column0">Disability and Human Development</td>
+					<td class="column1"><a href="/ucat/colleges-depts/applied-health-sciences/dhd/bs/">Disability and Human Development - BS</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/applied-health-sciences/dhd/minor/">Disability and Human Development - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Applied Health Sciences">
+					<td class="column0">Kinesiology and Nutrition</td>
+					<td class="column1"><a href="/ucat/colleges-depts/applied-health-sciences/kn/bs-kn/">Kinesiology - BS</a><br/>  Nutrition - BS:<br/> <a href="/ucat/colleges-depts/applied-health-sciences/kn/bs-nutr-cp-conc/">• Coordinated Program</a><br/> <a href="/ucat/colleges-depts/applied-health-sciences/kn/bs-nutr-nsc-conc/">• Nutrition Science</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/applied-health-sciences/kn/minor-food-science/">Food Science - Minor</a><br/> <a href="/ucat/colleges-depts/applied-health-sciences/kn/minor-kn/">Kinesiology - Minor</a><br/> <a href="/ucat/colleges-depts/applied-health-sciences/kn/mino-nutr/"> Nutrition - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Applied Health Sciences">
+					<td class="column0">Preprofessional Studies</td>
+					<td class="column1"> </td>
+					<td class="column2"> </td>
+					<td class="column3"><a href="/ucat/colleges-depts/applied-health-sciences/preprofessional-studies/">Pre-Occupational Therapy</a><br/> <a href="/ucat/colleges-depts/applied-health-sciences/preprofessional-studies/"> Pre-Physical Therapy</a></td>
+				</tr>
+				<tr class="even" header="College of Applied Health Sciences">
+					<td class="column0">Rehabilitation Sciences</td>
+					<td class="column1"><a href="/ucat/colleges-depts/applied-health-sciences/rs/bs/">Rehabilitation Sciences - BS</a></td>
+					<td class="column2"> </td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="college_heading" id="College of Architecture, Design, and the Arts"><td colspan="4"><strong>College of Architecture, Design, and the Arts</strong></td></tr>
+				<tr class="odd" header="College of Architecture, Design, and the Arts">
+					<td class="column0">Architecture</td>
+					<td class="column1"><a href="/ucat/colleges-depts/architecture-design-arts/arch/ba-arch/">Architectural Studies - BA</a><br/> <a href="/ucat/colleges-depts/architecture-design-arts/arch/bs-arch/"> Architecture - BS</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/architecture-design-arts/arch/minor-arch/">Architectural Studies - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Architecture, Design, and the Arts">
+					<td class="column0">Art</td>
+					<td class="column1"><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/bfa-art/">Art - BFA</a><br/> <a href="/ucat/colleges-depts/architecture-design-arts/art-ah/bfa-art-ed/"> Art Education - BFA</a><br/> <a href="/ucat/colleges-depts/architecture-design-arts/art-ah/ba-ida/"> Interdisciplinary Education in the Arts - BA</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/minor-art/">Art - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Architecture, Design, and the Arts">
+					<td class="column0">Art History</td>
+					<td class="column1"><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/ba-ah/">Art History - BA</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/minor-ah/">Art History - Minor</a><br/> <a href="/ucat/colleges-depts/architecture-design-arts/art-ah/minor-mes/"> Museum and Exhibition Studies - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Architecture, Design, and the Arts">
+					<td class="column0">Design</td>
+					<td class="column1"><a href="/ucat/colleges-depts/architecture-design-arts/des/bdes-gd/">Graphic Design - BDes</a><br/> <a href="/ucat/colleges-depts/architecture-design-arts/des/bdes-id/"> Industrial Design - BDes</a><br/> <a href="/ucat/colleges-depts/architecture-design-arts/des/ba/"> Design Studies - BA</a></td>
+					<td class="column2"> </td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Architecture, Design, and the Arts">
+					<td class="column0">Music</td>
+					<td class="column1"><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/ba-mus/">Music - BA</a><br/> <a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/b-mus-bus/"> Music Business - BA</a><br/> <a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/bmus-perf/"> Performance - BMus</a><br/> <a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/bmus-jazz/"> Jazz Studies - BMus </a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/minor-mus/">Music - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Architecture, Design, and the Arts">
+					<td class="column0">Theatre</td>
+					<td class="column1"><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/ba-act/">Theatre and Performance - BA</a><br/> <a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/ba-thtr-des/"> Theatre Design Production and Technology - BA</a><br/> <a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/bfa-act/"> Acting - BFA</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/minor-thtr/">Theatre - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="college_heading" id="College of Business Administration"><td colspan="4"><strong>College of Business Administration</strong></td></tr>
+				<tr class="odd" header="College of Business Administration">
+					<td class="column0">Accounting</td>
+					<td class="column1"><a href="/ucat/colleges-depts/business-administration/actg/bs/">Accounting - BS</a></td>
+					<td class="column2"> </td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Business Administration">
+					<td class="column0">Business Administration</td>
+					<td class="column1"><a href="/ucat/colleges-depts/business-administration/bba/">Bachelor of Business Administration Completion Program</a></td>
+					<td class="column2"> </td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Business Administration">
+					<td class="column0">CBA Minors</td>
+					<td class="column1"> </td>
+					<td class="column2"><a href="/ucat/colleges-depts/business-administration/minors/minor-bus-adm/">Business Adminstration - Minor</a><br/> <a href="/ucat/colleges-depts/business-administration/minors/minor-bus-anal/"> Business Analytics - Minor</a><br/> <a href="/ucat/colleges-depts/business-administration/minors/minor-entr/"> Entrepreneurship - Minor</a><br/> <a href="/ucat/colleges-depts/business-administration/minors/minor-fin/"> Finance - Minor</a><br/> <a href="/ucat/colleges-depts/business-administration/minors/minor-human-resource-management/"> Human Resource Management - Minor</a><br/> <a href="/ucat/colleges-depts/business-administration/minors/minor-int-bus/">International Business - Minor</a><br/> <a href="/ucat/colleges-depts/business-administration/minors/minor-leadership/"> Leadership - Minor</a><br/> <a href="/ucat/colleges-depts/business-administration/minors/minor-mis/">Management Information Systems - Minor</a><br/> <a href="/ucat/colleges-depts/business-administration/minors/minor-real-estate/"> Real Estate - Minor</a><br/> <a href="/ucat/colleges-depts/business-administration/minors/minor-bus-oper/"> Supply Chain and Operations Management - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Business Administration">
+					<td class="column0">Finance</td>
+					<td class="column1"><a href="/ucat/colleges-depts/business-administration/fin/bs/">Finance - BS</a></td>
+					<td class="column2"> </td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Business Administration">
+					<td class="column0">Information and Decision Sciences (IDS)</td>
+					<td class="column1"><a href="/ucat/colleges-depts/business-administration/ids/">Information and Decision Sciences - BS</a></td>
+					<td class="column2"> </td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Business Administration">
+					<td class="column0">Managerial Studies</td>
+					<td class="column1"><a href="/ucat/colleges-depts/business-administration/mgmt/bs-entr/">Entrepreneurship - BS</a><br/> <a href="/ucat/colleges-depts/business-administration/mgmt/bs-human-resource-management/"> Human Resource Management - BS</a><br/> <a href="/ucat/colleges-depts/business-administration/mgmt/bs-mgmt/">Management - BS</a></td>
+					<td class="column2"> </td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Business Administration">
+					<td class="column0">Marketing</td>
+					<td class="column1"><a href="/ucat/colleges-depts/business-administration/marketing/">Marketing - BS</a></td>
+					<td class="column2"> </td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="college_heading" id="College of Education"><td colspan="4"><strong>College of Education</strong></td></tr>
+				<tr class="even" header="College of Education">
+					<td class="column0">Curriculum and Instruction</td>
+					<td class="column1"><a href="/ucat/colleges-depts/education/ci/ba-urban-edu/">Urban Education - BA</a></td>
+					<td class="column2"> </td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Education">
+					<td class="column0">Educational Psychology</td>
+					<td class="column1"><a href="/ucat/colleges-depts/education/epsy/ba-hdl/">Human Development and Learning - BA</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/education/epsy/minor-idt/">Instructional Design and Training - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Education">
+					<td class="column0">Interdepartmental</td>
+					<td class="column1"> </td>
+					<td class="column2"><a href="/ucat/colleges-depts/education/minor-education/">Education - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="college_heading" id="College of Engineering"><td colspan="4"><strong>College of Engineering</strong></td></tr>
+				<tr class="odd" header="College of Engineering">
+					<td class="column0">Biomedical Engineering</td>
+					<td class="column1"><a href="/ucat/colleges-depts/engineering/bioe/bs/">Biomedical Engineering - BS</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/engineering/bioe/minor/">Biomedical Engineering - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Engineering">
+					<td class="column0">Chemical Engineering</td>
+					<td class="column1"><a href="/ucat/colleges-depts/engineering/che/bs-che/">Chemical Engineering - BS</a><br/>  • Biochemical Engineering Concentration<br/>  • Energy and Environment Concentration<br/>  • Entrepreneurship Concentration<br/>  • Nanotechnology Concentration<br/>  • Polymers and Molecular Engineering Concentration<br/>  • Process Automation Concentration<br/> <a href="/ucat/colleges-depts/engineering/che/bs-ms-chemical-engineering/"> Chemical Engineering - Joint BS/MS</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/engineering/che/minor-che/">Chemical Engineering - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Engineering">
+					<td class="column0">Civil,  Materials,  and Environmental Engineering</td>
+					<td class="column1"><a href="/ucat/colleges-depts/engineering/cme/bs-cive/">Civil Engineering - BS</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/engineering/cme/minor-cive/">Civil Engineering - Minor</a><br/> <a href="/ucat/colleges-depts/engineering/cme/minor-environmental-engineering/">Environmental Engineering - Minor</a><br/> <a href="/ucat/colleges-depts/engineering/cme/minor-materials-engineering/">Materials Engineering - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Engineering">
+					<td class="column0">Computer Science</td>
+					<td class="column1"><a href="/ucat/colleges-depts/engineering/cs/bs-cs/">Computer Science - BS</a><br/> <a href="/ucat/colleges-depts/engineering/cs/bs-cs-com-syst-conc/"> • Computer Systems Concentration</a><br/> <a href="/ucat/colleges-depts/engineering/cs/bs-cs-hcc-conc/">• Human-Centered Computing Concentration</a><br/> <a href="/ucat/colleges-depts/engineering/cs/bs-cs-se-conc/">• Software Engineering Concentration</a><br/> <a href="/ucat/colleges-depts/engineering/cs/bs-cs-design/"> Computer Science and Design - BS</a><br/> <a href="/ucat/colleges-depts/engineering/cs/joint-bs-ms/"> Computer Science - Joint BS/MS</a><br/>  Data Science - BS<br/> <a href="/ucat/colleges-depts/engineering/cs/bs-data-science-bioinformatics/"> • Bioinformatics Concentration</a><br/> <a href="/ucat/colleges-depts/engineering/cs/bs-data-science-business-analytics/">  • Business Analytics Concentration</a><br/> <a href="/ucat/colleges-depts/engineering/cs/bs-data-science-computer-science/">  •  Computer Science Concentration</a><br/> <a href="/ucat/colleges-depts/engineering/cs/bs-data-science-data-processing-science-engineering/"> •  Data Processing Science and Engineering Concentration</a><br/> <a href="/ucat/colleges-depts/engineering/cs/bs-data-science-health-data-science/">  • Health Data Science Concentration</a><br/> <a href="/ucat/colleges-depts/engineering/cs/bs-data-science-industrial-engineering/">  • Industrial Engineering Concentration</a><br/> <a href="/ucat/colleges-depts/engineering/cs/bs-data-science-social-technology-studies/">  • Social Technology Studies Concentration</a><br/> <a href="/ucat/colleges-depts/engineering/cs/bs-data-science-statistics/">  • Statistics Concentration</a><br/> <a href="/ucat/colleges-depts/engineering/cs/bs-data-science-urban-planning-policy-adminstration/">  • Urban Planning and Policy Administration Concentration</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/engineering/cs/minor-cs/">Computer Science - Minor</a><br/> <a href="/ucat/colleges-depts/engineering/cs/minor-it/"> Information Technology - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Engineering">
+					<td class="column0">Electrical and Computer Engineering</td>
+					<td class="column1"><a href="/ucat/colleges-depts/engineering/ece/bs-ee/">Electrical Engineering - BS</a><br/> <a href="/ucat/colleges-depts/engineering/ece/bs-ce/"> Computer Engineering - BS</a><br/> <a href="/ucat/colleges-depts/engineering/ece/bs-eng-phys/"> Engineering Physics - BS</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/engineering/ece/minor-ee/">Electrical Engineering - Minor</a><br/> <a href="/ucat/colleges-depts/engineering/ece/minor-ce/"> Computer Engineering - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Engineering">
+					<td class="column0">Interdisciplinary</td>
+					<td class="column1"> </td>
+					<td class="column2"><a href="/ucat/colleges-depts/engineering/addl-interdisciplinary-opps/minor-inst/">International Studies - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Engineering">
+					<td class="column0">Mechanical and Industrial Engineering</td>
+					<td class="column1"><a href="/ucat/colleges-depts/engineering/mie/bs-me/">Mechanical Engineering - BS</a><br/> <a href="/ucat/colleges-depts/engineering/mie/bs-ie/"> Industrial Engineering - BS</a><br/> <a href="/ucat/colleges-depts/engineering/mie/bs-ie-mgmt/"> Engineering Management - BS</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/engineering/mie/minor-ie/">Industrial Engineering - Minor</a><br/> <a href="/ucat/colleges-depts/engineering/mie/minor-me/"> Mechanical Engineering - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="college_heading" id="College of Liberal Arts and Sciences"><td colspan="4"><strong>College of Liberal Arts and Sciences</strong></td></tr>
+				<tr class="even" header="College of Liberal Arts and Sciences">
+					<td class="column0">Anthropology</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/ba/">Anthropology - BA with a Major</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/minor-anth/">Anthropology - Minor</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/anth/certificate-medical-humanities/"> Medical Humanities - Campus Certificate</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Liberal Arts and Sciences">
+					<td class="column0">Biochemistry</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/bs/">Biochemistry - BS</a></td>
+					<td class="column2"> </td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Liberal Arts and Sciences">
+					<td class="column0">Biological Sciences</td>
+					<td class="column1">Biological Sciences - BS with a Major<br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/bios/bs-generalbiology/">• General Biology Concentration</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/bios/bs-mcob/"> • Molecular<br/> Cellular and Organismal Biology Concentration</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/bios/bs-eeeb/"> • Evolution<br/> Ecology and Environmental Biology Concentration</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/minor/">Biological Sciences - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Liberal Arts and Sciences">
+					<td class="column0">Black Studies</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/ba/">Black Studies - BA with a Major</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/minor-blst/">Black Studies - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Liberal Arts and Sciences">
+					<td class="column0">Chemistry</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/ba-chem/">Chemistry - BA with a Major</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/chem/bs-chem/"> Chemistry - BS</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/minor-chem/">Chemistry - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Liberal Arts and Sciences">
+					<td class="column0">Classics and Mediterranean Studies</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/ba/">Classical Studies - BA with a Major</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/minor-arab/">Arabic - Minor</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/cl/minor/">Classical Studies - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Liberal Arts and Sciences">
+					<td class="column0">Communication</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/ba/">Communication - BA with a Major</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/minor/">Communication - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Liberal Arts and Sciences">
+					<td class="column0">Criminology,  Law, and Justice</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/ba-clj/">Criminology Law and Justice - BA with a Major</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/minor-clj/">Criminology Law and Justice - Minor</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/clj/minor-ls/"> Law and Society - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Liberal Arts and Sciences">
+					<td class="column0">Earth and Environmental Sciences</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/bs/">Earth and Environmental Sciences - BS with a Major</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/minor/">Earth and Environmental Sciences - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Liberal Arts and Sciences">
+					<td class="column0">Economics</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/ba/">Economics - BA with a Major</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/minor-econ/">Economics - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Liberal Arts and Sciences">
+					<td class="column0">English</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/ba-engl/">English - BA with a Major</a><br/>  • British<br/> American and World Anglophone Literature Concentration<br/>  • Media<br/> Rhetorical and Cultural Studies Concentration<br/> • Creative Writing Concentration<br/> • Professional Writing Concentration <br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/engl/ba-teachengl/">Teaching of English - BA</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/minor-engl/">English - Minor</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/engl/minor-prof-writing/"> Professional Writing - Minor</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/engl/minor-teach-engl/">Teaching of English - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Liberal Arts and Sciences">
+					<td class="column0">French and Francophone Studies</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies - BA with a Major</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/fr/ba-teach-fr/"> Teaching of French - BA</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/minor-fr/">French and Francophone Studies - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Liberal Arts and Sciences">
+					<td class="column0">Gender and Women's Studies</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/ba/">Gender and Women’s Studies - BA with a Major</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/minor/">Gender and Women's Studies - Minor</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/gws/minor-sj/"> Social Justice - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Liberal Arts and Sciences">
+					<td class="column0">Germanic Studies</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/ba-ger/">Germanic Studies - BA with a Major</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/ger/ba-ger-minor-bus/"> Germanic Studies with Business Minor - BA with a Major</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/ger/ba-teach-ger/"> Teaching of German - BA</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/minor-ger/">Germanic Studies - Minor</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/ger/certificate-german/"> German Language - Campus Certificate</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Liberal Arts and Sciences">
+					<td class="column0">Global Asian Studies</td>
+					<td class="column1"> </td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/minor-glas/">Global Asian Studies - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Liberal Arts and Sciences">
+					<td class="column0">Hispanic and Italian Studies</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/ba-span/">Spanish - BA with Major </a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/ba-teach-span/"> Teaching of Spanish - BA</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/ba-ital/"> Italian - BA with a Major (suspended)</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/minor-span/">Spanish - Minor</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/minor-spanish-for-professions/"> Spanish for the Professions - Minor</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/minor-ital/">Italian and Italian American Studies - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Liberal Arts and Sciences">
+					<td class="column0">History</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/ba-hist/">History - BA with a Major</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/hist/ba-teach-hist/"> Teaching of History - BA</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/minor-hist/">History - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Liberal Arts and Sciences">
+					<td class="column0">Integrated Health Studies</td>
+					<td class="column1">Integrated Health Studies - BA with a Major<br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/bs-bh-conc/">•Behavioral Health Concentration</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/bs-hs-conc/"> •Health and Science Concentration</a></td>
+					<td class="column2"> </td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Liberal Arts and Sciences">
+					<td class="column0">Interdepartmental</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/ba/">Liberal Studies - BA with a Major</a></td>
+					<td class="column2"> </td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Liberal Arts and Sciences">
+					<td class="column0">International Studies</td>
+					<td class="column1"> </td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/minor/">International Studies - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Liberal Arts and Sciences">
+					<td class="column0">Latin American and Latino Studies</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies - BA with a Major</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/minor/">Latin American and Latino Studies - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Liberal Arts and Sciences">
+					<td class="column0">Linguistics</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/cs-linguistics/">Computer Science and Linguistics - BS</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/minor-chin/">Chinese - Minor</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/ling/minor-ling/"> Linguistics - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Liberal Arts and Sciences">
+					<td class="column0">Mathematics,  Statistics, and Computer Science</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/bs-math/">Mathematics - BS with a Major</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/bs-stat/"> Statistics - BS with a Major</a><br/>  • Statistical Theory and Methods Concentration<br/> • Applied Statistics Concentration<br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/bs-teach-math/"> Teaching of Mathematics - BS</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/bs-math-cs/"> Mathematics and Computer Science - BS with a Major</a><br/> • Algorithms and Theory Concentration<br/> • Computational Mathematics Concentration</td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/minor-math/">Mathematics - Minor</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/minor-math-cs/"> Mathematics and Computer Science - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Liberal Arts and Sciences">
+					<td class="column0">Moving Image Arts</td>
+					<td class="column1"> </td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/minor/">Moving Image Arts - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Liberal Arts and Sciences">
+					<td class="column0">Neuroscience</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/bs/">Neuroscience - BS</a></td>
+					<td class="column2"> </td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Liberal Arts and Sciences">
+					<td class="column0">Philosophy</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/ba/">Philosophy - BA with a Major</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/minor/">Philosophy - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Liberal Arts and Sciences">
+					<td class="column0">Physics</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/ba-phys/">Physics - BA with a Major</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/phys/bs-teach-phys/"> Teaching of Physics - BS (suspended)</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/phys/bs-phys/"> Physics - BS</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/minor-phys/">Physics - Minor</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/phys/minor-teaching-phys/"> Teaching of Physics - Minor (suspended)</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Liberal Arts and Sciences">
+					<td class="column0">Polish,  Russian,  and Lithuanian Studies</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/ba-polish-russian-cees/">Polish Russian and Central and Eastern European Studies - BA with a Major</a><br/>  • Polish Studies Concentration<br/> • Russian Studies Concentration<br/> • Central and Eastern European Studies Concentration</td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/minor-cees/">Central and Eastern European Studies - Minor</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/slav/minor-pol/"> Polish Studies - Minor</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/slav/minor-russ/">Russian Studies - Minor</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/slav/certificate-polish/"> Polish Language - Campus Certificate</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/slav/certificate-russian/"> Russian Language - Campus Certificate</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Liberal Arts and Sciences">
+					<td class="column0">Political Science</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/ba-pols/">Political Science - BA with a Major</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/pols/ba-pols-lc-conc/"> • Law and Courts Concentration</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/pols/ba-pols-up-conc/"> • Urban Politics Concentration</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/minor-pols/">Political Science - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Liberal Arts and Sciences">
+					<td class="column0">Preprofessional Studies</td>
+					<td class="column1"> </td>
+					<td class="column2"> </td>
+					<td class="column3"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-dent/">Pre-Dentistry</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-him/"> Pre-Health Information Management</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-law/"> Pre-Law</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-med/"> Pre-Medicine</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-nurs/"> Pre-Nursing</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-nut/"> Pre-Nutrition</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-ot/"> Pre-Occupational Therapy</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pharm/"> Pre-Pharmacy</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pt/"> Pre-Physical Therapy</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pubh/"> Pre-Public Health</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-vet-med/"> Pre-Veterinary Medicine</a></td>
+				</tr>
+				<tr class="even" header="College of Liberal Arts and Sciences">
+					<td class="column0">Psychology</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/ba-applied-psychology/">Applied Psychology - BA with a Major</a><br/> <a href="/ucat/colleges-depts/liberal-arts-sciences/psych/bs-psychology/"> Psychology - BS with a Major</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/minor-psych/">Psychology - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="odd" header="College of Liberal Arts and Sciences">
+					<td class="column0">Religious Studies</td>
+					<td class="column1"> </td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/minor/">Religious Studies - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Liberal Arts and Sciences">
+					<td class="column0">Sociology</td>
+					<td class="column1"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/ba/">Sociology - BA with a Major</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/minor/">Sociology - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="college_heading" id="College of Nursing"><td colspan="4"><strong>College of Nursing</strong></td></tr>
+				<tr class="odd" header="College of Nursing">
+					<td class="column0">Nursing</td>
+					<td class="column1"><a href="/ucat/colleges-depts/nursing/bs-nursing/">Nursing - BS</a><br/> <a href="/ucat/colleges-depts/nursing/rn-bsn/"> RN/BSN Completion Program</a></td>
+					<td class="column2"> </td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="college_heading" id="College of Pharmacy"><td colspan="4"><strong>College of Pharmacy</strong></td></tr>
+				<tr class="even" header="College of Pharmacy">
+					<td class="column0">Pharmacy</td>
+					<td class="column1"><a href="/ucat/colleges-depts/pharmacy/pharmd/">Pharmacy - Doctor</a></td>
+					<td class="column2"> </td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="college_heading" id="College of Urban Planning and Public Affairs"><td colspan="4"><strong>College of Urban Planning and Public Affairs</strong></td></tr>
+				<tr class="odd" header="College of Urban Planning and Public Affairs">
+					<td class="column0">Public Administration</td>
+					<td class="column1"><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/ba/">Public Policy - BA</a><br/> <a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/joint-degrees/"> Public Policy - Joint Degrees with BA:</a><br/> • Master of Public Administration<br/> • Master of Public Policy<br/> • Master of Urban Planning and Policy<br/> • MS in Civic Analytics</td>
+					<td class="column2"><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/minor-civic-analytics/">Civic Analytics - Minor</a><br/> <a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/minor-nonprofit-management/"> Nonprofit Management - Minor</a><br/> <a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/minor-pp/">Public Policy - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="even" header="College of Urban Planning and Public Affairs">
+					<td class="column0">Urban Planning and Policy</td>
+					<td class="column1"><a href="/ucat/colleges-depts/urban-planning-public-affairs/upp/ba/">Urban Studies - BA</a><br/> <a href="/ucat/colleges-depts/urban-planning-public-affairs/upp/joint-degrees/"> Urban Studies - Joint Degrees with BA:</a><br/> • Master of Public Administration<br/> • Master of Public Policy<br/> • Master of Urban Planning and Policy<br/>  • MS in Civic Analytics</td>
+					<td class="column2"><a href="/ucat/colleges-depts/urban-planning-public-affairs/upp/minor-gis/">Geographic Information Systems - Minor</a><br/> <a href="/ucat/colleges-depts/urban-planning-public-affairs/upp/minor-sc/"> Sustainable Cities - Minor</a><br/> <a href="/ucat/colleges-depts/urban-planning-public-affairs/upp/minor-upp/"> Urban Studies - Minor</a></td>
+					<td class="column3"> </td>
+				</tr>
+				<tr class="college_heading" id="School of Public Health"><td colspan="4"><strong>School of Public Health</strong></td></tr>
+				<tr class="odd lastrow" header="School of Public Health">
+					<td class="column0">Public Health</td>
+					<td class="column1"><a href="/ucat/colleges-depts/public-health/ba-pubh/">Public Health - BA</a><br/> <a href="/ucat/colleges-depts/public-health/bs-pubh/"> Public Health - BS</a></td>
+					<td class="column2"><a href="/ucat/colleges-depts/public-health/minor-pubh/">Public Health - Minor</a></td>
+					<td class="column3"><a href="/ucat/colleges-depts/public-health/preprofessional-studies/">Pre-Public Health</a></td>
+				</tr>
+			</tbody>
+		</table>
+
+</div>
+</div><!--end #textcontainer -->
+
+			<div id="aztextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="aztexttab" aria-hidden="true">
+				<a name="aztext"></a><div class="sc_degreeprograms">
+<div class="notinpdf"><ul class="letternav clearfix">
+	<li><a href="#a">A</a></li>
+	<li><a href="#b">B</a></li>
+	<li><a href="#c">C</a></li>
+	<li><a href="#d">D</a></li>
+	<li><a href="#e">E</a></li>
+	<li><a href="#f">F</a></li>
+	<li><a href="#g">G</a></li>
+	<li><a href="#h">H</a></li>
+	<li><a href="#i">I</a></li>
+	<li><a href="#j">J</a></li>
+	<li><a href="#k">K</a></li>
+	<li><a href="#l">L</a></li>
+	<li><a href="#m">M</a></li>
+	<li><a href="#n">N</a></li>
+	<li class="inactive">O</li>
+	<li><a href="#p">P</a></li>
+	<li class="inactive">Q</li>
+	<li><a href="#r">R</a></li>
+	<li><a href="#s">S</a></li>
+	<li><a href="#t">T</a></li>
+	<li><a href="#u">U</a></li>
+	<li class="inactive">V</li>
+	<li class="inactive">W</li>
+	<li class="inactive">X</li>
+	<li class="inactive">Y</li>
+	<li class="inactive">Z</li>
+</ul></div>
+<ul>
+<li><span id="a"><a href="/ucat/colleges-depts/business-administration/actg/bs/">Accounting - BS</a></span></li>
+<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/bfa-act/">Acting - BFA</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/ba/">Anthropology - BA with a Major</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/minor-anth/">Anthropology - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/ba-applied-psychology/">Applied Psychology - BA with a Major</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/minor-arab/">Arabic - Minor</a></li>
+<li><a href="/ucat/colleges-depts/architecture-design-arts/arch/ba-arch/">Architectural Studies - BA</a></li>
+<li><a href="/ucat/colleges-depts/architecture-design-arts/arch/minor-arch/">Architectural Studies - Minor</a></li>
+<li><a href="/ucat/colleges-depts/architecture-design-arts/arch/bs-arch/">Architecture - BS</a></li>
+<li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/bfa-art/">Art - BFA</a></li>
+<li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/minor-art/">Art - Minor</a></li>
+<li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/bfa-art-ed/">Art Education - BFA</a></li>
+<li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/ba-ah/">Art History - BA</a></li>
+<li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/minor-ah/">Art History - Minor</a></li>
+<li><span id="b"><a href="/ucat/colleges-depts/business-administration/bba/">Bachelor of Business Administration Completion Program</a></span></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/bs/">Biochemistry - BS</a></li>
+<li>Biological Sciences - BS with a Major<ul>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/bs-generalbiology/">General Biology Concentration</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/bs-mcob/">Molecular, Cellular and Organismal Biology Concentration</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/bs-eeeb/">Evolution, Ecology and Environmental Biology Concentration</a></li>
+</ul></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/minor/">Biological Sciences - Minor</a></li>
+<li><a href="/ucat/colleges-depts/engineering/bioe/bs/">Biomedical Engineering - BS</a></li>
+<li><a href="/ucat/colleges-depts/engineering/bioe/minor/">Biomedical Engineering - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/ba/">Black Studies - BA with a Major</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/minor-blst/">Black Studies - Minor</a></li>
+<li><a href="/ucat/colleges-depts/business-administration/minors/minor-bus-adm/">Business Adminstration - Minor</a></li>
+<li><a href="/ucat/colleges-depts/business-administration/minors/minor-bus-anal/">Business Analytics - Minor</a></li>
+<li><span id="c"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/minor-cees/">Central and Eastern European Studies - Minor</a></span></li>
+<li><a href="/ucat/colleges-depts/engineering/che/bs-che/">Chemical Engineering - BS</a><ul>
+<li>Biochemical Engineering Concentration</li>
+<li>Energy and Environment Concentration</li>
+<li>Entrepreneurship Concentration</li>
+<li>Nanotechnology Concentration</li>
+<li>Polymers and Molecular Engineering Concentration</li>
+<li>Process Automation Concentration</li>
+</ul></li>
+<li><a href="/ucat/colleges-depts/engineering/che/bs-ms-chemical-engineering/">Chemical Engineering - Joint BS/MS</a></li>
+<li><a href="/ucat/colleges-depts/engineering/che/minor-che/">Chemical Engineering - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/ba-chem/">Chemistry - BA with a Major</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/bs-chem/">Chemistry - BS</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/minor-chem/">Chemistry - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/minor-chin/">Chinese - Minor</a></li>
+<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/minor-civic-analytics/">Civic Analytics - Minor</a></li>
+<li><a href="/ucat/colleges-depts/engineering/cme/bs-cive/">Civil Engineering - BS</a></li>
+<li><a href="/ucat/colleges-depts/engineering/cme/minor-cive/">Civil Engineering - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/ba/">Classical Studies - BA with a Major</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/minor/">Classical Studies - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/ba/">Communication - BA with a Major</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/minor/">Communication - Minor</a></li>
+<li><a href="/ucat/colleges-depts/engineering/ece/bs-ce/">Computer Engineering - BS</a></li>
+<li><a href="/ucat/colleges-depts/engineering/ece/minor-ce/">Computer Engineering - Minor</a></li>
+<li><a href="/ucat/colleges-depts/engineering/cs/bs-cs/">Computer Science - BS</a><ul>
+<li><a href="/ucat/colleges-depts/engineering/cs/bs-cs-com-syst-conc/">Computer Systems Concentration</a></li>
+<li><a href="/ucat/colleges-depts/engineering/cs/bs-cs-hcc-conc/">Human-Centered Computing Concentration</a></li>
+<li><a href="/ucat/colleges-depts/engineering/cs/bs-cs-se-conc/">Software Engineering Concentration</a></li>
+</ul></li>
+<li><a href="/ucat/colleges-depts/engineering/cs/joint-bs-ms/">Computer Science - Joint BS/MS</a></li>
+<li><a href="/ucat/colleges-depts/engineering/cs/minor-cs/">Computer Science - Minor</a></li>
+<li><a href="/ucat/colleges-depts/engineering/cs/bs-cs-design/">Computer Science and Design - BS</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/cs-linguistics/">Computer Science and Linguistics - BS</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/ba-clj/">Criminology Law and Justice - BA with a Major</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/minor-clj/">Criminology Law and Justice - Minor</a></li>
+<li><span id="d">Data Science - BS<ul>
+<li><a href="/ucat/colleges-depts/engineering/cs/bs-data-science-bioinformatics/">Bioinformatics Concentration</a></li>
+<li><a href="/ucat/colleges-depts/engineering/cs/bs-data-science-business-analytics/">Business Analytics Concentration</a></li>
+<li><a href="/ucat/colleges-depts/engineering/cs/bs-data-science-computer-science/">Computer Science Concentration</a></li>
+<li><a href="/ucat/colleges-depts/engineering/cs/bs-data-science-data-processing-science-engineering/">Data Processing Science and Engineering Concentration</a></li>
+<li><a href="/ucat/colleges-depts/engineering/cs/bs-data-science-health-data-science/">Health Data Science Concentration</a></li>
+<li><a href="/ucat/colleges-depts/engineering/cs/bs-data-science-industrial-engineering/">Industrial Engineering Concentration</a></li>
+<li><a href="/ucat/colleges-depts/engineering/cs/bs-data-science-social-technology-studies/">Social Technology Studies Concentration</a></li>
+<li><a href="/ucat/colleges-depts/engineering/cs/bs-data-science-statistics/">Statistics Concentration</a></li>
+<li><a href="/ucat/colleges-depts/engineering/cs/bs-data-science-urban-planning-policy-adminstration/">Urban Planning and Policy Administration Concentration</a></li>
+</ul></span></li>
+<li><a href="/ucat/colleges-depts/architecture-design-arts/des/ba/">Design Studies - BA</a></li>
+<li><a href="/ucat/colleges-depts/applied-health-sciences/dhd/bs/">Disability and Human Development - BS</a></li>
+<li><a href="/ucat/colleges-depts/applied-health-sciences/dhd/minor/">Disability and Human Development - Minor</a></li>
+<li><span id="e"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/bs/">Earth and Environmental Sciences - BS with a Major</a></span></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/minor/">Earth and Environmental Sciences - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/ba/">Economics - BA with a Major</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/minor-econ/">Economics - Minor</a></li>
+<li><a href="/ucat/colleges-depts/education/minor-education/">Education - Minor</a></li>
+<li><a href="/ucat/colleges-depts/engineering/ece/bs-ee/">Electrical Engineering - BS</a></li>
+<li><a href="/ucat/colleges-depts/engineering/ece/minor-ee/">Electrical Engineering - Minor</a></li>
+<li><a href="/ucat/colleges-depts/engineering/mie/bs-ie-mgmt/">Engineering Management - BS</a></li>
+<li><a href="/ucat/colleges-depts/engineering/ece/bs-eng-phys/">Engineering Physics - BS</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/ba-engl/">English - BA with a Major</a><ul>
+<li>British, American and World Anglophone Literature Concentration</li>
+<li>Media, Rhetorical and Cultural Studies Concentration</li>
+<li>Creative Writing Concentration</li>
+<li>Professional Writing Concentration</li>
+</ul></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/minor-engl/">English - Minor</a></li>
+<li><a href="/ucat/colleges-depts/business-administration/mgmt/bs-entr/">Entrepreneurship - BS</a></li>
+<li><a href="/ucat/colleges-depts/business-administration/minors/minor-entr/">Entrepreneurship - Minor</a></li>
+<li><a href="/ucat/colleges-depts/engineering/cme/minor-environmental-engineering/">Environmental Engineering - Minor</a></li>
+<li><span id="f"><a href="/ucat/colleges-depts/business-administration/fin/bs/">Finance - BS</a></span></li>
+<li><a href="/ucat/colleges-depts/business-administration/minors/minor-fin/">Finance - Minor</a></li>
+<li><a href="/ucat/colleges-depts/applied-health-sciences/kn/minor-food-science/">Food Science - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies - BA with a Major</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/minor-fr/">French and Francophone Studies - Minor</a></li>
+<li><span id="g"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/minor/">Gender and Women's Studies - Minor</a></span></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/ba/">Gender and Women’s Studies - BA with a Major</a></li>
+<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/upp/minor-gis/">Geographic Information Systems - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/certificate-german/">German Language - Campus Certificate</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/ba-ger/">Germanic Studies - BA with a Major</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/minor-ger/">Germanic Studies - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/ba-ger-minor-bus/">Germanic Studies with Business Minor - BA with a Major</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/minor-glas/">Global Asian Studies - Minor</a></li>
+<li><a href="/ucat/colleges-depts/architecture-design-arts/des/bdes-gd/">Graphic Design - BDes</a></li>
+<li><span id="h"><a href="/ucat/colleges-depts/applied-health-sciences/bhis/bs/">Health Information Management - BS</a></span></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/ba-hist/">History - BA with a Major</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/minor-hist/">History - Minor</a></li>
+<li><a href="/ucat/colleges-depts/education/epsy/ba-hdl/">Human Development and Learning - BA</a></li>
+<li><a href="/ucat/colleges-depts/business-administration/mgmt/bs-human-resource-management/">Human Resource Management - BS</a></li>
+<li><a href="/ucat/colleges-depts/business-administration/minors/minor-human-resource-management/">Human Resource Management - Minor</a></li>
+<li><span id="i"><a href="/ucat/colleges-depts/architecture-design-arts/des/bdes-id/">Industrial Design - BDes</a></span></li>
+<li><a href="/ucat/colleges-depts/engineering/mie/bs-ie/">Industrial Engineering - BS</a></li>
+<li><a href="/ucat/colleges-depts/engineering/mie/minor-ie/">Industrial Engineering - Minor</a></li>
+<li><a href="/ucat/colleges-depts/engineering/cs/minor-it/">Information Technology - Minor</a></li>
+<li><a href="/ucat/colleges-depts/business-administration/ids/">Information and Decision Sciences - BS</a></li>
+<li><a href="/ucat/colleges-depts/education/epsy/minor-idt/">Instructional Design and Training - Minor</a></li>
+<li>Integrated Health Studies - BA with a Major<ul>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/bs-bh-conc/">Behavioral Health Concentration</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/bs-hs-conc/">Health and Science Concentration</a></li>
+</ul></li>
+<li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/ba-ida/">Interdisciplinary Education in the Arts - BA</a></li>
+<li><a href="/ucat/colleges-depts/business-administration/minors/minor-int-bus/">International Business - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/minor/">International Studies - Minor</a></li>
+<li><a href="/ucat/colleges-depts/engineering/addl-interdisciplinary-opps/minor-inst/">International Studies - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/ba-ital/">Italian - BA with a Major (suspended)</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/minor-ital/">Italian and Italian American Studies - Minor</a></li>
+<li><span id="j"><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/bmus-jazz/">Jazz Studies - BMus</a></span></li>
+<li><span id="k"><a href="/ucat/colleges-depts/applied-health-sciences/kn/bs-kn/">Kinesiology - BS</a></span></li>
+<li><a href="/ucat/colleges-depts/applied-health-sciences/kn/minor-kn/">Kinesiology - Minor</a></li>
+<li><span id="l"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies - BA with a Major</a></span></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/minor/">Latin American and Latino Studies - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/minor-ls/">Law and Society - Minor</a></li>
+<li><a href="/ucat/colleges-depts/business-administration/minors/minor-leadership/">Leadership - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/ba/">Liberal Studies - BA with a Major</a></li>
+<li><a href="/ucat/colleges-depts/applied-health-sciences/bhis/lsv-minor/">Life Science Visualization - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/minor-ling/">Linguistics - Minor</a></li>
+<li><span id="m"><a href="/ucat/colleges-depts/business-administration/mgmt/bs-mgmt/">Management - BS</a></span></li>
+<li><a href="/ucat/colleges-depts/business-administration/minors/minor-mis/">Management Information Systems - Minor</a></li>
+<li><a href="/ucat/colleges-depts/business-administration/marketing/">Marketing - BS</a></li>
+<li><a href="/ucat/colleges-depts/engineering/cme/minor-materials-engineering/">Materials Engineering - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/bs-math/">Mathematics - BS with a Major</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/minor-math/">Mathematics - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/bs-math-cs/">Mathematics and Computer Science - BS with a Major</a><ul>
+<li>Algorithms and Theory Concentration</li>
+<li>Computational Mathematics Concentration</li>
+</ul></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/minor-math-cs/">Mathematics and Computer Science - Minor</a></li>
+<li><a href="/ucat/colleges-depts/engineering/mie/bs-me/">Mechanical Engineering - BS</a></li>
+<li><a href="/ucat/colleges-depts/engineering/mie/minor-me/">Mechanical Engineering - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/certificate-medical-humanities/">Medical Humanities - Campus Certificate</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/minor/">Moving Image Arts - Minor</a></li>
+<li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/minor-mes/">Museum and Exhibition Studies - Minor</a></li>
+<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/ba-mus/">Music - BA</a></li>
+<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/minor-mus/">Music - Minor</a></li>
+<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/b-mus-bus/">Music Business - BA</a></li>
+<li><span id="n"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/bs/">Neuroscience - BS</a></span></li>
+<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/minor-nonprofit-management/">Nonprofit Management - Minor</a></li>
+<li><a href="/ucat/colleges-depts/nursing/bs-nursing/">Nursing - BS</a></li>
+<li>Nutrition - BS:<ul>
+<li><a href="/ucat/colleges-depts/applied-health-sciences/kn/bs-nutr-cp-conc/">Coordinated Program</a></li>
+<li><a href="/ucat/colleges-depts/applied-health-sciences/kn/bs-nutr-nsc-conc/">Nutrition Science</a></li>
+</ul></li>
+<li><a href="/ucat/colleges-depts/applied-health-sciences/kn/mino-nutr/">Nutrition - Minor</a></li>
+<li><span id="p"><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/bmus-perf/">Performance - BMus</a></span></li>
+<li><a href="/ucat/colleges-depts/pharmacy/pharmd/">Pharmacy - Doctor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/ba/">Philosophy - BA with a Major</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/minor/">Philosophy - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/ba-phys/">Physics - BA with a Major</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/bs-phys/">Physics - BS</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/minor-phys/">Physics - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/certificate-polish/">Polish Language - Campus Certificate</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/ba-polish-russian-cees/">Polish Russian and Central and Eastern European Studies - BA with a Major</a><ul>
+<li>Polish Studies Concentration</li>
+<li>Russian Studies Concentration</li>
+<li>Central and Eastern European Studies Concentration</li>
+</ul></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/minor-pol/">Polish Studies - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/ba-pols/">Political Science - BA with a Major</a><ul>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/ba-pols-lc-conc/">Law and Courts Concentration</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/ba-pols-up-conc/">Urban Politics Concentration</a></li>
+</ul></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/minor-pols/">Political Science - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-dent/">Pre-Dentistry</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-him/">Pre-Health Information Management</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-law/">Pre-Law</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-med/">Pre-Medicine</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-nurs/">Pre-Nursing</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-nut/">Pre-Nutrition</a></li>
+<li><a href="/ucat/colleges-depts/applied-health-sciences/preprofessional-studies/">Pre-Occupational Therapy</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-ot/">Pre-Occupational Therapy</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pharm/">Pre-Pharmacy</a></li>
+<li><a href="/ucat/colleges-depts/applied-health-sciences/preprofessional-studies/">Pre-Physical Therapy</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pt/">Pre-Physical Therapy</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pubh/">Pre-Public Health</a></li>
+<li><a href="/ucat/colleges-depts/public-health/preprofessional-studies/">Pre-Public Health</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-vet-med/">Pre-Veterinary Medicine</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/minor-prof-writing/">Professional Writing - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/bs-psychology/">Psychology - BS with a Major</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/minor-psych/">Psychology - Minor</a></li>
+<li><a href="/ucat/colleges-depts/public-health/ba-pubh/">Public Health - BA</a></li>
+<li><a href="/ucat/colleges-depts/public-health/bs-pubh/">Public Health - BS</a></li>
+<li><a href="/ucat/colleges-depts/public-health/minor-pubh/">Public Health - Minor</a></li>
+<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/ba/">Public Policy - BA</a></li>
+<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/joint-degrees/">Public Policy - Joint Degrees with BA:</a><ul>
+<li>Master of Public Administration</li>
+<li>Master of Public Policy</li>
+<li>Master of Urban Planning and Policy</li>
+<li>MS in Civic Analytics</li>
+</ul></li>
+<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/minor-pp/">Public Policy - Minor</a></li>
+<li><span id="r"><a href="/ucat/colleges-depts/nursing/rn-bsn/">RN/BSN Completion Program</a></span></li>
+<li><a href="/ucat/colleges-depts/business-administration/minors/minor-real-estate/">Real Estate - Minor</a></li>
+<li><a href="/ucat/colleges-depts/applied-health-sciences/rs/bs/">Rehabilitation Sciences - BS</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/minor/">Religious Studies - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/certificate-russian/">Russian Language - Campus Certificate</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/minor-russ/">Russian Studies - Minor</a></li>
+<li><span id="s"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/minor-sj/">Social Justice - Minor</a></span></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/ba/">Sociology - BA with a Major</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/minor/">Sociology - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/ba-span/">Spanish - BA with Major</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/minor-span/">Spanish - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/minor-spanish-for-professions/">Spanish for the Professions - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/bs-stat/">Statistics - BS with a Major</a><ul>
+<li>Statistical Theory and Methods Concentration</li>
+<li>Applied Statistics Concentration</li>
+</ul></li>
+<li><a href="/ucat/colleges-depts/business-administration/minors/minor-bus-oper/">Supply Chain and Operations Management - Minor</a></li>
+<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/upp/minor-sc/">Sustainable Cities - Minor</a></li>
+<li><span id="t"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/ba-teachengl/">Teaching of English - BA</a></span></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/minor-teach-engl/">Teaching of English - Minor</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/ba-teach-fr/">Teaching of French - BA</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/ba-teach-ger/">Teaching of German - BA</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/ba-teach-hist/">Teaching of History - BA</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/bs-teach-math/">Teaching of Mathematics - BS</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/bs-teach-phys/">Teaching of Physics - BS (suspended)</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/minor-teaching-phys/">Teaching of Physics - Minor (suspended)</a></li>
+<li><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/ba-teach-span/">Teaching of Spanish - BA</a></li>
+<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/minor-thtr/">Theatre - Minor</a></li>
+<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/ba-thtr-des/">Theatre Design Production and Technology - BA</a></li>
+<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/ba-act/">Theatre and Performance - BA</a></li>
+<li><span id="u"><a href="/ucat/colleges-depts/education/ci/ba-urban-edu/">Urban Education - BA</a></span></li>
+<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/upp/ba/">Urban Studies - BA</a></li>
+<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/upp/joint-degrees/">Urban Studies - Joint Degrees with BA:</a><ul>
+<li>Master of Public Administration</li>
+<li>Master of Public Policy</li>
+<li>Master of Urban Planning and Policy</li>
+<li>MS in Civic Analytics</li>
+</ul></li>
+<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/upp/minor-upp/">Urban Studies - Minor</a></li>
+</ul>
+</div>
+
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2021-2023 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" aria-labeledby="dialog-title" class="screen" role="dialog">
+	<div class="print-header">
+		<h2 id="dialog-title">Print Options</h2>
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+<div class="print-option"><div class="option-head"><a class="option-name" href="/ucat/degree-programs/degree-minors/degree-minors.pdf" role="button">Download Page (PDF)</a></div><p class="option-desc"><em>The PDF will include all information unique to this page.</em></p></div><div class="print-option"><div class="option-head"><a class="option-name" href="/pdf/2021-23-undergraduate.pdf" target="_blank">Download PDF of the entire Undergraduate Catalog</a></div><p class="option-desc"><em>All pages in the campus catalog.</em></p></div>    </div>
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

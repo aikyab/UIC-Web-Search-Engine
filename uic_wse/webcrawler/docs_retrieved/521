@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="theme-color" content="#F7323F" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://admissions.uic.edu/explore-uic/information-guidance-counselors" />
+<link rel="shortlink" href="https://admissions.uic.edu/node/144" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://admissions.uic.edu/explore-uic/information-guidance-counselors" />
+<meta name="twitter:title" content="Counselor Resources" />
+<meta name="dcterms.title" content="Counselor Resources" />
+<meta name="dcterms.creator" content="admin_lr56" />
+<meta name="dcterms.date" content="2015-05-29T14:15-05:00" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.identifier" content="https://admissions.uic.edu/explore-uic/information-guidance-counselors" />
+    <title>Counselor Resources | UIC Admissions</title>
+    <link type="text/css" rel="stylesheet" href="https://admissions.uic.edu/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://admissions.uic.edu/sites/default/files/css/css_UWmE0zv-RfBP9_dKBB2kiIWly7wMK94M8SQ7sk5d1Tk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://admissions.uic.edu/sites/default/files/css/css_aI6ihZsr_OuNNADtRT0EsCVa8OR5_meNbjYHjdG-_Jo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://admissions.uic.edu/sites/default/files/css/css_24xzd072a_CYkwor3dBgBXyNELCCepoJ22swWFjbndw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,700,900,italic,regular&amp;subset=latin" media="all" />
+    <!-- HTML5 element support for IE6-8 -->
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="https://admissions.uic.edu/sites/all/libraries/modernizr/modernizr.custom.74163.js?r3c9jr"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.js'>\x3C/script>")</script>
+<script src="https://admissions.uic.edu/sites/default/files/js/js_vSmhpx_T-AShyt_WMW5_TcwwxJP1imoVOa8jvwL_mxE.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script src="https://admissions.uic.edu/sites/default/files/js/js_Tik8PIaz_eQ5I4FMzmjkWoPEs9jKBgTSauo1jgsNa6g.js"></script>
+<script src="https://admissions.uic.edu/sites/default/files/js/js_gPqjYq7fqdMzw8-29XWQIVoDSWTmZCGy9OqaHppNxuQ.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-10917588-4", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("set", "anonymizeIp", true);ga("set", "page", location.pathname + location.search + location.hash);ga("send", "pageview");</script>
+<script src="https://admissions.uic.edu/sites/default/files/js/js_-BYl_-kMqxPGeJ-XWdM4ruPZ2ladVERZVX0QVGqvGf8.js"></script>
+<script src="https://admissions.uic.edu/sites/default/files/js/js_FedJ6X8bnBUSMCnxLqfsGkvWGw5LQU2cKcn9lAq23B8.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"uicrec","theme_token":"DCbQyXEzNgAMPMuhT2n8IwZjq7cZ7ZDg0gNsEu0Ync8","js":{"sites\/all\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/libraries\/modernizr\/modernizr.custom.74163.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/modules\/custom\/uic_chat\/js\/uic_chat.js":1,"sites\/all\/modules\/custom\/uic_docked_widget_generic\/js\/uic_docked_widget_generic.js":1,"sites\/all\/modules\/custom\/uic_docked_widget_virtual_visit\/js\/uic_docked_widget_virtual_visit.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/themes\/custom\/uicrec\/js\/plugins.js":1,"sites\/all\/themes\/custom\/uicrec\/js\/scripts.js":1,"sites\/all\/themes\/custom\/uicrec\/js\/additional.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/uic_footer\/css\/uic_footer.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/custom\/uic_chat\/css\/uic_chat.css":1,"sites\/all\/modules\/custom\/uic_docked_widget_generic\/css\/uic_docked_widget_generic.css":1,"sites\/all\/modules\/custom\/uic_docked_widget_virtual_visit\/css\/uic_docked_widget_virtual_visit.css":1,"sites\/all\/modules\/contrib\/ds\/layouts\/ds_2col\/ds_2col.css":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/css\/bootstrap.min.css":1,"sites\/all\/themes\/contrib\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/custom\/uicrec\/css\/style.css":1,"https:\/\/fonts.googleapis.com\/css?family=Source+Sans+Pro:300,300italic,600,700,900,italic,regular\u0026subset=latin":1}},"extlink":{"extTarget":0,"extClass":0,"extLabel":"(link is external)","extImgClass":0,"extIconPlacement":"append","extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackUrlFragments":1},"urlIsAjaxTrusted":{"\/search-page":true},"field_group":{"div":"full"},"bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":0,"popoverEnabled":0,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":0,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+    </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-144 node-type-content-accordion site-section-0" >
+<!--<div id="skip-link">
+    <a href="#main_content" class="element-invisible element-focusable"></a>
+  </div>-->
+<!-- Template file: sites/all/themes/custom/uicrec/templates/page/page.tpl.php -->
+<div role="banner">
+    <!-- #hero_area -->
+    <div id="hero_area" class="" style="background-image: url(https://admissions.uic.edu/sites/default/files/OH04.jpg);background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0) 47%, rgba(0, 25, 112, 0.6)), url(https://admissions.uic.edu/sites/default/files/OH04.jpg);background-image: -o-linear-gradient(rgba(255, 255, 255, 0) 47%, rgba(0, 25, 112, 0.6)), url(https://admissions.uic.edu/sites/default/files/OH04.jpg);background-image: linear-gradient(rgba(255, 255, 255, 0) 47%, rgba(0, 25, 112, 0.6)), url(https://admissions.uic.edu/sites/default/files/OH04.jpg);">
+        <!-- Primary Navigation will go here: regions[navigation] -->
+        <div class="nav primarynavigation-wrapper">
+            <div class="primarynavigation clearfix">
+                <div class="logo">
+                    <a href="/" title="UIC Admissions">
+                                                    <img typeof="foaf:Image" src="https://admissions.uic.edu/sites/default/files/theme/logos/UIC-Admissions-LogoWhite.png" width="275" alt="University of Illinois at Chicago Admissions" />                                            </a>
+                </div>
+                <nav class="nav-menu navbar">
+                    <div class="position-wrapper">
+                        <div class="nav-items">
+                            <ul class="menu nav navbar-nav"><li class="first leaf"><a href="/explore-uic">Explore UIC</a></li>
+<li class="leaf"><a href="https://discover.uic.edu/?utm_source=admissions.uic.edu&amp;utm_medium=site&amp;utm_content=eyebrow_menu&amp;utm_campaign=discover-2021" id="visit-link">Visit Virtually</a></li>
+<li class="last leaf" id="apply-now-btn"><a href="/apply-now">Apply</a></li>
+</ul>                        </div>
+                        <div class="searchglass" role="button">S</div>
+                        <div class="search-form-area">
+                            <div class="search-form-wrapper">
+                                <form action="/search-page" method="get" id="views-exposed-form-search-page-page" accept-charset="UTF-8" class="search-form clearfix"><div><div class='form-wrapper form-group'>
+<div class="form-item form-type-textfield form-item-search-api-views-fulltext">
+ <label class='search-label' for='edit-search-api-views-fulltext'>Search Input</label>
+ <input placeholder="type then hit enter" class="form-control form-control form-text" type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="30" maxlength="128" />
+</div>
+</div>
+<button class="btn-primary btn btn-primary button form-submit" id="edit-submit-search-page" value="Submit" type="submit">Submit</button>
+</div></form>                            </div>
+                        </div>
+                    </div>
+                </nav>
+                <div class="nav-button navicondiv">
+                    <div class="icon-nav-menu navicon">M</div>
+                </div>
+            </div>
+        </div>
+                <div class="hero-content ">
+            <div class="container">
+                <h1 class="page-header">Counselor Resources</h1>
+                            </div>
+        </div>
+        <div class="breadcrumbs">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col desktop">
+                        <ul class="menu nav breadcrumbs-list desktop"><li class="home first odd first"><a href="/">Home</a></li>
+<li class="even"><a href="/explore-uic">Explore UIC</a></li>
+<li class="last odd last"><a href="/explore-uic/information-guidance-counselors">You are here</a></li>
+</ul>                    </div>
+                    <div class="col-sm-12 col mobile">
+                        <ul class="menu nav breadcrumbs-list mobile"><li class="home first odd first"><a href="/">Home</a></li>
+<li class="even"><a href="/explore-uic">Explore UIC</a></li>
+<li class="last odd last"><a href="/explore-uic/information-guidance-counselors">You are here</a></li>
+</ul>                    </div>
+                </div>
+            </div>
+        </div>
+            </div>
+    <!-- /#hero_area -->
+    </div>
+<!-- role=main -->
+<div role="main">
+    <div class="container">
+                                    <div class="primary-tabs-wrapper row">
+                            </div>
+                    </div>
+    <!-- #main_content -->
+    <div id="main_content" class="main-container container">
+        <!-- Main Content will go here: regions[content] -->
+        <!-- Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->
+  <div class="region region-content ">
+    <!-- Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
+<div id="block-system-main" class="block block-system clearfix">
+
+      
+  <div class="row"><div class="col col-sm-4 field field-name-field-section-title field-type-text field-label-hidden" ><h2>Welcome Counselors</h2></div><div class="col col-sm-8" ><div class="content" ><p>When it comes to guiding students through the college application process, we know you play an important role. Below are some helpful facts to know when speaking with students who are considering UIC. </p>
+<h3>View our publications<br /><span style="color: rgb(102, 102, 102); font-size: 17px; font-weight: 400;">These publications are produced by the Office of Admissions and are updated yearly.</span></h3>
+<ul><li><a href="http://go.uic.edu/counselor-update-pdf">Counselor Update</a></li>
+<li><a href="https://indd.adobe.com/view/783b4f0e-0ab3-4009-ae9f-956e3392b180">Guide to first-year admissions</a></li>
+<li><a href="https://indd.adobe.com/view/ff05713a-5af7-4028-8cbe-15665bc99f07">Guide to transfer admissions</a></li>
+</ul><p>You can also check the admissions updates tab at the bottom of this page for the latest information. </p>
+<p><span style="color: rgb(0, 0, 0); font-size: 26px; font-weight: 600;">Virtual visits for you and your students</span></p>
+<p>Counselors from high schools, colleges and community based organizations may request a virtual presentation from our admissions team, or attend frequent events themselves to learn more about UIC. </p>
+<table border="1" cellpadding="1" cellspacing="1" style="width:600px;"><tbody><tr><td>Request a visit for students at your school or for your orginization</td>
+<td>Attend a virtual program with content for counselors and those working with students.</td>
+</tr><tr><td><a class="button arrowbutton blue smaller-padding static-arrow" href="https://applynow.uic.edu/register/?id=6712b3a8-45b4-452c-ad06-c65b60df2848" target="_blank" title="Request a presentation">REQUEST A GROUP VISIT</a></td>
+<td><a class="button arrowbutton blue smaller-padding static-arrow" href="https://applynow.uic.edu/portal/counselor-events" target="_blank" title="Request a presentation">ATTEND A COUNSELOR EVENT</a></td>
+</tr><tr><td>
+<p><strong>AUDIENCE</strong><br />
+			High school and college students</p>
+</td>
+<td>
+<p><strong>AUDIENCE</strong><br />
+			High school and college counselors</p>
+</td>
+</tr></tbody></table><h3>UIC Admissions reports for Illinois high school counselors</h3>
+<div><span style="color: rgb(102, 102, 102); font-size: 17px;">School specific admission status reports can be shared with appropriate high school and community college staff.  </span></div>
+<div> </div>
+<ul><li><span style="color: rgb(102, 102, 102); font-size: 17px;">Request access through our </span><a href="https://applynow.uic.edu/register/?id=e4a79485-ba4f-40fc-b4ac-e5f25d7fd65f" style="font-size: 17px;" target="_blank">online request form for counselors</a><span style="color: rgb(102, 102, 102); font-size: 17px;">.</span></li>
+<li><span style="color: rgb(102, 102, 102); font-size: 17px;">View your student's UIC application status through the <a href="http://applynow.uic.edu/portal/counselor">counselor portal</a>.</span></li>
+</ul><div> </div>
+<h3>UIC Codes: </h3>
+<ul><li>ACT college code: 1155</li>
+<li>SAT college code: 1851</li>
+<li>FAFSA code: 001776</li>
+<li>TOEFL code: 1851</li>
+<li>Advance Placement code: 1851</li>
+</ul><h3>Show your students what UIC is all about. </h3>
+<p>As a major public research university with 30,000 students, 15 top-ranking colleges and a prime location in one of the country's most vibrant cities, UIC offers something for every student.</p>
+<ul><li><a href="/explore-uic">Explore UIC.</a> </li>
+<li>Learn about the <a href="/program-finder">academic programs</a> offered at UIC.</li>
+<li>Find out about opportunities to connect with UIC at <a href="http://discover.uic.edu">discover.uic.edu</a></li>
+</ul><h3>Resources on the admission process.</h3>
+<ul><li>Find out about UIC's <a href="/undergraduate/requirements-deadlines">admission requirements.</a> </li>
+<li>Learn about <a href="/undergraduate/tuition-financial-aid">tuition and financial aid.</a> </li>
+<li>Guide your students through UIC's <a href="/undergraduate/application-process">application process.</a> </li>
+<li>See steps for students <a href="/undergraduate/application-process/applying-after-deadline" target="_blank">applying after the deadline</a>.</li>
+<li>Learn about<a href="/explore-uic/information-guidance-counselors/credit-examination"> AP, IB, CLEP credit</a> at UIC. </li>
+<li>See steps for <a href="/undergraduate/application-process/newly-admitted-students">newly admitted students</a>.</li>
+</ul></div></div></div><div class="field field-name-field-accordion-section field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><!-- Template file: sites/all/themes/custom/uicrec/templates/node/basic_page/ds-2col- -field-collection-item.tpl.php -->
+<div  about="/field-collection/field-accordion-section/213" typeof="" class="ds-2col row entity entity-field-collection-item field-collection-item-field-accordion-section view-mode-full clearfix">
+
+  <div class="col-sm-4 ">
+    <h2 >Counselor FAQs</h2>  </div>
+  
+  <div class="col-sm-8 ">
+	  <div class="content field field-name-field-accordion-item-unlimited field-type-field-collection field-label-hidden" ><div class="odd" ><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-accordion-item-unlimited.tpl.php -->
+<div class="trigger field field-name-field-accordion-title field-type-text field-label-hidden"><h3 >What are the school forms and how can I access them?</h3></div><div class="target field field-name-field-accordion-body field-type-text-long field-label-hidden"><p dir="ltr" style="line-height:1.7999999999999998;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-2a125a7c-7fff-22b8-7809-2957b57e38d0"><span style="font-size: 13pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Each recommender role has a different type of form to complete, except for Advisors, who do not submit forms. Counselors, Teachers, and Other Recommenders all have the opportunity to upload a letter of recommendation and share how they know the applicant.</span></span></p>
+<p dir="ltr" style="line-height:1.7999999999999998;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-2a125a7c-7fff-22b8-7809-2957b57e38d0"> <span style="font-size: 13pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">To begin working on a student’s forms, click on their name in the Student section.</span></span></p>
+<p dir="ltr" style="line-height:1.7999999999999998;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 6.75pt 0pt;"><span id="docs-internal-guid-2a125a7c-7fff-22b8-7809-2957b57e38d0"><span style="font-size: 13pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Counselors and Teachers also have additional information to complete and share.</span></span></p>
+</div><!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-accordion-item-unlimited.tpl.php -->
+</div><div class="even" ><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-accordion-item-unlimited.tpl.php -->
+<div class="trigger field field-name-field-accordion-title field-type-text field-label-hidden"><h3 >Is the School Report required?</h3></div><div class="target field field-name-field-accordion-body field-type-text-long field-label-hidden"><p><span id="docs-internal-guid-45c5eed8-7fff-da6d-1afe-948e82c87a0b"><span style="font-size: 13pt; font-family: Arial; color: rgb(102, 102, 102); font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Yes, the School Report form is a required component of the Common Application. However, UIC does not require you to submit a full, personalized recommendation letter for each of your students and will not make an application incomplete if the School Report is not received.</span></span></p>
+</div><!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-accordion-item-unlimited.tpl.php -->
+</div><div class="odd" ><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-accordion-item-unlimited.tpl.php -->
+<div class="trigger field field-name-field-accordion-title field-type-text field-label-hidden"><h3 >Do I need to write a letter of recommendation for every student?</h3></div><div class="target field field-name-field-accordion-body field-type-text-long field-label-hidden"><p><span id="docs-internal-guid-ddf7a024-7fff-4990-f868-ddb39a2fda60"><span style="font-size: 13pt; font-family: Arial; color: rgb(102, 102, 102); font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">No, you may select either opt out or decline rather than writing an individual recommendation for every student. Applicants will not be penalized if their counselor is unable or chooses not to supply a recommendation. Counselor recommendations, just like personal statements, are often beneficial during our review process but they can never hurt an applicant's chances of admission.</span></span></p>
+</div><!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-accordion-item-unlimited.tpl.php -->
+</div><div class="even" ><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-accordion-item-unlimited.tpl.php -->
+<div class="trigger field field-name-field-accordion-title field-type-text field-label-hidden"><h3 >Are general letters of recommendation acceptable?</h3></div><div class="target field field-name-field-accordion-body field-type-text-long field-label-hidden"><p><span id="docs-internal-guid-96936880-7fff-bac2-f361-55772296ef2e"><span style="font-size: 13pt; font-family: Arial; color: rgb(102, 102, 102); font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Yes, UIC and all other Common Application schools are willing to accept general recommendation letters that may have been written or submitted to other institutions. The review committee will not hold it against an applicant if their recommendation addresses another institution or does not specifically address the applicant’s interest in UIC.</span></span></p>
+</div><!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-accordion-item-unlimited.tpl.php -->
+</div><div class="odd" ><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-accordion-item-unlimited.tpl.php -->
+<div class="trigger field field-name-field-accordion-title field-type-text field-label-hidden"><h3 >Will not submitting a recommendation have a negative impact on an application?</h3></div><div class="target field field-name-field-accordion-body field-type-text-long field-label-hidden"><p dir="ltr" style="line-height:1.7999999999999998;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-2b516f78-7fff-291e-d1b0-3b5908ac1849"><span style="font-size: 13pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">No, UIC has not required letters of recommendation in the past and will not require them as we switch to the Common Application. Students will not be penalized in any way if recommendation letters are not submitted. Letters of recommendation will continue to be used as a positive consideration but if not submitted, will not negatively affect a student's chances of being admitted.</span></span></p>
+<p dir="ltr" style="line-height:1.7999999999999998;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-2b516f78-7fff-291e-d1b0-3b5908ac1849"> </span></p>
+<p dir="ltr" style="line-height:1.7999999999999998;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 6.75pt 0pt;"><span id="docs-internal-guid-2b516f78-7fff-291e-d1b0-3b5908ac1849"><span style="font-size: 13pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">However, if a student is applying to the Honors College or GPPA, letters of recommendation are required.</span></span></p>
+</div><!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-accordion-item-unlimited.tpl.php -->
+</div><div class="even" ><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-accordion-item-unlimited.tpl.php -->
+<div class="trigger field field-name-field-accordion-title field-type-text field-label-hidden"><h3 >How can transcripts be submitted?</h3></div><div class="target field field-name-field-accordion-body field-type-text-long field-label-hidden"><p><span id="docs-internal-guid-b537c8b5-7fff-b937-d11b-bcfbf27890f2"><span style="font-size: 13pt; font-family: Arial; color: rgb(102, 102, 102); font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Electronic submission is preferred. Electronically submit transcripts by attaching them to the Common Application School Report or through a separate submission service such as Docufide or E-Script.</span></span></p>
+</div><!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-accordion-item-unlimited.tpl.php -->
+</div><div class="odd" ><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-accordion-item-unlimited.tpl.php -->
+<div class="trigger field field-name-field-accordion-title field-type-text field-label-hidden"><h3 >How can a fee waiver be requested?</h3></div><div class="target field field-name-field-accordion-body field-type-text-long field-label-hidden"><p><span id="docs-internal-guid-b81456c9-7fff-fd1e-9ea9-1e942c48f8ee"><span style="font-size: 13pt; font-family: Arial; color: rgb(102, 102, 102); font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">UIC will accept either the NACAC or CollegeBoard fee waiver request forms for First-Year applications. Both forms must be signed and submitted by the high school counselor. The NACAC form can be submitted electronically through the Common Application School Forms as long as the applicant supplied their counselor’s email address when assigning the School Forms.</span></span></p>
+</div><!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-accordion-item-unlimited.tpl.php -->
+</div><div class="even" ><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-accordion-item-unlimited.tpl.php -->
+<div class="trigger field field-name-field-accordion-title field-type-text field-label-hidden"><h3 >How can I check the status of an application for one of my students?</h3></div><div class="target field field-name-field-accordion-body field-type-text-long field-label-hidden"><p dir="ltr" style="line-height:1.7999999999999998;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-5b75cd18-7fff-80ab-4213-daf84eaa9406"><span style="font-size: 13pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">The School Forms system shows basic status information for each of your students, including the type of application and date of submission. </span></span></p>
+<p dir="ltr" style="line-height:1.7999999999999998;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-5b75cd18-7fff-80ab-4213-daf84eaa9406"> </span></p>
+<p><span id="docs-internal-guid-5b75cd18-7fff-80ab-4213-daf84eaa9406"><span style="font-size: 13pt; font-family: Arial; color: rgb(102, 102, 102); font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Counselors are also invited to use the application status portal, or contact the Office of Admissions at </span><a href="mailto:admissions@uic.edu" style="text-decoration-line: none;"><span style="font-size: 13pt; font-family: Arial; color: rgb(17, 85, 204); font-variant-numeric: normal; font-variant-east-asian: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">admissions@uic.edu</span></a><span style="font-size: 13pt; font-family: Arial; color: rgb(102, 102, 102); font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"> to discuss missing credentials, issues with the application or to check the status of an application. We encourage applicants to call our office themselves to discuss specific decisions or to edit personal information from the application.</span></span></p>
+</div><!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-accordion-item-unlimited.tpl.php -->
+</div><div class="odd" ><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-accordion-item-unlimited.tpl.php -->
+<div class="trigger field field-name-field-accordion-title field-type-text field-label-hidden"><h3 >How do students submit test scores?</h3></div><div class="target field field-name-field-accordion-body field-type-text-long field-label-hidden"><p dir="ltr" style="line-height:1.7999999999999998;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-9d773731-7fff-d37a-e6f7-edaf15db72f2"><span style="font-size: 13pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Students can submit test scores through the College Board or ACT website. We can also accept test scores submitted directly by counselors from the student's transcript. To review our test optional policy, please refer to the test optional FAQs at go.uic.edu/test-optional.</span></span></p>
+</div><!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-accordion-item-unlimited.tpl.php -->
+</div><div class="even" ><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-accordion-item-unlimited.tpl.php -->
+<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-accordion-item-unlimited.tpl.php -->
+</div></div>  </div>
+
+</div>
+
+<!-- /Template file: sites/all/themes/custom/uicrec/templates/node/basic_page/ds-2col- -field-collection-item.tpl.php -->
+</div></div></div>
+</div>
+<!-- /Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
+  </div>
+<!-- /Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->    </div>
+    <!-- /#main_content -->
+</div>
+<!-- /role=main -->
+<!-- role=complementary -->
+<div role="complementary">
+                
+    
+            <!-- #content_footer -->
+        <div id="content_footer" class="clearfix" >
+            <!-- Content Footer content will go here: regions[content_footer] -->
+            <div class='field field-name-field-related-resources-links field-type-link-field field-label-inline clearfix'>
+<div class='container'>
+<div class='row'>
+<div class='col col-sm-4'>
+<h2 class='block-title'>Related Resources Links</h2>
+</div>
+<div class='col col-sm-8'>
+<div class="item-list"><ul class="menu nav"><li class="odd first first"><a href="/book-visit" class="textlinkarrow">Visit Campus</a></li>
+<li class="even"><a href="/explore-uic" class="textlinkarrow">Explore UIC</a></li>
+<li class="odd"><a href="/contact-admissions" class="textlinkarrow">Contact Admissions</a></li>
+<li class="even last last"><a href="/undergraduate/requirements-deadlines" class="textlinkarrow">Deadlines and Requirements</a></li>
+</ul></div></div>
+</div>
+</div>
+</div>
+        </div>
+        <!-- /#content_footer -->
+        </div>
+<!-- /role=complementary -->
+<footer>
+    <!-- #primary_footer -->
+    <div id="primary_footer" class="container">
+        <!-- #primary_footer > header -->
+        <div class="row header">
+            <!-- regions[footer_head] -->
+                            <!-- Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->
+  <div class="region region-footer-head">
+    <!-- Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
+<div id="block-bean-undergraduate-arrow-button" class="block block-bean clearfix">
+
+      
+  <div class="field field-name-field-arrow-button-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://admissions.uic.edu/undergraduate" class="button arrowbutton">UnderGraduate</a></div></div></div>
+</div>
+<!-- /Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
+<!-- Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
+<div id="block-bean-graduate-professional" class="block block-bean clearfix">
+
+      
+  <div class="field field-name-field-arrow-button-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://admissions.uic.edu/graduate-professional" class="button arrowbutton">Graduate &amp; Professional </a></div></div></div>
+</div>
+<!-- /Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
+  </div>
+<!-- /Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->                    </div>
+        <!-- /#primary_footer > header -->
+        <!-- #footer_content -->
+        <div id="footer_content" class="row">
+            <!-- .footer-item-first -->
+            <div class="col footer-item footer-item-first col-sm-3">
+                                    <!-- regions[footer_first] -->
+                    <!-- Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->
+  <div class="region region-footer-first">
+    <!-- Template file: sites/all/themes/custom/uicrec/templates/block/block- -footer-first.tpl.php -->
+<section id="block-block-1" class="block block-block clearfix">
+
+        <h2 class="block-title block-title">Office of Admissions</h2>
+    
+  <h3>Main Office</h3>
+<p>1200 West Harrison Street<br />
+Chicago, IL 60607-7161<br />
+Phone: (312) 996-4350<br /><a href="/contact-admissions">Contact UIC Admissions</a></p>
+<h3> </h3>
+<h3>Visitors Center</h3>
+<p>1220 West Harrison Street<br />
+Chicago, IL 60607-7161<br />
+Phone: (312) 413-1726</p>
+
+</section> <!-- /.block -->
+<!-- /Template file: sites/all/themes/custom/uicrec/templates/block/block- -footer-first.tpl.php -->
+  </div>
+<!-- /Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->                    <!-- /regions[footer_first] -->
+                            </div>
+            <!-- /.footer-item-first -->
+            <!-- .footer-item-middle -->
+            <div class="col footer-item footer-item-middle col-sm-5">
+                                    <!-- regions[footer_middle] -->
+                    <!-- Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->
+  <div class="region region-footer-middle">
+    <!-- Template file: sites/all/themes/custom/uicrec/templates/block/block- -footer-middle.tpl.php -->
+<section id="block-block-2" class="block block-block clearfix">
+
+        <h2 class="block-title block-title">Mailing Address</h2>
+    
+  <h3>Undergraduate</h3>
+<p>Office of Undergraduate Admissions (MC 018) <br />
+University of Illinois at Chicago <br />
+1200 West Harrison Street, Suite 1100<br />
+Chicago, IL 60607-7161 <br /><a href="/undergraduate/contact-undergraduate-admissions">Contact Undergraduate Admissions</a> </p>
+<p> </p>
+<h3>Graduate &amp; Professional</h3>
+<p>The graduate and professional application process is paperless. Please do not mail materials unless expressly requested.<br /><a href="/graduate-professional/contact-graduate-and-professional-admissions">Contact Graduate and Professional Admissions</a></p>
+
+</section> <!-- /.block -->
+<!-- /Template file: sites/all/themes/custom/uicrec/templates/block/block- -footer-middle.tpl.php -->
+  </div>
+<!-- /Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->                    <!-- /regions[footer_middle] -->
+                            </div>
+            <!-- /.footer-item-first -->
+            <div class="col col-sm-1"><!-- Spacer column --></div>
+            <!-- .footer-item-last -->
+            <div class="col footer-item footer-item-last col-sm-3">
+                                    <!-- Default content for this region -->
+                                            <a href="http://www.uic.edu"><img typeof="foaf:Image" src="https://admissions.uic.edu/sites/default/files/theme/logos/UICFullSideways-textonly_black.jpg" width="386" alt="University of Illinois at Chicago" /></a>                                                </div>
+            <!-- /.footer-item-last -->
+        </div>
+        <!-- /#footer_content -->
+    </div>
+    <!-- /#primary_footer -->
+    <!-- #primary_footer > footer -->
+    <div id="footer_footer">
+        <!-- regions[footer_footer'] -->
+                    <!-- Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->
+  <div class="region region-footer-footer">
+    <!-- Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
+<div id="block-uic-footer-uic-footer" class="block block-uic-footer clearfix">
+
+      
+  <div class="uic_footer clearfix" id="uic_footer">
+<div class="logo"><a href="http://uic.edu" class="uic_footer_logo"><img typeof="foaf:Image" src="/sites/all/modules/custom/uic_footer/images/uic_logo.png" alt="University of Illinois - Chicago Logo" /></a></div><div class="menu_wrapper"><ul class="menu clearfix"><li class="first"><a href="https://www.vpaa.uillinois.edu/resources/web_privacy" target="_blank">Privacy Statement</a></li>
+<li><a href="https://policies.uic.edu/uic-policy-library/access-and-equity/nondiscrimination-policy-statement/" target="_blank">Nondiscrimination Statement</a></li>
+<li><a href="/sitemap">Site Map</a></li>
+<li><a href="https://disabilityresources.uic.edu/" target="_blank">Accessibility</a></li>
+<li><a href="/">Site Home</a></li>
+<li><a href="http://uic.edu" target="_blank">UIC Home</a></li>
+<li><a href="https://admissions.uic.edu/Shibboleth.sso/Login?target=https%3A%2F%2Fadmissions.uic.edu%2F%3Fq%3Dshib_login%2Fnode%2F5" class="shibb-login">Login</a></li>
+<li class="last"><a href="mailto:aes_webmaster@helpdesk.uic.edu?subject=UIC%20Admissions">Webmaster</a></li>
+</ul><p class="disclaimer">Copyright &copy; 2021 The Board of Trustees of the University of Illinois</p></div><div class="menu_wrapper social_links"><ul class="menu clearfix"><li class="first"><a href="https://www.facebook.com/gouic" class="facebook" target="_blank">Facebook</a></li>
+<li><a href="https://www.twitter.com/apply2uic" class="twitter" target="_blank">Twitter</a></li>
+<li><a href="https://www.youtube.com/channel/UCJcrEfHfl1MZp1kvh_vElIA" class="youtube" target="_blank">YouTube</a></li>
+<li class="last"><a href="http://disabilityresources.uic.edu/" class="accessibility" target="_blank">Accessibility</a></li>
+</ul></div></div>
+
+</div>
+<!-- /Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
+  </div>
+<!-- /Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->            </div>
+    <div id="auto-scroll" class="go-up-wrapper" role="button" aria-label="Autoscroll to Top of Page">
+        <span class="arrow" aria-labelledby="auto-scroll">T</span>
+    </div>
+    <!-- /#primary_footer > footer -->
+    <!--OneTrust Cookies Settings button start -->
+    <a class="optanon-show-settings">CookieSettings</a>
+    <!--OneTrust Cookies Settings button end -->
+</footer>
+<!-- /Template file: sites/all/themes/custom/uicrec/templates/page/page.tpl.php -->
+<script src="https://admissions.uic.edu/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+</body>
+</html>

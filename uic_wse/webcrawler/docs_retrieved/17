@@ -1,0 +1,859 @@
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Academic Calendar &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/css/courseleaf.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<header id="header-new">
+	<div class="wrap">
+		<div class="logo-header">
+			<a href="//www.uic.edu">
+				<img src="/images/logo2021.png" alt="University of Illinois Chicago" />
+			</a>
+		</div>
+		<nav class="catalog-quicklinks" aria-label="catalog quicklink">
+			<button id="hamburger" aria-controls="mobile-menu" data-toggle="#mobile-menu" aria-expanded="false">
+				<span class="sr-only">Toggle menu</span>
+				<i class="fa fa-bars" aria-hidden="true"></i>
+			</button>
+			<div id="mobile-menu">
+			<ul id="quicklinks">
+				<li><a href="/ucat/">Undergraduate</a></li>
+				<li><a href="/gcat">Graduate</a></li>
+				<li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+			</ul>
+			<div id="search" role="search">
+				<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />				</form>
+			</div><!-- end #search -->
+		</div><!-- /#mobile-menu -->
+		</nav>
+	</div>
+</header>
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <a href="/">
+			<h1>Academic Catalog</h1>
+		</a>
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<section id="banner" aria-labbledby="banner-header"
+ class="ugrad"
+>
+    <div class="wrap">
+
+		<div class="banner-text">
+			<h2 id="banner-header">2021-2023 Undergraduate Catalog</h2>
+		</div>
+
+
+
+
+
+    </div><!--end .wrap -->
+</section><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <a id="cl-menu-control" href="#" class="togglenav">
+                <span class="cl-menu-text">Catalog Navigation</span>
+                <!-- <a class="cl-menu-btn" href="#">Catalog Navigation</a> -->
+				<svg aria-label="Down arrow icon" width="32" height="32" viewBox="0 0 32 32" role="presentation"><title>Down arrow icon</title><g fill="none" fill-rule="evenodd"><circle class="_circle" stroke-width="1" stroke="#007Da5" fill="#fff" cx="16" cy="16" r="15"></circle><path class="_arrow" stroke-width="2" stroke="#001E62" stroke-linecap="round" d="M12 17l4 4 4-4M16 20v-9"></path></g></svg>
+			</a><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li class="active self"><a href="#" onclick="return false;">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a></li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><span class="active">Academic Calendar</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Academic Calendar</h1>
+
+
+
+<div id="textcontainer" class="page_content">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<h2 class="toggle"><strong>Semester Beginning, Ending, and Degree Dates</strong></h2>
+<ul>
+	<li><a href="https://registrar.uic.edu/uic_faculty_staff/calendars/degree_dates.html" target="_blank">Semester Beginning, Ending, and Degree Dates</a></li>
+</ul>
+<h2 class="toggle"><strong>Summer Session 2021</strong></h2>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugacademiccalendar" summary="UG Academic Calendar">
+<caption class="hidden noscript">UG Academic Calendar</caption>
+<colgroup><col class="column0" pdfwidth="40%" width="40%"/><col class="column1" pdfwidth="60%" width="60%"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Date</th>
+<th scope="col" class="column1">Event</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0"><strong>Summer Session 1</strong></td>
+<td class="column1">(4-Week Session)</td>
+</tr>
+<tr class="odd"><td class="column0">May 17, M</td>
+<td class="column1">Instruction begins.</td>
+</tr>
+<tr class="even"><td class="column0">May 19, W</td>
+<td class="column1">Last day to complete late registration for Summer Session 1; last day to add a course(s) or make section changes; last day to drop individual Summer Session 1 courses via XE Registration without receiving W (Withdrawn) grade on academic record. Last day to Web Drop Summer Session 1 courses via XE Registration and receive 100% cancellation of tuition and fees.</td>
+</tr>
+<tr class="odd"><td class="column0">May 31, M</td>
+<td class="column1">Memorial Day holiday. No classes</td>
+</tr>
+<tr class="even"><td class="column0">May 31, M</td>
+<td class="column1">CampusCare Waiver deadline.</td>
+</tr>
+<tr class="odd"><td class="column0">June 2, W</td>
+<td class="column1">Last day for undergraduate students to use optional late drop for a Summer Session 1 course in college office and receive grade of W on academic record.</td>
+</tr>
+<tr class="even"><td class="column0">June 10, Th</td>
+<td class="column1">Instruction ends for Summer Session 1.</td>
+</tr>
+<tr class="odd"><td class="column0">June 11, F</td>
+<td class="column1">Final examinations for Summer Session 1.</td>
+</tr>
+<tr class="even"><td class="column0"><strong>Summer Session 2</strong></td>
+<td class="column1">(8-Week Session)</td>
+</tr>
+<tr class="odd"><td class="column0">June 14, M</td>
+<td class="column1">Instruction begins.</td>
+</tr>
+<tr class="even"><td class="column0">June 18, F</td>
+<td class="column1">Last day to complete late registration for Summer Session 2; last day to add a course(s) or make section changes; last day to drop individual Summer Session 2 courses via XE Registration without receiving W (Withdrawn) grade on academic record. Last day to Web Drop courses via XE Registration and receive 100% cancellation of tuition and fees.</td>
+</tr>
+<tr class="odd"><td class="column0">July 5, M</td>
+<td class="column1">Independence Day holiday. No classes.</td>
+</tr>
+<tr class="even"><td class="column0">July 16, F</td>
+<td class="column1">Last day for undergraduate students to use optional late drop for a Summer Session 2 course in college office and receive grade of W on academic record.</td>
+</tr>
+<tr class="odd"><td class="column0">August 4, W</td>
+<td class="column1">Instruction ends for Summer Session 2.</td>
+</tr>
+<tr class="even last lastrow"><td class="column0">August 5–6, Th–F</td>
+<td class="column1">Final examinations for Summer Session 2.</td>
+</tr>
+</tbody>
+</table>
+
+<h2 class="toggle">2021-2022 Academic Year</h2>
+<h3>Fall Semester 2021</h3>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugacademiccalendar" summary="UG Academic Calendar">
+<caption class="hidden noscript">UG Academic Calendar</caption>
+<colgroup><col class="column0" pdfwidth="40%" width="40%"/><col class="column1" pdfwidth="60%" width="60%"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Date</th>
+<th scope="col" class="column1">Event</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0">August 23, M</td>
+<td class="column1">Instruction begins.</td>
+</tr>
+<tr class="odd"><td class="column0">September 5, Su</td>
+<td class="column1">Last day to complete late registration; last day to add a course(s) or make section changes; last day to drop individual courses via XE Registration without receiving W (Withdrawn) grade on academic record. Last day to Web Drop courses via XE Registration and receive 100% cancellation of tuition and fees.</td>
+</tr>
+<tr class="even"><td class="column0">September 6, M</td>
+<td class="column1">Labor Day holiday. No classes.</td>
+</tr>
+<tr class="odd"><td class="column0">September 12, Su</td>
+<td class="column1">CampusCare Waiver deadline.</td>
+</tr>
+<tr class="even"><td class="column0">October 29, F</td>
+<td class="column1">Last day for undergraduate students to use optional late drop in college office and receive grade of W on academic record.</td>
+</tr>
+<tr class="odd"><td class="column0">November 25–26, Th–F</td>
+<td class="column1">Thanksgiving holiday. No classes.</td>
+</tr>
+<tr class="even"><td class="column0">December 3, F</td>
+<td class="column1">Instruction ends.</td>
+</tr>
+<tr class="odd"><td class="column0">December 6–10, M–F</td>
+<td class="column1">Final examinations.</td>
+</tr>
+<tr class="even"><td class="column0">December 15, W</td>
+<td class="column1">Instructor grading deadline for 16-week courses (5 p.m.)</td>
+</tr>
+<tr class="odd last lastrow"><td class="column0">December 20, M</td>
+<td class="column1">Grades available via my.UIC.edu</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Spring Semester 2022</h3>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugacademiccalendar" summary="UG Academic Calendar">
+<caption class="hidden noscript">UG Academic Calendar</caption>
+<colgroup><col class="column0" pdfwidth="40%" width="40%"/><col class="column1" pdfwidth="60%" width="60%"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Date</th>
+<th scope="col" class="column1">Event</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0">January 10, M</td>
+<td class="column1">Instruction begins.</td>
+</tr>
+<tr class="odd"><td class="column0">January 17, M</td>
+<td class="column1">Martin Luther King, Jr., Day. No classes.</td>
+</tr>
+<tr class="even"><td class="column0">January 21, F</td>
+<td class="column1">Last day to complete late registration; last day to add a course(s) or make section changes; last day to drop individual courses via XE Registration without receiving W (Withdrawn) grade on academic record. Last day to Web Drop courses via XE Registration and receive 100% cancellation of tuition and fees.</td>
+</tr>
+<tr class="odd"><td class="column0">February 6, Su</td>
+<td class="column1">CampusCare Waiver deadline.</td>
+</tr>
+<tr class="even"><td class="column0">March 18, F</td>
+<td class="column1">Last day for undergraduate students to use optional late drop in college office and receive grade of W on academic record.</td>
+</tr>
+<tr class="odd"><td class="column0">March 21–25, M–F</td>
+<td class="column1">Spring vacation. No classes.</td>
+</tr>
+<tr class="even"><td class="column0">April 29, F</td>
+<td class="column1">Instruction ends.</td>
+</tr>
+<tr class="odd"><td class="column0">May 2–6, M–F</td>
+<td class="column1">Final examinations.</td>
+</tr>
+<tr class="even"><td class="column0">May 11, W</td>
+<td class="column1">Instructor grading deadline for 16-week courses (5 p.m.)</td>
+</tr>
+<tr class="odd last lastrow"><td class="column0">May 16, M</td>
+<td class="column1">Grades available via my.UIC.edu</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Summer Session 2022</h3>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugacademiccalendar" summary="UG Academic Calendar">
+<caption class="hidden noscript">UG Academic Calendar</caption>
+<colgroup><col class="column0" pdfwidth="40%" width="40%"/><col class="column1" pdfwidth="60%" width="60%"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Date</th>
+<th scope="col" class="column1">Event</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0"><strong>Summer Session 1</strong></td>
+<td class="column1">(4-Week Session)</td>
+</tr>
+<tr class="odd"><td class="column0">May 16, M</td>
+<td class="column1">Instruction begins.</td>
+</tr>
+<tr class="even"><td class="column0">May 18, W</td>
+<td class="column1">Last day to complete late registration for Summer Session 1; last day to add a course(s) or make section changes; last day to drop individual Summer Session 1 courses via XE Registration without receiving W (Withdrawn) grade on academic record. Last day to Web Drop Summer Session 1 courses via XE Registration and receive 100% cancellation of tuition and fees.</td>
+</tr>
+<tr class="odd"><td class="column0">May 30, M</td>
+<td class="column1">Memorial Day holiday. No classes</td>
+</tr>
+<tr class="even"><td class="column0">May 30, M</td>
+<td class="column1">CampusCare Waiver deadline.</td>
+</tr>
+<tr class="odd"><td class="column0">June 1, W</td>
+<td class="column1">Last day for undergraduate students to use optional late drop for a Summer Session 1 course in college office and receive grade of W on academic record.</td>
+</tr>
+<tr class="even"><td class="column0">June 9, Th</td>
+<td class="column1">Instruction ends for Summer Session 1.</td>
+</tr>
+<tr class="odd"><td class="column0">June 10, F</td>
+<td class="column1">Final examinations for Summer Session 1.</td>
+</tr>
+<tr class="even"><td class="column0"><strong>Summer Session 2</strong></td>
+<td class="column1">(8-Week Session)</td>
+</tr>
+<tr class="odd"><td class="column0">June 13, M</td>
+<td class="column1">Instruction begins.</td>
+</tr>
+<tr class="even"><td class="column0">June 17, F</td>
+<td class="column1">Last day to complete late registration for Summer Session 2; last day to add a course(s) or make section changes; last day to drop individual Summer Session 2 courses via XE Registration without receiving W (Withdrawn) grade on academic record. Last day to Web Drop courses via XE Registration and receive 100% cancellation of tuition and fees.</td>
+</tr>
+<tr class="odd"><td class="column0">July 4, M</td>
+<td class="column1">Independence Day holiday. No classes.</td>
+</tr>
+<tr class="even"><td class="column0">July 15, F</td>
+<td class="column1">Last day for undergraduate students to use optional late drop for a Summer Session 2 course in college office and receive grade of W on academic record.</td>
+</tr>
+<tr class="odd"><td class="column0">August 3, W</td>
+<td class="column1">Instruction ends for Summer Session 2.</td>
+</tr>
+<tr class="even last lastrow"><td class="column0">August 4–5, Th–F</td>
+<td class="column1">Final examinations for Summer Session 2.</td>
+</tr>
+</tbody>
+</table>
+
+<h2 class="toggle"><a id="FALL2022" name="FALL2022"></a>2022-2023 Academic Year</h2>
+<h3>Fall Semester 2022</h3>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugacademiccalendar" summary="UG Academic Calendar">
+<caption class="hidden noscript">UG Academic Calendar</caption>
+<colgroup><col class="column0" pdfwidth="40%" width="40%"/><col class="column1" pdfwidth="60%" width="60%"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Date</th>
+<th scope="col" class="column1">Event</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0">August 22, M</td>
+<td class="column1">Instruction begins.</td>
+</tr>
+<tr class="odd"><td class="column0">September 2, F</td>
+<td class="column1">Last day to complete late registration; last day to add a course(s) or make section changes; last day to drop individual courses via XE Registration without receiving W (Withdrawn) grade on academic record. Last day to Web Drop courses via XE Registration and receive 100% cancellation of tuition and fees.</td>
+</tr>
+<tr class="even"><td class="column0">September 5, M</td>
+<td class="column1">Labor Day holiday. No classes.</td>
+</tr>
+<tr class="odd"><td class="column0">September 12, Su</td>
+<td class="column1">CampusCare Waiver deadline.</td>
+</tr>
+<tr class="even"><td class="column0">October 28, F</td>
+<td class="column1">Last day for undergraduate students to use optional late drop in college office and receive grade of W on academic record.</td>
+</tr>
+<tr class="odd"><td class="column0">November 24–25, Th–F</td>
+<td class="column1">Thanksgiving holiday. No classes.</td>
+</tr>
+<tr class="even"><td class="column0">December 2, F</td>
+<td class="column1">Instruction ends.</td>
+</tr>
+<tr class="odd"><td class="column0">December 5–9, M–F</td>
+<td class="column1">Final examinations.</td>
+</tr>
+<tr class="even"><td class="column0">December 14, W</td>
+<td class="column1">Instructor grading deadline for 16-week courses (5 p.m.)</td>
+</tr>
+<tr class="odd last lastrow"><td class="column0">December 19, M</td>
+<td class="column1">Grades available via my.UIC.edu</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Spring Semester 2023</h3>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugacademiccalendar" summary="UG Academic Calendar">
+<caption class="hidden noscript">UG Academic Calendar</caption>
+<colgroup><col class="column0" pdfwidth="40%" width="40%"/><col class="column1" pdfwidth="60%" width="60%"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Date</th>
+<th scope="col" class="column1">Event</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0">January 9, M</td>
+<td class="column1">Instruction begins.</td>
+</tr>
+<tr class="odd"><td class="column0">January 16, M</td>
+<td class="column1">Martin Luther King, Jr., Day. No classes.</td>
+</tr>
+<tr class="even"><td class="column0">January 20, F</td>
+<td class="column1">Last day to complete late registration; last day to add a course(s) or make section changes; last day to drop individual courses via XE Registration without receiving W (Withdrawn) grade on academic record. Last day to Web Drop courses via XE Registration and receive 100% cancellation of tuition and fees.</td>
+</tr>
+<tr class="odd"><td class="column0">February 5, Su</td>
+<td class="column1">CampusCare Waiver deadline.</td>
+</tr>
+<tr class="even"><td class="column0">March 17, F</td>
+<td class="column1">Last day for undergraduate students to use optional late drop in college office and receive grade of W on academic record.</td>
+</tr>
+<tr class="odd"><td class="column0">March 20–24, M–F</td>
+<td class="column1">Spring vacation. No classes.</td>
+</tr>
+<tr class="even"><td class="column0">April 28, F</td>
+<td class="column1">Instruction ends.</td>
+</tr>
+<tr class="odd"><td class="column0">May 1–5, M–F</td>
+<td class="column1">Final examinations.</td>
+</tr>
+<tr class="even"><td class="column0">May 10, W</td>
+<td class="column1">Instructor grading deadline for 16-week courses (5 p.m.)</td>
+</tr>
+<tr class="odd last lastrow"><td class="column0">May 15, M</td>
+<td class="column1">Grades available via my.UIC.edu</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Summer Session 2023</h3>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugacademiccalendar" summary="UG Academic Calendar">
+<caption class="hidden noscript">UG Academic Calendar</caption>
+<colgroup><col class="column0" pdfwidth="40%" width="40%"/><col class="column1" pdfwidth="60%" width="60%"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Date</th>
+<th scope="col" class="column1">Event</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0"><strong>Summer Session 1</strong></td>
+<td class="column1">(4-Week Session)</td>
+</tr>
+<tr class="odd"><td class="column0">May 15, M</td>
+<td class="column1">Instruction begins.</td>
+</tr>
+<tr class="even"><td class="column0">May 17, W</td>
+<td class="column1">Last day to complete late registration for Summer Session 1; last day to add a course(s) or make section changes; last day to drop individual Summer Session 1 courses via XE Registration without receiving W (Withdrawn) grade on academic record. Last day to Web Drop Summer Session 1 courses via XE Registration and receive 100% cancellation of tuition and fees.</td>
+</tr>
+<tr class="odd"><td class="column0">May 29, M</td>
+<td class="column1">Memorial Day holiday. No classes</td>
+</tr>
+<tr class="even"><td class="column0">May 29, M</td>
+<td class="column1">CampusCare Waiver deadline.</td>
+</tr>
+<tr class="odd"><td class="column0">May 31, W</td>
+<td class="column1">Last day for undergraduate students to use optional late drop for a Summer Session 1 course in college office and receive grade of W on academic record.</td>
+</tr>
+<tr class="even"><td class="column0">June 8, Th</td>
+<td class="column1">Instruction ends for Summer Session 1.</td>
+</tr>
+<tr class="odd"><td class="column0">June 9, F</td>
+<td class="column1">Final examinations for Summer Session 1.</td>
+</tr>
+<tr class="even"><td class="column0"><strong>Summer Session 2</strong></td>
+<td class="column1">(8-Week Session)</td>
+</tr>
+<tr class="odd"><td class="column0">June 12, M</td>
+<td class="column1">Instruction begins.</td>
+</tr>
+<tr class="even"><td class="column0">June 16, F</td>
+<td class="column1">Last day to complete late registration for Summer Session 2; last day to add a course(s) or make section changes; last day to drop individual Summer Session 2 courses via XE Registration without receiving W (Withdrawn) grade on academic record. Last day to Web Drop courses via XE Registration and receive 100% cancellation of tuition and fees.</td>
+</tr>
+<tr class="odd"><td class="column0">July 4, Tu</td>
+<td class="column1">Independence Day holiday. No classes.</td>
+</tr>
+<tr class="even"><td class="column0">July 14, F</td>
+<td class="column1">Last day for undergraduate students to use optional late drop for a Summer Session 2 course in college office and receive grade of W on academic record.</td>
+</tr>
+<tr class="odd"><td class="column0">August 2, W</td>
+<td class="column1">Instruction ends for Summer Session 2.</td>
+</tr>
+<tr class="even last lastrow"><td class="column0">August 3–4, Th–F</td>
+<td class="column1">Final examinations for Summer Session 2.</td>
+</tr>
+</tbody>
+</table>
+
+<h2 class="toggle"><strong>2023-2024 Academic Year</strong></h2>
+<h3>Fall Semester 2023</h3>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugacademiccalendar" summary="UG Academic Calendar">
+<caption class="hidden noscript">UG Academic Calendar</caption>
+<colgroup><col class="column0" pdfwidth="40%" width="40%"/><col class="column1" pdfwidth="60%" width="60%"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Date</th>
+<th scope="col" class="column1">Event</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0">August 21, M</td>
+<td class="column1">Instruction begins.</td>
+</tr>
+<tr class="odd"><td class="column0">September 1, F</td>
+<td class="column1">Last day to complete late registration; last day to add a course(s) or make section changes; last day to drop individual courses via XE Registration without receiving W (Withdrawn) grade on academic record. Last day to Web Drop courses via XE Registration and receive 100% cancellation of tuition and fees.</td>
+</tr>
+<tr class="even"><td class="column0">September 4, M</td>
+<td class="column1">Labor Day holiday. No classes.</td>
+</tr>
+<tr class="odd"><td class="column0">September 12, T</td>
+<td class="column1">CampusCare Waiver deadline.</td>
+</tr>
+<tr class="even"><td class="column0">October 27, F</td>
+<td class="column1">Last day for undergraduate students to use optional late drop in college office and receive grade of W on academic record.</td>
+</tr>
+<tr class="odd"><td class="column0">November 23–24, Th–F</td>
+<td class="column1">Thanksgiving holiday. No classes.</td>
+</tr>
+<tr class="even"><td class="column0">December 1, F</td>
+<td class="column1">Instruction ends.</td>
+</tr>
+<tr class="odd"><td class="column0">December 4–8, M–F</td>
+<td class="column1">Final examinations.</td>
+</tr>
+<tr class="even"><td class="column0">December 13, W</td>
+<td class="column1">Instructor grading deadline for 16-week courses (5 p.m.)</td>
+</tr>
+<tr class="odd last lastrow"><td class="column0">December 18, M</td>
+<td class="column1">Grades available via my.UIC.edu</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Spring Semester 2024</h3>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugacademiccalendar" summary="UG Academic Calendar">
+<caption class="hidden noscript">UG Academic Calendar</caption>
+<colgroup><col class="column0" pdfwidth="40%" width="40%"/><col class="column1" pdfwidth="60%" width="60%"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Date</th>
+<th scope="col" class="column1">Event</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0">January 8, M</td>
+<td class="column1">Instruction begins.</td>
+</tr>
+<tr class="odd"><td class="column0">January 15, M</td>
+<td class="column1">Martin Luther King, Jr., Day. No classes.</td>
+</tr>
+<tr class="even"><td class="column0">January 19, F</td>
+<td class="column1">Last day to complete late registration; last day to add a course(s) or make section changes; last day to drop individual courses via XE Registration without receiving W (Withdrawn) grade on academic record. Last day to Web Drop courses via XE Registration and receive 100% cancellation of tuition and fees.</td>
+</tr>
+<tr class="odd"><td class="column0">February 4, Su</td>
+<td class="column1">CampusCare Waiver deadline.</td>
+</tr>
+<tr class="even"><td class="column0">March 15, F</td>
+<td class="column1">Last day for undergraduate students to use optional late drop in college office and receive grade of W on academic record.</td>
+</tr>
+<tr class="odd"><td class="column0">March 18–22, M–F</td>
+<td class="column1">Spring vacation. No classes.</td>
+</tr>
+<tr class="even"><td class="column0">April 26, F</td>
+<td class="column1">Instruction ends.</td>
+</tr>
+<tr class="odd"><td class="column0">April 29–May 3, M–F</td>
+<td class="column1">Final examinations.</td>
+</tr>
+<tr class="even"><td class="column0">May 8, W</td>
+<td class="column1">Instructor grading deadline for 16-week courses (5 p.m.)</td>
+</tr>
+<tr class="odd last lastrow"><td class="column0">May 13, M</td>
+<td class="column1">Grades available via my.UIC.edu</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Summer Session 2024</h3>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugacademiccalendar" summary="UG Academic Calendar">
+<caption class="hidden noscript">UG Academic Calendar</caption>
+<colgroup><col class="column0" pdfwidth="40%" width="40%"/><col class="column1" pdfwidth="60%" width="60%"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Date</th>
+<th scope="col" class="column1">Event</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0"><strong>Summer Session 1</strong></td>
+<td class="column1">(4-Week Session)</td>
+</tr>
+<tr class="odd"><td class="column0">May 13, M</td>
+<td class="column1">Instruction begins.</td>
+</tr>
+<tr class="even"><td class="column0">May 15, W</td>
+<td class="column1">Last day to complete late registration for Summer Session 1; last day to add a course(s) or make section changes; last day to drop individual Summer Session 1 courses via XE Registration without receiving W (Withdrawn) grade on academic record. Last day to Web Drop Summer Session 1 courses via XE Registration and receive 100% cancellation of tuition and fees.</td>
+</tr>
+<tr class="odd"><td class="column0">May 27, M</td>
+<td class="column1">Memorial Day holiday. No classes</td>
+</tr>
+<tr class="even"><td class="column0">May 27, M</td>
+<td class="column1">CampusCare Waiver deadline.</td>
+</tr>
+<tr class="odd"><td class="column0">May 29, W</td>
+<td class="column1">Last day for undergraduate students to use optional late drop for a Summer Session 1 course in college office and receive grade of W on academic record.</td>
+</tr>
+<tr class="even"><td class="column0">June 6, Th</td>
+<td class="column1">Instruction ends for Summer Session 1.</td>
+</tr>
+<tr class="odd"><td class="column0">June 7, F</td>
+<td class="column1">Final examinations for Summer Session 1.</td>
+</tr>
+<tr class="even"><td class="column0"><strong>Summer Session 2</strong></td>
+<td class="column1">(8-Week Session)</td>
+</tr>
+<tr class="odd"><td class="column0">June 10, M</td>
+<td class="column1">Instruction begins.</td>
+</tr>
+<tr class="even"><td class="column0">June 14, F</td>
+<td class="column1">Last day to complete late registration for Summer Session 2; last day to add a course(s) or make section changes; last day to drop individual Summer Session 2 courses via XE Registration without receiving W (Withdrawn) grade on academic record. Last day to Web Drop courses via XE Registration and receive 100% cancellation of tuition and fees.</td>
+</tr>
+<tr class="odd"><td class="column0">July 4, Th</td>
+<td class="column1">Independence Day holiday. No classes.</td>
+</tr>
+<tr class="even"><td class="column0">July 12, F</td>
+<td class="column1">Last day for undergraduate students to use optional late drop for a Summer Session 2 course in college office and receive grade of W on academic record.</td>
+</tr>
+<tr class="odd"><td class="column0">July 31, W</td>
+<td class="column1">Instruction ends for Summer Session 2.</td>
+</tr>
+<tr class="even last lastrow"><td class="column0">August 1–2, Th–F</td>
+<td class="column1">Final examinations for Summer Session 2.</td>
+</tr>
+</tbody>
+</table>
+
+<h2 class="toggle"><strong>2024-2025 Academic Year</strong></h2>
+<h3>Fall Semester 2024</h3>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugacademiccalendar" summary="UG Academic Calendar">
+<caption class="hidden noscript">UG Academic Calendar</caption>
+<colgroup><col class="column0" pdfwidth="40%" width="40%"/><col class="column1" pdfwidth="60%" width="60%"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Date</th>
+<th scope="col" class="column1">Event</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0">August 26, M</td>
+<td class="column1">Instruction begins.</td>
+</tr>
+<tr class="odd"><td class="column0">September 2, M</td>
+<td class="column1">Labor Day holiday. No classes.</td>
+</tr>
+<tr class="even"><td class="column0">September 6, F</td>
+<td class="column1">Last day to complete late registration; last day to add a course(s) or make section changes; last day to drop individual courses via XE Registration without receiving W (Withdrawn) grade on academic record. Last day to Web Drop courses via XE Registration and receive 100% cancellation of tuition and fees.</td>
+</tr>
+<tr class="odd"><td class="column0">September 12, Th</td>
+<td class="column1">CampusCare Waiver deadline.</td>
+</tr>
+<tr class="even"><td class="column0">November 1, F</td>
+<td class="column1">Last day for undergraduate students to use optional late drop in college office and receive grade of W on academic record.</td>
+</tr>
+<tr class="odd"><td class="column0">November 28–29, Th–F</td>
+<td class="column1">Thanksgiving holiday. No classes.</td>
+</tr>
+<tr class="even"><td class="column0">December 6, F</td>
+<td class="column1">Instruction ends.</td>
+</tr>
+<tr class="odd"><td class="column0">December 9–13, M–F</td>
+<td class="column1">Final examinations.</td>
+</tr>
+<tr class="even"><td class="column0">December 18, W</td>
+<td class="column1">Instructor grading deadline for 16-week courses (5 p.m.)</td>
+</tr>
+<tr class="odd last lastrow"><td class="column0">December 23, M</td>
+<td class="column1">Grades available via my.UIC.edu</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Spring Semester 2025</h3>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugacademiccalendar" summary="UG Academic Calendar">
+<caption class="hidden noscript">UG Academic Calendar</caption>
+<colgroup><col class="column0" pdfwidth="40%" width="40%"/><col class="column1" pdfwidth="60%" width="60%"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Date</th>
+<th scope="col" class="column1">Event</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0">January 13, M</td>
+<td class="column1">Instruction begins.</td>
+</tr>
+<tr class="odd"><td class="column0">January 20, M</td>
+<td class="column1">Martin Luther King, Jr., Day. No classes.</td>
+</tr>
+<tr class="even"><td class="column0">January 24, F</td>
+<td class="column1">Last day to complete late registration; last day to add a course(s) or make section changes; last day to drop individual courses via XE Registration without receiving W (Withdrawn) grade on academic record. Last day to Web Drop courses via XE Registration and receive 100% cancellation of tuition and fees.</td>
+</tr>
+<tr class="odd"><td class="column0">February 9, Su</td>
+<td class="column1">CampusCare Waiver deadline.</td>
+</tr>
+<tr class="even"><td class="column0">March 21, F</td>
+<td class="column1">Last day for undergraduate students to use optional late drop in college office and receive grade of W on academic record.</td>
+</tr>
+<tr class="odd"><td class="column0">March 24–28, M–F</td>
+<td class="column1">Spring vacation. No classes.</td>
+</tr>
+<tr class="even"><td class="column0">May 2, F</td>
+<td class="column1">Instruction ends.</td>
+</tr>
+<tr class="odd"><td class="column0">May 5–9, M–F</td>
+<td class="column1">Final examinations.</td>
+</tr>
+<tr class="even"><td class="column0">May 14, W</td>
+<td class="column1">Instructor grading deadline for 16-week courses (5 p.m.)</td>
+</tr>
+<tr class="odd last lastrow"><td class="column0">May 19, M</td>
+<td class="column1">Grades available via my.UIC.edu</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Summer Session 2025</h3>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugacademiccalendar" summary="UG Academic Calendar">
+<caption class="hidden noscript">UG Academic Calendar</caption>
+<colgroup><col class="column0" pdfwidth="40%" width="40%"/><col class="column1" pdfwidth="60%" width="60%"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Date</th>
+<th scope="col" class="column1">Event</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0"><strong>Summer Session 1</strong></td>
+<td class="column1">(4-Week Session)</td>
+</tr>
+<tr class="odd"><td class="column0">May 19, M</td>
+<td class="column1">Instruction begins.</td>
+</tr>
+<tr class="even"><td class="column0">May 21, W</td>
+<td class="column1">Last day to complete late registration for Summer Session 1; last day to add a course(s) or make section changes; last day to drop individual Summer Session 1 courses via XE Registration without receiving W (Withdrawn) grade on academic record. Last day to Web Drop Summer Session 1 courses via XE Registration and receive 100% cancellation of tuition and fees.</td>
+</tr>
+<tr class="odd"><td class="column0">May 26, M</td>
+<td class="column1">Memorial Day holiday. No classes</td>
+</tr>
+<tr class="even"><td class="column0">June 2, M</td>
+<td class="column1">CampusCare Waiver deadline.</td>
+</tr>
+<tr class="odd"><td class="column0">June 4, W</td>
+<td class="column1">Last day for undergraduate students to use optional late drop for a Summer Session 1 course in college office and receive grade of W on academic record.</td>
+</tr>
+<tr class="even"><td class="column0">June 12, Th</td>
+<td class="column1">Instruction ends for Summer Session 1.</td>
+</tr>
+<tr class="odd"><td class="column0">June 13, F</td>
+<td class="column1">Final examinations for Summer Session 1.</td>
+</tr>
+<tr class="even"><td class="column0"><strong>Summer Session 2</strong></td>
+<td class="column1">(8-Week Session)</td>
+</tr>
+<tr class="odd"><td class="column0">June 16, M</td>
+<td class="column1">Instruction begins.</td>
+</tr>
+<tr class="even"><td class="column0">June 20, F</td>
+<td class="column1">Last day to complete late registration for Summer Session 2; last day to add a course(s) or make section changes; last day to drop individual Summer Session 2 courses via XE Registration without receiving W (Withdrawn) grade on academic record. Last day to Web Drop courses via XE Registration and receive 100% cancellation of tuition and fees.</td>
+</tr>
+<tr class="odd"><td class="column0">July 4, F</td>
+<td class="column1">Independence Day holiday. No classes.</td>
+</tr>
+<tr class="even"><td class="column0">July 18, F</td>
+<td class="column1">Last day for undergraduate students to use optional late drop for a Summer Session 2 course in college office and receive grade of W on academic record.</td>
+</tr>
+<tr class="odd"><td class="column0">August 6, W</td>
+<td class="column1">Instruction ends for Summer Session 2.</td>
+</tr>
+<tr class="even last lastrow"><td class="column0">August 7–8, Th–F</td>
+<td class="column1">Final examinations for Summer Session 2.</td>
+</tr>
+</tbody>
+</table>
+</div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2021-2023 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" aria-labeledby="dialog-title" class="screen" role="dialog">
+	<div class="print-header">
+		<h2 id="dialog-title">Print Options</h2>
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+<div class="print-option"><div class="option-head"><a class="option-name" href="/ucat/academic-calendar/academic-calendar.pdf" role="button">Download Page (PDF)</a></div><p class="option-desc"><em>The PDF will include all information unique to this page.</em></p></div><div class="print-option"><div class="option-head"><a class="option-name" href="/pdf/2021-23-undergraduate.pdf" target="_blank">Download PDF of the entire Undergraduate Catalog</a></div><p class="option-desc"><em>All pages in the campus catalog.</em></p></div>    </div>
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

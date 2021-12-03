@@ -1,0 +1,496 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+    <!-- OneTrust Cookies Consent Notice, uic.edu -->
+    <script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="c2f2262d-b694-4eba-8f4b-142c102b685a"></script>
+    <script type="text/javascript">
+    function OptanonWrapper() { }
+    </script>
+
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20665772-26"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-20665772-26'); // Emergency site tracking code
+      // gtag('config', 'UA-20665772-1');  // Global UIC tracking code
+
+      gtag('event', 'page_view', { 'send_to': 'UA-20665772-26' }); // Emergency site tracking code
+      // gtag('event', 'page_view', { 'send_to': 'UA-20665772-1' }); // Global UIC tracking code
+    </script>
+
+    <!-- SkipTo accessibility menu -->
+    <script src="https://emergency.uic.edu/wp-content/themes/twentynineteen-child/js/skipto.min.js" type="text/javascript"></script>
+
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="profile" href="https://gmpg.org/xfn/11" />
+    <link rel='stylesheet' id='main-css'  href="https://emergency.uic.edu/wp-content/themes/twentynineteen-child/dist/css/main.css" type='text/css' media='all' />
+
+    <title>Public Safety &#x2d; Emergency Communications</title>
+<meta name='robots' content='noindex, nofollow' />
+
+<!-- The SEO Framework by Sybre Waaijer -->
+<meta property="og:image" content="https://emergency.uic.edu/wp-content/uploads/2019/03/CAMP.CIRC_.SM_.RED_-e1553805162953.png" />
+<meta property="og:image:width" content="190" />
+<meta property="og:image:height" content="190" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Public Safety &#x2d; Emergency Communications" />
+<meta property="og:url" content="https://emergency.uic.edu/public-safety-alerts/" />
+<meta property="og:site_name" content="Emergency Communications" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Public Safety &#x2d; Emergency Communications" />
+<meta name="twitter:image" content="https://emergency.uic.edu/wp-content/uploads/2019/03/CAMP.CIRC_.SM_.RED_-e1553805162953.png" />
+<meta name="twitter:image:width" content="190" />
+<meta name="twitter:image:height" content="190" />
+<link rel="canonical" href="https://emergency.uic.edu/public-safety-alerts/" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://emergency.uic.edu/","name":"Emergency Communications"}},{"@type":"ListItem","position":2,"item":{"@id":"https://emergency.uic.edu/public-safety-alerts/","name":"Public Safety"}}]}</script>
+<!-- / The SEO Framework by Sybre Waaijer | 3.74ms meta | 0.68ms boot -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Emergency Communications &raquo; Feed" href="https://emergency.uic.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Emergency Communications &raquo; Comments Feed" href="https://emergency.uic.edu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/emergency.uic.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.4"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://emergency.uic.edu/wp-includes/css/dist/block-library/style.min.css?ver=5.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://emergency.uic.edu/wp-includes/css/dist/block-library/theme.min.css?ver=5.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='ugb-style-css-css'  href='https://emergency.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/frontend_blocks.css?ver=2.14.1' type='text/css' media='all' />
+<style id='ugb-style-css-inline-css' type='text/css'>
+:root {
+			--content-width: 640px;
+		}
+</style>
+<link rel='stylesheet' id='ugb-style-css-premium-css'  href='https://emergency.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/frontend_blocks__premium_only.css?ver=2.14.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentynineteen-style-css'  href='https://emergency.uic.edu/wp-content/themes/twentynineteen-child/style.css?ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='twentynineteen-print-style-css'  href='https://emergency.uic.edu/wp-content/themes/twentynineteen-child/print.css?ver=1.4' type='text/css' media='print' />
+<script type='text/javascript' id='ugb-block-frontend-js-js-extra'>
+/* <![CDATA[ */
+var stackable = {"restUrl":"https:\/\/emergency.uic.edu\/wp-json\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://emergency.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/frontend_blocks.js?ver=2.14.1' id='ugb-block-frontend-js-js'></script>
+<script type='text/javascript' src='https://emergency.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/frontend_blocks__premium_only.js?ver=2.14.1' id='ugb-block-frontend-js-premium-js'></script>
+<script type='text/javascript' src='https://emergency.uic.edu/wp-content/plugins/wpo365-login/apps/dist/pintra-redirect.js?ver=12.10' id='pintraredirectjs-js'></script>
+<link rel="https://api.w.org/" href="https://emergency.uic.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://emergency.uic.edu/wp-json/wp/v2/pages/24" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://emergency.uic.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://emergency.uic.edu/wp-includes/wlwmanifest.xml" /> 
+<link rel="alternate" type="application/json+oembed" href="https://emergency.uic.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femergency.uic.edu%2Fpublic-safety-alerts%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://emergency.uic.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femergency.uic.edu%2Fpublic-safety-alerts%2F&#038;format=xml" />
+<link rel="icon" href="https://emergency.uic.edu/wp-content/uploads/2020/06/cropped-fanicon512-1-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://emergency.uic.edu/wp-content/uploads/2020/06/cropped-fanicon512-1-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://emergency.uic.edu/wp-content/uploads/2020/06/cropped-fanicon512-1-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://emergency.uic.edu/wp-content/uploads/2020/06/cropped-fanicon512-1-1-270x270.png" />
+</head>
+
+<body class="paged page-template page-template-listingpage page-template-listingpage-php page page-id-24 wp-custom-logo wp-embed-responsive paged-3 page-paged-3 singular image-filters-enabled">
+
+<div id="page" class="site">
+
+		<header id="masthead" class="site-header">
+            <div class="header-top">
+    <a class="header-top__branding-container" aria-label="UIC.edu homepage" href="https://uic.edu">
+        <div class="header-top__logo">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="301" height="58" viewBox="0 0 301 58">
+    <defs>
+        <path id="prefix__a" d="M0 57.927L301 57.927 301 0.084 0 0.084z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#21295B" d="M75 46L78 46 78 29 75 29zM87.284 29L87.284 42.6 95 42.6 95 46 83 46 83 29zM100.284 29L100.284 42.6 108 42.6 108 46 96 46 96 29zM110 46L113 46 113 29 110 29zM126.132 35.945c1.412 2.326 2.615 4.547 2.615 4.547h.026s-.157-3.502-.157-5.566v-5.931h3.897v17.768h-3.975l-4.21-6.846c-.994-1.646-2.693-4.782-2.693-4.782h-.027s.183 2.953.183 5.8v5.828h-3.922V28.995h4l4.263 6.95zM144.307 43.758c3.007 0 4.655-2.169 4.655-5.88 0-3.71-1.7-5.957-4.655-5.957-2.981 0-4.655 2.247-4.655 5.958 0 3.71 1.622 5.879 4.655 5.879m0-15.077c5.256 0 8.603 3.737 8.603 9.198 0 5.435-3.112 9.198-8.603 9.198-5.413 0-8.603-3.763-8.603-9.198 0-5.461 3.347-9.198 8.603-9.198"/>
+        <mask id="prefix__b" fill="#fff">
+            <use xlink:href="#prefix__a"/>
+        </mask>
+        <path fill="#21295B" d="M156.154 46.763L160.102 46.763 160.102 28.995 156.154 28.995zM175.008 33.881c-1.23-1.176-2.824-1.934-4.603-1.934-1.647 0-2.797.68-2.797 1.803 0 1.15.81 1.62 2.431 1.934l2.877.575c3.295.653 5.36 1.96 5.36 5.095 0 3.685-3.268 5.723-7.479 5.723-4.105 0-6.929-2.195-8.027-3.71l2.746-2.353c1.097 1.464 2.928 2.77 5.386 2.77 2.066 0 3.269-.81 3.269-2.117 0-1.227-1.046-1.567-2.667-1.854l-2.301-.445c-3.243-.627-5.701-1.803-5.701-5.278 0-3.188 2.955-5.409 6.851-5.409 3.138 0 5.648 1.176 7.165 2.796l-2.51 2.404zM202.23 42.87c-1.333 2.613-3.635 4.207-7.217 4.207-5.308 0-8.499-3.763-8.499-9.198 0-5.461 3.347-9.198 8.5-9.198 3.948 0 6.275 2.143 7.347 4.547l-3.295 1.385c-.732-1.751-2.066-2.692-4.001-2.692-2.929 0-4.602 2.247-4.602 5.958 0 3.71 1.621 5.879 4.602 5.879 1.883 0 3.19-.836 3.923-2.43l3.242 1.542zM208.977 39.394L208.977 46.763 205.029 46.763 205.029 28.995 208.977 28.995 208.977 35.841 215.567 35.841 215.567 28.995 219.515 28.995 219.515 46.763 215.567 46.763 215.567 39.394zM223.595 46.763L227.544 46.763 227.544 28.995 223.595 28.995zM246.45 42.87c-1.333 2.613-3.634 4.207-7.217 4.207-5.308 0-8.499-3.763-8.499-9.198 0-5.461 3.348-9.198 8.499-9.198 3.949 0 6.276 2.143 7.348 4.547l-3.295 1.385c-.732-1.751-2.066-2.692-4-2.692-2.93 0-4.603 2.247-4.603 5.958 0 3.71 1.621 5.879 4.603 5.879 1.882 0 3.19-.836 3.922-2.43l3.242 1.542zM256.518 34.978c-.314-1.123-.601-2.3-.601-2.3h-.026s-.314 1.177-.654 2.327l-1.517 4.99h4.263l-1.465-5.017zm-4.785 11.785h-4.158l5.988-17.768h4.785l5.937 17.768h-4.237l-1.046-3.528h-6.25l-1.02 3.528zM273.62 28.681c3.95 0 6.276 2.143 7.349 4.547l-3.295 1.385c-.732-1.751-2.066-2.692-4-2.692-2.93 0-4.63 2.247-4.63 5.958 0 3.763 1.648 6.036 4.655 6.036 2.59 0 3.766-1.646 3.975-3.763h-5.047v-3.475h8.446v10.086h-3.451v-1.568c-.759.915-2.406 1.882-4.629 1.882-4.864 0-7.87-3.763-7.87-9.198 0-5.461 3.346-9.198 8.497-9.198M292.397 43.758c3.007 0 4.654-2.169 4.654-5.88 0-3.71-1.7-5.957-4.654-5.957-2.981 0-4.655 2.247-4.655 5.958 0 3.71 1.622 5.879 4.655 5.879m0-15.077c5.256 0 8.603 3.737 8.603 9.198 0 5.435-3.112 9.198-8.603 9.198-5.413 0-8.603-3.763-8.603-9.198 0-5.461 3.347-9.198 8.603-9.198" mask="url(#prefix__b)"/>
+        <path fill="#DA1F39" d="M57.891 29.006c0-15.972-12.96-28.922-28.945-28.922C12.96.084 0 13.032 0 29.006 0 44.98 12.96 57.927 28.946 57.927c15.985 0 28.945-12.946 28.945-28.921zm-34.565 2.596c0 2.635-.279 3.91-1.03 5.189-1.247 2.08-4.58 2.883-7.493 2.883-2.917 0-6.247-.803-7.497-2.883-.75-1.279-1.03-2.554-1.03-5.19V20.45h5.666v11.263c0 1.276.167 2.11.639 2.665.444.526 1.165.776 2.222.776 1.053 0 1.775-.25 2.22-.776.47-.555.637-1.389.637-2.665V20.449h5.666v11.153zm3.44 7.712h5.663V20.449h-5.663v18.865zm26.012-14.148l-4.912 2.357c-.474-1.83-1.5-2.91-3.277-2.91-2.415 0-3.638 1.997-3.638 5.267 0 3.247 1.223 5.19 3.638 5.19 1.666 0 2.639-.888 3.165-2.358l5.136 1.83c-1.331 3.025-4.026 5.105-8.329 5.105-5.968 0-9.383-3.996-9.383-9.767 0-5.795 3.61-9.763 9.495-9.763 4.498 0 7.161 2.58 8.105 5.049z" mask="url(#prefix__b)"/>
+        <path fill="#21295B" d="M78.553 18.806c-.863 0-1.47-.283-1.754-.944-.148-.31-.202-.647-.202-1.55v-5.34h-1.606v5.366c0 1.335.135 1.955.473 2.535.607.998 1.74 1.43 3.09 1.43 1.349 0 2.482-.432 3.09-1.43.337-.58.471-1.2.471-2.535v-5.366H80.51v5.34c0 .903-.054 1.24-.203 1.55-.282.66-.89.944-1.754.944M89.57 10.972h-1.51v9.168h1.605v-3.06c0-1.537-.013-2.966-.027-3.398.014 0 .297.5.58.944l3.616 5.514h1.512v-9.168H93.74v3.074c0 1.295.027 2.993.027 3.29-.122-.202-.5-.809-.702-1.119l-3.494-5.245zM101.35 20.14L102.969 20.14 102.969 10.972 101.35 10.972zM109.755 10.972h-1.7l2.847 9.168h1.984l2.968-9.168h-1.673l-1.916 6.175-.351 1.214c0-.054-.162-.755-.297-1.214l-1.862-6.175zM127.357 12.415L127.357 10.972 120.934 10.972 120.934 20.141 127.694 20.141 127.694 18.698 122.553 18.698 122.553 16.122 126.911 16.122 126.911 14.68 122.553 14.68 122.553 12.415zM136.406 16.473l2.132 3.668h1.93l-2.294-3.83c.216-.08.5-.188.715-.323.742-.499 1.214-1.24 1.214-2.252 0-1.119-.499-1.874-1.308-2.346-.702-.404-1.525-.418-2.307-.418h-3.36v9.169h1.62v-3.668h1.658zm-1.659-4.072h1.74c.662 0 1.012.054 1.296.175.405.176.647.62.647 1.12 0 .499-.242.957-.647 1.146-.284.121-.634.175-1.295.175h-1.74v-2.616zM152.346 12.334c-.54-.593-1.66-1.524-3.562-1.524-1.943 0-3.468 1.093-3.468 2.724 0 1.672 1.255 2.306 2.752 2.63l1.228.269c.931.202 1.566.472 1.566 1.186 0 .728-.635 1.24-1.863 1.24-1.295 0-2.307-.714-2.725-1.402l-1.35.971c.635.89 1.997 1.874 3.995 1.874 2.293 0 3.684-1.132 3.684-2.831 0-1.672-1.242-2.225-2.956-2.616l-1.106-.242c-1.04-.23-1.485-.486-1.485-1.16 0-.701.621-1.227 1.687-1.227 1.026 0 1.862.472 2.375 1.106l1.228-.998zM158.039 20.14L159.658 20.14 159.658 10.972 158.039 10.972zM164.803 12.415L167.488 12.415 167.488 20.141 169.107 20.141 169.107 12.415 171.779 12.415 171.779 10.972 164.803 10.972zM181.405 16.392L184.926 10.972 183.064 10.972 180.676 14.896 178.328 10.972 176.453 10.972 179.785 16.392 179.785 20.14 181.405 20.14zM196.166 15.556c0 2.791 1.565 4.746 4.345 4.746 2.793 0 4.345-1.955 4.345-4.746 0-2.804-1.674-4.746-4.345-4.746-2.672 0-4.345 1.942-4.345 4.746m1.768 0c0-1.995.97-3.303 2.577-3.303 1.606 0 2.577 1.308 2.577 3.303 0 1.996-.944 3.277-2.577 3.277s-2.577-1.281-2.577-3.277M216.32 12.415L216.32 10.972 210.41 10.972 210.41 20.141 212.029 20.141 212.029 16.244 216.144 16.244 216.144 14.801 212.029 14.801 212.029 12.415z" mask="url(#prefix__b)"/>
+    </g>
+</svg>        </div>
+        <div class="header-top__logo-mobile">
+            <svg xmlns="http://www.w3.org/2000/svg" width="92" height="92" viewBox="0 0 92 92">
+    <path fill="#D50032" fill-rule="evenodd" d="M83.875 39.895l-7.81 3.75c-.75-2.912-2.38-4.631-5.207-4.631-3.836 0-5.777 3.173-5.777 8.38 0 5.162 1.94 8.252 5.777 8.252 2.648 0 4.194-1.413 5.031-3.752l8.162 2.91c-2.116 4.81-6.397 8.12-13.235 8.12-9.487 0-14.915-6.35-14.915-15.53 0-9.22 5.739-15.527 15.09-15.527 7.148 0 11.383 4.1 12.884 8.028zm-41.34-7.501h9v30h-9v-30zm-5.47 17.735c0 4.191-.44 6.22-1.633 8.253-1.985 3.305-7.279 4.587-11.911 4.587-4.634 0-9.928-1.282-11.914-4.587-1.19-2.033-1.633-4.062-1.633-8.253V32.394h9v17.91c0 2.032.268 3.355 1.016 4.236.71.84 1.854 1.238 3.531 1.238 1.675 0 2.824-.399 3.53-1.238.748-.881 1.014-2.204 1.014-4.235V32.394h9v17.735zM92 46C92 20.594 71.402 0 46 0 20.593 0 0 20.594 0 46s20.593 46 46 46c25.402 0 46-20.594 46-46z"/>
+</svg>        </div>
+    </a>
+    <div class="header-top__navigation-container">
+        <div class="header-top__eyebrow-and-search-container">
+            <nav class="navigation-eyebrow" role="navigation" aria-label="Eyebrow navigation">
+    <div class="navigation-eyebrow__inner">
+        <ul class="navigation-eyebrow__list">
+            <li class="navigation-eyebrow__list-item"><a class="navigation-eyebrow__link" href="https://www.uic.edu/">UIC.edu</a></li>
+            <li class="navigation-eyebrow__list-item"><a class="navigation-eyebrow__link" href="https://maps.uic.edu/">Campus Map</a></li>
+        </ul>
+        <ul class="navigation-eyebrow__list">
+            <li class="navigation-eyebrow__list-item"><a class="navigation-eyebrow__link" href="https://police.uic.edu/">UIC Police</a></li>
+            <li class="navigation-eyebrow__list-item"><a class="navigation-eyebrow__link" href="https://ready.uic.edu/">UIC Ready</a></li>
+        </ul>
+    </div>
+</nav>            <div class="search-box">
+    <button class="search-box__search-button js-search-toggle" aria-label="toggle search form" type="button">
+    </button>
+    <div class="search-box__input-container hidden js-search-container">
+        <form method="get" action="/search-results" role="search">
+            <input type="text" name="q" class="search-input" placeholder="Search..." tabindex="0"
+                   aria-label="Search">
+            <input type="submit" class="search-box__submit-button" name="search" value="Submit">
+        </form>
+    </div>
+</div>
+        </div>
+        <nav class="navigation-main">
+    <ul id="navigation-main" class="navigation-main__list" aria-label="Main menu">
+                    <li class="navigation-main__list-item">
+                <a class="navigation-main__link" href="https://emergency.uic.edu/uic-alerts/">UIC Alerts</a>
+            </li>
+                    <li class="navigation-main__list-item">
+                <a class="navigation-main__link" href="https://emergency.uic.edu/public-safety-alerts/">Public Safety Advisories</a>
+            </li>
+            </ul>
+</nav>
+<nav class="navigation-main navigation-main__mobile" aria-expanded="false">
+    <button class="navigation-main__mobile-navigation-toggle js-menu-toggle" aria-label="toggle mobile menu">
+        <span class="navigation-main__mobile-navigation-toggle-icon">
+        </span>
+    </button>
+    <ul id="navigation-main__mobile" class="navigation-main__mobile-list js-menu" aria-label="Main menu">
+                    <li class="navigation-main__list-item navigation-main__mobile-list-item">
+                <a class="navigation-main__link" href="https://emergency.uic.edu/uic-alerts/">UIC Alerts</a>
+            </li>
+                    <li class="navigation-main__list-item navigation-main__mobile-list-item">
+                <a class="navigation-main__link" href="https://emergency.uic.edu/public-safety-alerts/">Public Safety Advisories</a>
+            </li>
+            </ul>
+</nav>
+
+    </div>
+</div>
+			<div class="site-branding-container">
+
+
+				<div class="site-branding">
+							<p class="site-title"><a href="https://emergency.uic.edu/" rel="home">Emergency Communications</a></p>
+			</div><!-- .site-branding -->
+
+			</div><!-- .site-branding-container -->
+
+            
+					</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+    <section id="primary" class="content-area">
+        <main id="main" class="site-main page-main">
+
+                            <div class="post-listing">
+    <h1 class="post-listing__title">Public Safety</h1>
+            <div class="post-listing__list-item">
+            <div class="post-teaser">
+    <div class="post-teaser__large-date">
+        <div class="post-teaser__date-month">Apr</div>
+        <div class="post-teaser__date-day">21</div>
+    </div>
+    <div class="post-teaser__content">
+        <a class="post-teaser__title" href="https://emergency.uic.edu/?p=7465">[URGENT] Public Safety Advisory</a>
+        <div class="post-teaser__date">Wednesday, Apr. 21, 2021</div>
+        <div class="post-teaser__excerpt"><p><p>On April 21, at approximately 3:55 p.m., a UIC student reported to campus security that they were the victim of fondling&nbsp;by an unknown individual at a subway station located at 309 S. State St. The offender is described as male, approximately 40-50 years old, 5'8", medium build, a small beard&hellip;</p></p></div>
+    </div>
+</div>
+        </div>
+            <div class="post-listing__list-item">
+            <div class="post-teaser">
+    <div class="post-teaser__large-date">
+        <div class="post-teaser__date-month">Apr</div>
+        <div class="post-teaser__date-day">16</div>
+    </div>
+    <div class="post-teaser__content">
+        <a class="post-teaser__title" href="https://emergency.uic.edu/?p=7464">[URGENT] Public Safety Advisory</a>
+        <div class="post-teaser__date">Friday, Apr. 16, 2021</div>
+        <div class="post-teaser__excerpt"><p><p><span style="font-size:12px"><span style="font-family:'arial' , 'helvetica' , sans-serif"><span style="color:#000000"><span style="background-color:white">On Friday, April 16, at approximately 1 a.m. UIC Police responded to a <span style="color:black">call of a disturbance at 1260 S. Union St.&nbsp; A customer, who was not following mask guidelines, became angry and raised his shirt displaying a handgun in his&hellip;</span></span></span></span></span></p></p></div>
+    </div>
+</div>
+        </div>
+            <div class="post-listing__list-item">
+            <div class="post-teaser">
+    <div class="post-teaser__large-date">
+        <div class="post-teaser__date-month">Apr</div>
+        <div class="post-teaser__date-day">08</div>
+    </div>
+    <div class="post-teaser__content">
+        <a class="post-teaser__title" href="https://emergency.uic.edu/?p=7461">[URGENT] Public Safety Advisory</a>
+        <div class="post-teaser__date">Thursday, Apr. 8, 2021</div>
+        <div class="post-teaser__excerpt"><p><p>On Thursday, April 8, at 9 a.m., UIC Police Department and Chicago Police Department responded to a call of a vehicle accident and possible shooting that occurred on the street near the 700 block of S. Halsted St. Further investigation revealed that a road rage incident occurred involving two vehicles.&hellip;</p></p></div>
+    </div>
+</div>
+        </div>
+            <div class="post-listing__list-item">
+            <div class="post-teaser">
+    <div class="post-teaser__large-date">
+        <div class="post-teaser__date-month">Apr</div>
+        <div class="post-teaser__date-day">01</div>
+    </div>
+    <div class="post-teaser__content">
+        <a class="post-teaser__title" href="https://emergency.uic.edu/?p=7455">[URGENT] Public Safety Advisory</a>
+        <div class="post-teaser__date">Thursday, Apr. 1, 2021</div>
+        <div class="post-teaser__excerpt"><p><p>On April 1, UIC Police received a report that a fondling occurred at 300 S. State St.&nbsp;at approximately 2 p.m. The victim, a UIC student, reported that while walking up the stairs from a CTA platform, an unknown male offender blocked their path and fondled them. The offender is described&hellip;</p></p></div>
+    </div>
+</div>
+        </div>
+            <div class="post-listing__list-item">
+            <div class="post-teaser">
+    <div class="post-teaser__large-date">
+        <div class="post-teaser__date-month">Mar</div>
+        <div class="post-teaser__date-day">29</div>
+    </div>
+    <div class="post-teaser__content">
+        <a class="post-teaser__title" href="https://emergency.uic.edu/?p=7454">[URGENT] Public Safety Advisory</a>
+        <div class="post-teaser__date">Monday, Mar. 29, 2021</div>
+        <div class="post-teaser__excerpt"><p><p>On Sunday, March 28, at approximately 11:56 p.m., UIC Police responded to a report of an aggravated assault at&nbsp;1322 S. Halsted St. The victim,&nbsp;a security guard at a fast-food restaurant, stated the offender became aggressive when informed that the restaurant&nbsp;was closed. Outside, the offender lifted his shirt, displayed a holstered&hellip;</p></p></div>
+    </div>
+</div>
+        </div>
+            <div class="post-listing__list-item">
+            <div class="post-teaser">
+    <div class="post-teaser__large-date">
+        <div class="post-teaser__date-month">Mar</div>
+        <div class="post-teaser__date-day">15</div>
+    </div>
+    <div class="post-teaser__content">
+        <a class="post-teaser__title" href="https://emergency.uic.edu/?p=7453">[URGENT] Public Safety Advisory</a>
+        <div class="post-teaser__date">Monday, Mar. 15, 2021</div>
+        <div class="post-teaser__excerpt"><p><p>On Monday, March 15, at approximately 8:30 p.m., UIC Police responded to a report of an attempted vehicular hijacking that occurred at 1700 W. Roosevelt Rd. Chicago Police and UICPD officers met with the victim, who reported that while traveling westbound on Roosevelt Rd., an unknown red four-door vehicle with&hellip;</p></p></div>
+    </div>
+</div>
+        </div>
+            <div class="post-listing__list-item">
+            <div class="post-teaser">
+    <div class="post-teaser__large-date">
+        <div class="post-teaser__date-month">Mar</div>
+        <div class="post-teaser__date-day">14</div>
+    </div>
+    <div class="post-teaser__content">
+        <a class="post-teaser__title" href="https://emergency.uic.edu/?p=7452">[URGENT] Public Safety Advisory</a>
+        <div class="post-teaser__date">Sunday, Mar. 14, 2021</div>
+        <div class="post-teaser__excerpt"><p><p>On Sunday, March 14, at approximately 8:30 p.m. UIC Police responded to a report of an aggravated&nbsp;vehicular hijacking&nbsp;that occurred at 802 W. Maxwell St. Officers met with the victim who reported that while returning to his black Dodge Journey SUV he was approached by a red Saturn SUV. A male&hellip;</p></p></div>
+    </div>
+</div>
+        </div>
+            <div class="post-listing__list-item">
+            <div class="post-teaser">
+    <div class="post-teaser__large-date">
+        <div class="post-teaser__date-month">Mar</div>
+        <div class="post-teaser__date-day">08</div>
+    </div>
+    <div class="post-teaser__content">
+        <a class="post-teaser__title" href="https://emergency.uic.edu/?p=7451">[URGENT] Public Safety Advisory</a>
+        <div class="post-teaser__date">Monday, Mar. 8, 2021</div>
+        <div class="post-teaser__excerpt"><p><p><span style="font-size:11pt"><span style="background-color:white"><span style="font-family:'calibri' , sans-serif"><span style="color:black">On Monday, March 8, at approximately 10:40 a.m. UIC and Chicago police responded to a report of a robbery that had just occurred at 750 South Halsted St. The victim, who is not affiliated with UIC, told police he had been unloading mail at&hellip;</span></span></span></span></p></p></div>
+    </div>
+</div>
+        </div>
+            <div class="post-listing__list-item">
+            <div class="post-teaser">
+    <div class="post-teaser__large-date">
+        <div class="post-teaser__date-month">Mar</div>
+        <div class="post-teaser__date-day">02</div>
+    </div>
+    <div class="post-teaser__content">
+        <a class="post-teaser__title" href="https://emergency.uic.edu/?p=7449">[URGENT] Public Safety Advisory</a>
+        <div class="post-teaser__date">Tuesday, Mar. 2, 2021</div>
+        <div class="post-teaser__excerpt"><p><p><span style="font-size:12px"><span style="font-family:'arial' , 'helvetica' , sans-serif"><span style="color:#000000">On Tuesday, March 2, at approximately 3:40 p.m. UIC Police responded to a report of shots fired in the 700 block of W. Maxwell St. When <span style="color:black">UIC Police arrived at the location all parties had fled the area. Witnesses reported that three&hellip;</span></span></span></span></p></p></div>
+    </div>
+</div>
+        </div>
+            <div class="post-listing__list-item">
+            <div class="post-teaser">
+    <div class="post-teaser__large-date">
+        <div class="post-teaser__date-month">Feb</div>
+        <div class="post-teaser__date-day">21</div>
+    </div>
+    <div class="post-teaser__content">
+        <a class="post-teaser__title" href="https://emergency.uic.edu/?p=7443">[URGENT] Public Safety Advisory</a>
+        <div class="post-teaser__date">Sunday, Feb. 21, 2021</div>
+        <div class="post-teaser__excerpt"><p><p>On Sunday, Feb. 21, at 2:21 a.m., UIC Police responded to a report of attempted vehicular hijacking at 1251 S. Union Ave. Upon arrival at the scene, UIC Police were notified that the victim, the owner of a Range Rover, had left the vehicle unsecured with passengers in the back&hellip;</p></p></div>
+    </div>
+</div>
+        </div>
+    
+                <nav class="pager" aria-label="Pagination">
+        <ul class="pager__pages">
+                            <a href="https://emergency.uic.edu/public-safety-alerts/page/2/"
+                   aria-label="go to previous page"
+                   class="pager__prev ">
+                <span class="pager__prev-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="9" height="14" viewBox="0 0 9 14">
+    <path fill="none" fill-rule="evenodd" stroke="inherit" stroke-linecap="round" stroke-width="2" d="M211 9L217 15 211 21" transform="translate(-210 -8)"/>
+</svg>                </span>
+                </a>
+                                                            <li class="pager__page">
+                        <a href="https://emergency.uic.edu/public-safety-alerts/" class="pager__page-link">1</a>
+                    </li>
+                                                                <li class="pager__page">
+                        <a href="https://emergency.uic.edu/public-safety-alerts/page/2/" class="pager__page-link">2</a>
+                    </li>
+                                                                <li class="pager__page pager__page--current">
+                        <span class="pager__page-current">3</span>
+                    </li>
+                                                                <li class="pager__page">
+                        <a href="https://emergency.uic.edu/public-safety-alerts/page/4/" class="pager__page-link">4</a>
+                    </li>
+                                                                <li class="pager__page">
+                        <a href="https://emergency.uic.edu/public-safety-alerts/page/5/" class="pager__page-link">5</a>
+                    </li>
+                                                                <li class="pager__page">
+                        <a href="" class="pager__page-link">&hellip;</a>
+                    </li>
+                                                                <li class="pager__page">
+                        <a href="https://emergency.uic.edu/public-safety-alerts/page/7/" class="pager__page-link">7</a>
+                    </li>
+                                                        <a href="https://emergency.uic.edu/public-safety-alerts/page/4/"
+                   aria-label="go to next page"
+                   class="pager__next ">
+                <span class="pager__next-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="9" height="14" viewBox="0 0 9 14">
+    <path fill="none" fill-rule="evenodd" stroke="inherit" stroke-linecap="round" stroke-width="2" d="M211 9L217 15 211 21" transform="translate(-210 -8)"/>
+</svg>                </span>
+                </a>
+                    </ul>
+    </nav>
+    </div>
+
+        </main><!-- #main -->
+    </section><!-- #primary -->
+
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer">
+        <div id="footer-content" class="footer-content">
+
+    <div class="footer-content__container">
+        <div class="footer-content__full">
+            <div class="footer-content__main">
+                <div class="footer-content__main-brand">
+                    <div class="footer-content__logo">
+                        <a class="footer-content__logo-link" href="https://uic.edu/" aria-label="uic.edu homepage">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="92" height="92" viewBox="0 0 92 92">
+    <path fill="#D50032" fill-rule="evenodd" d="M83.875 39.895l-7.81 3.75c-.75-2.912-2.38-4.631-5.207-4.631-3.836 0-5.777 3.173-5.777 8.38 0 5.162 1.94 8.252 5.777 8.252 2.648 0 4.194-1.413 5.031-3.752l8.162 2.91c-2.116 4.81-6.397 8.12-13.235 8.12-9.487 0-14.915-6.35-14.915-15.53 0-9.22 5.739-15.527 15.09-15.527 7.148 0 11.383 4.1 12.884 8.028zm-41.34-7.501h9v30h-9v-30zm-5.47 17.735c0 4.191-.44 6.22-1.633 8.253-1.985 3.305-7.279 4.587-11.911 4.587-4.634 0-9.928-1.282-11.914-4.587-1.19-2.033-1.633-4.062-1.633-8.253V32.394h9v17.91c0 2.032.268 3.355 1.016 4.236.71.84 1.854 1.238 3.531 1.238 1.675 0 2.824-.399 3.53-1.238.748-.881 1.014-2.204 1.014-4.235V32.394h9v17.735zM92 46C92 20.594 71.402 0 46 0 20.593 0 0 20.594 0 46s20.593 46 46 46c25.402 0 46-20.594 46-46z"/>
+</svg>                        </a>
+                    </div>
+                    <div class="footer-content__main-contact-container">
+
+                        <div class="footer-content__contact">
+                            <h2 class="footer-content__contact-heading">Contact</h2>
+                            <div class="footer-content__site-address">1200 West Harrison St.</div>
+                            <div class="footer-content__site-address">Chicago, Illinois 60607</div>
+                            <div class="footer-content__site-email"><a href="mailto:uicalert.uic.edu">uicalert.uic.edu</a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="footer-content__menus">
+                    <ul class="footer-content__button-menu">
+                                                    <li class="footer-content__button-menu-item">
+                                <a class="footer-button" href="https://getrave.com/login/uic" role="button">
+    Subscribe to UIC alerts
+</a>                            </li>
+                                                    <li class="footer-content__button-menu-item">
+                                <a class="footer-button" href="https://ready.uic.edu/digital-materials/uic-safe-app/" role="button">
+    Get the UIC Safe app
+</a>                            </li>
+                                                    <li class="footer-content__button-menu-item">
+                                <a class="footer-button" href="https://police.uic.edu" role="button">
+    UIC Police
+</a>                            </li>
+                                                    <li class="footer-content__button-menu-item">
+                                <a class="footer-button" href="https://ready.uic.edu/planning/clery-compliance-2/" role="button">
+    Clery Compliance
+</a>                            </li>
+                                            </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="footer-content__uic-menu">
+        <div class="footer-content__full footer-content__flex">
+            <div aria-label="UIC.edu Links">
+                <ul class="footer-content__uic-menu-list">
+                    <li class="footer-content__uic-menu-list-item"><a class="footer-content__uic-menu-link" href="http://catalog.uic.edu/ucat/academic-calendar/">Academic Calendar</a></li>
+                    <li class="footer-content__uic-menu-list-item"><a class="footer-content__uic-menu-link" href="http://www.uicflames.com/">Athletics</a></li>
+                    <li class="footer-content__uic-menu-list-item"><a class="footer-content__uic-menu-link" href="http://www.uic.edu/apps/departments-az/search">Campus Directory</a></li>
+                    <li class="footer-content__uic-menu-list-item"><a class="footer-content__uic-menu-link" href="http://disabilityresources.uic.edu/">Disability Resources</a></li>
+                    <li class="footer-content__uic-menu-list-item"><a class="footer-content__uic-menu-link" href="http://emergency.uic.edu/">Emergency Information</a></li>
+                    <li class="footer-content__uic-menu-list-item"><a class="footer-content__uic-menu-link" href="http://events.uic.edu/">Event Calendar</a></li>
+                    <li class="footer-content__uic-menu-list-item"><a class="footer-content__uic-menu-link" href="http://uic.edu/about/job-opportunities">Job Openings</a></li>
+                    <li class="footer-content__uic-menu-list-item"><a class="footer-content__uic-menu-link" href="http://library.uic.edu/">Library</a></li>
+                    <li class="footer-content__uic-menu-list-item"><a class="footer-content__uic-menu-link" href="http://maps.uic.edu/">Maps</a></li>
+                    <li class="footer-content__uic-menu-list-item"><a class="footer-content__uic-menu-link" href="http://today.uic.edu">UIC Today</a></li>
+                    <li class="footer-content__uic-menu-list-item"><a class="footer-content__uic-menu-link" href="http://hospital.uillinois.edu/">University Hospital & Health Sciences System</a></li>
+                    <li class="footer-content__uic-menu-list-item"><a class="footer-content__uic-menu-link" href="http://www.uic.edu/depts/dos/studentveteranaffairs.shtml">Veterans Affairs</a></li>
+                </ul>
+            </div>
+
+            <div class="cookie-banner" role="complementary">
+                <div id="footer-bottom">
+                  <!-- OneTrust Cookies Settings button start -->
+                  <button id="ot-sdk-btn" class="ot-sdk-show-settings" type="button">Cookie Settings</button>
+                  <!-- OneTrust Cookies Settings button end -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer-content__legal">
+        <div class="footer-content__full footer-content__full-legal">
+            <div class="footer-content__site-copyright">
+                &copy; 2021 The Board of Trustees of the University of Illinois
+                <span class="footer-content__pipe-separator">|</span>
+                <a class="footer-content__legal-link" href="http://www.vpaa.uillinois.edu/policies/web_privacy.cfm">Privacy Statement</a>
+            </div>
+            <div class="footer-content__campuses" aria-label="Campuses">
+                <ul class="footer-content__campuses-list">
+                    <li class="footer-content__campuses-list-item"><a class="footer-content__campuses-link" href="http://www.uillinois.edu/">University of Illinois</a></li>
+                    <span class="footer-content__pipe-separator">|</span>
+                    <li class="footer-content__campuses-list-item"><a class="footer-content__campuses-link" href="http://www.uic.edu/">Chicago</a></li>
+                    <span class="footer-content__pipe-separator">|</span>
+                    <li class="footer-content__campuses-list-item"><a class="footer-content__campuses-link" href="http://www.illinois.edu/">Urbana-Champaign</a></li>
+                    <span class="footer-content__pipe-separator">|</span>
+                    <li class="footer-content__campuses-list-item"><a class="footer-content__campuses-link" href="http://www.uis.edu/">Springfield</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+				<div class="site-info">
+					</div><!-- .site-info -->
+
+
+	</footer><!-- #colophon -->
+
+</div><!-- #page -->
+
+<script type='text/javascript' src='https://emergency.uic.edu/wp-content/themes/twentynineteen-child/js/priority-menu.js?ver=1.1' id='twentynineteen-priority-menu-js'></script>
+<script type='text/javascript' src='https://emergency.uic.edu/wp-content/themes/twentynineteen-child/js/touch-keyboard-navigation.js?ver=1.1' id='twentynineteen-touch-navigation-js'></script>
+<script type='text/javascript' src='https://emergency.uic.edu/wp-content/themes/twentynineteen-child/js/navigation.js?ver=1.1' id='mobile-navigation-js'></script>
+<script type='text/javascript' src='https://emergency.uic.edu/wp-content/themes/twentynineteen-child/js/search.js?ver=1.1' id='search-toggle-js'></script>
+<script type='text/javascript' src='https://emergency.uic.edu/wp-includes/js/wp-embed.min.js?ver=5.7.4' id='wp-embed-js'></script>
+
+</body>
+</html>

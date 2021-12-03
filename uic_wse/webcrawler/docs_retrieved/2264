@@ -1,0 +1,679 @@
+<!DOCTYPE html
+  PUBLIC "XSLT-compat">
+<html xmlns:xs="http://www.w3.org/2001/XMLSchema" lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>Stars & Stripes - UIC Student Veterans Affairs Newsletter 10.1.2021</title>
+      <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+      <style>
+					@import url('https://fonts.googleapis.com/css?family=Lato:wght@400;700');
+					@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700');
+					@import url('https://fonts.googleapis.com/css?family=Roboto:wght@400;700');
+					@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700');					
+					@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700');					
+				</style>
+      <style>
+					@font-face {
+					font-family: 'Montserrat';
+					font-style: normal;
+					font-weight: 400;
+					}
+					@font-face {
+					font-family: 'Lato';
+					font-style: normal;
+					font-weight: 400;
+					}
+					@font-face {
+					font-family: 'Roboto';
+					font-style: normal;
+					font-weight: 400;
+					}
+					@font-face {
+					font-family: 'Source+Sans+Pro';
+					font-style: normal;
+					font-weight: 400;
+					}
+					@font-face {
+					font-family: 'Open+Sans';
+					font-style: normal;
+					font-weight: 400;
+					}				
+				</style>
+   </head>
+   <body style="margin:0;"><!-- SKIN ID:50442 --><!--[if (gte mso 9) | (gte IE 7)]>
+      <style>
+                    table#wrapper 
+                    { 
+                        width:600px !important; 
+                    } 
+                </style><![endif]--><!--[if mso]>
+      <style>
+					.fallback-font {
+						font-family: Arial, sans-serif !important;
+					}
+				</style><![endif]-->
+      <style>
+                    table#wrapper
+                    {
+                        max-width:600px !important;
+                        box-shadow:none;
+                    }
+                    table th, 
+                    table td
+                    {
+                        padding:0 !important;
+                    }
+                    .col-2 table td {
+                    padding: 10px !important;
+                    }
+                    #outlook a
+                    {
+                        padding:0;
+                    }
+                    .ExternalClass
+                    {
+                        width:100%;
+                    }
+                    .ExternalClass, 
+                    .ExternalClass p, 
+                    .ExternalClass span, 
+                    .ExternalClass font, 
+                    .ExternalClass td, 
+                    .ExternalClass div
+                    {
+                        line-height:100% !important;
+                    }
+                    #footer a
+                    {
+                        color: #FFFFFF;
+                        text-decoration: underline;
+                    }
+                    #footer a:hover
+                    {
+                        color: #;
+                        text-decoration: underline;
+                    }
+                    #footer img
+                    {
+                        border:0;
+                    }
+					#main td{
+						padding:0;
+					}
+				</style>
+      <style>
+					span.previewText {
+						display: none !important;
+						max-height: 0;
+						overflow: hidden;
+						width: 75px;
+					}</style> <style type="text/css">
+#main td  {
+padding:0px;
+}
+#main td .edu-uiuc-webservices-calendar-title  {
+padding-top:2px;
+padding-bottom:1px;
+padding-right:10px;
+
+}
+</style>
+ <span class="previewText">Issue 3 </span><div style="display: none; max-height: 0px; overflow: hidden;"> &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+         					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+         					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+         					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+         					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+         					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+         					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+         					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+         					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+         					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+         					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌</div><!-- SKIN BODY -->
+      <table bgcolor="#EFF1F1" style="background-color:#EFF1F1; width:100%; border-collapse:collapse; border-spacing:0;">
+         <tbody>
+            <tr>
+               <td><!-- SKIN ARCHIVE LINK -->
+                  <table align="center" border="0" cellpadding="0" cellspacing="0" id="archive-label" style="max-width:600px; border-spacing:0;"><!-- ARCHIVE_LINK_START -->
+                     <tr>
+                        <td align="left" bgcolor="#EFF1F1" style="background:#EFF1F1; line-height:12px; padding:0;">&nbsp;</td>
+                     </tr>
+                     <tr>
+                        <td align="center" bgcolor="#EFF1F1" colspan="5" style="font-size:13px; height:18px; line-height:18px; font-family:arial;" class="fallback-font"><a href="https://emails.uofi.uic.edu/newsletter/235215101.html" style="color:#225E9D;text-decoration: underline;"><span id="archive-label" style="color:#225E9D;">Click here to see this online</span></a></td>
+                     </tr><!-- ARCHIVE_LINK_STOP -->
+                     <tr>
+                        <td align="left" bgcolor="#EFF1F1" style="background:#EFF1F1;line-height:12px;padding:0;">&nbsp;</td>
+                     </tr>
+                  </table><!-- SKIN TABLE -->
+                  <table align="center" border="0" cellpadding="0" cellspacing="0" id="wrapper" style="border:1px solid #D6D9DB;max-width:600px;border-collapse:collapse; border-spacing:0;"><!-- HEADER ROW-->
+                     <tr id="header">
+                        <td align="left" colspan="3" style="padding:0;width:100%;border-bottom:none;"><img alt="Stars &amp; Stripes UIC Student Veterans Affairs' Newsletter" src="https://skins.webservices.illinois.edu/files/50442/wizard_header.jpg?iIndex=0827T112530" style="vertical-align:top;width:100%;"></td>
+                     </tr>
+                     <tbody>
+                        <tr>
+                           <td align="left" colspan="3" style="padding:0;width:100%;">
+                              <table background="#ffffff" bgcolor="#ffffff" cellpadding="0" cellspacing="0" id="content-tb" style="background:#ffffff; border:none; border-top:none; border-spacing:0; width:100%;">
+                                 <tbody>
+                                    <tr>
+                                       <td align="left" class="content-td" style="padding:0;width:100%;min-height:20vh;" width="100%;">
+                                          <table cellpadding="0" cellspacing="0" class="content-div" style="width:100%; border-spacing:0;">
+                                             <tr>
+                                                <td>
+                                                   <div id="system-form-header"></div><!-- MESSAGE START --> <!--CONTENT_STARTS--><!-- SKIN: 50442 --><style rel="stylesheet" type="text/css"><!--[if mso]>
+			.fallback-font-heading {
+				font-family: Arial, sans-serif !important;
+			}<![endif]--></style>
+<table cellpadding="0" cellspacing="0" style="border:none;width:100%;">
+   <tr>
+      <td style="padding:0;line-height:24px;height:24px;font-size:24px;">&nbsp;</td>
+   </tr>
+</table><!-- BLOCK_h2 --><!-- ELEMENT_2279977_START --><a id="element_2279977" name="element_2279977"></a><table border="0" cellpadding="0" cellspacing="0" style="width:100%; border: none; width: 100%; border-spacing:0;">
+   <tr>
+      <td align="left" style="padding:0;width:5%;" width="5%">&nbsp;</td>
+      <td align="" style="width:90%;text-align:;" width="90%">
+         <table border="0" cellpadding="0" cellspacing="0" style="background:; border: none; width: 100%; border-spacing: 0;">
+            <tbody>
+               <tr>
+                  <td align="" style="padding: 0; line-height: 30.8px; text-align:;">
+                     <h2 class="fallback-font" style="color: #225E9D; font-family: Arial, arial; font-size: 22px; font-weight: bold; line-height: 30.8px; margin: 0;"><strong>Welcome Back!</strong></h2>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+      <td align="left" style="padding:0;width:5%;" width="5%">&nbsp;</td>
+   </tr>
+</table><!-- ELEMENT_2279977_STOP --><!-- BLOCK_content --><!-- ELEMENT_2279978_START --><style rel="stylesheet" type="text/css">
+            #content_2 a {
+                color:#D50032;
+            }
+            #content_2 p {
+                line-height: 22.4px;
+				margin: 0 0 21px 0;
+            }
+            .content-td a, .content-div a {
+                text-decoration: underline
+			;
+			}</style><a id="element_2279978" name="element_2279978"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="content_2" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+                  <td class="fallback-font" style="padding: 0; font-weight:normal; font-family: Arial, arial;line-height:22.4px;font-size:14px;color:#363636"><p>Welcome back to UIC Student Veterans Affairs' newsletter, Stars and Stripes! Here you can stay up-to-date with department news, events, and announcements. We'd like to thank you for being part of our community, and we hope you enjoy reading our bi-weekly newsletters.</p></td>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2279978_STOP --><!-- BLOCK_line --><!-- ELEMENT_2279979_START --><table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-spacing:0;">
+   <tbody>
+      <tr>
+         <td align="left" style="padding:0; width:5%; font-size:1px; line-height:1px; height:1px;" width="5%">&nbsp;</td>
+         <td style="background:#DADAD9; font-size:1px; padding:0; line-height:1px; height:1px; width:90%;" width="90%">&nbsp;</td>
+         <td align="left" style="padding:0; width:5%; font-size:1px; line-height:1px; height:1px;" width="5%">&nbsp;</td>
+      </tr>
+   </tbody>
+</table><!-- ELEMENT_2279979_STOP --><!-- BLOCK_spacer --><!-- ELEMENT_2279980_START --><table aria-hidden="true" border="0" cellpadding="0" cellspacing="0" style="border:none; width:100%; border-spacing:0;">
+   <tbody>
+      <tr>
+         <td style="padding:0; line-height: 24px; width:100%;">&nbsp;</td>
+      </tr>
+   </tbody>
+</table><!-- ELEMENT_2279980_STOP --><!-- BLOCK_h2 --><!-- ELEMENT_2279986_START --><a id="element_2279986" name="element_2279986"></a><table border="0" cellpadding="0" cellspacing="0" style="width:100%; border: none; width: 100%; border-spacing:0;">
+   <tr>
+      <td align="left" style="padding:0;width:5%;" width="5%">&nbsp;</td>
+      <td align="" style="width:90%;text-align:;" width="90%">
+         <table border="0" cellpadding="0" cellspacing="0" style="background:; border: none; width: 100%; border-spacing: 0;">
+            <tbody>
+               <tr>
+                  <td align="" style="padding: 0; line-height: 30.8px; text-align:;">
+                     <h2 class="fallback-font" style="color: #225E9D; font-family: Arial, arial; font-size: 22px; font-weight: bold; line-height: 30.8px; margin: 0;"><strong>Important Upcoming Deadlines</strong></h2>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+      <td align="left" style="padding:0;width:5%;" width="5%">&nbsp;</td>
+   </tr>
+</table><!-- ELEMENT_2279986_STOP --><!-- BLOCK_content --><!-- ELEMENT_2279987_START --><style rel="stylesheet" type="text/css">
+            #content_6 a {
+                color:#D50032;
+            }
+            #content_6 p {
+                line-height: 22.4px;
+				margin: 0 0 21px 0;
+            }
+            .content-td a, .content-div a {
+                text-decoration: underline
+			;
+			}</style><a id="element_2279987" name="element_2279987"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="content_6" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+                  <td class="fallback-font" style="padding: 0; font-weight:normal; font-family: Arial, arial;line-height:22.4px;font-size:14px;color:#363636"><p><strong><span style="font-size: 13pt;">Late Drop Deadline&nbsp;</span></strong><br />Friday, October 29 is the deadline to drop courses and receive a W. If any schedule adjustments are made after an enrollment certification was submitted, please notify SVA, so we can make an adjustment in VA-Once. Dropping a course does not require a new advisor form, however, student veterans are still required to report changes to enrollment. Students with mitigating circumstances should complete the <a style="color: #d50032;" title="Appeal Form link" href="https://cm.maxient.com/reportingform.php?UnivofIllinoisChicago&amp;layout_id=52" target="_blank" rel="noopener"><span style="color: #d50032; font-weight: bold;">appeal form</span></a> and provide supporting documentation to expedite the process.</p></td>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2279987_STOP --><!-- BLOCK_h2 --><!-- ELEMENT_2279992_START --><a id="element_2279992" name="element_2279992"></a><table border="0" cellpadding="0" cellspacing="0" style="width:100%; border: none; width: 100%; border-spacing:0;">
+   <tr>
+      <td align="left" style="padding:0;width:5%;" width="5%">&nbsp;</td>
+      <td align="" style="width:90%;text-align:;" width="90%">
+         <table border="0" cellpadding="0" cellspacing="0" style="background:; border: none; width: 100%; border-spacing: 0;">
+            <tbody>
+               <tr>
+                  <td align="" style="padding: 0; line-height: 30.8px; text-align:;">
+                     <h2 class="fallback-font" style="color: #225E9D; font-family: Arial, arial; font-size: 22px; font-weight: bold; line-height: 30.8px; margin: 0;"><strong>VA Benefit Policy Reminders</strong></h2>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+      <td align="left" style="padding:0;width:5%;" width="5%">&nbsp;</td>
+   </tr>
+</table><!-- ELEMENT_2279992_STOP --><!-- BLOCK_content --><!-- ELEMENT_2279993_START --><style rel="stylesheet" type="text/css">
+            #content_8 a {
+                color:#D50032;
+            }
+            #content_8 p {
+                line-height: 22.4px;
+				margin: 0 0 21px 0;
+            }
+            .content-td a, .content-div a {
+                text-decoration: underline
+			;
+			}</style><a id="element_2279993" name="element_2279993"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="content_8" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+                  <td class="fallback-font" style="padding: 0; font-weight:normal; font-family: Arial, arial;line-height:22.4px;font-size:14px;color:#363636"><p><strong><span style="font-size: 14pt;">Non-punitive Grades</span></strong><br />A non-punitive grade is a grade that doesn&rsquo;t count as earned credit and isn&rsquo;t considered in progress standards for graduation. A withdrawal after the drop period is non-punitive if it isn&rsquo;t calculated into the eligible individual&rsquo;s GPA or it isn&rsquo;t considered in academic progress criteria like probation and suspension. Non-punitive grades have the same effect as an audit. If an eligible individual withdraws after the drop period or completes the term with non-punitive grades, the non-punitive grades must be reported to VA if they change training time. Examples of non- punitive grades are &ldquo;W&rdquo; or an &ldquo;X&rdquo; (no basis for grade), &ldquo;NP&rdquo; (no pass), or &ldquo;U&rdquo; (unsatisfactory) that doesn&rsquo;t count as earned credit and isn&rsquo;t calculated progress standards. Grades such as P (Pass) or S (Satisfactory) aren&rsquo;t calculated into an eligible individual&rsquo;s grade point average, but they are counted as earned credit for graduation requirements. Since these grades count as earned credit towards graduation, they aren&rsquo;t non-punitive.</p></td>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2279993_STOP --><!-- BLOCK_image --><!-- ELEMENT_2280010_START --><a id="element_2280010" name="element_2280010"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100%">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="image_9" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td>
+                     <div style="text-align: center;">
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; border-spacing:0;" width="100%">
+                           <tr>
+                              <td colspan="3"><img align="center" border="0" src="https://emails.illinois.edu/files/235215101/processed_2280010.png?p=1001T103945" style="display:block;width:100%;" width="600" alt="Veterans standing in line outside Student Center East"></td>
+                           </tr>
+                        </table>
+                     </div>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2280010_STOP --><!-- BLOCK_spacer --><!-- ELEMENT_2279996_START --><table aria-hidden="true" border="0" cellpadding="0" cellspacing="0" style="border:none; width:100%; border-spacing:0;">
+   <tbody>
+      <tr>
+         <td style="padding:0; line-height: 24px; width:100%;">&nbsp;</td>
+      </tr>
+   </tbody>
+</table><!-- ELEMENT_2279996_STOP --><!-- BLOCK_h2 --><!-- ELEMENT_2279997_START --><a id="element_2279997" name="element_2279997"></a><table border="0" cellpadding="0" cellspacing="0" style="width:100%; border: none; width: 100%; border-spacing:0;">
+   <tr>
+      <td align="left" style="padding:0;width:5%;" width="5%">&nbsp;</td>
+      <td align="" style="width:90%;text-align:;" width="90%">
+         <table border="0" cellpadding="0" cellspacing="0" style="background:; border: none; width: 100%; border-spacing: 0;">
+            <tbody>
+               <tr>
+                  <td align="" style="padding: 0; line-height: 30.8px; text-align:;">
+                     <h2 class="fallback-font" style="color: #225E9D; font-family: Arial, arial; font-size: 22px; font-weight: bold; line-height: 30.8px; margin: 0;"><strong>Withdrawing from Class After the Drop Period</strong></h2>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+      <td align="left" style="padding:0;width:5%;" width="5%">&nbsp;</td>
+   </tr>
+</table><!-- ELEMENT_2279997_STOP --><!-- BLOCK_content --><!-- ELEMENT_2279998_START --><style rel="stylesheet" type="text/css">
+            #content_12 a {
+                color:#D50032;
+            }
+            #content_12 p {
+                line-height: 22.4px;
+				margin: 0 0 21px 0;
+            }
+            .content-td a, .content-div a {
+                text-decoration: underline
+			;
+			}</style><a id="element_2279998" name="element_2279998"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="content_12" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+                  <td class="fallback-font" style="padding: 0; font-weight:normal; font-family: Arial, arial;line-height:22.4px;font-size:14px;color:#363636"><p><span style="font-size: 14pt;"><strong>Mitigating Circumstances&nbsp;</strong></span><br />Mitigating Circumstances are circumstances beyond the student&rsquo;s control that prevent the student from continuing in school or that cause the student to reduce credits.&nbsp;</p></td>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2279998_STOP --><!-- BLOCK_content --><!-- ELEMENT_2280005_START --><style rel="stylesheet" type="text/css">
+            #content_13 a {
+                color:#D50032;
+            }
+            #content_13 p {
+                line-height: 22.4px;
+				margin: 0 0 21px 0;
+            }
+            .content-td a, .content-div a {
+                text-decoration: underline
+			;
+			}</style><a id="element_2280005" name="element_2280005"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="content_13" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+                  <td class="fallback-font" style="padding: 0; font-weight:normal; font-family: Arial, arial;line-height:22.4px;font-size:14px;color:#363636"><p><span style="font-size: 14pt;"><strong>Examples are:&nbsp;</strong></span></p>
+<ul>
+<li>An illness or death in the student&rsquo;s immediate family.</li>
+<li>An illness or injury afflicting the student during the enrollment period.</li>
+<li>An unavoidable change in the student&rsquo;s conditions of employment.</li>
+<li>An unavoidable geographical transfer resulting from the student&rsquo;s employment.</li>
+<li>Immediate family or financial obligations beyond the control of the claimant that require&nbsp;him or her to suspend pursuit of the program of education to obtain employment.</li>
+<li>Discontinuance of the course by the school.</li>
+<li>Unanticipated active military service, including active duty for training.</li>
+<li>Unanticipated difficulties with childcare arrangements the student made for the period during which he or she is attending classes.&nbsp;</li>
+</ul>
+<p>When a student terminates or reduces&nbsp;<strong>after&nbsp;</strong>the drop period and a non-punitive grade is assigned, mitigating circumstances are an issue. If mitigating circumstances are needed and adequate evidence of mitigating circumstances isn&rsquo;t received, VA will not pay for the course(s) in question. If the student has already been paid for the course or courses, VA will create an overpayment.</p></td>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2280005_STOP --><!-- BLOCK_image --><!-- ELEMENT_2279995_START --><a id="element_2279995" name="element_2279995"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100%">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="image_14" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td>
+                     <div style="text-align: center;">
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; border-spacing:0;" width="100%">
+                           <tr>
+                              <td colspan="3"><img align="center" border="0" src="https://emails.illinois.edu/files/235215101/processed_2279995.png?p=1001T103945" style="display:block;width:100%;" width="600" alt="People running in red shirts"></td>
+                           </tr>
+                        </table>
+                     </div>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2279995_STOP --><!-- BLOCK_spacer --><!-- ELEMENT_2280011_START --><table aria-hidden="true" border="0" cellpadding="0" cellspacing="0" style="border:none; width:100%; border-spacing:0;">
+   <tbody>
+      <tr>
+         <td style="padding:0; line-height: 24px; width:100%;">&nbsp;</td>
+      </tr>
+   </tbody>
+</table><!-- ELEMENT_2280011_STOP --><!-- BLOCK_content --><!-- ELEMENT_2280006_START --><style rel="stylesheet" type="text/css">
+            #content_16 a {
+                color:#D50032;
+            }
+            #content_16 p {
+                line-height: 22.4px;
+				margin: 0 0 21px 0;
+            }
+            .content-td a, .content-div a {
+                text-decoration: underline
+			;
+			}</style><a id="element_2280006" name="element_2280006"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="content_16" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+                  <td class="fallback-font" style="padding: 0; font-weight:normal; font-family: Arial, arial;line-height:22.4px;font-size:14px;color:#363636"><p><span style="font-size: 14pt;"><strong>Veterans Affairs Pending Payments</strong></span><br />Effective August 1, 2019, and despite any policy to the contrary, UIC will not take any of the four following actions toward any student using the U.S. Department of Veterans Affairs (VA) Post 9/11 G.I. Bill&reg; (Ch. 33) or Vocational Rehabilitation &nbsp;and Employment (Ch. 31) benefits, while their payment from the United States Department of Veterans Affairs is pending to the educational institution*:</p>
+<ol>
+<li>Prevent their enrollment</li>
+<li>Assess a late penalty fee</li>
+<li>Require they secure alternative or additional funding</li>
+<li>Deny their access to any resources (access to classes, libraries, or other institutional facilities) available to other students who have satisfied their tuition and fee bills to the institution.</li>
+</ol>
+<p>However, to qualify for this provision such students may be required to:</p>
+<ul>
+<li>Produce the VA's Certificate of Eligibility by the first day of class</li>
+<li>Provide written request to be certified</li>
+<li>Provide additional information needed to properly certify the enrollment as described in other institutional policies (see the VA School Certifying Official for all requirements).</li>
+</ul>
+<p>More information about education benefits offered by VA is available at the <a style="color: #d50032;" title="official U.S. government website link" href="https://benefits.va.gov/benefits" target="_blank" rel="noopener"><span style="color: #d50032; font-weight: bold;">official U.S. government website</span></a>.<br />&nbsp;</p>
+<p><span style="font-size: 10pt;">GI Bill&reg; is a registered trademark of the U.S. Department of Veterans Affairs (VA).<br />*<a style="color: #d50032;" title="Tuition and Fees link" href="https://catalog.uic.edu/ucat/admissions-registration-finances/student-tuition-fees" target="_blank" rel="noopener"><span style="color: #d50032; font-weight: bold;">Source</span></a></span></p></td>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2280006_STOP --><!-- BLOCK_line --><!-- ELEMENT_2279999_START --><table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-spacing:0;">
+   <tbody>
+      <tr>
+         <td align="left" style="padding:0; width:5%; font-size:1px; line-height:1px; height:1px;" width="5%">&nbsp;</td>
+         <td style="background:#DADAD9; font-size:1px; padding:0; line-height:1px; height:1px; width:90%;" width="90%">&nbsp;</td>
+         <td align="left" style="padding:0; width:5%; font-size:1px; line-height:1px; height:1px;" width="5%">&nbsp;</td>
+      </tr>
+   </tbody>
+</table><!-- ELEMENT_2279999_STOP --><!-- BLOCK_image --><!-- ELEMENT_2279990_START --><a id="element_2279990" name="element_2279990"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100%">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="image_18" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td>
+                     <div style="text-align: center;">
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; border-spacing:0;" width="100%">
+                           <tr>
+                              <td colspan="3"><img align="center" border="0" src="https://emails.illinois.edu/files/235215101/processed_2279990.png?p=1001T103945" style="display:block;width:100%;" width="600" alt="Student veterans folding the flag"></td>
+                           </tr>
+                        </table>
+                     </div>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2279990_STOP --><!-- BLOCK_spacer --><!-- ELEMENT_2280000_START --><table aria-hidden="true" border="0" cellpadding="0" cellspacing="0" style="border:none; width:100%; border-spacing:0;">
+   <tbody>
+      <tr>
+         <td style="padding:0; line-height: 24px; width:100%;">&nbsp;</td>
+      </tr>
+   </tbody>
+</table><!-- ELEMENT_2280000_STOP --><!-- BLOCK_h2 --><!-- ELEMENT_2280001_START --><a id="element_2280001" name="element_2280001"></a><table border="0" cellpadding="0" cellspacing="0" style="width:100%; border: none; width: 100%; border-spacing:0;">
+   <tr>
+      <td align="left" style="padding:0;width:5%;" width="5%">&nbsp;</td>
+      <td align="" style="width:90%;text-align:;" width="90%">
+         <table border="0" cellpadding="0" cellspacing="0" style="background:; border: none; width: 100%; border-spacing: 0;">
+            <tbody>
+               <tr>
+                  <td align="" style="padding: 0; line-height: 30.8px; text-align:;">
+                     <h2 class="fallback-font" style="color: #225E9D; font-family: Arial, arial; font-size: 22px; font-weight: bold; line-height: 30.8px; margin: 0;"><strong>Císar Student Veterans Center October Hours</strong></h2>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+      <td align="left" style="padding:0;width:5%;" width="5%">&nbsp;</td>
+   </tr>
+</table><!-- ELEMENT_2280001_STOP --><!-- BLOCK_content --><!-- ELEMENT_2280002_START --><style rel="stylesheet" type="text/css">
+            #content_21 a {
+                color:#D50032;
+            }
+            #content_21 p {
+                line-height: 22.4px;
+				margin: 0 0 21px 0;
+            }
+            .content-td a, .content-div a {
+                text-decoration: underline
+			;
+			}</style><a id="element_2280002" name="element_2280002"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="content_21" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+                  <td class="fallback-font" style="padding: 0; font-weight:normal; font-family: Arial, arial;line-height:22.4px;font-size:14px;color:#363636"><p>The C&iacute;sar Student Veterans Center will be open October 7, 8, 11, 15, 18, 19, 25 - 27 from 9:00am to 5:00pm. The space is available for studying and creating community with fellow veterans, active service members and military affiliates. The Center is located behind the Inner Circle in Student Center East. Please note until the center is fully staffed, the schedule is subject to change based on administrative obligations.</p></td>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2280002_STOP --><!-- BLOCK_h2 --><!-- ELEMENT_2280009_START --><a id="element_2280009" name="element_2280009"></a><table border="0" cellpadding="0" cellspacing="0" style="width:100%; border: none; width: 100%; border-spacing:0;">
+   <tr>
+      <td align="left" style="padding:0;width:5%;" width="5%">&nbsp;</td>
+      <td align="" style="width:90%;text-align:;" width="90%">
+         <table border="0" cellpadding="0" cellspacing="0" style="background:; border: none; width: 100%; border-spacing: 0;">
+            <tbody>
+               <tr>
+                  <td align="" style="padding: 0; line-height: 30.8px; text-align:;">
+                     <h2 class="fallback-font" style="color: #225E9D; font-family: Arial, arial; font-size: 22px; font-weight: bold; line-height: 30.8px; margin: 0;"><strong>Reminders</strong></h2>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+      <td align="left" style="padding:0;width:5%;" width="5%">&nbsp;</td>
+   </tr>
+</table><!-- ELEMENT_2280009_STOP --><!-- BLOCK_content --><!-- ELEMENT_2280003_START --><style rel="stylesheet" type="text/css">
+            #content_23 a {
+                color:#D50032;
+            }
+            #content_23 p {
+                line-height: 22.4px;
+				margin: 0 0 21px 0;
+            }
+            .content-td a, .content-div a {
+                text-decoration: underline
+			;
+			}</style><a id="element_2280003" name="element_2280003"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="content_23" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+                  <td class="fallback-font" style="padding: 0; font-weight:normal; font-family: Arial, arial;line-height:22.4px;font-size:14px;color:#363636"><p><span style="font-size: 13pt;"><strong>Stars &amp; Stripes</strong></span><br />SVA would like to feature students, faculty, and staff in the newsletter and video testimonials that will be presented in feeds around UIC&rsquo;s campus and on SVA&rsquo;s webpage. If you are interested in being featured in a future newsletter or video, please email <a style="color: #d50032;" title="Email studentveteransaff@uic.edu" href="mailto:studentveteransaff@uic.edu" target="_blank" rel="noopener"><span style="color: #d50032; font-weight: bold;">studentveteransaff@uic.edu</span></a> with a photo and short bio (150 words max) that includes your name, major, goals after graduation and one tip for veteran students or military affiliated students.</p></td>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2280003_STOP --><!-- BLOCK_content --><!-- ELEMENT_2280004_START --><style rel="stylesheet" type="text/css">
+            #content_24 a {
+                color:#D50032;
+            }
+            #content_24 p {
+                line-height: 22.4px;
+				margin: 0 0 21px 0;
+            }
+            .content-td a, .content-div a {
+                text-decoration: underline
+			;
+			}</style><a id="element_2280004" name="element_2280004"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="content_24" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+                  <td class="fallback-font" style="padding: 0; font-weight:normal; font-family: Arial, arial;line-height:22.4px;font-size:14px;color:#363636"><p><strong><span style="font-size: 13pt;">SVA is Hiring</span><br /></strong>Review the <a style="color: #d50032;" title="SVA job description link" href="https://samarketing.uic.edu/sva/docs/VA_Student_Office_Assistant_Job_Description.pdf" target="_blank" rel="noopener"><strong style="color: #d50032; font-weight: bold;">job description and eligibility</strong></a>, and apply&nbsp;<a style="color: #d50032;" title="SVA job application link" href="https://cm.maxient.com/reportingform.php?UnivofIllinoisChicago&amp;layout_id=60" target="_blank" rel="noopener"><strong style="color: #d50032; font-weight: bold;">HERE</strong></a>.</p></td>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2280004_STOP --><table cellpadding="0" cellspacing="0" style="border:none;width:100%;">
+   <tr>
+      <td style="padding:0;line-height:24px;height:24px;font-size:24px;">&nbsp;</td>
+   </tr>
+</table><!--CONTENT_ENDS--> <!-- MESSAGE END --></td>
+                                             </tr>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </td>
+                        </tr><!-- SKIN FOOTER -->
+                        <tr>
+                           <td align="left" bgcolor="#225E9D" colspan="3" style="background:#225E9D;padding:0;line-height:8px;border-top:1px solid #48484A;">&nbsp;</td>
+                        </tr>
+                        <tr id="footer-wrapper">
+                           <td align="left" bgcolor="#225E9D" style="background:#225E9D;padding:0;width:35px;">&nbsp;</td>
+                           <td align="center" bgcolor="#225E9D" border="0" id="footer" style="width:530px;text-align:center;background-color:#225E9D;color:#FFFFFF;font-family:Arial ,arial;font-size:85%;line-height:24px;padding:0;" class="fallback-font"><p style="line-height: 14px; text-align: center;"><span style="font-size: 10pt; color: #ffffff; font-family: arial, helvetica, sans-serif;"><span class="e2ma-style"><span class="e2ma-style"><strong>UIC Student Veterans Affairs<br /></strong></span></span><span class="e2ma-style" style="text-decoration: none;"><a style="font-weight: inherit; color: #ffffff;" title="UIC Student Veterans Affairs link" href="http://veterans.uic.edu" data-type="url" data-name="UIC Student Veterans Affairs link">veterans.uic.edu</a><br /></span><span class="e2ma-style"><span class="e2ma-style"><span style="font-weight: inherit;"><a style="color: #ffffff;" href="mailto:studentveteransaff@uic.edu">studentveteransaff@uic.edu</a></span></span></span></span></p>
+<p style="line-height: 14px; text-align: center;"><span style="font-size: 10pt; color: #ffffff; font-family: arial, helvetica, sans-serif;">follow us @uiclife</span></p></td>
+                           <td align="left" bgcolor="#225E9D" style="background:#225E9D;padding:0;width:35px;">&nbsp;</td>
+                        </tr>
+                        <tr>
+                           <td align="left" bgcolor="#225E9D" colspan="3" style="background:#225E9D;padding:0;line-height:8px;">&nbsp;</td>
+                        </tr>
+                        <tr id="social-wrapper">
+                           <td align="left" bgcolor="#225E9D" style="background:#225E9D;padding:0;width:35px;">&nbsp;</td>
+                           <td align="center" bgcolor="#225E9D" border="0" id="social" style="width:530px;text-align:center;background-color:#225E9D;color:#FFFFFF;font-family:Arial ,arial;font-size:85%;line-height:24px;padding:0;" class="fallback-font">
+                              <table align="center" border="0" cellpadding="0" cellspacing="0" style="border-spacing:0;">
+                                 <tr>
+                                    <td style="height:56px; width:42px;"><a href="https://www.facebook.com/uiclife" style="text-decoration:none;" target="_blank"><img alt="Facebook" height="28" src="https://skins.webservices.illinois.edu/webservices/public/social/logo-circle-white/Facebook.png" style="height:28px; width:28px;" title="Facebook" width="28"></a></td>
+                                    <td style="height:56px; width:42px;"><a href="https://www.instagram.com/uiclife" style="text-decoration:none;" target="_blank"><img alt="Instagram" height="28" src="https://skins.webservices.illinois.edu/webservices/public/social/logo-circle-white/Instagram.png" style="height:28px; width:28px;" title="Instagram" width="28"></a></td>
+                                    <td style="height:56px; width:42px;"><a href="https://www.twitter.com/uiclife" style="text-decoration:none;" target="_blank"><img alt="Twitter" height="28" src="https://skins.webservices.illinois.edu/webservices/public/social/logo-circle-white/Twitter.png" style="height:28px; width:28px;" title="Twitter" width="28"></a></td>
+                                    <td style="height:56px; width:42px;"><a href="https://www.youtube.com/uiclife" style="text-decoration:none;" target="_blank"><img alt="YouTube" height="28" src="https://skins.webservices.illinois.edu/webservices/public/social/logo-circle-white/YouTube.png" style="height:28px; width:28px;" title="YouTube" width="28"></a></td>
+                                 </tr>
+                              </table>
+                           </td>
+                           <td align="left" bgcolor="#225E9D" style="background:#225E9D;padding:0;width:35px;">&nbsp;</td>
+                        </tr>
+                        <tr>
+                           <td align="left" bgcolor="#225E9D" colspan="3" style="background:#225E9D;padding:0;line-height:8px;">&nbsp;</td>
+                        </tr><!-- SUBSCRIBE UNSUBSCRIBE -->
+                        <tr id="subscribe-wrapper">
+                           <td align="left" bgcolor="#225E9D" style="background:#225E9D;padding:0;width:35px;">&nbsp;</td>
+                           <td align="center" bgcolor="#225E9D" border="0" id="subscribe" style="width:530px;text-align:center;background-color:#225E9D;color:#FFFFFF;font-family:Arial ,arial;font-size:85%;line-height:24px;padding:0;" class="fallback-font"><span id="subscription"></span></td>
+                           <td align="left" bgcolor="#225E9D" style="background:#225E9D;padding:0;width:35px;">&nbsp;</td>
+                        </tr>
+                        <tr>
+                           <td align="left" bgcolor="#225E9D" colspan="3" style="background:#225E9D;padding:0;line-height:8px;">&nbsp;</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </td>
+            </tr>
+            <tr>
+               <td align="left" height="16" style="line-height:16px;height:16px;padding:0;">&nbsp;</td>
+            </tr>
+         </tbody>
+      </table><script>
+            		if(window.top != window.self)
+            		{ 
+	            		document.body.style.backgroundColor = '#EFF1F1';
+    				}
+            	</script></body>
+</html>

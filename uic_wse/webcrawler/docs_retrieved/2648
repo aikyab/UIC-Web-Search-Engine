@@ -1,0 +1,530 @@
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>The Savvy Student's Guide to UIC &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/css/courseleaf.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<header id="header-new">
+	<div class="wrap">
+		<div class="logo-header">
+			<a href="//www.uic.edu">
+				<img src="/images/logo2021.png" alt="University of Illinois Chicago" />
+			</a>
+		</div>
+		<nav class="catalog-quicklinks" aria-label="catalog quicklink">
+			<button id="hamburger" aria-controls="mobile-menu" data-toggle="#mobile-menu" aria-expanded="false">
+				<span class="sr-only">Toggle menu</span>
+				<i class="fa fa-bars" aria-hidden="true"></i>
+			</button>
+			<div id="mobile-menu">
+			<ul id="quicklinks">
+				<li><a href="/ucat/">Undergraduate</a></li>
+				<li><a href="/gcat">Graduate</a></li>
+				<li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+			</ul>
+			<div id="search" role="search">
+				<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />				</form>
+			</div><!-- end #search -->
+		</div><!-- /#mobile-menu -->
+		</nav>
+	</div>
+</header>
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <a href="/">
+			<h1>Academic Catalog</h1>
+		</a>
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<section id="banner" aria-labbledby="banner-header"
+ class="ugrad"
+>
+    <div class="wrap">
+
+		<div class="banner-text">
+			<h2 id="banner-header">2021-2023 Undergraduate Catalog</h2>
+		</div>
+
+
+
+
+
+    </div><!--end .wrap -->
+</section><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <a id="cl-menu-control" href="#" class="togglenav">
+                <span class="cl-menu-text">Catalog Navigation</span>
+                <!-- <a class="cl-menu-btn" href="#">Catalog Navigation</a> -->
+				<svg aria-label="Down arrow icon" width="32" height="32" viewBox="0 0 32 32" role="presentation"><title>Down arrow icon</title><g fill="none" fill-rule="evenodd"><circle class="_circle" stroke-width="1" stroke="#007Da5" fill="#fff" cx="16" cy="16" r="15"></circle><path class="_arrow" stroke-width="2" stroke="#001E62" stroke-linecap="round" d="M12 17l4 4 4-4M16 20v-9"></path></g></svg>
+			</a><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="active isparent"><a href="/ucat/the-university/">The University</a>
+		<ul class="nav leveltwo" id="/ucat/the-university/">
+			<li><a href="/ucat/the-university/uic-welcome/">Welcome to UIC</a></li>
+			<li class="active self"><a href="#" onclick="return false;">The Savvy Student's Guide to UIC</a></li>
+			<li><a href="/ucat/the-university/faculty/">Faculty List</a></li>
+			<li><a href="http://www.uic.edu/uic/about/visit/campus-maps.shtml">Campus Maps</a></li>
+			<li><a href="http://www.uic.edu/uic/about/visit/parking-bus.shtml">Parking and Transportation</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a></li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/the-university/">The&nbsp;University</a><span class="crumbsep">/</span></li><li><span class="active">The Savvy Student's Guide to UIC</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">The Savvy Student's Guide to UIC</h1>
+
+
+
+<div id="textcontainer" class="page_content">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p>Students will find comprehensive information about student services and resources at UIC by visiting the following websites:</p>
+<p><strong>UIC Home Page</strong><br/>
+<a href="http://www.uic.edu " target="_blank">http://www.uic.edu </a></p>
+<p><strong>Office of the Vice Chancellor for Student Affairs Home Page</strong><br/>
+<a href="http://sa.uic.edu/" target="_blank">http://sa.uic.edu</a></p>
+<p><strong>Academic Center for Excellence (ACE) </strong><br/>
+(Academic Skills Program)<br/>
+2900 Student Services Building (SSB)<br/>
+(312) 413-0031<br/>
+<a href="http://ace.uic.edu/" target="_blank">http://ace.uic.edu</a></p>
+<p><strong>Office of Admissions</strong><br/>
+1100 Student Services Building (SSB)<br/>
+(312) 996-4350<br/>
+<a href="http://admissions.uic.edu " target="_blank">http://admissions.uic.edu </a></p>
+<p><strong>African American Academic Network (AAAN) </strong><br/>
+2800 Student Services Building (SSB)<br/>
+(312) 996-5040<br/>
+<a href="http://aaan.uic.edu" target="_blank">http://aaan.uic.edu</a></p>
+<p><strong>African American Cultural Center </strong><br/>
+209 Addams Hall (AH)<br/>
+(312) 996-9549<br/>
+<a href="https://uicaacc.wordpress.com" target="_blank">https://uicaacc.wordpress.com</a></p>
+<p><strong>Arab American Cultural Center</strong><br/>
+111 Stevenson Hall (SH)<br/>
+(312) 413-3253<br/>
+<a href="https://arabamcc.uic.edu/" target="_blank">https://arabamcc.uic.edu</a></p>
+<p><strong>Asian American Resource and Cultural Center </strong><br/>
+101 Taft Hall (TH)<br/>
+(312) 413-9569<br/>
+<a href="http://aarcc.uic.edu/" target="_blank">http://aarcc.uic.edu</a></p>
+<p><strong>Athletics</strong><br/>
+<em>Intercollegiate Athletics </em><br/>
+240 Flames Athletic Center (FAC)<br/>
+(312) 355-1330  <br/>
+<a href="http://www.uicflames.com" target="_blank">http://www.uicflames.com</a></p>
+<p><strong>Bookstores</strong><br/>
+<strong><em>UIC Bookstore </em></strong><br/>
+Student Center East (SCE)<br/>
+(312) 413-5500<br/>
+<a href="http://www.uicbookstore.org" target="_blank">http://www.uicbookstore.org</a></p>
+<p><strong><em>UIC Medical Bookstore </em></strong><br/>
+Student Center West (SCW)<br/>
+(312) 413-5550<br/>
+<a href="http://www.uicbookstore.org/c-32-medical-bookstore.aspx" target="_blank">http://www.uicbookstore.org/c-32-medical-bookstore.aspx</a></p>
+<p><strong>Campus Advocacy Network</strong><br/>
+1101 West Taylor Street<br/>
+(312) 413-1025<br/>
+<a href="http://can.uic.edu" target="_blank">http://can.uic.edu</a></p>
+<p><strong><em>CampusCare </em>Student Health Benefit Program</strong><br/>
+Clinical Sciences North (CSN)<br/>
+820 South Wood Street, Suite W310<br/>
+(312) 996-4915<br/>
+<a href="http://campuscare.uic.edu/" target="_blank">http://campuscare.uic.edu</a></p>
+<p><strong>Career, Co-op, Internship, and Employment Information</strong><br/>
+<em>Career Services </em><br/>
+3050 Student Services Building (SSB)<br/>
+(312) 996-2300<br/>
+<a href="http://careerservices.uic.edu" target="_blank">http://careerservices.uic.edu</a></p>
+<p><em>Business Career Center </em><br/>
+110 Douglas Hall (DH)<br/>
+(312) 996-5139<br/>
+<a href="http://business.uic.edu/undergraduate-programs/business-career-center" target="_blank">http://business.uic.edu/undergraduate-programs/business-career-center</a></p>
+<p><em>College of Liberal Arts and Sciences Internship Program</em><br/>
+350 University Hall (UH)<br/>
+(312) 996-0425<br/>
+<a href="https://career.las.uic.edu/internship-program/" target="_blank">https://career.las.uic.edu/internship-program</a></p>
+<p><em>Engineering Career Center</em><br/>
+800 Science and Engineering Offices (SEO)<br/>
+(312) 355-5174<br/>
+<a href="https://ecc.uic.edu" target="_blank">https://ecc.uic.edu</a></p>
+<p><em>School of Art and Art History Art Internship</em><br/>
+208 Jefferson Hall (JH)<br/>
+(312) 355-0979<br/>
+<a href="https://artandarthistory.uic.edu/">https://artandarthistory.uic.edu</a></p>
+<p><em>Student Employment </em><br/>
+2100 Student Services Building (SSB)<br/>
+(312) 996-3130<br/>
+<a href="http://studentemployment.uic.edu/" target="_blank">http://studentemployment.uic.edu</a></p>
+<p><strong>Center for Student Involvement</strong><br/>
+340 Student Center East (SCE)<br/>
+(312) 413-5070<br/>
+<a href="http://involvement.uic.edu" target="_blank">http://involvement.uic.edu</a></p>
+<p><strong>Child Care</strong><br/>
+<em>Children’s Center </em><br/>
+116 Applied Health Sciences Building (AHSB)<br/>
+(312) 413-5326<br/>
+<a href="http://childrenscenter.uic.edu/" target="_blank">http://childrenscenter.uic.edu</a></p>
+<p><strong>Clubs for Students</strong><br/>
+See Student Organizations and Student Life.</p>
+<p><strong>Computing </strong><br/>
+<em>Technology Solutions </em><br/>
+124 Benjamin Goldberg Research Center Building (BGRC)<br/>
+(312) 413-0003<br/>
+<a href="http://it.uic.edu">https://it.uic.edu</a></p>
+<p><strong>Counseling Center</strong><br/>
+2010 Student Services Building (SSB)<br/>
+(312) 996-3490<br/>
+<a href="http://counseling.uic.edu" target="_blank">http://counseling.uic.edu</a></p>
+<p><strong>Dean of Students Office</strong><br/>
+3030 Student Services Building (SSB)<br/>
+(312) 996-4857<br/>
+<a href="http://dos.uic.edu/" target="_blank">http://dos.uic.edu</a></p>
+<p><strong>Disability Resource Center</strong><br/>
+1070 Student Services Building (SSB)<br/>
+(312) 413-2183 (Voice)<br/>
+(312) 957-4822 (Video Phone)<br/>
+<a href="http://drc.uic.edu" target="_blank">http://drc.uic.edu</a></p>
+<p><strong>Employment</strong><br/>
+See Career, Co-op, Internship, and Employment Information.</p>
+<p><strong>Office of Student Financial Aid </strong><br/>
+1800 Student Services Building (SSB)<br/>
+(312) 996-3126<br/>
+<a href="mailto:money@uic.edu">money@uic.edu</a> <br/>
+<a href="http://financialaid.uic.edu/" target="_blank">http://financialaid.uic.edu</a></p>
+<p><strong>External Fellowships</strong><br/>
+<em>Office of External Fellowships</em><br/>
+800 University Hall (UH)<br/>
+(312) 355-2477<br/>
+<a href="https://oef.uic.edu/" target="_blank">https://oef.uic.edu</a></p>
+<p><strong>Fitness, Recreation, and Wellness</strong><br/>
+<a href="http://recreation.uic.edu/" target="_blank">http://recreation.uic.edu</a></p>
+<p><em>Sport &amp; Fitness Center </em><br/>
+828 South Wolcott Street<br/>
+(312) 413-5260</p>
+<p><em>Student Recreation Facility</em><br/>
+737 South Halsted Street<br/>
+(312) 413-5150</p>
+<p><em>Bowling Center </em><br/>
+Student Center East (SCE)<br/>
+(312) 413-5170</p>
+<p><em>Outdoor Field Complex </em><br/>
+900 West 14th Place<br/>
+(312) 413-2738</p>
+<p><em>Intramural Sports </em><br/>
+<a href="http://recreation.uic.edu/intramural" target="_blank">http://recreation.uic.edu/intramural</a></p>
+<p><em>Wellness Center </em><br/>
+238 Student Center East (SCE)<br/>
+(312) 413-2120<br/>
+<a href="http://wellnesscenter.uic.edu/" target="_blank">http://wellnesscenter.uic.edu</a></p>
+<p><strong>Gender and Sexuality Center</strong><br/>
+1180 Behavioral Sciences Building (BSB)<br/>
+(312) 413-8619<br/>
+<a href="http://gsc.uic.edu/" target="_blank">http://gsc.uic.edu</a></p>
+<p><strong>Health Services</strong><br/>
+<em>Family Medicine Center</em><br/>
+Outpatient Care Center, 1801 W. Taylor Street, Suite 4E<br/>
+University Village, 722 W. Maxwell Street, 2nd Floor<br/>
+(312) 996-2901<br/>
+<a href="http://www.uic.edu/uic/studentlife/studentservices/familymed.shtml" target="_blank">http://www.uic.edu/uic/studentlife/studentservices/familymed.shtml</a></p>
+<p><strong>Campus Housing Office</strong><br/>
+220 Student Residence Hall Building (SRH)<br/>
+(312) 355-6300<br/>
+<a href="http://www.housing.uic.edu" target="_blank">http://housing.uic.edu</a></p>
+<p><strong>Identification for Students/i-card Services</strong><br/>
+<em>Main ID Center</em><br/>
+1790 Student Services Building (SSB)<br/>
+(312) 413-5940<br/>
+<a href="http://idcenter.uic.edu/" target="_blank">http://idcenter.uic.edu</a></p>
+<p><em>Satellite ID Center</em><br/>
+241 Student Center West (SCW)<br/>
+(312) 413-5944</p>
+<p><strong>Information Centers</strong><br/>
+Student Center East (SCE), 1st Floor<br/>
+(312) 996-5000</p>
+<p>Student Residence Hall (SRH), 1st Floor (North Entrance)<br/>
+(312) 355-6103</p>
+<p>Student Services Building (SSB), 1st Floor<br/>
+(312) 996-5000</p>
+<p><strong>International Student Services</strong><br/>
+<em>Office of International Services</em><br/>
+2160 Student Services Building (SSB)<br/>
+(312) 996-3121<br/>
+<a href="http://www.ois.uic.edu" target="_blank">http://www.ois.uic.edu</a></p>
+<p><strong>Sandi Port Errant Language and Culture Learning Center </strong><br/>
+301 Grant Hall<br/>
+(312) 996-8838<br/>
+<a href="http://lclc.uic.edu/" target="_blank">http://lclc.uic.edu</a></p>
+<p><strong>Latin American Recruitment and Education Services Program (LARES)</strong><br/>
+2640 Student Services Building (SSB)<br/>
+(312) 996-3356<br/>
+<a href="http://lares.uic.edu" target="_blank">http://lares.uic.edu</a></p>
+<p><strong>Latino Cultural Center</strong><br/>
+<em>Rafael Cintron-Ortiz Latino Cultural Center</em><br/>
+Lecture Center B2<br/>
+(312) 996-3095<br/>
+<a href="http://latinocultural.uic.edu" target="_blank">http://latinocultural.uic.edu</a></p>
+<p><strong>Legal Services</strong><br/>
+See Dean of Students Office.</p>
+<p><strong>Libraries</strong><br/>
+<a href="http://library.uic.edu" target="_blank">http://library.uic.edu</a></p>
+<p><em>Richard J. Daley (Main) Library</em><br/>
+801 South Morgan Street<br/>
+Circulation: (312) 996-2724<br/>
+Reference: (312) 996-2726<br/>
+<a href="http://library.uic.edu/daley" target="_blank">http://library.uic.edu/daley</a></p>
+<p><em>Library of the Health Sciences </em><br/>
+1750 West Polk Street<br/>
+Circulation desk: (312) 996-8966<br/>
+Reference desk: (312) 996-9163<br/>
+<a href="http://library.uic.edu/lhs-chicago" target="_blank">http://library.uic.edu/lhs-chicago</a></p>
+<p><strong>Math &amp; Science Learning Center</strong><br/>
+3rd floor, Science and Engineering South (SES)<br/>
+(312) 355-4900<br/>
+<a href="https://mslc.uic.edu/" target="_blank">https://mslc.uic.edu</a></p>
+<p><strong>Native American Support Program</strong><br/>
+2700 Student Services Building (SSB)<br/>
+(312) 996-4515<br/>
+<a href="http://nasp.uic.edu/" target="_blank">http://nasp.uic.edu</a></p>
+<p><strong>Newspaper</strong><br/>
+<em>UIC Today</em><br/>
+1320 University Hall (UH)<br/>
+(312) 996-7758<br/>
+<a href="https://today.uic.edu/" target="_blank">https://today.uic.edu</a></p>
+<p><strong>Ombuds Service</strong><br/>
+See Dean of Students Office.</p>
+<p><strong>Orientation</strong><br/>
+See Student Development Services.</p>
+<p><strong>Parking </strong><br/>
+<em>Customer Service—East </em><br/>
+2620 Student Services Building (SSB)<br/>
+(312) 413-9020<br/>
+<a href="https://parking.uic.edu" target="_blank">https://parking.uic.edu</a></p>
+<p><em>Customer Service—West </em><br/>
+B5A Student Service West (SCW)<br/>
+(312) 413-5850</p>
+<p><strong>Photo ID</strong><br/>
+See Identification for Students/i-card Services.</p>
+<p><strong>Placement Tests</strong><br/>
+<em>Office of Testing Services</em><br/>
+1070 Student Services Building (SSB)<br/>
+(312) 996-0919<br/>
+<a href="http://testing.uic.edu" target="_blank">http://testing.uic.edu</a></p>
+<p><strong>Recreation</strong><br/>
+See Fitness, Recreation, and Wellness.</p>
+<p><strong>Registrar</strong><br/>
+<em>Office of the Registrar</em><br/>
+1200 Student Services Building (SSB)<br/>
+(312) 996-4350<br/>
+<a href="https://registrar.uic.edu" target="_blank">https://registrar.uic.edu</a></p>
+<p><strong>Religious Support Services</strong><br/>
+See Dean of Students Office.</p>
+<p><strong>ROTC</strong><br/>
+Basement, Roosevelt Road Building (RRB)<br/>
+(312) 413-2357<br/>
+<a href="http://rotc.uic.edu" target="_blank">http://rotc.uic.edu</a></p>
+<p><strong>Student Affairs</strong><br/>
+<em>Office of the Vice Chancellor for Student Affairs</em><br/>
+3010 Student Services Building (SSB)<br/>
+(312) 996-7140<br/>
+<a href="http://studentaffairs.uic.edu" target="_blank">http://sa.uic.edu</a></p>
+<p><strong>Student Centers</strong><br/>
+<a href="http://studentcenters.uic.edu/" target="_blank">http://studentcenters.uic.edu</a><br/>
+<em>Student Center East (SCE)</em><br/>
+750 South Halsted Street<br/>
+(312) 413-5100</p>
+<p><em>Student Center West (SCW)</em><br/>
+828 South Wolcott Avenue<br/>
+(312) 413-5200</p>
+<p><strong>Student Development Services</strong><br/>
+1600 Student Services Building (SSB)<br/>
+(312) 996-3100<br/>
+<a href="http://sds.uic.edu" target="_blank">http://sds.uic.edu</a></p>
+<p><strong>Student Leadership and Civic Engagement</strong><br/>
+390 Student Center East (SCE)<br/>
+(312) 996-4500<br/>
+<a href="http://slce.uic.edu" target="_blank">http://slce.uic.edu</a></p>
+<p><strong>Student Health Insurance</strong><br/>
+See <em>CampusCare</em> Student Health Benefit Program.</p>
+<p><strong>Student Identification </strong><br/>
+See Identification for Students/ i-card Services.</p>
+<p><strong>Student Organizations and Student Life</strong><br/>
+<em>Center for Student Involvement</em><br/>
+340 Student Center East (SCE)<br/>
+(312) 413-5070<br/>
+<a href="http://involvement.uic.edu" target="_blank">http://involvement.uic.edu</a></p>
+<p><strong>Student Unions</strong><br/>
+See Student Centers.</p>
+<p><strong>Study Abroad Office</strong><br/>
+502 University Hall (UH)<br/>
+(312) 413-7662<br/>
+<a href="http://studyabroad.uic.edu" target="_blank">http://studyabroad.uic.edu</a></p>
+<p><strong>Summer Session</strong><br/>
+<em>Summer Session Office</em><br/>
+2375 Student Services Building (SSB)<br/>
+(312) 996-9099<br/>
+<a href="http://summer.uic.edu" target="_blank">http://summer.uic.edu</a></p>
+<p><strong>Testing Services</strong><br/>
+See Placement Tests.</p>
+<p><strong>TRIO</strong><br/>
+2720 Student Services Building (SSB)<br/>
+(312) 996-5046<br/>
+<a href="http://trio.uic.edu" target="_blank">http://trio.uic.edu</a></p>
+<p><strong>University Bursar</strong><br/>
+1900 Student Services Building (SSB)<br/>
+(312) 996-2515<br/>
+<a href="http://www.obfs.uillinois.edu/usfsco" target="_blank">http://www.obfs.uillinois.edu/usfsco</a></p>
+<p><strong>U-Pass Information</strong><br/>
+1790 Student Services Building (SSB)<br/>
+(312) 413-5940<br/>
+<a href="https://idcenter.uic.edu/cta-u-pass/" target="_blank">https://idcenter.uic.edu/cta-u-pass</a></p>
+<p><strong>Urban Health Program</strong><br/>
+Resource Center<br/>
+2190 Student Services Building (SSB)<br/>
+(312) 355-2485<br/>
+<a href="https://uhp.uic.edu/" target="_blank">https://uhp.uic.edu</a></p>
+<p><strong>Veterans Affairs</strong><br/>
+<em>Student Veteran Affairs</em><br/>
+3030 Student Services Building (SSB)<br/>
+(312) 996-4857<br/>
+<a href="http://dos.uic.edu/studentveteranaffairs.shtml" target="_blank">http://dos.uic.edu/studentveteranaffairs.shtml</a></p>
+<p><strong>Women’s Leadership and Resource Center</strong><br/>
+1101 West Taylor Street, 3rd Floor<br/>
+(312) 413-1025<br/>
+<a href="http://wlrc.uic.edu" target="_blank">http://wlrc.uic.edu</a></p>
+<p><strong>Writing Center</strong><br/>
+105 Grant Hall (GH)<br/>
+(312) 413-2206<br/>
+<a href="http://writingcenter.uic.edu/" target="_blank">http://writingcenter.uic.edu</a></p></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2021-2023 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" aria-labeledby="dialog-title" class="screen" role="dialog">
+	<div class="print-header">
+		<h2 id="dialog-title">Print Options</h2>
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+<div class="print-option"><div class="option-head"><a class="option-name" href="/ucat/the-university/savvy-students-guide/savvy-students-guide.pdf" role="button">Download Page (PDF)</a></div><p class="option-desc"><em>The PDF will include all information unique to this page.</em></p></div><div class="print-option"><div class="option-head"><a class="option-name" href="/pdf/2021-23-undergraduate.pdf" target="_blank">Download PDF of the entire Undergraduate Catalog</a></div><p class="option-desc"><em>All pages in the campus catalog.</em></p></div>    </div>
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

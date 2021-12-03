@@ -1,0 +1,101 @@
+
+
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <title>The University of Illinois at Chicago - Online Orientation</title>
+
+
+
+    <!--styles-->
+    <link rel="stylesheet" type="text/css" href="/css/mainStyles.css" />
+    
+
+    <!--Fonts-->
+    <link href='https://fonts.googleapis.com/css?family=Work+Sans:400,700' rel='stylesheet' type='text/css' />
+    <!--Fix For Non-HTML5 sites-->
+    <!--[if lt IE 9]>
+    <script src="/scripts/html5.js"></script>
+    <![endif]-->
+    <!--Respond.js-->
+    <script src="/scripts/respond.js"></script>
+
+    <!--Browser Selector-->
+    <script src="/scripts/css_browser_selector.js"></script>
+
+    <!--jquery-->
+    <script src="/scripts/jquery-1.12.1.min.js"></script>
+    <script src="/scripts/bootstrap.min.js"></script>
+    <!--Mondernizer-->
+    <script src="/scripts/modernizr.min.js"></script>
+    <!--waitForImagesLoaded-->
+    <script src="/scripts/jquery.waitforimages.min.js"></script>
+    <!--loading animation scripts-->
+    <script src="/scripts/spin.min.js"></script>
+
+  <!--load custom scripts-->
+    <script src="/scripts/jquery.maskedinput.min.js"></script>
+    <script src="/scripts/loginPage.min.js"></script>
+
+</head>
+
+<body id="body" class="loginPage">
+
+
+    <div id="backgroundImg" class="">        <div style="background-image:url(/media/1064/login-background.jpg)" class=""></div>
+
+
+    
+
+ </div>
+
+    <div id="wrapper">
+        <div id="mainContent">
+
+            <header>
+                <div class="row">
+                     <div class="logoWrap ">
+							<div class="imgWrap">
+                            	<img src="/media/1063/logo.png" alt="Online Orientation" class="logo" />
+							</div>
+                        </div><!--end logo wrap-->
+
+                    <div class="titleWrapper">
+                        <h1 class="title">Online Orientation</h1>
+                    </div><!--/titleWrapper-->
+                </div><!--/row-->
+            </header>
+
+
+
+
+            <section id="membership">
+                <span class="loading"></span>
+                <div class="formHolder">
+                    
+
+
+        <div class="landingWrap">
+            <h1>I am a...</h1>
+            <div class="guest">
+                <a href="/?rPage=landing"><span class="selectButton">Guest</span></a>
+            </div>
+
+            <div class="student">
+                <a href="https://login.uic.edu/"><span class="selectButton">Student</span></a>
+            </div>
+
+        </div>
+
+
+                </div><!--/form holder-->
+            </section><!--end membership-->
+
+        </div><!--/mainContent-->
+    </div><!--/wrapper-->
+</body>
+</html>

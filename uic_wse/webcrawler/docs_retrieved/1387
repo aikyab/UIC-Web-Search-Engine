@@ -1,0 +1,3321 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.7.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Brent Stephens">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Assistant Professor">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/~brents/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  <script src="/~brents/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/~brents/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+  <link rel="alternate" href="/~brents/index.xml" type="application/rss+xml" title="Brent Stephens">
+  
+
+  <link rel="manifest" href="/~brents/index.webmanifest">
+  <link rel="icon" type="image/png" href="/~brents/images/icon_hub70d7486d9fe474597ea85f84c9c7493_6730_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/~brents/images/icon_hub70d7486d9fe474597ea85f84c9c7493_6730_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="/~brents/">
+
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Brent Stephens">
+  <meta property="og:url" content="/~brents/">
+  <meta property="og:title" content="Brent Stephens">
+  <meta property="og:description" content="Assistant Professor"><meta property="og:image" content="/~brents/img/brent.jpg">
+  <meta property="twitter:image" content="/~brents/img/brent.jpg"><meta property="og:locale" content="en-us">
+  
+    <meta property="og:updated_time" content="2022-04-04T00:00:00-07:00">
+  
+
+  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "/~brents/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "url": "/~brents/"
+}
+</script>
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Brent Stephens</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/~brents/">Brent Stephens</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/~brents/">Brent Stephens</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/~brents/#about" data-target="#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/~brents/#publications" data-target="#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/~brents/#teaching" data-target="#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/~brents/#students" data-target="#students"><span>Students</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/~brents/#contact" data-target="#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+<span class="js-widget-page d-none"></span>
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="leaving" class="home-section wg-blank   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>Announcement: Leaving UIC and Starting at Utah</h1>
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      <p>I am in the process of leaving my job as a professor at UIC.
+Starting on August 16th, 2021, I will be a Research Assistant Professor
+at the University of Utah.  My new website can be found here:
+<a href="https://www.cs.utah.edu/~brent/">https://www.cs.utah.edu/~brent/</a></p>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="about" class="home-section wg-about   "  >
+    <div class="container">
+      
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      
+      
+      <img class="portrait" src="/~brents/authors/admin/avatar_hubd69b7e74c51c5f45490d5fe7a2a2e7e_704577_350x350_fill_q90_lanczos_center.jpg" alt="Avatar">
+      
+
+      <div class="portrait-title">
+        <h2>Brent Stephens</h2>
+        <h3>Assistant Professor</h3>
+
+        
+        <h3>
+          <a href="https://cs.utah.edu/" target="_blank" rel="noopener">
+          <span>University of Illinois at Chicago (and the University of Utah)</span>
+          </a>
+        </h3>
+        
+      </div>
+
+      <ul class="network-icon" aria-hidden="true">
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="/~brents/#contact" >
+            <i class="fas fa-envelope big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://scholar.google.com/citations?user=REpY8JMAAAAJ" target="_blank" rel="noopener">
+            <i class="ai ai-google-scholar big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://github.com/bestephe" target="_blank" rel="noopener">
+            <i class="fab fa-github big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="/~brents/docs/brents-cv.pdf" >
+            <i class="ai ai-cv big-icon"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+    <h1>Biography</h1>
+
+    <p>Broadly
+speaking, I am interested in most aspects of data center networking.  I
+am especially interested in the intersection of network systems,
+operating systems, and computer architecture.</p>
+<p>In addition to my interests in computer science, I enjoy participating
+in many hobbies, including music, kaizo Mario, biking, boarding, and
+brewing.  I enjoy many types of biking, from commuting on a road bike to
+riding dirt jumps on a BMX or mountain bike.</p>
+
+
+    <div class="row">
+
+      
+      <div class="col-md-5">
+        <h3>Interests</h3>
+        <ul class="ul-interests">
+          
+          <li>Networking</li>
+          
+          <li>Operating Systems</li>
+          
+          <li>Data Center Applications</li>
+          
+        </ul>
+      </div>
+      
+
+      
+      <div class="col-md-7">
+        <h3>Education</h3>
+        <ul class="ul-edu fa-ul">
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">Postdoctoral Researcher, 2015-2018</p>
+              <p class="institution">UW-Madison</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">PhD, Computer Science, 2015</p>
+              <p class="institution">Rice University</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">MS, Computer Science, 2012</p>
+              <p class="institution">Rice University</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">BS, Electrical Engineering, 2009</p>
+              <p class="institution">Rice University</p>
+            </div>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </div>
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="accomplishments" class="home-section wg-accomplishments   "  >
+    <div class="container">
+      
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Recent Highlights</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+    
+
+    
+    
+      <div class="card experience course">
+        <div class="card-body"><h4 class="card-title exp-title text-muted my-0">NSF CNS Core: Small: Network-wide Policy Enforcement in Programmable Networks using Logical Queues</h4><div class="card-subtitle my-0 article-metadata">NSF<span class="middot-divider"></span>
+
+            
+              2020
+              
+            
+          </div>
+
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="card experience course">
+        <div class="card-body"><h4 class="card-title exp-title text-muted my-0">NSF CAREER: NIC-Accelerated Active Messaging as a Generic Replacement and Awards for RDMA</h4><div class="card-subtitle my-0 article-metadata">NSF<span class="middot-divider"></span>
+
+            
+              2020
+              
+            
+          </div>
+
+          
+            <div class="card-text">This proposal aims to fundamentally rethink the
+design of server-side networking and develop new networking
+abstractions for Network Interface Card (NIC) accelerated messaging.</div>
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="card experience course">
+        <div class="card-body"><h4 class="card-title exp-title text-muted my-0">NSF CRII: NeTS: Rethinking Flow Control for Cloud Data Center Networks</h4><div class="card-subtitle my-0 article-metadata">NSF<span class="middot-divider"></span>
+
+            
+              2019
+              
+            
+          </div>
+
+          
+            <div class="card-text">This proposal makes the case for fundamentally
+rethinking how queuing and flow control are performed in both physical
+and virtual switches.</div>
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="card experience course">
+        <div class="card-body"><a href="https://research.google/outreach/faculty-research-awards/recipients/" target="_blank" rel="noopener"><h4 class="card-title exp-title text-muted my-0">Google Faculty Research Award</h4></a><div class="card-subtitle my-0 article-metadata">Google<span class="middot-divider"></span>
+
+            
+              2018
+              
+            
+          </div>
+
+          
+
+          
+        </div>
+      </div>
+    
+    
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="interests" class="home-section wg-blank   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      <h1 id="research-interests">Research Interests</h1>
+<p>I am looking for motivated and passionate students.  If you are
+interested in working with me, please feel free to reach out and start a
+conversation with me.  My interests in computer science are broad, and I
+am willing to entertain any compelling projects.  However, I am
+currently particularly interested in the following research areas:</p>
+<ul>
+<li>
+<p>Designing new switch programs that fundamentally rethink flow control,
+e.g., how switch should drop packets, and how switches should avoid
+dropping packets.</p>
+</li>
+<li>
+<p>New architectures for reconfigurable match table (RMT) switches and
+NICs.</p>
+</li>
+<li>
+<p>Explicitly co-scheduling network and CPU resources so as to maximize
+high-level application and infrastructure objectives.</p>
+</li>
+<li>
+<p>Integrating programmable NICs and switches into the OS and network
+core by developing new protocols and offloads that treat the servers
+and network in a cluster as a single heterogeneous processor.</p>
+</li>
+<li>
+<p>New abstractions and frameworks for developing microservices and
+function chains.</p>
+</li>
+</ul>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="featured" class="home-section wg-featured   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Selected Publications</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+
+    
+      
+        
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/~brents/authors/yiwen-zhang/">Yiwen Zhang</a></span>, <span><a href="/~brents/authors/yue-tan/">Yue Tan</a></span>, <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>, <span><a href="/~brents/authors/mosharaf-chowdhury/">Mosharaf Chowdhury</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    April 2022
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      NSDI
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/~brents/publication/conference-paper/justitia.nsdi22/">Software Multi-Tenancy in Hardware Kernel-Bypass Networks</a>
+  </h3>
+
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/~brents/authors/vineeth-sagar-thapeta/">Vineeth Sagar Thapeta</a></span>, <span><a href="/~brents/authors/komal-shinde/">Komal Shinde</a></span>, <span><a href="/~brents/authors/mojtaba-malekpourshahraki/">Mojtaba Malekpourshahraki</a></span>, <span><a href="/~brents/authors/darius-grassi/">Darius Grassi</a></span>, <span><a href="/~brents/authors/balajee-vamanan/">Balajee Vamanan</a></span>, <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    September 2021
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      SOSR
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/~brents/publication/conference-paper/nimble.sosr21/">Nimble: Scalable TCP-Friendly Programmable In-Network Rate-Limiting</a>
+  </h3>
+
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/~brents/authors/jiaxin-lin/">Jiaxin Lin</a></span>, <span><a href="/~brents/authors/kiran-patel/">Kiran Patel</a></span>, <span>Brent E. Stephens</span>, <span><a href="/~brents/authors/anirudh-sivaraman/">Anirudh Sivaraman</a></span>, <span><a href="/~brents/authors/aditya-akella/">Aditya Akella</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    November 2020
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      OSDI
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/~brents/publication/conference-paper/panic.osdi20/">PANIC: A High-Performance Programmable NIC for Multi-tenant Networks</a>
+  </h3>
+
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/docs/panic.osdi20.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  
+
+</div>
+
+      
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="publications" class="home-section wg-pages   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Publications</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+    <div class="alert alert-note">
+  <div>
+    <strong>See <a href="/~brents/publication/">here</a> or <a href="https://scholar.google.com/citations?user=REpY8JMAAAAJ">Google
+Scholar</a> for a
+full publication list</strong>
+  </div>
+</div>
+
+
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/~brents/authors/yiwen-zhang/">Yiwen Zhang</a></span>, <span><a href="/~brents/authors/yue-tan/">Yue Tan</a></span>, <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>, <span><a href="/~brents/authors/mosharaf-chowdhury/">Mosharaf Chowdhury</a></span>
+
+  </span>.
+  <a href="/~brents/publication/conference-paper/justitia.nsdi22/">Software Multi-Tenancy in Hardware Kernel-Bypass Networks</a>.
+  NSDI,
+  2022.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/~brents/authors/vineeth-sagar-thapeta/">Vineeth Sagar Thapeta</a></span>, <span><a href="/~brents/authors/komal-shinde/">Komal Shinde</a></span>, <span><a href="/~brents/authors/mojtaba-malekpourshahraki/">Mojtaba Malekpourshahraki</a></span>, <span><a href="/~brents/authors/darius-grassi/">Darius Grassi</a></span>, <span><a href="/~brents/authors/balajee-vamanan/">Balajee Vamanan</a></span>, <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>
+
+  </span>.
+  <a href="/~brents/publication/conference-paper/nimble.sosr21/">Nimble: Scalable TCP-Friendly Programmable In-Network Rate-Limiting</a>.
+  SOSR,
+  2021.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/~brents/authors/jiaxin-lin/">Jiaxin Lin</a></span>, <span><a href="/~brents/authors/kiran-patel/">Kiran Patel</a></span>, <span>Brent E. Stephens</span>, <span><a href="/~brents/authors/anirudh-sivaraman/">Anirudh Sivaraman</a></span>, <span><a href="/~brents/authors/aditya-akella/">Aditya Akella</a></span>
+
+  </span>.
+  <a href="/~brents/publication/conference-paper/panic.osdi20/">PANIC: A High-Performance Programmable NIC for Multi-tenant Networks</a>.
+  OSDI,
+  2020.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/docs/panic.osdi20.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/~brents/authors/yanfang-le/">Yanfang Le</a></span>, <span><a href="/~brents/authors/mojtaba-malekpourshahraki/">Mojtaba Malekpourshahraki</a></span>, <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>, <span><a href="/~brents/authors/aditya-akella/">Aditya Akella</a></span>, <span>Michael M. Swift</span>
+
+  </span>.
+  <a href="/~brents/publication/conference-paper/rdma_study.apnet19/">On the Impact of Cluster Configuration on RoCE Application Design</a>.
+  APNet,
+  2019.
+  
+  <strong>Best Paper Award!</strong>
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/docs/rdma_study.apnet19.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/talks/rdma_study.apnet19.pptx" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+</p>
+
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/~brents/authors/mojtaba-malekpourshahraki/">Mojtaba Malekpourshahraki</a></span>, <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>, <span><a href="/~brents/authors/balajee-vamanan/">Balajee Vamanan</a></span>
+
+  </span>.
+  <a href="/~brents/publication/conference-paper/ether.apnet19/">Ether: Providing both Interactive Service and Fairness in Multi-Tenant Datacenters</a>.
+  APNet,
+  2019.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/docs/ether.apnet19.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/talks/ether.apnet19.pptx" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+</p>
+
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>, <span><a href="/~brents/authors/aditya-akella/">Aditya Akella</a></span>, <span>Michael M. Swift</span>
+
+  </span>.
+  <a href="/~brents/publication/conference-paper/loom.nsdi19/">Loom: Flexible and Efficient NIC Packet Scheduling</a>.
+  NSDI,
+  2019.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/docs/loom.nsdi19.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/talks/loom.nsdi19.pptx" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+</p>
+
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>, <span><a href="/~brents/authors/aditya-akella/">Aditya Akella</a></span>, <span>Michael M. Swift</span>
+
+  </span>.
+  <a href="/~brents/publication/panic_hotnets18/">Your Programmable NIC Should be a Programmable Switch</a>.
+  HotNets,
+  2018.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/docs/panic.hotnets18.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/talks/panic.hotnets18.pptx" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+</p>
+
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/~brents/authors/yanfang-le/">Yanfang Le</a></span>, <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>, <span><a href="/~brents/authors/arjun-singhvi/">Arjun Singhvi</a></span>, <span><a href="/~brents/authors/aditya-akella/">Aditya Akella</a></span>, <span>Michael M. Swift</span>
+
+  </span>.
+  <a href="/~brents/publication/conference-paper/rogue.socc18/">RoGUE: RDMA over Generic Unconverged Ethernet</a>.
+  SoCC,
+  2018.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/docs/rogue.socc18.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/~brents/authors/keqiang-he/">Keqiang He</a></span>, <span><a href="/~brents/authors/weite-qin/">Weite Qin</a></span>, <span><a href="/~brents/authors/qiwei-zhang/">Qiwei Zhang</a></span>, <span><a href="/~brents/authors/wenfei-wu/">Wenfei Wu</a></span>, <span><a href="/~brents/authors/junjie-yang/">Junjie Yang</a></span>, <span><a href="/~brents/authors/tian-pan/">Tian Pan</a></span>, <span><a href="/~brents/authors/chengchen-hu/">Chengchen Hu</a></span>, <span><a href="/~brents/authors/jiao-zhang/">Jiao Zhang</a></span>, <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>, <span><a href="/~brents/authors/aditya-akella/">Aditya Akella</a></span>, <span><a href="/~brents/authors/ying-zhang/">Ying Zhang</a></span>
+
+  </span>.
+  <a href="/~brents/publication/conference-paper/dem.apnet17/">Low Latency Software Rate Limiters for Cloud Networks</a>.
+  APNET,
+  2017.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/docs/dem.apnet17.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>, <span><a href="/~brents/authors/arjun-singhvi/">Arjun Singhvi</a></span>, <span><a href="/~brents/authors/aditya-akella/">Aditya Akella</a></span>, <span><a href="/~brents/authors/michael-swift/">Michael Swift</a></span>
+
+  </span>.
+  <a href="/~brents/publication/conference-paper/titan.atc17/">Titan: Fair Packet Scheduling for Commodity Multiqueue NICs</a>.
+  Usenix ATC,
+  2017.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/docs/titan.atc17.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>, <span>Alan L. Cox</span>
+
+  </span>.
+  <a href="/~brents/publication/conference-paper/edst.infocom16/">Deadlock-Free Local Fast Failover for Arbitrary Data Center Networks</a>.
+  Infocom,
+  2016.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/docs/edst.infocom16.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>, <span>Alan L. Cox</span>, <span><a href="/~brents/authors/scott-rixner/">Scott Rixner</a></span>
+
+  </span>.
+  <a href="/~brents/publication/conference-paper/plinko.sosr16/">Scalable Multi-Failure Fast Failover via Forwarding Table Compression</a>.
+  SOSR,
+  2016.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/docs/plinko.sosr16.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>
+
+  </span>.
+  <a href="/~brents/publication/conference-paper/phd_thesis/">Handling Congestion and Routing Failures in Data Center Networking</a>.
+  PhD Thesis,
+  2015.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/docs/thesis.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/~brents/authors/jeff-rasley/">Jeff Rasley</a></span>, <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>, <span><a href="/~brents/authors/colin-dixon/">Colin Dixon</a></span>, <span><a href="/~brents/authors/eric-rozner/">Eric Rozner</a></span>, <span><a href="/~brents/authors/wes-felter/">Wes Felter</a></span>, <span><a href="/~brents/authors/kanak-agarwal/">Kanak Agarwal</a></span>, <span><a href="/~brents/authors/john-carter/">John Carter</a></span>, <span><a href="/~brents/authors/rodrigo-fonseca/">Rodrigo Fonseca</a></span>
+
+  </span>.
+  <a href="/~brents/publication/conference-paper/planck.sigcomm14/">Planck: Millisecond-scale Monitoring and Control for Commodity Networks</a>.
+  SIGCOMM,
+  2014.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/docs/planck.sigcomm14.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>, <span><a href="/~brents/authors/ankit-singla/">Ankit Singla</a></span>, <span><a href="/~brents/authors/colin-dixon/">Colin Dixon</a></span>, <span><a href="/~brents/authors/wes-felter/">Wes Felter</a></span>, <span><a href="/~brents/authors/john-carter/">John Carter</a></span>, <span>Alan L. Cox</span>
+
+  </span>.
+  <a href="/~brents/publication/conference-paper/tcp-bolt.infocom14/">Practical DCB for Improved Data Center Networks</a>.
+  Infocom,
+  2014.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/docs/tcp-bolt.infocom14.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/~brents/authors/jeff-rasley/">Jeff Rasley</a></span>, <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>, <span><a href="/~brents/authors/colin-dixon/">Colin Dixon</a></span>, <span><a href="/~brents/authors/eric-rozner/">Eric Rozner</a></span>, <span><a href="/~brents/authors/wes-felter/">Wes Felter</a></span>, <span><a href="/~brents/authors/kanak-agarwal/">Kanak Agarwal</a></span>, <span><a href="/~brents/authors/john-carter/">John Carter</a></span>, <span><a href="/~brents/authors/rodrigo-fonseca/">Rodrigo Fonseca</a></span>
+
+  </span>.
+  <a href="/~brents/publication/conference-paper/ons14/">Low-latency Network Monitoring via Oversubscribed Port Mirroring</a>.
+  ONS,
+  2014.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/docs/ons14.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>, <span>Alan L. Cox</span>, <span><a href="/~brents/authors/scott-rixner/">Scott Rixner</a></span>
+
+  </span>.
+  <a href="/~brents/publication/conference-paper/plinko.hotnets13/">Plinko: Building Provably Resilient Forwarding Tables</a>.
+  HotNets,
+  2013.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/docs/plinko.hotnets13.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>, <span>Alan L. Cox</span>, <span><a href="/~brents/authors/wes-felter/">Wes Felter</a></span>, <span><a href="/~brents/authors/colin-dixon/">Colin Dixon</a></span>, <span><a href="/~brents/authors/john-carter/">John Carter</a></span>
+
+  </span>.
+  <a href="/~brents/publication/conference-paper/past.conext12/">PAST: Scalable Ethernet for Data Centers</a>.
+  CoNEXT,
+  2012.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/docs/past.conext12.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>, <span>Alan L. Cox</span>, <span><a href="/~brents/authors/scott-rixner/">Scott Rixner</a></span>, <span>T. S.  Eugene Ng</span>
+
+  </span>.
+  <a href="/~brents/publication/conference-paper/ancs11/">A Scalability Study of Enterprise Network Architectures</a>.
+  ANCS,
+  2011.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/docs/scalability.ancs11.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/~brents/authors/jeffery-shafer/">Jeffery Shafer</a></span>, <span><a href="/~brents/authors/brent-stephens/">Brent Stephens</a></span>, <span><a href="/~brents/authors/michael-foss/">Michael Foss</a></span>, <span><a href="/~brents/authors/scott-rixner/">Scott Rixner</a></span>, <span>Alan L. Cox</span>
+
+  </span>.
+  <a href="/~brents/publication/conference-paper/axon.ancs10/">Axon: A Flexible Substrate for Source-routed Ethernet</a>.
+  ANCS,
+  2010.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/~brents/docs/axon.ancs10.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+</div>
+
+      
+    
+
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="gallery" class="home-section wg-blank   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>Photos of Brent</h1>
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="gallery">
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  <a data-fancybox="gallery-gallery" href="/~brents/home/gallery/gallery/BrentBMX.jpg" >
+  <img data-src="/~brents/home/gallery/gallery/BrentBMX_hu3d03a01dcc18bc5be0e67db3d8d209a6_287547_0x190_resize_q90_lanczos.jpg" class="lazyload" alt="">
+  </a>
+  
+    
+    
+    
+    
+    
+  <a data-fancybox="gallery-gallery" href="/~brents/home/gallery/gallery/brent.jpg" >
+  <img data-src="/~brents/home/gallery/gallery/brent_hu4c6d85bc57fb0c46a092bac9caf1fb8b_994118_0x190_resize_q90_lanczos.jpg" class="lazyload" alt="">
+  </a>
+  
+    
+    
+    
+    
+    
+  <a data-fancybox="gallery-gallery" href="/~brents/home/gallery/gallery/brent_surfboard.jpg" >
+  <img data-src="/~brents/home/gallery/gallery/brent_surfboard_hu20c9d0462fd47c239055b7ae42157700_36371_0x190_resize_q90_lanczos.jpg" class="lazyload" alt="">
+  </a>
+  
+    
+    
+    
+    
+    
+  <a data-fancybox="gallery-gallery" href="/~brents/home/gallery/gallery/brent_vulcan_shoulder.jpg" >
+  <img data-src="/~brents/home/gallery/gallery/brent_vulcan_shoulder_hu32668a7195e4436a56f5a250cc793330_43597_0x190_resize_q90_lanczos.jpg" class="lazyload" alt="">
+  </a>
+  
+
+  
+</div>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="teaching" class="home-section wg-blank   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>Teaching</h1>
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      <p>I am involved with teaching the following courses at UIC:</p>
+<ul>
+<li><a href="https://www.cs.uic.edu/~brents/cs450">CS 450: Introduction to Networking (S20)</a></li>
+<li><a href="https://www.cs.uic.edu/~brents/cs594-dcn">CS 594: Data Center Networking (F19)</a> and <a href="https://www.cs.uic.edu/~brents/cs594-dcn/f18">(F18)</a></li>
+<li><a href="https://www.cs.uic.edu/~brents/cs494-cdcs">CS 494: Cloud Data Center Systems (S19)</a></li>
+</ul>
+
+
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="students" class="home-section wg-blank   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>Students</h1>
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      <p>I am currently advising the following students:</p>
+<ul>
+<li><a href="https://kshind2.people.uic.edu/">Komal Shinde</a></li>
+<li><a href="https://kpate352.people.uic.edu/">Kiran Patel</a></li>
+<li><a href="https://sarsanaee.github.io/">Alireza Sanaee</a></li>
+<li>David Porter</li>
+<li><a href="https://dgrassi2.people.uic.edu/">Darius Grassi</a></li>
+</ul>
+<p>Coadvising:</p>
+<ul>
+<li><a href="https://www.cs.uic.edu/~mmalekpo/">Mojtaba Malekpourshahraki</a></li>
+<li>Noaman Ahmad</li>
+</ul>
+
+
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="professional_activities" class="home-section wg-blank   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>Professional Activities</h1>
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      <p><strong>Program committees</strong>:</p>
+<ul>
+<li>SIGCOMM 2021, CoNEXT 2021, SOSR 2021, SOSR 2020, ANCS 2019, APNet 2018, Usenix ATC 2018</li>
+</ul>
+<p><strong>NSF Panels</strong>:</p>
+<ul>
+<li>One panel in 2021, one Panel in 2019, one panel in 2016, and one panel in 2015</li>
+</ul>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="contact" class="home-section wg-contact   "  >
+    <div class="container">
+      
+
+
+
+
+
+<div class="row contact-widget">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Contact</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+    
+
+    
+
+    <ul class="fa-ul">
+
+      
+      <li>
+        <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
+        <span id="person-email"><a href="mailto:brent%20%22at%22%20cs.utah.edu">brent &#34;at&#34; cs.utah.edu</a></span>
+      </li>
+      
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+
+      
+      
+
+    </ul>
+
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/~brents/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/~brents/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

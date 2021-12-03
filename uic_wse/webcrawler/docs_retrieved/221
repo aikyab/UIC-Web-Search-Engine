@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7 oldie" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8 oldie" lang="en-US">
+<![endif]-->
+<!--[if IE 9]>
+<html class="ie ie9" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) | !(IE 9)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script type="text/javascript">
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}});
+</script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<meta name="google-translate-customization" content="174c639f64d55a72-e6a1f200fe3765aa-g630a140a58bede11-d"></meta>
+	<meta name="robots" content="NOODP">
+	<meta name="description" content="We partner with Illinois families and communities to help children and youth with special healthcare needs connect to services and resources.">
+	<meta property="og:description" content="We partner with Illinois families and communities to help children and youth with special healthcare needs connect to services and resources.">
+	<link rel="shortcut icon" href="https://dscc.uic.edu/wp-content/themes/dscc_theme/favicon.ico" />
+		<title>UIC Specialized Care for Children - We partner with Illinois families and communities to help children and youth with special healthcare needs connect to services and resources.</title>
+	<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" hreflang="en" href="https://dscc.uic.edu/" />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="UIC Specialized Care for Children &raquo; Home Comments Feed" href="https://dscc.uic.edu/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/dscc.uic.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://dscc.uic.edu/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='events-manager-css'  href='https://dscc.uic.edu/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.99912' type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-legacy-horizontal-list-0-css'  href='//dscc.uic.edu/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='stylesheet-css'  href='https://dscc.uic.edu/wp-content/themes/dscc_theme/style.css?ver=1.0' type='text/css' media='screen, print' />
+<link rel='stylesheet' id='google-abeezee-css'  href='//fonts.googleapis.com/css?family=ABeeZee%3A400%2C400italic&#038;ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='google-lato-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C300italic%2C400italic&#038;ver=1.0' type='text/css' media='all' />
+<link rel="stylesheet" type="text/css" href="https://dscc.uic.edu/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider.min.css?ver=af21758e" media="all">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?display=swap&amp;family=ABeeZee%3A300%2C400" media="all">
+<style data-related="n2-ss-2">div#n2-ss-2 .n2-ss-slider-1{display:grid;position:relative;}div#n2-ss-2 .n2-ss-slider-2{display:grid;position:relative;overflow:hidden;padding:0px 0px 0px 0px;border:0px solid RGBA(62,62,62,1);border-radius:0px;background-clip:padding-box;background-repeat:repeat;background-position:50% 50%;background-size:cover;background-attachment:scroll;z-index:1;}div#n2-ss-2:not(.n2-ss-loaded) .n2-ss-slider-2{background-image:none !important;}div#n2-ss-2 .n2-ss-slider-3{display:grid;grid-template-areas:'cover';position:relative;overflow:hidden;z-index:10;}div#n2-ss-2 .n2-ss-slider-3 > *{grid-area:cover;}div#n2-ss-2 .n2-ss-slide-backgrounds,div#n2-ss-2 .n2-ss-slider-3 > .n2-ss-divider{position:relative;}div#n2-ss-2 .n2-ss-slide-backgrounds{z-index:10;}div#n2-ss-2 .n2-ss-slide-backgrounds > *{overflow:hidden;}div#n2-ss-2 .n2-ss-slide-background{transform:translateX(-100000px);}div#n2-ss-2 .n2-ss-slider-4{place-self:center;position:relative;width:100%;height:100%;z-index:20;display:grid;grid-template-areas:'slide';}div#n2-ss-2 .n2-ss-slider-4 > *{grid-area:slide;}div#n2-ss-2.n2-ss-full-page--constrain-ratio .n2-ss-slider-4{height:auto;}div#n2-ss-2 .n2-ss-slide{display:grid;place-items:center;grid-auto-columns:100%;position:relative;z-index:20;-webkit-backface-visibility:hidden;transform:translateX(-100000px);}div#n2-ss-2 .n2-ss-slide{perspective:1500px;}div#n2-ss-2 .n2-ss-slide-active{z-index:21;}.n2-ss-background-animation{position:absolute;top:0;left:0;width:100%;height:100%;z-index:3;}div#n2-ss-2 .nextend-arrow{cursor:pointer;overflow:hidden;line-height:0 !important;z-index:18;-webkit-user-select:none;}div#n2-ss-2 .nextend-arrow img{position:relative;display:block;}div#n2-ss-2 .nextend-arrow img.n2-arrow-hover-img{display:none;}div#n2-ss-2 .nextend-arrow:FOCUS img.n2-arrow-hover-img,div#n2-ss-2 .nextend-arrow:HOVER img.n2-arrow-hover-img{display:inline;}div#n2-ss-2 .nextend-arrow:FOCUS img.n2-arrow-normal-img,div#n2-ss-2 .nextend-arrow:HOVER img.n2-arrow-normal-img{display:none;}div#n2-ss-2 .nextend-arrow-animated{overflow:hidden;}div#n2-ss-2 .nextend-arrow-animated > div{position:relative;}div#n2-ss-2 .nextend-arrow-animated .n2-active{position:absolute;}div#n2-ss-2 .nextend-arrow-animated-fade{transition:background 0.3s, opacity 0.4s;}div#n2-ss-2 .nextend-arrow-animated-horizontal > div{transition:all 0.4s;transform:none;}div#n2-ss-2 .nextend-arrow-animated-horizontal .n2-active{top:0;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-horizontal .n2-active{left:100%;}div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-horizontal .n2-active{right:100%;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-horizontal:FOCUS > div{transform:translateX(-100%);}div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-horizontal:FOCUS > div{transform:translateX(100%);}div#n2-ss-2 .nextend-arrow-animated-vertical > div{transition:all 0.4s;transform:none;}div#n2-ss-2 .nextend-arrow-animated-vertical .n2-active{left:0;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-vertical .n2-active{top:100%;}div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-vertical .n2-active{bottom:100%;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-vertical:HOVER > div,div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-vertical:FOCUS > div{transform:translateY(-100%);}div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-vertical:HOVER > div,div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-vertical:FOCUS > div{transform:translateY(100%);}div#n2-ss-2 .n2-font-4be6055f6e4c5b2f9c7051a8f55e8746-hover{font-family: 'chunkfiveroman','sans-serif';color: #1e5a95;font-size:250%;text-shadow: 1px 1px 1px RGBA(219,219,219,1);line-height: 1.2;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 300;}div#n2-ss-2 .n2-style-7544f9a57e0978af1d50c64eba41a0e4-heading{background: RGBA(255,255,255,0);opacity:1;padding:0% 0% 0% 0% ;box-shadow: none;border-width: 0px;border-style: solid;border-color: #000000; border-color: RGBA(0,0,0,1);border-radius:0px;}div#n2-ss-2 .n2-font-f4835df17ec1b7527276a9e51900dbbe-paragraph{font-family: 'ABeeZee','sans-serif';color: #282828;font-size:100%;text-shadow: none;line-height: 1.2;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 400;}div#n2-ss-2 .n2-font-f4835df17ec1b7527276a9e51900dbbe-paragraph a, div#n2-ss-2 .n2-font-f4835df17ec1b7527276a9e51900dbbe-paragraph a:FOCUS{font-family: 'ABeeZee','sans-serif';color: #1890d7;font-size:100%;text-shadow: none;line-height: 1.2;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 400;}div#n2-ss-2 .n2-font-f4835df17ec1b7527276a9e51900dbbe-paragraph a:HOVER, div#n2-ss-2 .n2-font-f4835df17ec1b7527276a9e51900dbbe-paragraph a:ACTIVE{font-family: 'ABeeZee','sans-serif';color: #1890d7;font-size:100%;text-shadow: none;line-height: 1.2;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 400;}div#n2-ss-2 .n2-style-74f9010c2ef322e6e5208910ec81faa7-heading{background: RGBA(255,255,255,0);opacity:1;padding:10px 0px 0px 0px ;box-shadow: none;border-width: 0px;border-style: solid;border-color: #000000; border-color: RGBA(0,0,0,1);border-radius:0px;}div#n2-ss-2 .n2-style-98fd0805bb762d322ced52161ccda2dd-heading{background: RGBA(255,255,255,0);opacity:1;padding:0px 0px 0px 0px ;box-shadow: none;border-width: 0px;border-style: none;border-color: #000000; border-color: RGBA(0,0,0,1);border-radius:0px;}div#n2-ss-2 .n2-ss-slide-limiter{max-width:3000px;}div#n2-ss-2 .n-uc-mQOSNXt6B54V{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-5S2U5YXZ394I-inner{padding:0px 0px 0px 0px;justify-content:flex-end}div#n2-ss-2 .n-uc-0DtQ7yhKchVZ-inner{padding:10px 10px 10px 10px}div#n2-ss-2 .n-uc-0DtQ7yhKchVZ-inner > .n2-ss-layer-row-inner{width:calc(100% + 21px);margin:-10px;flex-wrap:nowrap;}div#n2-ss-2 .n-uc-0DtQ7yhKchVZ-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:10px}div#n2-ss-2 .n-uc-mWn3sKYzgdX8-inner{padding:10px 10px 10px 10px;justify-content:center}div#n2-ss-2 .n-uc-mWn3sKYzgdX8{width:60%}div#n2-ss-2 .n-uc-as8Gf2nNLQq0{align-self:center;}div#n2-ss-2 .n-uc-T94dneMr6SWb-inner{padding:0px 0px 0px 0px;justify-content:center}div#n2-ss-2 .n-uc-T94dneMr6SWb{width:40%}div#n2-ss-2 .n-uc-YBlTdUJFJ7Dn{--margin-top:-10px;--margin-left:-60px;max-width:425px;align-self:var(--ss-fs);}div#n2-ss-2 .n-uc-tTC9tqou3iKS{--margin-left:-60px;max-width:445px;align-self:var(--ss-fs);}div#n2-ss-2 .n-uc-nZOLWknVrmYO1{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-42AJM0aijqxX1-inner{padding:0px 0px 0px 0px;justify-content:flex-end}div#n2-ss-2 .n-uc-cqMRZfyPkugK1-inner{padding:10px 10px 10px 10px}div#n2-ss-2 .n-uc-cqMRZfyPkugK1-inner > .n2-ss-layer-row-inner{width:calc(100% + 21px);margin:-10px;flex-wrap:nowrap;}div#n2-ss-2 .n-uc-cqMRZfyPkugK1-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:10px}div#n2-ss-2 .n-uc-hadzPqRLAQ2N1-inner{padding:10px 10px 10px 10px;justify-content:center}div#n2-ss-2 .n-uc-hadzPqRLAQ2N1{width:60%}div#n2-ss-2 .n-uc-fXjMsuAg1QZe1{align-self:center;}div#n2-ss-2 .n-uc-Xrvf6OjMlQLi1-inner{padding:0px 0px 0px 0px;justify-content:center}div#n2-ss-2 .n-uc-Xrvf6OjMlQLi1{width:40%}div#n2-ss-2 .n-uc-2CrR9GYAQTW81{--margin-top:-10px;--margin-left:-60px;max-width:425px;align-self:var(--ss-fs);}div#n2-ss-2 .n-uc-KR1o3xB6Um6x1{--margin-left:-60px;max-width:445px;align-self:var(--ss-fs);}div#n2-ss-2 .n-uc-V6bXSFhms3sV2{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-UhcfyvRAPq7k2-inner{padding:0px 0px 0px 0px;justify-content:flex-end}div#n2-ss-2 .n-uc-h7yJV7EXYE0c2-inner{padding:10px 10px 10px 10px}div#n2-ss-2 .n-uc-h7yJV7EXYE0c2-inner > .n2-ss-layer-row-inner{width:calc(100% + 21px);margin:-10px;flex-wrap:nowrap;}div#n2-ss-2 .n-uc-h7yJV7EXYE0c2-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:10px}div#n2-ss-2 .n-uc-4aS79EFsDfNB2-inner{padding:10px 10px 10px 10px;justify-content:center}div#n2-ss-2 .n-uc-4aS79EFsDfNB2{width:60%}div#n2-ss-2 .n-uc-6LdABd96l5EB2{align-self:center;}div#n2-ss-2 .n-uc-sLuJxXLQfODF2-inner{padding:0px 0px 0px 0px;justify-content:center}div#n2-ss-2 .n-uc-sLuJxXLQfODF2{width:40%}div#n2-ss-2 .n-uc-kRhI07fhSt2a2{--margin-top:-10px;--margin-left:-60px;max-width:425px;align-self:var(--ss-fs);}div#n2-ss-2 .n-uc-URhMFr4rMDep2{--margin-left:-60px;max-width:445px;align-self:var(--ss-fs);}div#n2-ss-2 .nextend-arrow img{width: 32px}@media (min-width: 1200px){div#n2-ss-2 [data-hide-desktopportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 1199px) and (min-width: 901px),(orientation: portrait) and (max-width: 1199px) and (min-width: 701px){div#n2-ss-2 .n-uc-0DtQ7yhKchVZ-inner > .n2-ss-layer-row-inner{flex-wrap:nowrap;}div#n2-ss-2 .n-uc-mWn3sKYzgdX8{width:60%}div#n2-ss-2 .n-uc-T94dneMr6SWb{width:40%}div#n2-ss-2 .n-uc-YBlTdUJFJ7Dn{--margin-top:0px;--margin-left:-60px;align-self:var(--ss-fe);}div#n2-ss-2 .n-uc-tTC9tqou3iKS{display:none}div#n2-ss-2 .n-uc-cqMRZfyPkugK1-inner > .n2-ss-layer-row-inner{flex-wrap:nowrap;}div#n2-ss-2 .n-uc-hadzPqRLAQ2N1{width:60%}div#n2-ss-2 .n-uc-Xrvf6OjMlQLi1{width:40%}div#n2-ss-2 .n-uc-2CrR9GYAQTW81{--margin-top:0px;--margin-left:-60px;align-self:var(--ss-fe);}div#n2-ss-2 .n-uc-KR1o3xB6Um6x1{display:none}div#n2-ss-2 .n-uc-h7yJV7EXYE0c2-inner > .n2-ss-layer-row-inner{flex-wrap:nowrap;}div#n2-ss-2 .n-uc-4aS79EFsDfNB2{width:60%}div#n2-ss-2 .n-uc-sLuJxXLQfODF2{width:40%}div#n2-ss-2 .n-uc-kRhI07fhSt2a2{--margin-top:0px;--margin-left:-60px;align-self:var(--ss-fe);}div#n2-ss-2 .n-uc-URhMFr4rMDep2{display:none}div#n2-ss-2 [data-hide-tabletportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 900px),(orientation: portrait) and (max-width: 700px){div#n2-ss-2 .n-uc-0DtQ7yhKchVZ-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-2 .n-uc-mWn3sKYzgdX8{width:calc(100% - 20px)}div#n2-ss-2 .n-uc-T94dneMr6SWb{width:calc(100% - 20px)}div#n2-ss-2 .n-uc-tTC9tqou3iKS{display:none}div#n2-ss-2 .n-uc-cqMRZfyPkugK1-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-2 .n-uc-hadzPqRLAQ2N1{width:calc(100% - 20px)}div#n2-ss-2 .n-uc-Xrvf6OjMlQLi1{width:calc(100% - 20px)}div#n2-ss-2 .n-uc-KR1o3xB6Um6x1{display:none}div#n2-ss-2 .n-uc-h7yJV7EXYE0c2-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-2 .n-uc-4aS79EFsDfNB2{width:calc(100% - 20px)}div#n2-ss-2 .n-uc-sLuJxXLQfODF2{width:calc(100% - 20px)}div#n2-ss-2 .n-uc-URhMFr4rMDep2{display:none}div#n2-ss-2 [data-hide-mobileportrait="1"]{display: none !important;}div#n2-ss-2 .nextend-arrow img{width: 16px}}.n2-ss-img-wrapper {
+        border: 5px solid #FFF !important;
+	box-shadow: 0px 0px 15px 3px #ddd !important;
+}
+
+.n2-ss-layer n2-ow {
+        margin: 0px !important;
+}</style>
+<style data-related="n2-ss-3">div#n2-ss-3 .n2-ss-slider-1{display:grid;position:relative;}div#n2-ss-3 .n2-ss-slider-2{display:grid;position:relative;overflow:hidden;padding:0px 0px 0px 0px;border:0px solid RGBA(62,62,62,1);border-radius:0px;background-clip:padding-box;background-repeat:repeat;background-position:50% 50%;background-size:cover;background-attachment:scroll;z-index:1;}div#n2-ss-3:not(.n2-ss-loaded) .n2-ss-slider-2{background-image:none !important;}div#n2-ss-3 .n2-ss-slider-3{display:grid;grid-template-areas:'cover';position:relative;overflow:hidden;z-index:10;}div#n2-ss-3 .n2-ss-slider-3 > *{grid-area:cover;}div#n2-ss-3 .n2-ss-slide-backgrounds,div#n2-ss-3 .n2-ss-slider-3 > .n2-ss-divider{position:relative;}div#n2-ss-3 .n2-ss-slide-backgrounds{z-index:10;}div#n2-ss-3 .n2-ss-slide-backgrounds > *{overflow:hidden;}div#n2-ss-3 .n2-ss-slide-background{transform:translateX(-100000px);}div#n2-ss-3 .n2-ss-slider-4{place-self:center;position:relative;width:100%;height:100%;z-index:20;display:grid;grid-template-areas:'slide';}div#n2-ss-3 .n2-ss-slider-4 > *{grid-area:slide;}div#n2-ss-3.n2-ss-full-page--constrain-ratio .n2-ss-slider-4{height:auto;}div#n2-ss-3 .n2-ss-slide{display:grid;place-items:center;grid-auto-columns:100%;position:relative;z-index:20;-webkit-backface-visibility:hidden;transform:translateX(-100000px);}div#n2-ss-3 .n2-ss-slide{perspective:1500px;}div#n2-ss-3 .n2-ss-slide-active{z-index:21;}.n2-ss-background-animation{position:absolute;top:0;left:0;width:100%;height:100%;z-index:3;}div#n2-ss-3 .n2-ss-control-bullet{visibility:hidden;text-align:center;justify-content:center;z-index:14;}div#n2-ss-3 .n2-ss-control-bullet--calculate-size{left:0 !important;}div#n2-ss-3 .n2-ss-control-bullet-horizontal.n2-ss-control-bullet-fullsize{width:100%;}div#n2-ss-3 .n2-ss-control-bullet-vertical.n2-ss-control-bullet-fullsize{height:100%;flex-flow:column;}div#n2-ss-3 .nextend-bullet-bar{display:inline-flex;vertical-align:top;visibility:visible;align-items:center;flex-wrap:wrap;}div#n2-ss-3 .n2-bar-justify-content-left{justify-content:flex-start;}div#n2-ss-3 .n2-bar-justify-content-center{justify-content:center;}div#n2-ss-3 .n2-bar-justify-content-right{justify-content:flex-end;}div#n2-ss-3 .n2-ss-control-bullet-vertical > .nextend-bullet-bar{flex-flow:column;}div#n2-ss-3 .n2-ss-control-bullet-fullsize > .nextend-bullet-bar{display:flex;}div#n2-ss-3 .n2-ss-control-bullet-horizontal.n2-ss-control-bullet-fullsize > .nextend-bullet-bar{flex:1 1 auto;}div#n2-ss-3 .n2-ss-control-bullet-vertical.n2-ss-control-bullet-fullsize > .nextend-bullet-bar{height:100%;}div#n2-ss-3 .nextend-bullet-bar .n2-bullet{cursor:pointer;transition:background-color 0.4s;}div#n2-ss-3 .nextend-bullet-bar .n2-bullet.n2-active{cursor:default;}div#n2-ss-3 div.n2-ss-bullet-thumbnail-container{position:absolute;z-index:10000000;}div#n2-ss-3 .n2-ss-bullet-thumbnail-container .n2-ss-bullet-thumbnail{background-size:cover;background-repeat:no-repeat;background-position:center;}div#n2-ss-3 .n2-font-8e6ed6fd59e640a08f11fa77fbb7a292-hover{font-family: 'chunkfiveroman','sans-serif';color: #1e5a95;font-size:125%;text-shadow: 1px 1px 1px RGBA(219,219,219,1);line-height: 1.2;font-weight: normal;font-style: normal;text-decoration: none;text-align: center;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 300;}div#n2-ss-3 .n2-style-7544f9a57e0978af1d50c64eba41a0e4-heading{background: RGBA(255,255,255,0);opacity:1;padding:0% 0% 0% 0% ;box-shadow: none;border-width: 0px;border-style: solid;border-color: #000000; border-color: RGBA(0,0,0,1);border-radius:0px;}div#n2-ss-3 .n2-style-c0fe1c7a37b7b7c3cb83a8d1cde6e7ce-dot{background: RGBA(0,0,0,0.67);opacity:1;padding:5px 5px 5px 5px ;box-shadow: none;border-width: 0px;border-style: solid;border-color: #000000; border-color: RGBA(0,0,0,1);border-radius:50px;margin: 4px;}div#n2-ss-3 .n2-style-c0fe1c7a37b7b7c3cb83a8d1cde6e7ce-dot.n2-active, div#n2-ss-3 .n2-style-c0fe1c7a37b7b7c3cb83a8d1cde6e7ce-dot:HOVER, div#n2-ss-3 .n2-style-c0fe1c7a37b7b7c3cb83a8d1cde6e7ce-dot:FOCUS{background: #00c1c4;}div#n2-ss-3 .n2-ss-slide-limiter{max-width:3000px;}div#n2-ss-3 .n-uc-FC2sQWIJwddf{padding:0px 0px 0px 0px}div#n2-ss-3 .n-uc-ybZsTck7cCht-inner{padding:0px 0px 0px 0px;justify-content:center}div#n2-ss-3 .n-uc-m8jacgHv5PCe-inner{padding:10px 10px 10px 10px}div#n2-ss-3 .n-uc-m8jacgHv5PCe-inner > .n2-ss-layer-row-inner{width:calc(100% + 21px);margin:-10px;flex-wrap:nowrap;}div#n2-ss-3 .n-uc-m8jacgHv5PCe-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:10px}div#n2-ss-3 .n-uc-LJFUBpT1sNQ0-inner{padding:10px 10px 10px 10px;justify-content:center}div#n2-ss-3 .n-uc-LJFUBpT1sNQ0{width:100%}div#n2-ss-3 .n-uc-aAWqq2mpWEnJ{align-self:center;}div#n2-ss-3 .n-uc-V76zpKPCEBUY{max-width:425px;align-self:center;}div#n2-ss-3 .n-uc-ovrTThSF7uEE1{padding:0px 0px 0px 0px}div#n2-ss-3 .n-uc-aoFnBW0qkltM1-inner{padding:0px 0px 0px 0px;justify-content:center}div#n2-ss-3 .n-uc-tPOlzO37vx4Q1-inner{padding:10px 10px 10px 10px}div#n2-ss-3 .n-uc-tPOlzO37vx4Q1-inner > .n2-ss-layer-row-inner{width:calc(100% + 21px);margin:-10px;flex-wrap:nowrap;}div#n2-ss-3 .n-uc-tPOlzO37vx4Q1-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:10px}div#n2-ss-3 .n-uc-FPEXqaU3mhwk1-inner{padding:10px 10px 10px 10px;justify-content:center}div#n2-ss-3 .n-uc-FPEXqaU3mhwk1{width:100%}div#n2-ss-3 .n-uc-k13iKZDGw3YE1{align-self:center;}div#n2-ss-3 .n-uc-IKJ57KsEZu9M1{max-width:425px;align-self:center;}div#n2-ss-3 .n-uc-GJWWtfDai5aw2{padding:0px 0px 0px 0px}div#n2-ss-3 .n-uc-cG9Ohv5j8tLZ2-inner{padding:0px 0px 0px 0px;justify-content:center}div#n2-ss-3 .n-uc-cgknxunPWydv2-inner{padding:10px 10px 10px 10px}div#n2-ss-3 .n-uc-cgknxunPWydv2-inner > .n2-ss-layer-row-inner{width:calc(100% + 21px);margin:-10px;flex-wrap:nowrap;}div#n2-ss-3 .n-uc-cgknxunPWydv2-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:10px}div#n2-ss-3 .n-uc-IFCiQTYjR0Wx2-inner{padding:10px 10px 10px 10px;justify-content:center}div#n2-ss-3 .n-uc-IFCiQTYjR0Wx2{width:100%}div#n2-ss-3 .n-uc-uQRZApKMZVxh2{align-self:center;}div#n2-ss-3 .n-uc-CNcOjDlha5H92{max-width:425px;align-self:center;}@media (min-width: 1200px){div#n2-ss-3 [data-hide-desktopportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 1199px) and (min-width: 901px),(orientation: portrait) and (max-width: 1199px) and (min-width: 701px){div#n2-ss-3 .n-uc-m8jacgHv5PCe-inner > .n2-ss-layer-row-inner{flex-wrap:nowrap;}div#n2-ss-3 .n-uc-LJFUBpT1sNQ0{width:100%}div#n2-ss-3 .n-uc-V76zpKPCEBUY{--margin-left:-60px;align-self:var(--ss-fe);}div#n2-ss-3 .n-uc-tPOlzO37vx4Q1-inner > .n2-ss-layer-row-inner{flex-wrap:nowrap;}div#n2-ss-3 .n-uc-FPEXqaU3mhwk1{width:100%}div#n2-ss-3 .n-uc-IKJ57KsEZu9M1{--margin-left:-60px;align-self:var(--ss-fe);}div#n2-ss-3 .n-uc-cgknxunPWydv2-inner > .n2-ss-layer-row-inner{flex-wrap:nowrap;}div#n2-ss-3 .n-uc-IFCiQTYjR0Wx2{width:100%}div#n2-ss-3 .n-uc-CNcOjDlha5H92{--margin-left:-60px;align-self:var(--ss-fe);}div#n2-ss-3 [data-hide-tabletportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 900px),(orientation: portrait) and (max-width: 700px){div#n2-ss-3 .n-uc-m8jacgHv5PCe-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-3 .n-uc-LJFUBpT1sNQ0{width:calc(100% - 20px)}div#n2-ss-3 .n-uc-tPOlzO37vx4Q1-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-3 .n-uc-FPEXqaU3mhwk1{width:calc(100% - 20px)}div#n2-ss-3 .n-uc-cgknxunPWydv2-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-3 .n-uc-IFCiQTYjR0Wx2{width:calc(100% - 20px)}div#n2-ss-3 [data-hide-mobileportrait="1"]{display: none !important;}}.n2-ss-img-wrapper {
+        border: 5px solid #FFF !important;
+	box-shadow: 0px 0px 15px 3px #ddd !important;
+}
+
+.n2-ss-layer n2-ow {
+        margin: 0px !important;
+}</style>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/jquery/ui/mouse.min.js?ver=1.12.1' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/jquery/ui/sortable.min.js?ver=1.12.1' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.12.1' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/jquery/ui/menu.min.js?ver=1.12.1' id='jquery-ui-menu-js'></script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/dist/dom-ready.min.js?ver=71883072590656bf22c74c7b887df3dd' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/dist/hooks.min.js?ver=a7edae857aab69d69fa10d5aef23a5de' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/dist/i18n.min.js?ver=5f1269854226b4dd90450db411a12b79' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' id='wp-a11y-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/dist/a11y.min.js?ver=0ac8327cc1c40dcfdf29716affd7ac63' id='wp-a11y-js'></script>
+<script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.12.1' id='jquery-ui-autocomplete-js'></script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/jquery/ui/resizable.min.js?ver=1.12.1' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/jquery/ui/draggable.min.js?ver=1.12.1' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.12.1' id='jquery-ui-controlgroup-js'></script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.12.1' id='jquery-ui-checkboxradio-js'></script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/jquery/ui/button.min.js?ver=1.12.1' id='jquery-ui-button-js'></script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/jquery/ui/dialog.min.js?ver=1.12.1' id='jquery-ui-dialog-js'></script>
+<script type='text/javascript' id='events-manager-js-extra'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"https:\/\/dscc.uic.edu\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/dscc.uic.edu\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"dd\/mm\/yyyy","ui_css":"https:\/\/dscc.uic.edu\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui.css","show24hours":"0","is_ssl":"1","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading...","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.99912' id='events-manager-js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://dscc.uic.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://dscc.uic.edu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.1" />
+<link rel="canonical" href="https://dscc.uic.edu/" />
+<link rel='shortlink' href='https://dscc.uic.edu/' />
+<link rel="alternate" type="application/json+oembed" href="https://dscc.uic.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdscc.uic.edu%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://dscc.uic.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdscc.uic.edu%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.4.12 stt:1,2;" />
+
+            <!--/ Facebook Thumb Fixer Open Graph /-->
+            <meta property="og:type" content="website" />
+            <meta property="og:url" content="https://dscc.uic.edu/" />
+            <meta property="og:title" content="Home" />
+            <meta property="og:description" content="googleb8c58516486a59af (1)" />
+            <meta property="og:site_name" content="UIC Specialized Care for Children" />
+            <meta property="og:image" content="https://dscc.uic.edu/wp-content/uploads/2019/03/DSC_4027_cropped-for-homepage.jpg" />
+            <meta property="og:image:alt" content="Little girl with hearing aids smiling while wearing a Wonder Woman costume" />
+            <meta property="og:image:width" content="455" />
+            <meta property="og:image:height" content="560" />
+
+            <meta itemscope itemtype="website" />
+            <meta itemprop="description" content="googleb8c58516486a59af (1)" />
+            <meta itemprop="image" content="https://dscc.uic.edu/wp-content/uploads/2019/03/DSC_4027_cropped-for-homepage.jpg" />
+
+            <meta name="twitter:card" content="summary_large_image" />
+            <meta name="twitter:url" content="https://dscc.uic.edu/" />
+            <meta name="twitter:title" content="Home" />
+            <meta name="twitter:description" content="googleb8c58516486a59af (1)" />
+            <meta name="twitter:image" content="https://dscc.uic.edu/wp-content/uploads/2019/03/DSC_4027_cropped-for-homepage.jpg" />
+
+            
+	<meta property="fb:app_id" content="2005453302910427" />
+	
+<link rel="alternate" type="application/rss+xml" title="UIC Specialized Care for Children GeoRSS-Feed" href="https://dscc.uic.edu/wp-content/plugins/leaflet-maps-marker/leaflet-georss.php?layer=all" />
+<!--[if lt IE 9]><script src="http://html5shiv-printshiv.googlecode.com/svn/trunk/html5shiv-printshiv.js"></script><script src="https://dscc.uic.edu/wp-content/themes/dscc_theme/js/respond.js"></script><![endif]-->		<style type="text/css" id="wp-custom-css">
+			div#n2-ss-2 {
+  display: block;
+}
+div#n2-ss-3, div#n2-ss-3-placeholder {
+  display: none;
+}
+
+@media only screen and (max-width: 440px) {
+  div#n2-ss-2, div#n2-ss-2-placeholder {
+    display: none;
+  }
+  div#n2-ss-3 {
+    display: block;
+  }
+}		</style>
+		<script>(function(){this._N2=this._N2||{_r:[],_d:[],r:function(){this._r.push(arguments)},d:function(){this._d.push(arguments)}}}).call(window);!function(a){a.indexOf("Safari")>0&&-1===a.indexOf("Chrome")&&document.documentElement.style.setProperty("--ss-safari-fix-225962","1px")}(navigator.userAgent);</script><script src="https://dscc.uic.edu/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=af21758e" defer async></script>
+<script src="https://dscc.uic.edu/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=af21758e" defer async></script>
+<script src="https://dscc.uic.edu/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/ss-simple.min.js?ver=af21758e" defer async></script>
+<script src="https://dscc.uic.edu/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Arrow/ArrowImage/Assets/dist/w-arrow-image.min.js?ver=af21758e" defer async></script>
+<script src="https://dscc.uic.edu/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Bullet/Assets/dist/w-bullet.min.js?ver=af21758e" defer async></script>
+<script>_N2.r('documentReady',function(){_N2.r(["documentReady","smartslider-frontend","SmartSliderWidgetArrowImage","ss-simple"],function(){new _N2.SmartSliderSimple('n2-ss-2',{"admin":false,"callbacks":"","background.video.mobile":1,"alias":{"id":0,"smoothScroll":0,"slideSwitch":0,"scroll":1},"align":"normal","isDelayed":0,"responsive":{"mediaQueries":{"all":false,"desktopportrait":["(min-width: 1200px)"],"tabletportrait":["(orientation: landscape) and (max-width: 1199px) and (min-width: 901px)","(orientation: portrait) and (max-width: 1199px) and (min-width: 701px)"],"mobileportrait":["(orientation: landscape) and (max-width: 900px)","(orientation: portrait) and (max-width: 700px)"]},"base":{"slideOuterWidth":1200,"slideOuterHeight":450,"sliderWidth":1200,"sliderHeight":450,"slideWidth":1200,"slideHeight":450},"hideOn":{"desktopLandscape":false,"desktopPortrait":false,"tabletLandscape":false,"tabletPortrait":false,"mobileLandscape":false,"mobilePortrait":false},"onResizeEnabled":true,"type":"fullwidth","sliderHeightBasedOn":"real","focusUser":1,"focusEdge":"auto","breakpoints":[{"device":"tabletPortrait","type":"max-screen-width","portraitWidth":1199,"landscapeWidth":1199},{"device":"mobilePortrait","type":"max-screen-width","portraitWidth":700,"landscapeWidth":900}],"enabledDevices":{"desktopLandscape":0,"desktopPortrait":1,"tabletLandscape":0,"tabletPortrait":1,"mobileLandscape":0,"mobilePortrait":1},"sizes":{"desktopPortrait":{"width":1200,"height":450,"max":3000,"min":1200},"tabletPortrait":{"width":701,"height":262,"customHeight":false,"max":1199,"min":701},"mobilePortrait":{"width":320,"height":120,"customHeight":false,"max":900,"min":320}},"overflowHiddenPage":0,"focus":{"offsetTop":"#wpadminbar","offsetBottom":""}},"controls":{"mousewheel":0,"touch":"horizontal","keyboard":1,"blockCarouselInteraction":1},"playWhenVisible":1,"playWhenVisibleAt":0.5,"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":1,"start":1,"duration":4000,"autoplayLoop":1,"allowReStart":0,"pause":{"click":1,"mouse":"0","mediaStarted":1},"resume":{"click":0,"mouse":0,"mediaEnded":1,"slidechanged":0},"interval":1,"intervalModifier":"loop","intervalSlide":"current"},"perspective":1500,"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"bgAnimations":0,"mainanimation":{"type":"crossfade","duration":600,"delay":0,"ease":"easeOutQuad","shiftedBackgroundAnimation":0},"carousel":1,"initCallbacks":function(){new _N2.SmartSliderWidgetArrowImage(this)}})});_N2.r(["documentReady","smartslider-frontend","SmartSliderWidgetBulletTransition","ss-simple"],function(){new _N2.SmartSliderSimple('n2-ss-3',{"admin":false,"callbacks":"","background.video.mobile":1,"alias":{"id":0,"smoothScroll":0,"slideSwitch":0,"scroll":1},"align":"normal","isDelayed":0,"responsive":{"mediaQueries":{"all":false,"desktopportrait":["(min-width: 1200px)"],"tabletportrait":["(orientation: landscape) and (max-width: 1199px) and (min-width: 901px)","(orientation: portrait) and (max-width: 1199px) and (min-width: 701px)"],"mobileportrait":["(orientation: landscape) and (max-width: 900px)","(orientation: portrait) and (max-width: 700px)"]},"base":{"slideOuterWidth":1200,"slideOuterHeight":600,"sliderWidth":1200,"sliderHeight":600,"slideWidth":1200,"slideHeight":600},"hideOn":{"desktopLandscape":false,"desktopPortrait":false,"tabletLandscape":false,"tabletPortrait":false,"mobileLandscape":false,"mobilePortrait":false},"onResizeEnabled":true,"type":"fullwidth","sliderHeightBasedOn":"real","focusUser":1,"focusEdge":"auto","breakpoints":[{"device":"tabletPortrait","type":"max-screen-width","portraitWidth":1199,"landscapeWidth":1199},{"device":"mobilePortrait","type":"max-screen-width","portraitWidth":700,"landscapeWidth":900}],"enabledDevices":{"desktopLandscape":0,"desktopPortrait":1,"tabletLandscape":0,"tabletPortrait":1,"mobileLandscape":0,"mobilePortrait":1},"sizes":{"desktopPortrait":{"width":1200,"height":600,"max":3000,"min":1200},"tabletPortrait":{"width":701,"height":350,"customHeight":false,"max":1199,"min":701},"mobilePortrait":{"width":320,"height":160,"customHeight":false,"max":900,"min":320}},"overflowHiddenPage":0,"focus":{"offsetTop":"#wpadminbar","offsetBottom":""}},"controls":{"mousewheel":0,"touch":"horizontal","keyboard":1,"blockCarouselInteraction":1},"playWhenVisible":1,"playWhenVisibleAt":0.5,"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":1,"start":1,"duration":4000,"autoplayLoop":1,"allowReStart":0,"pause":{"click":1,"mouse":"0","mediaStarted":1},"resume":{"click":0,"mouse":0,"mediaEnded":1,"slidechanged":0},"interval":1,"intervalModifier":"loop","intervalSlide":"current"},"perspective":1500,"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"bgAnimations":0,"mainanimation":{"type":"crossfade","duration":600,"delay":0,"ease":"easeOutQuad","shiftedBackgroundAnimation":0},"carousel":1,"initCallbacks":function(){new _N2.SmartSliderWidgetBulletTransition(this,{"area":12,"dotClasses":"n2-style-c0fe1c7a37b7b7c3cb83a8d1cde6e7ce-dot ","mode":"","action":"click"})}})})});</script></head>
+
+<body class="home page-template-default page page-id-92">
+  <!--[if lt IE 8]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+  <![endif]-->
+	<div id="sc_container" class="clearfix">
+		<header class="main-banner" role="banner">
+					<div class="wrap">
+				<div class="rs">
+					<div class="logo">
+						<a href="https://dscc.uic.edu" class="scc-logo horz"><img alt="SCC logo image" src="https://dscc.uic.edu/wp-content/themes/dscc_theme/img/dscc-logo-horz.png"></a>
+						<a href="https://dscc.uic.edu" class="scc-logo stacked"><img alt="SCC logo image" src="https://dscc.uic.edu/wp-content/themes/dscc_theme/img/dscc-logo-stacked.png"></a>
+						<img src="https://dscc.uic.edu/wp-content/themes/dscc_theme/img/dscc-logo-print.svg" alt="" class="print-logo"/>
+					</div><!-- .logo -->
+				</div>
+				<div class="info clearfix">
+					
+					<div class="tools">
+						<a href="https://dscc.uic.edu/find-an-office/contact-us/" class="button">Contact Us</a>
+					</div><!-- .tools -->
+					
+					<div class="searchboxes">
+						<div class="search">
+	<script>
+	  (function() {
+	    var cx = '001004384265063138324:nrnk4hj5bkc';
+	    var gcse = document.createElement('script');
+	    gcse.type = 'text/javascript';
+	    gcse.async = true;
+	    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+	        '//www.google.com/cse/cse.js?cx=' + cx;
+	    var s = document.getElementsByTagName('script')[0];
+	    s.parentNode.insertBefore(gcse, s);
+	  })();
+	</script>
+	<gcse:searchbox-only></gcse:searchbox-only>
+</div>							<div id="google_translate_element"></div>
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+                pageLanguage: 'en',
+                includedLanguages: 'es,hi,ko,pl,vi,zh-CN,zh-TW,fr',
+                layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+                gaTrack: true,
+                gaId: 'UA-45852860-1'},
+            'google_translate_element');
+        }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+						</div><!-- .searchboxes -->
+					<div class="menu-toggle"> 
+						<a class="button" href="#">Menu</a>
+					</div>
+				</div>
+			</div><!-- .wrap -->
+			<div class="wrap nav-wrap">
+				<div class="navbar">
+					<p class="description">We partner with Illinois families and communities to help children and youth with special healthcare needs connect to services and resources.</p>
+					<nav class="main-navigation clearfix" role="navigation">
+						<a class="visuallyhidden skip-link" href="#content" title="Skip to content">Skip to content</a>
+						<div class="menu-global-nav-container"><ul id="menu-global-nav" class="nav-menu"><li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-10"><a href="/" aria-current="page">Home</a></li>
+<li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-76"><a href="https://dscc.uic.edu/who-we-are/">Who We Are</a>
+<ul class="sub-menu">
+	<li id="menu-item-2493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2493"><a href="https://dscc.uic.edu/who-we-are/directors-greeting/">Executive Director’s Greeting</a></li>
+	<li id="menu-item-397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-397"><a href="https://dscc.uic.edu/who-we-are/about-us/">About Us</a></li>
+	<li id="menu-item-400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-400"><a href="https://dscc.uic.edu/who-we-are/history/">History</a></li>
+	<li id="menu-item-6108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6108"><a href="https://dscc.uic.edu/who-we-are/annual-report/">Annual Report</a></li>
+	<li id="menu-item-1627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1627"><a href="https://dscc.uic.edu/who-we-are/news/">News</a></li>
+	<li id="menu-item-3322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3322"><a href="https://dscc.uic.edu/who-we-are/events/">Events</a></li>
+	<li id="menu-item-1452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1452"><a href="https://dscc.uic.edu/who-we-are/family-stories/">Family Stories</a></li>
+	<li id="menu-item-399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399"><a href="https://dscc.uic.edu/who-we-are/family-advisory-council/">Family Advisory Council</a></li>
+	<li id="menu-item-401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401"><a href="https://dscc.uic.edu/who-we-are/medical-advisory-board/">Medical Advisory Board</a></li>
+	<li id="menu-item-4624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4624"><a href="https://dscc.uic.edu/who-we-are/employment-opportunities-3/">Employment Opportunities</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4625"><a href="https://dscc.uic.edu/who-we-are/employment-opportunities-3/career-search/">Join Our Team</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-392"><a href="https://dscc.uic.edu/how-we-help/">How We Help</a>
+<ul class="sub-menu">
+	<li id="menu-item-427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-427"><a href="https://dscc.uic.edu/how-we-help/">How We Help</a>
+	<ul class="sub-menu">
+		<li id="menu-item-413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-413"><a href="https://dscc.uic.edu/how-we-help/personalized-care-coordination/accessing-free-diagnostic-tests/">Accessing diagnostic tests</a></li>
+		<li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-414"><a href="https://dscc.uic.edu/how-we-help/personalized-care-coordination/finding-specialized-medical-care/">Finding specialized medical care</a></li>
+		<li id="menu-item-415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-415"><a href="https://dscc.uic.edu/how-we-help/personalized-care-coordination/using-insurance-all-kids-medicaid/">Using insurance &#038; All Kids / Medicaid</a></li>
+		<li id="menu-item-416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-416"><a href="https://dscc.uic.edu/how-we-help/personalized-care-coordination/finding-resources-information/">Finding resources &#038; information</a></li>
+		<li id="menu-item-417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-417"><a href="https://dscc.uic.edu/how-we-help/personalized-care-coordination/developing-a-care-plan/">Developing a care coordination plan</a></li>
+		<li id="menu-item-418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-418"><a href="https://dscc.uic.edu/how-we-help/personalized-care-coordination/communicating-with-doctors-specialists-schools/">Communicating with doctors, specialists &#038; schools</a></li>
+		<li id="menu-item-419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-419"><a href="https://dscc.uic.edu/how-we-help/personalized-care-coordination/preparing-for-transition/">Preparing for transition</a></li>
+		<li id="menu-item-420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-420"><a href="https://dscc.uic.edu/how-we-help/personalized-care-coordination/paying-for-certain-medical-expenses/">Paying for certain medical expenses</a></li>
+	</ul>
+</li>
+	<li id="menu-item-406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="https://dscc.uic.edu/how-we-help/does-it-cost-money/">Does It Cost Money?</a></li>
+	<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="https://dscc.uic.edu/how-we-help/is-my-child-eligible/">Is My Child Eligible?</a></li>
+	<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-409"><a href="https://dscc.uic.edu/how-we-help/our-programs/">Programs</a>
+	<ul class="sub-menu">
+		<li id="menu-item-410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-410"><a href="https://dscc.uic.edu/how-we-help/our-programs/core-program/">Core Program</a></li>
+		<li id="menu-item-411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-411"><a href="https://dscc.uic.edu/how-we-help/our-programs/home-care-program/">Home Care Program</a></li>
+	</ul>
+</li>
+	<li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="https://dscc.uic.edu/how-we-help/how-to-apply/">How To Apply</a></li>
+	<li id="menu-item-421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-421"><a href="https://dscc.uic.edu/how-we-help/refer-a-family/">Refer A Family</a></li>
+</ul>
+</li>
+<li id="menu-item-389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-389"><a href="https://dscc.uic.edu/find-an-office/">Find An Office</a>
+<ul class="sub-menu">
+	<li id="menu-item-1457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1457"><a href="https://dscc.uic.edu/find-an-office/">Find An Office</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1470" class="menu-item menu-item-type-post_type menu-item-object-dscc_office menu-item-1470"><a href="https://dscc.uic.edu/office/champaign-regional-office/">Champaign</a></li>
+		<li id="menu-item-1468" class="menu-item menu-item-type-post_type menu-item-object-dscc_office menu-item-1468"><a href="https://dscc.uic.edu/office/chicago-core-program-regional-office/">Chicago</a></li>
+		<li id="menu-item-1469" class="menu-item menu-item-type-post_type menu-item-object-dscc_office menu-item-1469"><a href="https://dscc.uic.edu/office/chicago-home-care-office/">Chicago Home Care</a></li>
+		<li id="menu-item-2738" class="menu-item menu-item-type-post_type menu-item-object-dscc_office menu-item-2738"><a href="https://dscc.uic.edu/office/lombard-regional-office/">Lombard</a></li>
+		<li id="menu-item-1466" class="menu-item menu-item-type-post_type menu-item-object-dscc_office menu-item-1466"><a href="https://dscc.uic.edu/office/marion-regional-office/">Marion</a></li>
+		<li id="menu-item-3035" class="menu-item menu-item-type-post_type menu-item-object-dscc_office menu-item-3035"><a href="https://dscc.uic.edu/office/mokena-regional-office-2/">Mokena</a></li>
+		<li id="menu-item-1464" class="menu-item menu-item-type-post_type menu-item-object-dscc_office menu-item-1464"><a href="https://dscc.uic.edu/office/olney-regional-office/">Olney</a></li>
+		<li id="menu-item-1463" class="menu-item menu-item-type-post_type menu-item-object-dscc_office menu-item-1463"><a href="https://dscc.uic.edu/office/peoria-regional-office/">Peoria</a></li>
+		<li id="menu-item-1462" class="menu-item menu-item-type-post_type menu-item-object-dscc_office menu-item-1462"><a href="https://dscc.uic.edu/office/rockford-regional-office/">Rockford</a></li>
+		<li id="menu-item-2976" class="menu-item menu-item-type-post_type menu-item-object-dscc_office menu-item-2976"><a href="https://dscc.uic.edu/office/springfield-administrative-office/">Springfield Administrative Office</a></li>
+		<li id="menu-item-1459" class="menu-item menu-item-type-post_type menu-item-object-dscc_office menu-item-1459"><a href="https://dscc.uic.edu/office/springfield-regional-office/">Springfield</a></li>
+		<li id="menu-item-1458" class="menu-item menu-item-type-post_type menu-item-object-dscc_office menu-item-1458"><a href="https://dscc.uic.edu/office/st-clair-regional-office/">St. Clair</a></li>
+	</ul>
+</li>
+	<li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="https://dscc.uic.edu/find-an-office/contact-us/">Contact Us</a></li>
+	<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="https://dscc.uic.edu/find-an-office/request-a-callback/">Request a Callback</a></li>
+</ul>
+</li>
+<li id="menu-item-388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-388"><a href="https://dscc.uic.edu/browse-resources/">Browse Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-426"><a href="https://dscc.uic.edu/browse-resources/resource-directory/">Resource Directory</a>
+	<ul class="sub-menu">
+		<li id="menu-item-11103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11103"><a href="https://dscc.uic.edu/browse-resources/covid-resources/">COVID-19 Resources and Supports for Families</a></li>
+		<li id="menu-item-998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-998"><a href="https://dscc.uic.edu/browse-resources/transition-resources/">Transition Tools</a></li>
+	</ul>
+</li>
+	<li id="menu-item-13424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13424"><a href="https://dscc.uic.edu/home-care-nursing-information-for-families/">Home Care Nursing Information for Families</a></li>
+	<li id="menu-item-425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425"><a href="https://dscc.uic.edu/browse-resources/parent-to-parent-support/">Parent to Parent Support</a></li>
+	<li id="menu-item-1170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1170"><a href="https://dscc.uic.edu/browse-resources/available-brochures-pamphlets/">Brochures and Pamphlets</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1232"><a href="https://dscc.uic.edu/browse-resources/request-brochures-pamphlets/">Request Brochures and Pamphlets</a></li>
+	</ul>
+</li>
+	<li id="menu-item-423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-423"><a href="https://dscc.uic.edu/browse-resources/forms/">Forms</a></li>
+	<li id="menu-item-424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-424"><a href="https://dscc.uic.edu/browse-resources/glossary/">Glossary</a></li>
+</ul>
+</li>
+<li id="menu-item-390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-390"><a href="https://dscc.uic.edu/for-providers/">For Providers</a>
+<ul class="sub-menu">
+	<li id="menu-item-5996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5996"><a href="https://dscc.uic.edu/for-providers/how-we-help-providers/">How We Help Providers</a></li>
+	<li id="menu-item-473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-473"><a href="https://dscc.uic.edu/for-providers/provider-criteria-2/">Provider Application</a></li>
+	<li id="menu-item-12602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12602"><a href="https://dscc.uic.edu/nursing-agency-application/">Nursing Agency Application</a></li>
+	<li id="menu-item-494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-494"><a href="https://dscc.uic.edu/for-providers/reimbursement-information/">Reimbursement Information</a></li>
+	<li id="menu-item-497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-497"><a href="https://dscc.uic.edu/for-providers/explanation-of-provider-benefits/">Explanation of Provider Payments</a></li>
+	<li id="menu-item-500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a href="https://dscc.uic.edu/for-providers/provider-forms/">Provider Forms</a></li>
+	<li id="menu-item-7511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7511"><a href="https://dscc.uic.edu/for-providers/home-care-information-and-resources/">Home Care Information and Resources for Providers</a></li>
+	<li id="menu-item-504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-504"><a href="https://dscc.uic.edu/for-providers/tools-resources/">Tools and Resources</a></li>
+	<li id="menu-item-569" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569"><a href="https://provider.dscc.uic.edu">Provider Portal</a></li>
+	<li id="menu-item-2469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2469"><a href="https://dscc.uic.edu/for-providers/refer-a-family/">Refer A Family</a></li>
+</ul>
+</li>
+</ul></div>					
+					</nav>
+					<div class="mobile-items">
+						<a href="https://dscc.uic.edu/find-an-office/contact-us/" class="menu-button">Contact Us</a>
+						<div class="mobile-searchboxes">
+							<div class="search">
+	<script>
+	  (function() {
+	    var cx = '001004384265063138324:nrnk4hj5bkc';
+	    var gcse = document.createElement('script');
+	    gcse.type = 'text/javascript';
+	    gcse.async = true;
+	    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+	        '//www.google.com/cse/cse.js?cx=' + cx;
+	    var s = document.getElementsByTagName('script')[0];
+	    s.parentNode.insertBefore(gcse, s);
+	  })();
+	</script>
+	<gcse:searchbox-only></gcse:searchbox-only>
+</div>						</div>
+					</div>
+				</div>
+			</div>
+			
+		</header><!-- #masthead -->
+<main id="content" role="main">
+	<div class="home-block-1">
+		<div class="wrap">
+			<div class="col1">
+			<h2 class="here-to-help">We’re here to help.</h2>			<p class="text">We partner with Illinois families and communities to help children and youth with special healthcare needs connect to services and resources.</p>
+			<div class="button-container">
+			<p><a class="button " href="https://dscc.uic.edu/how-we-help/is-my-child-eligible/">Is my child eligible?</a></p><p><a class="button " href="https://dscc.uic.edu/how-we-help/how-to-apply/">Apply Now</a></p>			</div>
+			<div class="home-arrow"><img alt="feature image" src="https://dscc.uic.edu/wp-content/themes/dscc_theme/img/home-arrow.png"></div>
+			</div>
+			<div class="col2">
+                			        <img width="455" height="560" src="https://dscc.uic.edu/wp-content/uploads/2019/03/DSC_4027_cropped-for-homepage.jpg" class="attachment-full size-full wp-post-image" alt="Little girl with hearing aids smiling while wearing a Wonder Woman costume" loading="lazy" srcset="https://dscc.uic.edu/wp-content/uploads/2019/03/DSC_4027_cropped-for-homepage.jpg 455w, https://dscc.uic.edu/wp-content/uploads/2019/03/DSC_4027_cropped-for-homepage-244x300.jpg 244w" sizes="(max-width: 455px) 100vw, 455px" />                			</div>
+			<div class="background-images">
+				<div class="cloud1a"></div>
+				<div class="cloud1b"></div>
+				<div class="cloud2"></div>
+				<div class="sun"></div>
+				<div class="flower"></div>
+			</div>
+		</div>
+	</div>
+	<div class="home-block-2">
+		<div class="wrap">
+			<h2 class="how-we-help">How we help.</h2>
+			<p>How we help you and your child depends on your specific preferences and needs.  Our Care Coordinators can support you in the following areas:</p>
+			<div class="styled-list"><ul><li class=""><a href="https://dscc.uic.edu/how-we-help/personalized-care-coordination/accessing-free-diagnostic-tests/">Accessing diagnostic tests</a></li><li class="colbreak2 "><a href="https://dscc.uic.edu/how-we-help/personalized-care-coordination/finding-specialized-medical-care/">Finding specialized medical care</a></li><li class="colbreak3 "><a href="https://dscc.uic.edu/how-we-help/personalized-care-coordination/using-insurance-all-kids-medicaid/">Using insurance &#038; All Kids / Medicaid</a></li><li class="colbreak2 "><a href="https://dscc.uic.edu/how-we-help/personalized-care-coordination/finding-resources-information/">Finding resources &#038; information</a></li><li class=""><a href="https://dscc.uic.edu/how-we-help/personalized-care-coordination/developing-a-care-plan/">Developing a care coordination plan</a></li><li class="colbreak2 colbreak3 "><a href="https://dscc.uic.edu/how-we-help/personalized-care-coordination/communicating-with-doctors-specialists-schools/">Communicating with doctors, specialists &#038; schools</a></li><li class=""><a href="https://dscc.uic.edu/how-we-help/personalized-care-coordination/preparing-for-transition/">Preparing for transition</a></li><li class="colbreak2 "><a href="https://dscc.uic.edu/how-we-help/personalized-care-coordination/paying-for-certain-medical-expenses/">Paying for certain medical expenses</a></li><li class="ie8-last-child"><a href="https://dscc.uic.edu/how-we-help/" class="button">Learn More &#xbb;</a></li></ul></div>			<div class="home-arrow"><img alt="feature image" src="https://dscc.uic.edu/wp-content/themes/dscc_theme/img/home-arrow.png" /></div>
+		</div>
+	</div>
+	<div class="home-block-3">
+		<div class="wrap">
+							<div class="featured-img">
+				<img width="550" height="380" src="https://dscc.uic.edu/wp-content/uploads/2019/02/Trooper-Orosco-2-cropped-for-web.jpg" class="attachment-full size-full wp-post-image" alt="Trooper Orosco portrait" loading="lazy" srcset="https://dscc.uic.edu/wp-content/uploads/2019/02/Trooper-Orosco-2-cropped-for-web.jpg 550w, https://dscc.uic.edu/wp-content/uploads/2019/02/Trooper-Orosco-2-cropped-for-web-300x207.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" />			</div>
+			<div class="story-wrapper">
+				<h2 class="family-stories">Who we help.</h2>
+				<p>We serve thousands of families in all counties across the State of Illinois.</p>
+				<div class="pull-quote">
+					<blockquote>
+					The reassurance you gave me that (my Care Coordinator) was here and he understood and if I needed anything, I could just call or come to the office and it was OK. There was nothing we couldn’t handle.					</blockquote>
+					<footer>&mdash; Trooper's mom, Brandy Santiago  </footer>
+					<p><a class="button" href="https://dscc.uic.edu/who-we-are/family-stories/">Read family stories &raquo;</a></p>
+				</div>
+			</div>
+				</div>
+	</div>
+
+		<div class="home-featured-stories-slider">
+		<div class="wrap">
+	<div class="n2-section-smartslider fitvidsignore " data-ssid="2" tabindex="0" role="region" aria-label="Slider"><div class="n2-ss-margin" style="margin: 0px 0px 0px -25px;"><div id="n2-ss-2-align" class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-2" data-creator="Smart Slider 3" data-responsive="fullwidth" class="n2-ss-slider n2-ow n2-has-hover n2notransition  "><div class="n2-ss-slider-wrapper-inside">
+        <div class="n2-ss-slider-1 n2_ss__touch_element n2-ow" style="">
+            <div class="n2-ss-slider-2 n2-ow">
+                                                <div class="n2-ss-slider-3 n2-ow" style="">
+
+                    <div class="n2-ss-slide-backgrounds n2-ow-all"><div class="n2-ss-slide-background" data-public-id="1" data-mode="fit"><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="2" data-mode="fit"><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="3" data-mode="fit"><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div></div>                    <div class="n2-ss-slider-4 n2-ow">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 450" data-related-device="desktopPortrait" class="n2-ow n2-ss-preserve-size n2-ss-preserve-size--slider n2-ss-slide-limiter"></svg><div data-first="1" data-slide-duration="5" data-id="4" data-slide-public-id="1" data-title="Transition Conference Prepares Youth With Disabilities for Adulthood" class="n2-ss-slide n2-ow  n2-ss-slide-4"><div role="note" class="n2-ss-slide--focus" tabindex="-1">Transition Conference Prepares Youth With Disabilities for Adulthood</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-mQOSNXt6B54V" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n-uc-5S2U5YXZ394I" data-pm="default" data-sstype="content" data-hasbackground="0"><div class="n2-ss-section-main-content n2-ss-layer-with-background n2-ss-layer-content n2-ow n-uc-5S2U5YXZ394I-inner"><div class="n2-ss-layer n2-ow n2-ss-layer--block n2-ss-has-self-align n-uc-0DtQ7yhKchVZ" data-pm="normal" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-0DtQ7yhKchVZ-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow n-uc-mWn3sKYzgdX8" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-mWn3sKYzgdX8-inner"><div class="n2-ss-layer n2-ow n-uc-as8Gf2nNLQq0" data-pm="normal" data-sstype="layer"><div class=" n2-ss-item-image n2-ss-item-content n2-ow-all"><a href="https://dscc.uic.edu/transition-conference-prepares-youth-with-disabilities-for-adulthood/"><img id="n2-ss-2item1" alt="" class="skip-lazy" style="width:504px;height:366px" width="550" height="440" data-skip-lazy="1" src="https://dscc.uic.edu/wp-content/uploads/2021/11/conference-brochure-cropped-for-web.jpg" /></a></div></div></div></div><div class="n2-ss-layer n2-ow n-uc-T94dneMr6SWb" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-T94dneMr6SWb-inner"><div class="n2-ss-layer n2-ow n-uc-YBlTdUJFJ7Dn" data-pm="normal" data-sstype="layer"><div id="n2-ss-2item2" class="  n2-ss-item-content n2-ss-text n2-ow" style="display:block;"><a class="n2-ow n2-font-4be6055f6e4c5b2f9c7051a8f55e8746-hover n2-style-7544f9a57e0978af1d50c64eba41a0e4-heading " style="display:block;" href="https://dscc.uic.edu/transition-conference-prepares-youth-with-disabilities-for-adulthood/">Transition Conference Prepares Youth With Disabilities for Adulthood</a></div></div><div class="n2-ss-layer n2-ow n-uc-tTC9tqou3iKS" data-pm="normal" data-hidetabletportrait="1" data-hidemobileportrait="1" data-sstype="layer"><div class="n2-ss-item-content n2-ss-text n2-ow-all"><div data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-f4835df17ec1b7527276a9e51900dbbe-paragraph  n2-style-74f9010c2ef322e6e5208910ec81faa7-heading  "><a href="https://dscc.uic.edu/transition-conference-prepares-youth-with-disabilities-for-adulthood/" title="Transition Conference Prepares Youth With Disabilities for Adulthood" style="font-family: 'ABeeZee', sans-serif">Read more<br />
+</a></p>
+</div><div class="" data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-mobilelandscape="1" data-hide-mobileportrait="1"><p class="n2-font-f4835df17ec1b7527276a9e51900dbbe-paragraph  n2-style-74f9010c2ef322e6e5208910ec81faa7-heading "><a href="https://dscc.uic.edu/transition-conference-prepares-youth-with-disabilities-for-adulthood/" title="Transition Conference Prepares Youth With Disabilities for Adulthood" style="font-family: 'ABeeZee', sans-serif">Read more<br />
+</a></p>
+</div><div class="" data-hide-mobilelandscape="1" data-hide-mobileportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-f4835df17ec1b7527276a9e51900dbbe-paragraph  n2-style-74f9010c2ef322e6e5208910ec81faa7-heading  ">Families and professionals came together in person and virtually at the annual Stepping Stones of Transition Conference in East Peoria to improve outcomes for transition-age youth with special needs</p>
+<p class="n2-font-f4835df17ec1b7527276a9e51900dbbe-paragraph  n2-style-74f9010c2ef322e6e5208910ec81faa7-heading  ">As a single parent raising a child ...</p>
+<p class="n2-font-f4835df17ec1b7527276a9e51900dbbe-paragraph  n2-style-74f9010c2ef322e6e5208910ec81faa7-heading  "><a href="https://dscc.uic.edu/transition-conference-prepares-youth-with-disabilities-for-adulthood/" title="Transition Conference Prepares Youth With Disabilities for Adulthood" style="font-family: 'ABeeZee', sans-serif;font-size:24px; color: #1E5A95FF">Read more ▶︎</a></p>
+</div></div></div></div></div></div></div></div></div></div></div></div></div><div data-slide-duration="5" data-id="4" data-slide-public-id="2" data-title="New Support Group and Workshop Series for Home Care Families" class="n2-ss-slide n2-ow  n2-ss-slide-4"><div role="note" class="n2-ss-slide--focus" tabindex="-1">New Support Group and Workshop Series for Home Care Families</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-nZOLWknVrmYO1" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n-uc-42AJM0aijqxX1" data-pm="default" data-sstype="content" data-hasbackground="0"><div class="n2-ss-section-main-content n2-ss-layer-with-background n2-ss-layer-content n2-ow n-uc-42AJM0aijqxX1-inner"><div class="n2-ss-layer n2-ow n2-ss-layer--block n2-ss-has-self-align n-uc-cqMRZfyPkugK1" data-pm="normal" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-cqMRZfyPkugK1-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow n-uc-hadzPqRLAQ2N1" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-hadzPqRLAQ2N1-inner"><div class="n2-ss-layer n2-ow n-uc-fXjMsuAg1QZe1" data-pm="normal" data-sstype="layer"><div class=" n2-ss-item-image n2-ss-item-content n2-ow-all"><a href="https://dscc.uic.edu/new-support-group-and-workshop-series-for-home-care-families/"><img id="n2-ss-2item4" alt="" class="skip-lazy" style="width:504px;height:366px" loading="lazy" width="550" height="392" data-skip-lazy="1" src="https://dscc.uic.edu/wp-content/uploads/2021/10/Parent-to-Parent-Support-Web-Graphic-e1634740257513.png" /></a></div></div></div></div><div class="n2-ss-layer n2-ow n-uc-Xrvf6OjMlQLi1" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-Xrvf6OjMlQLi1-inner"><div class="n2-ss-layer n2-ow n-uc-2CrR9GYAQTW81" data-pm="normal" data-sstype="layer"><div id="n2-ss-2item5" class="  n2-ss-item-content n2-ss-text n2-ow" style="display:block;"><a class="n2-ow n2-font-4be6055f6e4c5b2f9c7051a8f55e8746-hover n2-style-7544f9a57e0978af1d50c64eba41a0e4-heading " style="display:block;" href="https://dscc.uic.edu/new-support-group-and-workshop-series-for-home-care-families/">New Support Group and Workshop Series for Home Care Families</a></div></div><div class="n2-ss-layer n2-ow n-uc-KR1o3xB6Um6x1" data-pm="normal" data-hidetabletportrait="1" data-hidemobileportrait="1" data-sstype="layer"><div class="n2-ss-item-content n2-ss-text n2-ow-all"><div data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-f4835df17ec1b7527276a9e51900dbbe-paragraph  n2-style-74f9010c2ef322e6e5208910ec81faa7-heading  "><a href="https://dscc.uic.edu/new-support-group-and-workshop-series-for-home-care-families/" title="New Support Group and Workshop Series for Home Care Families" style="font-family: 'ABeeZee', sans-serif">Read more<br />
+</a></p>
+</div><div class="" data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-mobilelandscape="1" data-hide-mobileportrait="1"><p class="n2-font-f4835df17ec1b7527276a9e51900dbbe-paragraph  n2-style-74f9010c2ef322e6e5208910ec81faa7-heading "><a href="https://dscc.uic.edu/new-support-group-and-workshop-series-for-home-care-families/" title="New Support Group and Workshop Series for Home Care Families" style="font-family: 'ABeeZee', sans-serif">Read more<br />
+</a></p>
+</div><div class="" data-hide-mobilelandscape="1" data-hide-mobileportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-f4835df17ec1b7527276a9e51900dbbe-paragraph  n2-style-74f9010c2ef322e6e5208910ec81faa7-heading  ">DSCC partners with IL LEND to offer an online space for connection and education for parents and caregivers of Home Care Program participants </p>
+<p class="n2-font-f4835df17ec1b7527276a9e51900dbbe-paragraph  n2-style-74f9010c2ef322e6e5208910ec81faa7-heading  ">The University of Illinois Chicago’s Division of Specialized Care for Children (DSCC) is pa...</p>
+<p class="n2-font-f4835df17ec1b7527276a9e51900dbbe-paragraph  n2-style-74f9010c2ef322e6e5208910ec81faa7-heading  "><a href="https://dscc.uic.edu/new-support-group-and-workshop-series-for-home-care-families/" title="New Support Group and Workshop Series for Home Care Families" style="font-family: 'ABeeZee', sans-serif;font-size:24px; color: #1E5A95FF">Read more ▶︎</a></p>
+</div></div></div></div></div></div></div></div></div></div></div></div></div><div data-slide-duration="5" data-id="4" data-slide-public-id="3" data-title="Resources for Special Needs Families During COVID-19 Outbreak" class="n2-ss-slide n2-ow  n2-ss-slide-4"><div role="note" class="n2-ss-slide--focus" tabindex="-1">Resources for Special Needs Families During COVID-19 Outbreak</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-V6bXSFhms3sV2" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n-uc-UhcfyvRAPq7k2" data-pm="default" data-sstype="content" data-hasbackground="0"><div class="n2-ss-section-main-content n2-ss-layer-with-background n2-ss-layer-content n2-ow n-uc-UhcfyvRAPq7k2-inner"><div class="n2-ss-layer n2-ow n2-ss-layer--block n2-ss-has-self-align n-uc-h7yJV7EXYE0c2" data-pm="normal" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-h7yJV7EXYE0c2-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow n-uc-4aS79EFsDfNB2" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-4aS79EFsDfNB2-inner"><div class="n2-ss-layer n2-ow n-uc-6LdABd96l5EB2" data-pm="normal" data-sstype="layer"><div class=" n2-ss-item-image n2-ss-item-content n2-ow-all"><a href="https://dscc.uic.edu/resources-for-special-needs-families-during-covid-19-outbreak/"><img id="n2-ss-2item7" alt="" class="skip-lazy" style="width:504px;height:366px" loading="lazy" width="550" height="400" data-skip-lazy="1" src="https://dscc.uic.edu/wp-content/uploads/2020/03/WEB-COVID-19-Resources-and-Support-Graphic.png" /></a></div></div></div></div><div class="n2-ss-layer n2-ow n-uc-sLuJxXLQfODF2" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-sLuJxXLQfODF2-inner"><div class="n2-ss-layer n2-ow n-uc-kRhI07fhSt2a2" data-pm="normal" data-sstype="layer"><div id="n2-ss-2item8" class="  n2-ss-item-content n2-ss-text n2-ow" style="display:block;"><a class="n2-ow n2-font-4be6055f6e4c5b2f9c7051a8f55e8746-hover n2-style-7544f9a57e0978af1d50c64eba41a0e4-heading " style="display:block;" href="https://dscc.uic.edu/resources-for-special-needs-families-during-covid-19-outbreak/">Resources for Special Needs Families During COVID-19 Outbreak</a></div></div><div class="n2-ss-layer n2-ow n-uc-URhMFr4rMDep2" data-pm="normal" data-hidetabletportrait="1" data-hidemobileportrait="1" data-sstype="layer"><div class="n2-ss-item-content n2-ss-text n2-ow-all"><div data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-f4835df17ec1b7527276a9e51900dbbe-paragraph  n2-style-74f9010c2ef322e6e5208910ec81faa7-heading  "><a href="https://dscc.uic.edu/resources-for-special-needs-families-during-covid-19-outbreak/" title="Resources for Special Needs Families During COVID-19 Outbreak" style="font-family: 'ABeeZee', sans-serif">Read more<br />
+</a></p>
+</div><div class="" data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-mobilelandscape="1" data-hide-mobileportrait="1"><p class="n2-font-f4835df17ec1b7527276a9e51900dbbe-paragraph  n2-style-74f9010c2ef322e6e5208910ec81faa7-heading "><a href="https://dscc.uic.edu/resources-for-special-needs-families-during-covid-19-outbreak/" title="Resources for Special Needs Families During COVID-19 Outbreak" style="font-family: 'ABeeZee', sans-serif">Read more<br />
+</a></p>
+</div><div class="" data-hide-mobilelandscape="1" data-hide-mobileportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-f4835df17ec1b7527276a9e51900dbbe-paragraph  n2-style-74f9010c2ef322e6e5208910ec81faa7-heading  ">Meals, financial help, health tips, condition-specific information, learning tools and more to support families of children with special healthcare needs. </p>
+<p class="n2-font-f4835df17ec1b7527276a9e51900dbbe-paragraph  n2-style-74f9010c2ef322e6e5208910ec81faa7-heading  ">Parents and caregivers have a lot to juggle as they care for a child with spec...</p>
+<p class="n2-font-f4835df17ec1b7527276a9e51900dbbe-paragraph  n2-style-74f9010c2ef322e6e5208910ec81faa7-heading  "><a href="https://dscc.uic.edu/resources-for-special-needs-families-during-covid-19-outbreak/" title="Resources for Special Needs Families During COVID-19 Outbreak" style="font-family: 'ABeeZee', sans-serif;font-size:24px; color: #1E5A95FF">Read more ▶︎</a></p>
+</div></div></div></div></div></div></div></div></div></div></div></div></div>                    </div>
+
+                                    </div>
+            </div>
+        </div>
+        <div class="n2-ss-slider-controls n2-ss-slider-controls-absolute-left-center"><div style="--widget-offset:15px;" class="n2-ss-widget n2-style-98fd0805bb762d322ced52161ccda2dd-heading nextend-arrow n2-ow-all nextend-arrow-previous  nextend-arrow-animated-fade" data-hide-mobileportrait="1" id="n2-ss-2-arrow-previous" role="button" aria-label="previous arrow" tabindex="0"><img width="32" height="32" class="skip-lazy" data-skip-lazy="1" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0yMS41OCAyMy41OGwtNy45NjItNy41ODMgNy44Ni03LjQ4NWMuMzItLjI2Mi41MjItLjY1LjUyMi0xLjA4M0MyMiA2LjY0IDIxLjMyOCA2IDIwLjUgNmMtLjQwMyAwLS43NjguMTUtMS4wMzguMzk4bC0uMDA0LS4wMDQtOSA4LjU3di4wMDJjLS4yODIuMjYtLjQ1OC42MjQtLjQ1OCAxLjAyOFYxNmMwIC40MDQuMTc2Ljc3LjQ2IDEuMDNoLS4wMDJsOSA4LjU3Yy4yNy4yNDcuNjM4LjQgMS4wNDIuNC44MyAwIDEuNS0uNjQgMS41LTEuNDMgMC0uMzg0LS4xNi0uNzMzLS40Mi0uOTl6IgogICAgICAgICAgZmlsbD0iIzFlNWE5NSIgb3BhY2l0eT0iMSIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==" alt="previous arrow"></div></div><div class="n2-ss-slider-controls n2-ss-slider-controls-absolute-right-center"><div style="--widget-offset:15px;" class="n2-ss-widget n2-style-98fd0805bb762d322ced52161ccda2dd-heading nextend-arrow n2-ow-all nextend-arrow-next  nextend-arrow-animated-fade" data-hide-mobileportrait="1" id="n2-ss-2-arrow-next" role="button" aria-label="next arrow" tabindex="0"><img width="32" height="32" class="skip-lazy" data-skip-lazy="1" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0yMiAxNS45OTd2LS4wMDNjMC0uNDA0LS4xNzYtLjc2OC0uNDYtMS4wMjhoLjAwMmwtOS04LjU3Mi0uMDA0LjAwNEMxMi4yNjggNi4xNSAxMS45MDIgNiAxMS41IDZjLS44MyAwLTEuNS42NC0xLjUgMS40MyAwIC40MzIuMjAzLjgyLjUyMyAxLjA4Mmw3Ljg2IDcuNDg1LTcuOTYzIDcuNTgzYy0uMjYuMjU3LS40Mi42MDYtLjQyLjk5IDAgLjc5LjY3IDEuNDMgMS41IDEuNDMuNDA0IDAgLjc3LS4xNTMgMS4wNC0uNGw5LjAwMi04LjU3di0uMDAyYy4yODItLjI2LjQ1OC0uNjI0LjQ1OC0xLjAyOHYtLjAwM3oiCiAgICAgICAgICBmaWxsPSIjMWU1YTk1IiBvcGFjaXR5PSIxIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz4KPC9zdmc+" alt="next arrow"></div></div></div></div><ss3-loader></ss3-loader></div></div><div class="n2_clear"></div></div></div><div><ss3-force-full-width data-overflow-x="body" data-horizontal-selector="body"><div class="n2-section-smartslider fitvidsignore " data-ssid="3" tabindex="0" role="region" aria-label="Slider"><div class="n2-ss-margin" style="margin: 0px 0px 0px -25px;"><div id="n2-ss-3-align" class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-3" data-creator="Smart Slider 3" data-responsive="fullwidth" class="n2-ss-slider n2-ow n2-has-hover n2notransition  "><div class="n2-ss-slider-wrapper-outside" style="grid-template-rows:1fr auto">
+        <div class="n2-ss-slider-1 n2_ss__touch_element n2-ow" style="">
+            <div class="n2-ss-slider-2 n2-ow">
+                                                <div class="n2-ss-slider-3 n2-ow" style="">
+
+                    <div class="n2-ss-slide-backgrounds n2-ow-all"><div class="n2-ss-slide-background" data-public-id="1" data-mode="fit"><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="2" data-mode="fit"><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="3" data-mode="fit"><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div></div>                    <div class="n2-ss-slider-4 n2-ow">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" data-related-device="desktopPortrait" class="n2-ow n2-ss-preserve-size n2-ss-preserve-size--slider n2-ss-slide-limiter"></svg><div data-first="1" data-slide-duration="5" data-id="5" data-slide-public-id="1" data-title="Transition Conference Prepares Youth With Disabilities for Adulthood" class="n2-ss-slide n2-ow  n2-ss-slide-5"><div role="note" class="n2-ss-slide--focus" tabindex="-1">Transition Conference Prepares Youth With Disabilities for Adulthood</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-FC2sQWIJwddf" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n-uc-ybZsTck7cCht" data-pm="default" data-sstype="content" data-hasbackground="0"><div class="n2-ss-section-main-content n2-ss-layer-with-background n2-ss-layer-content n2-ow n-uc-ybZsTck7cCht-inner"><div class="n2-ss-layer n2-ow n2-ss-layer--block n2-ss-has-self-align n-uc-m8jacgHv5PCe" data-pm="normal" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-m8jacgHv5PCe-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow n-uc-LJFUBpT1sNQ0" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-LJFUBpT1sNQ0-inner"><div class="n2-ss-layer n2-ow n-uc-aAWqq2mpWEnJ" data-pm="normal" data-sstype="layer"><div class=" n2-ss-item-image n2-ss-item-content n2-ow-all"><a href="https://dscc.uic.edu/transition-conference-prepares-youth-with-disabilities-for-adulthood/"><img id="n2-ss-3item1" alt="" class="skip-lazy" width="550" height="440" data-skip-lazy="1" src="https://dscc.uic.edu/wp-content/uploads/2021/11/conference-brochure-cropped-for-web.jpg" /></a></div></div><div class="n2-ss-layer n2-ow n-uc-V76zpKPCEBUY" data-pm="normal" data-sstype="layer"><div id="n2-ss-3item2" class="  n2-ss-item-content n2-ss-text n2-ow" style="display:block;"><a class="n2-ow n2-font-8e6ed6fd59e640a08f11fa77fbb7a292-hover n2-style-7544f9a57e0978af1d50c64eba41a0e4-heading " style="display:block;" href="https://dscc.uic.edu/transition-conference-prepares-youth-with-disabilities-for-adulthood/">Transition Conference Prepares Youth With Disabilities for Adulthood</a></div></div></div></div></div></div></div></div></div></div></div></div><div data-slide-duration="5" data-id="5" data-slide-public-id="2" data-title="New Support Group and Workshop Series for Home Care Families" class="n2-ss-slide n2-ow  n2-ss-slide-5"><div role="note" class="n2-ss-slide--focus" tabindex="-1">New Support Group and Workshop Series for Home Care Families</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-ovrTThSF7uEE1" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n-uc-aoFnBW0qkltM1" data-pm="default" data-sstype="content" data-hasbackground="0"><div class="n2-ss-section-main-content n2-ss-layer-with-background n2-ss-layer-content n2-ow n-uc-aoFnBW0qkltM1-inner"><div class="n2-ss-layer n2-ow n2-ss-layer--block n2-ss-has-self-align n-uc-tPOlzO37vx4Q1" data-pm="normal" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-tPOlzO37vx4Q1-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow n-uc-FPEXqaU3mhwk1" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-FPEXqaU3mhwk1-inner"><div class="n2-ss-layer n2-ow n-uc-k13iKZDGw3YE1" data-pm="normal" data-sstype="layer"><div class=" n2-ss-item-image n2-ss-item-content n2-ow-all"><a href="https://dscc.uic.edu/new-support-group-and-workshop-series-for-home-care-families/"><img id="n2-ss-3item3" alt="" class="skip-lazy" loading="lazy" width="550" height="392" data-skip-lazy="1" src="https://dscc.uic.edu/wp-content/uploads/2021/10/Parent-to-Parent-Support-Web-Graphic-e1634740257513.png" /></a></div></div><div class="n2-ss-layer n2-ow n-uc-IKJ57KsEZu9M1" data-pm="normal" data-sstype="layer"><div id="n2-ss-3item4" class="  n2-ss-item-content n2-ss-text n2-ow" style="display:block;"><a class="n2-ow n2-font-8e6ed6fd59e640a08f11fa77fbb7a292-hover n2-style-7544f9a57e0978af1d50c64eba41a0e4-heading " style="display:block;" href="https://dscc.uic.edu/new-support-group-and-workshop-series-for-home-care-families/">New Support Group and Workshop Series for Home Care Families</a></div></div></div></div></div></div></div></div></div></div></div></div><div data-slide-duration="5" data-id="5" data-slide-public-id="3" data-title="Resources for Special Needs Families During COVID-19 Outbreak" class="n2-ss-slide n2-ow  n2-ss-slide-5"><div role="note" class="n2-ss-slide--focus" tabindex="-1">Resources for Special Needs Families During COVID-19 Outbreak</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-GJWWtfDai5aw2" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n-uc-cG9Ohv5j8tLZ2" data-pm="default" data-sstype="content" data-hasbackground="0"><div class="n2-ss-section-main-content n2-ss-layer-with-background n2-ss-layer-content n2-ow n-uc-cG9Ohv5j8tLZ2-inner"><div class="n2-ss-layer n2-ow n2-ss-layer--block n2-ss-has-self-align n-uc-cgknxunPWydv2" data-pm="normal" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-cgknxunPWydv2-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow n-uc-IFCiQTYjR0Wx2" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-IFCiQTYjR0Wx2-inner"><div class="n2-ss-layer n2-ow n-uc-uQRZApKMZVxh2" data-pm="normal" data-sstype="layer"><div class=" n2-ss-item-image n2-ss-item-content n2-ow-all"><a href="https://dscc.uic.edu/resources-for-special-needs-families-during-covid-19-outbreak/"><img id="n2-ss-3item5" alt="" class="skip-lazy" loading="lazy" width="550" height="400" data-skip-lazy="1" src="https://dscc.uic.edu/wp-content/uploads/2020/03/WEB-COVID-19-Resources-and-Support-Graphic.png" /></a></div></div><div class="n2-ss-layer n2-ow n-uc-CNcOjDlha5H92" data-pm="normal" data-sstype="layer"><div id="n2-ss-3item6" class="  n2-ss-item-content n2-ss-text n2-ow" style="display:block;"><a class="n2-ow n2-font-8e6ed6fd59e640a08f11fa77fbb7a292-hover n2-style-7544f9a57e0978af1d50c64eba41a0e4-heading " style="display:block;" href="https://dscc.uic.edu/resources-for-special-needs-families-during-covid-19-outbreak/">Resources for Special Needs Families During COVID-19 Outbreak</a></div></div></div></div></div></div></div></div></div></div></div></div>                    </div>
+
+                                    </div>
+            </div>
+        </div>
+        <div class="n2-ss-slider-controls n2-ss-slider-controls-below"><div style="--widget-offset:10px;" class="n2-ss-widget n2-ss-control-bullet n2-ow-all n2-ss-control-bullet-horizontal"><div class=" nextend-bullet-bar n2-bar-justify-content-center"><div class="n2-bullet n2-style-c0fe1c7a37b7b7c3cb83a8d1cde6e7ce-dot " style="visibility:hidden;"></div></div></div></div></div></div><ss3-loader></ss3-loader></div></div><div class="n2_clear"></div></div></div></ss3-force-full-width></div>	
+		</div>
+	</div>
+	
+	<div class="home-news-and-events">
+		<div class="wrap">
+			<div class="home-featured-news">
+				<h2>News</h2>
+				<li class="recent-post"><div class="recent-post-thumbnail"><img width="150" height="150" src="https://dscc.uic.edu/wp-content/uploads/2021/11/istockphoto-865836056-612x612-1-150x150.jpg" class="attachment-150x150 size-150x150 wp-post-image" alt="Santa with his bag and blowing magic snow out of his hand" loading="lazy" /></div><p class="recent-post-title"><a href="https://dscc.uic.edu/santa-making-sensory-friendly-stops-statewide/">Santa Making Sensory-Friendly Stops Statewide</a></p><p class="recent-post-date">November 23, 2021</p><p class="recent-post-excerpt">Free Santa visits for children with autism and other special needs Are you ready for some Santa magic? Autism Speaks has partnered with Cherry Hill...</p></li><li class="recent-post"><div class="recent-post-thumbnail"><img width="150" height="150" src="https://dscc.uic.edu/wp-content/uploads/2021/11/conference-brochure-cropped-for-web-150x150.jpg" class="attachment-150x150 size-150x150 wp-post-image" alt="" loading="lazy" /></div><p class="recent-post-title"><a href="https://dscc.uic.edu/transition-conference-prepares-youth-with-disabilities-for-adulthood/">Transition Conference Prepares Youth With Disabilities for Adulthood</a></p><p class="recent-post-date">November 16, 2021</p><p class="recent-post-excerpt">Families and professionals came together in person and virtually at the annual Stepping Stones of Transition Conference in East Peoria to improve outcomes for transition-age...</p></li><li class="recent-post"><div class="recent-post-thumbnail"><img width="150" height="150" src="https://dscc.uic.edu/wp-content/uploads/2021/10/Parent-to-Parent-Support-Web-Graphic-150x150.png" class="attachment-150x150 size-150x150 wp-post-image" alt="Three hands stacked on top of each other with the text &quot;Parent to Parent Support&quot;" loading="lazy" /></div><p class="recent-post-title"><a href="https://dscc.uic.edu/new-support-group-and-workshop-series-for-home-care-families/">New Support Group and Workshop Series for Home Care Families</a></p><p class="recent-post-date">October 21, 2021</p><p class="recent-post-excerpt">DSCC partners with IL LEND to offer an online space for connection and education for parents and caregivers of Home Care Program participants The University...</p></li>				<div class="home-more-news-button">
+					<a href="/who-we-are/news/" title="More news" class="button">More news &raquo;</a>	
+				</div>
+			</div>
+
+			<div class="home-upcoming-events">
+				<h2>Events</h2>
+				<li class="upcoming-event"><p class="upcoming-event-title"><a href="https://dscc.uic.edu/events/webinar-commonly-used-apps-part-ii-instagram-tiktok/">Webinar - "Commonly Used Apps (Part II): Instagram & TikTok"</a></p><p class="event-upcoming-date">December 2, 2021</p><p class="upcoming-event-content">&nbsp; A free webinar for students and parents on staying safe and avoiding risks when using Instagram and TikTok The Illinois Attorney General's Office's Internet...</p></li><li class="upcoming-event"><p class="upcoming-event-title"><a href="https://dscc.uic.edu/events/childrens-orthopedic-clinic-in-mt-vernon/">Children's Orthopedic Clinic in Mt. Vernon</a></p><p class="event-upcoming-date">December 2, 2021</p><p class="upcoming-event-content">A free orthopedic assessment clinic for children and youth up to age 18 in Mt. Vernon The Illinois Elks Children's Care Program is sponsoring a...</p></li><li class="upcoming-event"><p class="upcoming-event-title"><a href="https://dscc.uic.edu/events/springfield-park-district-special-recreation-december-dance/">Springfield Park District Special Recreation December Dance</a></p><p class="event-upcoming-date">December 3, 2021</p><p class="upcoming-event-content">A free, monthly event open to anyone 8 years old and up who enjoys dancing The Springfield Park District Special Recreation invites individuals with and...</p></li>				<div class="home-more-events-button">
+					<a href="/who-we-are/events/" title="More events" class="button">More events &raquo;</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</main>
+
+	<footer class="main-footer" role="contentinfo">
+			<div class="dscc-footer-notice1 footer-area">
+			<div class="wrap">
+				<p>
+					<span class="call">Call us</span>
+					<span class="phone">(800) 322-3722</span> 
+					<span class="or">or</span> 
+					<a href="https://dscc.uic.edu/find-an-office/contact-us/">Send us an email <span class="arrow">&rsaquo;</span></a>
+				</p>
+			</div>
+		</div>
+
+		<div class="dscc-footer-sidebar footer-area">
+			<div class="wrap">
+			<div class="footer-sidebar dscc-footer-help"><div id="text-2" class="widget footer-here-to-help widget_text"><h2 class="widgettitle">We&#8217;re here to help.</h2>
+			<div class="textwidget"><p>The University of Illinois Chicago’s Division of Specialized Care for Children provides FREE care coordination for families of children with special healthcare needs.</p>
+</div>
+		</div><div id="text-7" class="widget footer-here-to-help widget_text">			<div class="textwidget"><div class="social-media">
+<a class="fb button" href="https://www.facebook.com/dscc.uic.edu">Visit Us on Facebook</a>
+</div></div>
+		</div></div>			<div class="footer-sidebar footer-image-container">
+				<div class="sun"></div>
+				<div class="flower"></div>
+			</div>
+			<div class="footer-sidebar dscc-footer-contact-info"><div id="contact_info_wrapper-3" class="widget footer-contact-info widget_contact_info_wrapper"><div class="dscc-contact-info"><p class="widget-title">Contact Us.</p><dl><dt>P:</dt><dd>(800) 322-3722</dd><dt>F:</dt><dd>(217) 558-0773</dd></dl><p class="business-hours"><span>Hours:</span> M-F, 8:00am-4:30pm</p></div></div><div id="nav_menu-2" class="widget footer-contact-info widget_nav_menu"><div class="menu-quick-contacts-container"><ul id="menu-quick-contacts" class="menu"><li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="https://dscc.uic.edu/find-an-office/request-a-callback/">Request a Callback</a></li>
+<li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="https://dscc.uic.edu/find-an-office/contact-us/">Send us an email</a></li>
+</ul></div></div><div id="text-6" class="widget footer-contact-info widget_text">			<div class="textwidget"></div>
+		</div></div><div class="footer-sidebar dscc-footer-newsletter"><div id="gform_widget-2" class="widget footer-newsletter-signup gform_widget"><p class="widget-title">Get our newsletter.</p><link rel='stylesheet' id='gforms_reset_css-css'  href='https://dscc.uic.edu/wp-content/plugins/gravityforms/legacy/css/formreset.min.css?ver=2.5.15' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_formsmain_css-css'  href='https://dscc.uic.edu/wp-content/plugins/gravityforms/legacy/css/formsmain.min.css?ver=2.5.15' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_ready_class_css-css'  href='https://dscc.uic.edu/wp-content/plugins/gravityforms/legacy/css/readyclass.min.css?ver=2.5.15' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_browsers_css-css'  href='https://dscc.uic.edu/wp-content/plugins/gravityforms/legacy/css/browsers.min.css?ver=2.5.15' type='text/css' media='all' />
+<script type='text/javascript' defer='defer' src='https://dscc.uic.edu/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.5.15' id='gform_json-js'></script>
+<script type='text/javascript' id='gform_gravityforms-js-extra'>
+/* <![CDATA[ */
+var gform_i18n = {"datepicker":{"days":{"monday":"Mon","tuesday":"Tue","wednesday":"Wed","thursday":"Thu","friday":"Fri","saturday":"Sat","sunday":"Sun"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/dscc.uic.edu\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/dscc.uic.edu\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+/* ]]> */
+</script>
+<script type='text/javascript' defer='defer' src='https://dscc.uic.edu/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.5.15' id='gform_gravityforms-js'></script>
+<script type='text/javascript' defer='defer' src='https://www.google.com/recaptcha/api.js?hl=en&#038;ver=5.8.1#038;render=explicit' id='gform_recaptcha-js'></script>
+<script type="text/javascript"></script>
+                <div class='gf_browser_unknown gform_wrapper gform_legacy_markup_wrapper' id='gform_wrapper_2' ><div id='gf_2' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_2' id='gform_2'  action='/#gf_2' >
+                        <div class='gform_body gform-body'><ul id='gform_fields_2' class='gform_fields top_label form_sublabel_below description_below'><li id="field_2_4" class="gfield field_sublabel_below field_description_below gfield_visibility_visible" ><label class='gfield_label' for='input_2_4' >First Name</label><div class='ginput_container ginput_container_text'><input name='input_4' id='input_2_4' type='text' value='' class='small'      aria-invalid="false"   /> </div></li><li id="field_2_5" class="gfield field_sublabel_below field_description_below gfield_visibility_visible" ><label class='gfield_label' for='input_2_5' >Last Name</label><div class='ginput_container ginput_container_text'><input name='input_5' id='input_2_5' type='text' value='' class='small'      aria-invalid="false"   /> </div></li><li id="field_2_2" class="gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible" ><label class='gfield_label' for='input_2_2' >Email<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_2' id='input_2_2' type='text' value='' class='medium'    aria-required="true" aria-invalid="false"  />
+                        </div></li><li id="field_2_6" class="gfield field_sublabel_below field_description_below gfield_visibility_visible" ><label class='gfield_label screen-reader-text' for='input_2_6' ></label><div id='input_2_6' class='ginput_container ginput_recaptcha' data-sitekey='6LdzK-8UAAAAAJPJljhNCdv49KcIpQ7AbC1qV1sc'  data-theme='light' data-tabindex='0'  data-badge=''></div></li><li id="field_2_7" class="gfield gform_validation_container field_sublabel_below field_description_below gfield_visibility_visible" ><label class='gfield_label' for='input_2_7' >Name</label><div class='ginput_container'><input name='input_7' id='input_2_7' type='text' value='' /></div><div class='gfield_description' id='gfield_description_2_7'>This field is for validation purposes and should be left unchanged.</div></li></ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_2' class='gform_button button' value='Submit'  onclick='if(window["gf_submitting_2"]){return false;}  window["gf_submitting_2"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_2"]){return false;} window["gf_submitting_2"]=true;  jQuery("#gform_2").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=2&amp;title=&amp;description=&amp;tabindex=0' />
+            <input type='hidden' class='gform_hidden' name='is_submit_2' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='2' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_2' value='WyJbXSIsIjhhNzAwNTgzMWEzNWNiMTQ4ZTk2ZTM0Zjk5NWFkZmY1Il0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_2' id='gform_target_page_number_2' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_2' id='gform_source_page_number_2' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_2' id='gform_ajax_frame_2' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+                <script type="text/javascript">
+gform.initializeOnLoaded( function() {gformInitSpinner( 2, 'https://dscc.uic.edu/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_2').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_2');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_2').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_2').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_2').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_2').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_2').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_2').val();gformInitSpinner( 2, 'https://dscc.uic.edu/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [2, current_page]);window['gf_submitting_2'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_2').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_2').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [2]);window['gf_submitting_2'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_2').text());}, 50);}else{jQuery('#gform_2').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [2, current_page]);} );} );
+</script>
+</div></div>			</div>
+		</div>
+
+		<div class="dscc-footer-notice2 footer-area">
+			<div class="wrap">
+				<p>USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE <a href="https://dscc.uic.edu/terms-of-use/">TERMS OF USE</a>.</p>
+				<p>&copy; Copyright 2021 The Board of Trustees of the University of Illinois</p>
+			</div>
+		</div>
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+	  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-45852860-1', 'uic.edu');
+  ga('send', 'pageview');
+
+  </script>
+	
+<script type='text/javascript'>
+/* <![CDATA[ */
+r3f5x9JS=escape(document['referrer']);
+hf4N='6500489457f965d56a83ce99d1af2a2f';
+hf4V='f59bbfa431ff9cb80b29a43005ee5f30';
+jQuery(document).ready(function($){var e="#commentform, .comment-respond form, .comment-form, #lostpasswordform, #registerform, #loginform, #login_form, #wpss_contact_form, .gform_wrapper form";$(e).submit(function(){$("<input>").attr("type","hidden").attr("name","r3f5x9JS").attr("value",r3f5x9JS).appendTo(e);return true;});var h="form[method='post']";$(h).submit(function(){$("<input>").attr("type","hidden").attr("name",hf4N).attr("value",hf4V).appendTo(h);return true;});});
+/* ]]> */
+</script> 
+<script type='text/javascript' src='https://dscc.uic.edu/wp-content/themes/dscc_theme/js/script.js?ver=1.0' id='dscc_main_js-js'></script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-content/themes/dscc_theme/js/events.js?ver=1.0' id='dscc_events_js-js'></script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-content/plugins/wp-spamshield/js/jscripts-ftr2-min.js' id='wpss-jscripts-ftr-js'></script>
+<script type='text/javascript' src='https://dscc.uic.edu/wp-includes/js/wp-embed.min.js?ver=5.8.1' id='wp-embed-js'></script>
+<script type="text/javascript">
+gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 2) {} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
+</script>
+<script type="text/javascript">
+gform.initializeOnLoaded( function() { jQuery(document).trigger('gform_post_render', [2, 1]) } );
+</script>
+</body>
+</html>

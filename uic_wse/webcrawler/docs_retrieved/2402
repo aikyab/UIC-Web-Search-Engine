@@ -1,0 +1,211 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta name="googlebot" content="noindex, noarchive, nofollow, nosnippet">
+<meta name="robots" content="noindex, noarchive, nofollow">
+<meta name="slurp" content="noindex, noarchive, nofollow, noodp, noydir">
+<meta name="msnbot" content="noindex, noarchive, nofollow, noodp">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="expires" content="0">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>REDCap</title>
+<link rel="shortcut icon" href="/redcap_v11.4.4/Resources/images/favicon.ico">
+<link rel="apple-touch-icon-precomposed" href="/redcap_v11.4.4/Resources/images/apple-touch-icon.png">
+<link rel="stylesheet" type="text/css" media="screen,print" href="/redcap_v11.4.4/Resources/webpack/css/bundle.css?1637337558"/>
+<link rel="stylesheet" type="text/css" media="screen,print" href="/redcap_v11.4.4/Resources/webpack/css/fontawesome/css/all.min.css?1637337559"/>
+<link rel="stylesheet" type="text/css" media="screen,print" href="/redcap_v11.4.4/Resources/css/messenger.css?1637337485"/>
+<link rel="stylesheet" type="text/css" media="screen,print" href="/redcap_v11.4.4/Resources/css/style.css?1637337485"/>
+<link rel="stylesheet" type="text/css" media="screen,print" href="/redcap_v11.4.4/Resources/css/survey.css?1637337485"/>
+<script type="text/javascript" src="/redcap_v11.4.4/Resources/webpack/js/bundle.js?1637337574"></script>
+<script type="text/javascript" src="/redcap_v11.4.4/Resources/js/Libraries/bundle.js?1637337506"></script>
+<script type="text/javascript" src="/redcap_v11.4.4/Resources/js/base.js?1637337503"></script>
+<script type="text/javascript" src="/redcap_v11.4.4/Resources/js/Libraries/moment.min.js?1637337508"></script>
+<script type="text/javascript" src="/redcap_v11.4.4/Resources/js/Libraries/Chart.bundle.min.js?1637337506"></script>
+<script type="text/javascript" src="/redcap_v11.4.4/Resources/js/Libraries/patternomaly.min.js?1637337508"></script>
+<script type="text/javascript" src="/redcap_v11.4.4/Resources/js/Libraries/Chart.PluginLabels.js?1637337506"></script>
+<script type="text/javascript" src="/redcap_v11.4.4/Resources/js/FontSize.js?1637337504"></script>
+<script type="text/javascript" src="/redcap_v11.4.4/Resources/js/Survey.js?1637337505"></script>
+<script type="text/javascript" src="/redcap_v11.4.4/Resources/js/DataEntrySurveyCommon.js?1637337503"></script>
+</head>
+<body>
+<style type="text/css">
+body * { font-family: Arial !important; }
+</style>
+
+<style type="text/css">
+
+</style>
+	<script type="text/javascript">
+	// Admin privileges
+	var super_user = 0;
+	var super_user_not_impersonator = 0;
+	var admin_rights = '0';
+	var account_manager = '0';
+	var access_system_config = '0';
+	var access_system_upgrade = '0';
+	var access_external_module_install = '0';
+	var access_admin_dashboards = '0';
+		// System values
+	var redcap_version = '11.4.4';
+	var server_name = 'www.redcap.ihrp.uic.edu';
+	var app_path_webroot = '/redcap_v11.4.4/';
+	var app_path_webroot_full = 'https://www.redcap.ihrp.uic.edu/';
+	var app_path_images = '/redcap_v11.4.4/Resources/images/';
+	var page = 'surveys/index.php';
+    var secondary_pk = '';
+	var sendit_enabled = 1;
+	var surveys_enabled = 0;
+	var reports_allow_public = '1';
+	var now = '2021-12-01 23:29:10'; var now_mdy = '12-01-2021 23:29:10'; var now_dmy = '01-12-2021 23:29:10';
+	var today = '2021-12-01'; var today_mdy = '12-01-2021'; var today_dmy = '01-12-2021';
+	var email_domain_allowlist = new Array();
+	var user_date_format_jquery = 'mm/dd/yy';
+	var user_date_format_validation = 'mdy';
+	var user_date_format_delimiter = '/';
+	var csv_delimiter = ',';
+	var ALLOWED_TAGS = '<video><source><caption><canvas><ol><ul><li><label><pre><p><a><br><center><font><b><i><u><h6><h5><h4><h3><h2><h1><hr><table><tbody><tr><th><td><thead><tfoot><img><span><div><em><strong><acronym><sub><sup><map><area>';
+	var AUTOMATE_ALL = '0';
+	var cookie_samesite = 'Lax';
+	var cookie_secure = true;
+		var datatables_disable = [];
+	var langMsg137 = 'NOTICE: It appears that you may have multiple browser windows/tabs open, which may prevent some things from working on this page until this page is refreshed. It is advised that you complete what you are doing, and then refresh this page.';
+	var langMsg68 = '(click to go to project)';
+	var langMsg69 = '(current project)';
+	var langTimepicker01 = 'Now';
+	var langTimepicker02 = 'Time';
+	var langTimepicker03 = 'Hour';
+	var langTimepicker04 = 'Minute';
+	var langTimepicker05 = 'Choose Time';
+	var langAutoLogout01 = 'REDCap Auto Logout Warning';
+	var langAutoLogout02 = 'Log In';
+	var langAutoLogout03 = 'Continue on this page';
+	var warn_timeout1 = 'You will be automatically logged out of REDCap in <b>2 MINUTES</b> due to inactivity. Click the button below to prevent auto logout.';
+	var warn_timeout2 = 'You will be automatically logged out of REDCap in <b>30 SECONDS</b> due to inactivity. Click the button below to prevent auto logout.';
+	var warn_timeout3 = '<b>Due to inactivity, your REDCap session has expired.</b> Click the button below to log in again.';
+    var langOkay = 'Okay';
+    var langCancel = 'Cancel';
+    var langClose = 'Close';
+	var langAlert = 'Alert';
+	var langAceEditorInstr = 'Use the text box below to compose your logic, calculation, action tags, etc. If you need more space, click the Fullscreen Mode button to enlarge the text box. When you are finished, click the \'Update\' button to minimize the Editor window.';
+	var langSmartVars = 'Smart Variables';
+	var langSpecialFunc = 'Special Functions';
+	var langLearnHowToUse = 'Learn how to use';
+	var langAceEditor1 = 'Regular View Mode';
+	var langAceEditor2 = 'Fullscreen Mode';
+	var langAceEditor3 = 'Update & Close Editor';
+	var langAceEditor4 = 'Logic Editor';
+	var langValid = 'Valid';
+	var langSyntaxError = 'Error in syntax';
+	var langValidAccuracy = '(The determination of validity may not be 100% accurate in all contexts.)';
+	var langAceEditor5 = 'Enter new logic here';
+	var langAceEditor6 = 'or open the';
+	var langAceEditor7 = 'Codebook';
+	var fakeObjectTag = 'objectwgp6dw03s1k5zitvv1u0d1hlu0jwrtzyywkvty9vrlbwc3c9';
+	$(function(){
+		$.datepicker.setDefaults({
+			closeText: 'Done',
+			prevText: 'Prev',
+			nextText: 'Next',
+			currentText: 'Today',
+			monthNamesShort:['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
+			dayNames:['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'],
+			dayNamesMin:['Su','Mo','Tu','We','Th','Fr','Sa']
+		});
+	});
+	</script>
+	<div id="working">
+	<img alt="Working..." src="/redcap_v11.4.4/Resources/images/progress_circle.gif"/>
+	&nbsp;Working...
+</div>
+<div id="fade"></div>
+
+	<!-- Add hidden text for slider accessiblity on surveys -->
+	<div id="slider-0means" class="hidden">0% means</div>
+	<div id="slider-50means" class="hidden">50% means</div>
+	<div id="slider-100means" class="hidden">100% means</div>
+
+	<!-- Text used for field validation errors -->
+	<div id="valtext_divs">
+		<div id="valtext_number">This value you provided is not a number. Please try again.</div>
+		<div id="valtext_integer">This value you provided is not an integer. Please try again.</div>
+		<div id="valtext_vmrn">The value entered is not a valid Vanderbilt Medical Record Number (i.e. 4- to 9-digit number, excluding leading zeros). Please try again.</div>
+		<div id="valtext_rangehard">The value you provided must be within the suggested range.</div>
+		<div id="valtext_rangesoft1">The value you provided is outside the suggested range.</div>
+		<div id="valtext_rangesoft2">This value is admissible, but you may wish to double check it.</div>
+		<div id="valtext_time">The value entered must be a time value in the following format HH:MM within the range 00:00-23:59 (e.g., 04:32 or 23:19).</div>
+		<div id="valtext_zipcode">This field must be a 5 or 9 digit U.S. ZIP Code (like 94043). Please re-enter it now.</div>
+		<div id="valtext_phone">This field must be a 10 digit U.S. phone number (like 415 555 1212). Please re-enter it now.</div>
+		<div id="valtext_email">This field must be a valid email address (like joe@user.com). Please re-enter it now.</div>
+		<div id="valtext_regex">The value you provided could not be validated because it does not follow the expected format. Please try again.</div>
+		<div id="valtext_requiredformat">Required format:</div>
+	</div>
+	<!-- Regex used for field validation -->
+	<div id="valregex_divs">
+			<div id="valregex-postalcode_french" datatype="postal_code" label="Code Postal 5 caracteres (France)">/^((0?[1-9])|([1-8][0-9])|(9[0-8]))[0-9]{3}$/</div>
+			<div id="valregex-date_dmy" datatype="date" label="Date (D-M-Y)">/^((29([-\/])02\3(\d{2}([13579][26]|[2468][048]|04|08)|(1600|2[048]00)))|((((0[1-9]|1\d|2[0-8])([-\/])(0[1-9]|1[012]))|((29|30)([-\/])(0[13-9]|1[012]))|(31([-\/])(0[13578]|1[02])))(\11|\15|\18)\d{4}))$/</div>
+			<div id="valregex-date_mdy" datatype="date" label="Date (M-D-Y)">/^((02([-\/])29\3(\d{2}([13579][26]|[2468][048]|04|08)|(1600|2[048]00)))|((((0[1-9]|1[012])([-\/])(0[1-9]|1\d|2[0-8]))|((0[13-9]|1[012])([-\/])(29|30))|((0[13578]|1[02])([-\/])31))(\11|\15|\19)\d{4}))$/</div>
+			<div id="valregex-date_ymd" datatype="date" label="Date (Y-M-D)">/^(((\d{2}([13579][26]|[2468][048]|04|08)|(1600|2[048]00))([-\/])02(\6)29)|(\d{4}([-\/])((0[1-9]|1[012])(\9)(0[1-9]|1\d|2[0-8])|((0[13-9]|1[012])(\9)(29|30))|((0[13578]|1[02])(\9)31))))$/</div>
+			<div id="valregex-datetime_dmy" datatype="datetime" label="Datetime (D-M-Y H:M)">/^((29([-\/])02\3(\d{2}([13579][26]|[2468][048]|04|08)|(1600|2[048]00)))|((((0[1-9]|1\d|2[0-8])([-\/])(0[1-9]|1[012]))|((29|30)([-\/])(0[13-9]|1[012]))|(31([-\/])(0[13578]|1[02])))(\11|\15|\18)\d{4})) (\d|[0-1]\d|[2][0-3]):[0-5]\d$/</div>
+			<div id="valregex-datetime_mdy" datatype="datetime" label="Datetime (M-D-Y H:M)">/^((02([-\/])29\3(\d{2}([13579][26]|[2468][048]|04|08)|(1600|2[048]00)))|((((0[1-9]|1[012])([-\/])(0[1-9]|1\d|2[0-8]))|((0[13-9]|1[012])([-\/])(29|30))|((0[13578]|1[02])([-\/])31))(\11|\15|\19)\d{4})) (\d|[0-1]\d|[2][0-3]):[0-5]\d$/</div>
+			<div id="valregex-datetime_ymd" datatype="datetime" label="Datetime (Y-M-D H:M)">/^(((\d{2}([13579][26]|[2468][048]|04|08)|(1600|2[048]00))([-\/])02(\6)29)|(\d{4}([-\/])((0[1-9]|1[012])(\9)(0[1-9]|1\d|2[0-8])|((0[13-9]|1[012])(\9)(29|30))|((0[13578]|1[02])(\9)31)))) (\d|[0-1]\d|[2][0-3]):[0-5]\d$/</div>
+			<div id="valregex-datetime_seconds_dmy" datatype="datetime_seconds" label="Datetime w/ seconds (D-M-Y H:M:S)">/^((29([-\/])02\3(\d{2}([13579][26]|[2468][048]|04|08)|(1600|2[048]00)))|((((0[1-9]|1\d|2[0-8])([-\/])(0[1-9]|1[012]))|((29|30)([-\/])(0[13-9]|1[012]))|(31([-\/])(0[13578]|1[02])))(\11|\15|\18)\d{4})) (\d|[0-1]\d|[2][0-3])(:[0-5]\d){2}$/</div>
+			<div id="valregex-datetime_seconds_mdy" datatype="datetime_seconds" label="Datetime w/ seconds (M-D-Y H:M:S)">/^((02([-\/])29\3(\d{2}([13579][26]|[2468][048]|04|08)|(1600|2[048]00)))|((((0[1-9]|1[012])([-\/])(0[1-9]|1\d|2[0-8]))|((0[13-9]|1[012])([-\/])(29|30))|((0[13578]|1[02])([-\/])31))(\11|\15|\19)\d{4})) (\d|[0-1]\d|[2][0-3])(:[0-5]\d){2}$/</div>
+			<div id="valregex-datetime_seconds_ymd" datatype="datetime_seconds" label="Datetime w/ seconds (Y-M-D H:M:S)">/^(((\d{2}([13579][26]|[2468][048]|04|08)|(1600|2[048]00))([-\/])02(\6)29)|(\d{4}([-\/])((0[1-9]|1[012])(\9)(0[1-9]|1\d|2[0-8])|((0[13-9]|1[012])(\9)(29|30))|((0[13578]|1[02])(\9)31)))) (\d|[0-1]\d|[2][0-3])(:[0-5]\d){2}$/</div>
+			<div id="valregex-email" datatype="email" label="Email">/^(?!\.)((?!.*\.{2})[a-zA-Z0-9\u0080-\u02AF\u0300-\u07FF\u0900-\u18AF\u1900-\u1A1F\u1B00-\u1B7F\u1D00-\u1FFF\u20D0-\u214F\u2C00-\u2DDF\u2F00-\u2FDF\u2FF0-\u2FFF\u3040-\u319F\u31C0-\uA4CF\uA700-\uA71F\uA800-\uA82F\uA840-\uA87F\uAC00-\uD7AF\uF900-\uFAFF!#$%&'*+\-/=?^_`{|}~\d]+)(\.[a-zA-Z0-9\u0080-\u02AF\u0300-\u07FF\u0900-\u18AF\u1900-\u1A1F\u1B00-\u1B7F\u1D00-\u1FFF\u20D0-\u214F\u2C00-\u2DDF\u2F00-\u2FDF\u2FF0-\u2FFF\u3040-\u319F\u31C0-\uA4CF\uA700-\uA71F\uA800-\uA82F\uA840-\uA87F\uAC00-\uD7AF\uF900-\uFAFF!#$%&'*+\-/=?^_`{|}~\d]+)*@(?!\.)([a-zA-Z0-9\u0080-\u02AF\u0300-\u07FF\u0900-\u18AF\u1900-\u1A1F\u1B00-\u1B7F\u1D00-\u1FFF\u20D0-\u214F\u2C00-\u2DDF\u2F00-\u2FDF\u2FF0-\u2FFF\u3040-\u319F\u31C0-\uA4CF\uA700-\uA71F\uA800-\uA82F\uA840-\uA87F\uAC00-\uD7AF\uF900-\uFAFF\-\.\d]+)((\.([a-zA-Z\u0080-\u02AF\u0300-\u07FF\u0900-\u18AF\u1900-\u1A1F\u1B00-\u1B7F\u1D00-\u1FFF\u20D0-\u214F\u2C00-\u2DDF\u2F00-\u2FDF\u2FF0-\u2FFF\u3040-\u319F\u31C0-\uA4CF\uA700-\uA71F\uA800-\uA82F\uA840-\uA87F\uAC00-\uD7AF\uF900-\uFAFF]){2,63})+)$/i</div>
+			<div id="valregex-integer" datatype="integer" label="Integer">/^[-+]?\b\d+\b$/</div>
+			<div id="valregex-alpha_only" datatype="text" label="Letters only">/^[a-z]+$/i</div>
+			<div id="valregex-mrn_10d" datatype="mrn" label="MRN (10 digits)">/^\d{10}$/</div>
+			<div id="valregex-mrn_generic" datatype="mrn" label="MRN (generic)">/^[a-z0-9-_]+$/i</div>
+			<div id="valregex-number" datatype="number" label="Number">/^[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?$/</div>
+			<div id="valregex-number_1dp_comma_decimal" datatype="number_comma_decimal" label="Number (1 decimal place - comma as decimal)">/^-?\d+,\d$/</div>
+			<div id="valregex-number_1dp" datatype="number" label="Number (1 decimal place)">/^-?\d+\.\d$/</div>
+			<div id="valregex-number_2dp_comma_decimal" datatype="number_comma_decimal" label="Number (2 decimal places - comma as decimal)">/^-?\d+,\d{2}$/</div>
+			<div id="valregex-number_2dp" datatype="number" label="Number (2 decimal places)">/^-?\d+\.\d{2}$/</div>
+			<div id="valregex-number_3dp_comma_decimal" datatype="number_comma_decimal" label="Number (3 decimal places - comma as decimal)">/^-?\d+,\d{3}$/</div>
+			<div id="valregex-number_3dp" datatype="number" label="Number (3 decimal places)">/^-?\d+\.\d{3}$/</div>
+			<div id="valregex-number_4dp_comma_decimal" datatype="number_comma_decimal" label="Number (4 decimal places - comma as decimal)">/^-?\d+,\d{4}$/</div>
+			<div id="valregex-number_4dp" datatype="number" label="Number (4 decimal places)">/^-?\d+\.\d{4}$/</div>
+			<div id="valregex-number_comma_decimal" datatype="number_comma_decimal" label="Number (comma as decimal)">/^[-+]?[0-9]*,?[0-9]+([eE][-+]?[0-9]+)?$/</div>
+			<div id="valregex-phone_australia" datatype="phone" label="Phone (Australia)">/^(\(0[2-8]\)|0[2-8])\s*\d{4}\s*\d{4}$/</div>
+			<div id="valregex-phone" datatype="phone" label="Phone (North America)">/^(?:\(?([2-9]0[1-9]|[2-9]1[02-9]|[2-9][2-9][0-9]|800|811)\)?)\s*(?:[.-]\s*)?([2-9]1[02-9]|[2-9][02-9]1|[2-9][02-9]{2})\s*(?:[.-]\s*)?([0-9]{4})(?:\s*(?:#|x\.?|ext\.?|extension)\s*(\d+))?$/</div>
+			<div id="valregex-postalcode_australia" datatype="postal_code" label="Postal Code (Australia)">/^\d{4}$/</div>
+			<div id="valregex-postalcode_canada" datatype="postal_code" label="Postal Code (Canada)">/^[ABCEGHJKLMNPRSTVXY]{1}\d{1}[A-Z]{1}\s*\d{1}[A-Z]{1}\d{1}$/i</div>
+			<div id="valregex-postalcode_germany" datatype="postal_code" label="Postal Code (Germany)">/^(0[1-9]|[1-9]\d)\d{3}$/</div>
+			<div id="valregex-ssn" datatype="ssn" label="Social Security Number (U.S.)">/^\d{3}-\d\d-\d{4}$/</div>
+			<div id="valregex-time" datatype="time" label="Time (HH:MM)">/^([0-9]|[0-1][0-9]|[2][0-3]):([0-5][0-9])$/</div>
+			<div id="valregex-time_mm_ss" datatype="time" label="Time (MM:SS)">/^[0-5]\d:[0-5]\d$/</div>
+			<div id="valregex-vmrn" datatype="mrn" label="Vanderbilt MRN">/^[0-9]{4,9}$/</div>
+			<div id="valregex-zipcode" datatype="postal_code" label="Zipcode (U.S.)">/^\d{5}(-\d{4})?$/</div>
+		</div>
+	<div id="random_text_hidden_div" style="display:none;">zdddmt3RLBsaUbLRDaAUAhgXX2DIjARMFasuafMYfEetMRWXpqdpu7mBXFzMjcVELdi6YqQoSqz3YVgASt3rRzBVs9xmfozMTKCv</div>
+<div id="pagecontainer" class="container-fluid" role="main"><div id="container"><div id="pagecontent"><div style='margin:10px;'><div style='margin:30px 0 0;line-height: 1.5em;'><form id="survey_code_form" style="font-weight:bold;margin:0 0 10px;font-size:16px;" action="/surveys/index.php" enctype="multipart/form-data" target="_self" method="post">
+	<div style="margin:-32px 0 5px;text-align:right;">
+		<a href="https://projectredcap.org/" target="_blank"><img src="/redcap_v11.4.4/Resources/images/redcap-logo-small.png"/>
+		</a>
+	</div>
+	<div>
+		Please enter your access code to begin the survey<input name="code" maxlength="20" class="x-form-text x-form-field" style="margin:0 4px 0 10px;font-size:16px;width:120px;padding:4px 6px;" type="text"/>
+		<button class="jqbutton" onclick="
+									var ob = $(&#039;input[name=&quot;code&quot;]&#039;);
+									ob.val( trim(ob.val()) );
+									if (ob.val() == &#039;&#039;) {
+										simpleDialog(&#039;Please enter the survey access code given to you.&#039;);
+										return false;
+									}
+									$(&#039;#survey_code_form&#039;).submit();
+								">Submit</button>
+	</div>
+	<div style="font-size:14px;font-weight:normal;color:#777;margin-top:30px;margin-bottom:50px;">Please note that the access code is *not* case sensitive.</div>
+</form>
+<style type='text/css'>
+				#footer { display:none; }
+				</style>
+				<script type='text/javascript'>
+				$(function(){
+					$('input[name="code"]').focus();
+				});
+				</script></div></div></div></div><div id="footer" class="d-none d-sm-block col-md-12" aria-hidden="true"><a href="https://projectredcap.org" tabindex="-1" target="_blank">Powered by REDCap</a></div></div></body></html>

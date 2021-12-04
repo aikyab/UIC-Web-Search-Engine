@@ -62,13 +62,13 @@ def cosine_similarity(top_n,webpages_tokens,query_tokens,df,urls):
     values = list(cosine_sim.values())
     vals = [-val for val in values]
     heapq.heapify(vals)
-    top_most = []
+    top_most = set()
     # print(abs(-heapq.heappop(vals)))
     for _ in range(top_n):
         top = abs(-heapq.heappop(vals))
         index_page = values.index(top)
         if urls.get(int(keys[index_page])):
-            top_most.append(urls.get(int(keys[index_page])))
+            top_most.add(urls.get(int(keys[index_page])))
 
     return top_most
 

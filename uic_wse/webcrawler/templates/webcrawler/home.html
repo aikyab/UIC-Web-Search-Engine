@@ -23,19 +23,25 @@
     <table>
         <thead>
             <tr>
-                <td>Link</td>
+                <td><h3>-- Search Results --</h3></td>
             </tr>
         </thead>
+        <br />
         <tbody>
             {% for link in links %}
             <tr>
-                <td>{{link}}</td>
+                <td>
+                    <b><a href={{link}}>{{link}}</a></b>
+                </td>
             </tr>
             {% endfor %}
         </tbody>
     </table>
+    <br />
+    <a class="button" href="{% url 'home' %}">Back</a>
     {% else %}
-    <h1>Please enter your search query.</h1>
+    <h1>Hi, I'm Aikya, Welcome to the UIC Search Engine!</h1>
+    <h3>Please enter your search query on the top right search bar.</h3>
     {% endif %}
 </body>
 </html>

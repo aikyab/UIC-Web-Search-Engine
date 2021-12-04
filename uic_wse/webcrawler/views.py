@@ -9,11 +9,11 @@ def home(request):
         }
 
     if request.method == "POST":
-        query = request.POST.get("search-query")    
+        query = request.POST.get("search-query")   
+
         # query = "College of Pharmacy"
 
         links = search_engine.return_links(query)
-
         context = {
             'links' : links
         }

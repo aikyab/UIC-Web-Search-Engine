@@ -2,7 +2,6 @@
 from collections import defaultdict
 from collections import Counter
 import math
-import os
 import pickle
 import re
 from nltk.stem import PorterStemmer
@@ -101,11 +100,12 @@ def return_links(query):
     with open(file1, "rb") as f:
         urls = pickle.load(f)
 
-    
-    links = cosine_similarity(7,webpages_tokens,query_tokens,df,urls)
+    links = cosine_similarity(15,webpages_tokens,query_tokens,df,urls)
 
 
     return links
+
+
 
 
 

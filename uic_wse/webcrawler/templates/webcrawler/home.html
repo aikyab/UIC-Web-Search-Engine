@@ -18,19 +18,19 @@
             <input type="text" placeholder="Search.." name="search-query">
         </form>
         
-    </div>
+    </div class="center">
     {% if links %}
-    <table>
+    <table style="border:1px solid black;padding: 50px;margin-left:auto;margin-right:auto;">
         <thead>
             <tr>
-                <td><h3>-- Search Results --</h3></td>
+                <td style="text-align:center"><h3>-- {{query}} - {{num_links}} results found ({{time_taken}} seconds)--</h3></td>
             </tr>
         </thead>
         <br />
         <tbody>
             {% for link in links %}
             <tr>
-                <td>
+                <td style="text-align:center">
                     <b><a href={{link}}>{{link}}</a></b>
                 </td>
             </tr>
@@ -38,7 +38,12 @@
         </tbody>
     </table>
     <br />
-    <a class="button" href="{% url 'home' %}">Back</a>
+    <!-- <a class="button" href="{% url 'home' %}">Back</a> -->
+    <form>
+        <div style="text-align:center">
+            <input style="height:40px;width:60px" type="button" value="BACK" onclick="history.back()">
+        </div>
+    </form>
     {% else %}
     <h1>Hi, I'm Aikya, Welcome to the UIC Search Engine!</h1>
     <h3>Please enter your search query on the top right search bar.</h3>

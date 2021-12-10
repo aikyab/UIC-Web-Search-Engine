@@ -105,9 +105,9 @@ inverted_index = df_calc(webpage_tokens)
 current_path = pathlib.Path(__file__)
 pickle_folder = current_path.parent / "pickle_files"
 
-webpage_tokens_pickle = pickle_folder / "3000_webpages_tokens.pickle"
+webpage_tokens_pickle = pickle_folder / "6000_webpages_tokens.pickle"
 
-inverted_index_pickle = pickle_folder / "3000_inverted_index.pickle"
+inverted_index_pickle = pickle_folder / "6000_inverted_index.pickle"
 
 with open(webpage_tokens_pickle, "wb") as f:
     pickle.dump(webpage_tokens, f)

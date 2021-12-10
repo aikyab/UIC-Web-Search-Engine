@@ -10,7 +10,7 @@ domain = "uic.edu"
 start_url = "https://cs.uic.edu"
 
 current_path = pathlib.Path(__file__)
-pages_folder = current_path.parent.parent / "uic_wse" / "webcrawler" / "new_docs"
+pages_folder = current_path.parent.parent / "uic_wse" / "webcrawler" / "docs_retrieved"
 
 skip_exts = [
     ".shtml",
@@ -130,5 +130,5 @@ pickle_folder = current_path.parent.parent / "uic_wse" / "webcrawler" / "pickle_
 
 os.makedirs(pickle_folder, exist_ok=True)
 
-with open(pickle_folder / "3000_pages_crawled.pickle", "wb") as f:
+with open(pickle_folder / "6000_pages_crawled.pickle", "wb") as f:
     pickle.dump(pages_crawled, f)

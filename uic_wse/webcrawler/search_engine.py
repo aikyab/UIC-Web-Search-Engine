@@ -62,13 +62,13 @@ def cosine_similarity(top_n,webpages_tokens,query_tokens,df,urls):
     values = list(cosine_sim.values())
     vals = [-val for val in values]
     heapq.heapify(vals)
-    top_most = set()
+    top_most = []
     # print(abs(-heapq.heappop(vals)))
     for _ in range(top_n):
         top = abs(-heapq.heappop(vals))
         index_page = values.index(top)
         if urls.get(int(keys[index_page])):
-            top_most.add(urls.get(int(keys[index_page])))
+            top_most.append(urls.get(int(keys[index_page])))
 
     return top_most
 
@@ -77,9 +77,9 @@ def return_links(query):
 
     current_path = pathlib.Path(__file__)
     pickel_folder = current_path.parent / "pickle_files"
-    file1 = pickel_folder / "3000_pages_crawled.pickle"
-    file2 = pickel_folder / "3000_inverted_index.pickle"
-    file3 = pickel_folder / "3000_webpages_tokens.pickle"
+    file1 = pickel_folder / "6000_pages_crawled.pickle"
+    file2 = pickel_folder / "6000_inverted_index.pickle"
+    file3 = pickel_folder / "6000_webpages_tokens.pickle"
 
     webpages_tokens = {}
     urls = {}
@@ -100,7 +100,7 @@ def return_links(query):
     with open(file1, "rb") as f:
         urls = pickle.load(f)
 
-    links = cosine_similarity(15,webpages_tokens,query_tokens,df,urls)
+    links = cosine_similarity(10,webpages_tokens,query_tokens,df,urls)
 
 
     return links

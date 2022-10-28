@@ -30,7 +30,8 @@ For windows--
 Install dependencies
 	cd uic_wse/	
  
-You can double check if the requirements.txt file exists in this folder then run the below command:
+You can double check if the requirements.txt file exists in this folder then run the below command-
+	
 	pip install -r requirements.txt
 
 Finally run the project using the below command
